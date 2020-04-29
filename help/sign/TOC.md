@@ -14,5 +14,5 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + [Overview](overview.md)
 + Hello this is an example {#test}
   + [test1](test1.md)
-  + [test2](test2.md)/
+  + [test2](test2.md)
   + [Build a custom workflow](build-custom-workflow.md)
