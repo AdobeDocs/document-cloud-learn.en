@@ -9,6 +9,8 @@ Welcome to the [!DNL Sign] Tutorials Site.  Using these tutorials along with the
 
 MORE...
 
+this is a new note
+
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
 -->
