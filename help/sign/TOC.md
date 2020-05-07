@@ -16,3 +16,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [test1](test1.md)
   + [test2](test2.md)
   + [Build a custom workflow](build-custom-workflow.md)
++ Getting Started {#getting-started}
+  + [Send to a Single Recipient](send-to-single-recipient.md)
++ Use Case Showcase {#use-case}
+  + [Financial Services](financial-services.md)
