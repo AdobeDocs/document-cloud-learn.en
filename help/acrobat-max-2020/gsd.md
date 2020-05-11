@@ -17,8 +17,45 @@ In this session, you’ll explore new features and best practices with Patti Sok
 
 [![image](assets/fullfirstpage.png)](assets/GSD_2019_Handout.pdf)
 
+## Lessons (basic bullet list)
 
 * [Lesson1](assets/01_Review.zip)
 * [Lesson2](assets/02_SendTrack.zip)
 * [Lesson3](assets/03_FillSignScan.zip)
 
+## Lessons (cards in table)
+
+<table>
+<tr>
+  <td>
+    <a href="assets/01_Review.zip">
+    <img alt="Lead" src="assets/01_Review.png"/>
+    </a>
+    <div>
+    <a href="assets/01_Review.zip"><strong>Lesson 1</strong></a>
+    </div>
+    <em>Download 01_Review.zip</em>
+    <br>
+  </td>
+  <td>
+    <a href="assets/02_SendTrack.zip">
+      <img alt="Infrequent" src="assets/02_SendTrack.png">
+    </a>
+    <div>
+    <a href="assets/02_SendTrack.zip"><strong>Lesson 2</strong></a>
+    </div>
+    <em>Download 02_SendTrack.zip</em>
+    <br>
+  </td>
+  <td>
+    <a href="assets/03_FillSignScan.zip">
+      <img alt="Validation" src="assets/03_FillSignScan.png">
+    </a>
+    <div>
+    <a href="assets/03_FillSignScan.zip"><strong>Lesson 3</strong></a>
+    </div>
+    <em>Download 03_FillSignScan.zip</em>
+    <br>
+  </td>
+</tr>
+</table>
