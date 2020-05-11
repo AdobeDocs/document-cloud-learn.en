@@ -12,7 +12,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 # Acrobat DC MAX Lab{#maxlab}
 
 + [Overview](overview.md)
-+ Get Sh*t Done with Acrobat DC{#usecases}
++ Use Cases {#usecases}
   + [Get Sh*t Done with Acrobat DC](gsd.md)
 
 
