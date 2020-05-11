@@ -29,7 +29,7 @@ In this session, you’ll explore new features and best practices with Patti Sok
 <tr>
   <td>
     <a href="assets/01_Review.zip">
-    <img alt="Lead" src="assets/01_Review.png"/>
+    <img alt="Lead" src="assets/01_Reviewthumb.png"/>
     </a>
     <div>
     <a href="assets/01_Review.zip"><strong>Lesson 1</strong></a>
@@ -39,7 +39,7 @@ In this session, you’ll explore new features and best practices with Patti Sok
   </td>
   <td>
     <a href="assets/02_SendTrack.zip">
-      <img alt="Infrequent" src="assets/02_SendTrack.png">
+      <img alt="Infrequent" src="assets/02_SendTrackthumb.png">
     </a>
     <div>
     <a href="assets/02_SendTrack.zip"><strong>Lesson 2</strong></a>
@@ -49,7 +49,7 @@ In this session, you’ll explore new features and best practices with Patti Sok
   </td>
   <td>
     <a href="assets/03_FillSignScan.zip">
-      <img alt="Validation" src="assets/03_FillSignScan.png">
+      <img alt="Validation" src="assets/03_FillSignScanthumb.png">
     </a>
     <div>
     <a href="assets/03_FillSignScan.zip"><strong>Lesson 3</strong></a>
