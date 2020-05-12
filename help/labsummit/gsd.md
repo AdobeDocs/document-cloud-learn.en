@@ -6,8 +6,7 @@ sub-product: Adobe Doc Cloud Lab
 
 # Getting Sh*t Done with Acrobat DC
 
-Get Shit Done with Adobe Document Cloud {#adobe-doccloud-lab}
-
+Get Shit Done with Adobe Document Cloud {#dclab}
 
 [![image](assets/fullfirstpage.png)](assets/GSD_2019_Handout.pdf)
 

@@ -15,13 +15,13 @@ Here are the [demo files](assets/01_Review.zip) for this exercise.
 
 ## Send personalized invitations for commenting
 
-**Step 1:** Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
+Step 1: Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
 
 ![Step 1 image](assets/Step1.png)
 
-**Step 2:** Click on “Send for Comments” in the right-hand panel or the "Share This File With Others" ![commentsicon](assets/sendforcommentsicon.png)  icon at the top right corner. 
+ Step 2: Click on “Send for Comments” in the right-hand panel or the "Share This File With Others" ![commentsicon](assets/sendforcommentsicon.png)  icon at the top right corner. 
 
-**Step 3:** Enter the email addresses of the recipients. You have the option of entering a message to the recipients and/or adding a deadline for review.
+Step 3:Enter the email addresses of the recipients. You have the option of entering a message to the recipients and/or adding a deadline for review.
 
 ![Step 2C image](assets/Step2C.png)
 
@@ -55,12 +55,21 @@ Step 6: Save the file with your comments.
 ## Import comments from PDF and integrate directly into InDesign.
 
 Step 1: Download the PDF file that contains the comments.
+
 Step 2: Open your InDesign file.
+
 Step 3: Select “File” from the top menu. 
-Step 4: Select “Import PDF Comments”.
-Step 5: Open the PDF that contains the comments. 
 
 ![PDF Comments in Indd](assets/inddpdf.png)
+
+Step 4: Select “Import PDF Comments” from the dropdown.
+
+Step 5: Open the PDF that contains the comments. 
+
+
+![PDF Comments in Indd](assets/inddpdfshown.png)
+
+Comments will appear in the UI.
 
 
 ## Takeaway
