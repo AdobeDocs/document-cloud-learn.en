@@ -19,5 +19,6 @@ Send personalized invitations for commenting
 
 Step 1: Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
 
-[![image](assets/step1.png)
+![Step 1](assets/step1.png)
+
 
