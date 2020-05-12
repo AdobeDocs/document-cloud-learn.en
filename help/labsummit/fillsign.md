@@ -7,11 +7,17 @@ sub-product: Fill and Sign
 # Fill and sign any form—on desktop or mobile.
 
 
+Here are the [demo files](assets/02_SendTrack.zip) for this exercise. 
+
+Fill & Sign App
+
+Step 1:	Download the Adobe Fill & Sign app from the Apple App store or Google Play.
+
+Step 2: Open the app, and tap “Select a form to fill out”. Then tap “Take a Picture” to capture an image.
 
 
 
-
-![Doc on Mobile](assets/docmobile.png)
+![Uploaddoc](assets/mobilescan.jpg)
 
 
 

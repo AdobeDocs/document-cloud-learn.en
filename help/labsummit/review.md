@@ -25,6 +25,10 @@ Step 3:Enter the email addresses of the recipients. You have the option of enter
 
 ![Step 2C image](assets/Step2C.png)
 
+You will receive an email notice once recipients have viewed your file.
+
+![Delivery receipt image](assets/deliveryReceipt_Track.png)
+
 ## Reviewer Experience
 
 The reviewers receive an email invitation with a link to the review PDF. When they click the link or the Review button in the invitation, the PDF opens in a web browser. They can use the commenting tools to add comments to the PDF. They can also use Acrobat Reader DC or Acrobat DC desktop applications to add comments. 
@@ -39,6 +43,8 @@ Step 2: Click the "Share A Link" icon ![linkicon](assets/sendlinkicon.png). The 
 
 Step 3: Click "Copy Link" and share the link with the recipients.
 
+
+
 ## Making Comments
 
 Step 1: Select the “Comment” button on the right-hand panel.
@@ -50,7 +56,6 @@ Step 5: Use the top ribbon tools to make any comment.
 ![comment ui](assets/commentsui.png)
 
 Step 6: Save the file with your comments.
-
 
 ## Import comments from PDF and integrate directly into InDesign.
 
@@ -66,11 +71,9 @@ Step 4: Select “Import PDF Comments” from the dropdown.
 
 Step 5: Open the PDF that contains the comments. 
 
-
 ![PDF Comments in Indd](assets/inddpdfshown.png)
 
 Comments will appear in the UI.
-
 
 ## Takeaway
 
