@@ -9,7 +9,7 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 ---
 
-# Lab 719
+# Lab 719 {#lab719}
 
 + [Lab Overview and Introduction](overview.md)
 + Get Sh*t Done with Acrobat DC{#adobe-doccloud-lab}
