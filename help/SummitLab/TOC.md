@@ -9,10 +9,13 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 ---
 
-# Lab 719{#lab719}
+# Lab 719
 
 + [Lab Overview and Introduction](overview.md)
 + Get Sh*t Done with Acrobat DC{#adobe-doccloud-lab}
-  + [Get Sh*t Done with Acrobat DC](gsd.md)
-
+ + Exercise One
+ + Exercise Two
+ + Exercise Three
+ + Ex. 4: Speed Feedback(speedfeedback.md)
+ + Conclusion
 
