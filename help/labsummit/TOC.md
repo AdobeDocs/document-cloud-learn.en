@@ -12,7 +12,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 # Lab 719 {#lab719}
 
 + [Lab Overview and Introduction](overview.md)
-+ Get Sh*t Done with Acrobat DC(gsd.md)
++ Get Sh*t Done with Acrobat DC {#dc-lab}
  + [Ex. 4: Speed Feedback](speedfeedback.md)
 
 
