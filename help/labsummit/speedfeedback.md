@@ -8,9 +8,8 @@ sub-product: Speed Feedback
 
 Use the Adobe Document Cloud review service to easily share PDF files for review from Acrobat DC desktop application, the Document Cloud web, or Acrobat Reader mobile app. When reviewers click the URL in the email invitation from their computer, they can easily provide their feedback in a browser without having to sign in or install any additional software.
 
-
- * Send personalized invitations for commenting
- * Send an anonymous or public link in an email
+* Send personalized invitations for commenting
+* Send an anonymous or public link in an email
 
 Here are the [demo files](assets/01_Review.zip) for this exercise. 
 
