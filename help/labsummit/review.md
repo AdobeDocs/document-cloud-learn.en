@@ -26,6 +26,7 @@ Here are the [demo files](assets/01_Review.zip) for this exercise.
 ![Step 2C image](assets/Step2C.png)
 
 ## Reviewer Experience
+
 The reviewers receive an email invitation with a link to the review PDF. When they click the link or the Review button in the invitation, the PDF opens in a web browser. They can use the commenting tools to add comments to the PDF. They can also use Acrobat Reader DC or Acrobat DC desktop applications to add comments. 
 
 ## Send an anonymous or public link in an email
@@ -63,6 +64,7 @@ Step 5: Open the PDF that contains the comments.
 
 
 ## Takeaway
+
  Review and share design versions with Acrobat. Acrobat allows you to,
 
 * Send a link to a PDF for others to review. 
