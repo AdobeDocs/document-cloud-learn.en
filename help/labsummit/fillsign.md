@@ -15,11 +15,7 @@ Step 1:	Download the Adobe Fill & Sign app from the Apple App store or Google Pl
 
 Step 2: Open the app, and tap “Select a form to fill out”. Then tap “Take a Picture” to capture an image.
 
-
-
 ![Uploaddoc](assets/mobilescan.jpg)
-
-
 
 * Save commonly used data—Sensei detects field types.
 * Sign it your way—draw or type.
