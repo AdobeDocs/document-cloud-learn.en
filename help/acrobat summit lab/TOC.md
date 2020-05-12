@@ -9,10 +9,11 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 ---
 
-# Acrobat DC MAX Lab{#maxlab}
+# Lab 719{#lab719}
 
 + [Overview](overview.md)
-+ Use Cases {#usecases}
++ Lab Overview and Introduction{#overview} 
++ Get Sh*t Done with Acrobat DC{#adobe-doccloud-lab}
   + [Get Sh*t Done with Acrobat DC](gsd.md)
 
 
