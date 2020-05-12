@@ -47,7 +47,7 @@ Step 1: Select the “Comment” button on the right-hand panel.
 
 Step 5: Use the top ribbon tools to make any comment.
 
-![comment ui](commentsui.png)
+![comment ui](assets/commentsui.png)
 
 Step 6: Save the file with your comments.
 
@@ -60,7 +60,7 @@ Step 3: Select “File” from the top menu.
 Step 4: Select “Import PDF Comments”.
 Step 5: Open the PDF that contains the comments. 
 
-![PDF Comments in Indd](inddpdf.png)
+![PDF Comments in Indd](assets/inddpdf.png)
 
 
 ## Takeaway
