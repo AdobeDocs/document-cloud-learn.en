@@ -19,7 +19,7 @@ Here are the [demo files](assets/01_Review.zip) for this exercise.
 
 ![Step 1 image](assets/Step1.png)
 
-**Step 2:** Click on “Send for Comments” in the right-hand panel or the "Share This File With Others" ![commentsicon](sendforcommentsicon.png)  icon at the top right corner. 
+**Step 2:** Click on “Send for Comments” in the right-hand panel or the "Share This File With Others" ![commentsicon](assets/sendforcommentsicon.png)  icon at the top right corner. 
 
 **Step 3:** Enter the email addresses of the recipients. You have the option of entering a message to the recipients and/or adding a deadline for review.
 
