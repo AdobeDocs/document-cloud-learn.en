@@ -11,9 +11,9 @@ sub-product: Use Case
 
 ## Lessons (basic bullet list)
 
-* [Lesson1](assets/01_Review.zip)
-* [Lesson2](assets/02_SendTrack.zip)
-* [Lesson3](assets/03_FillSignScan.zip)
+* [Review](assets/01_Review.zip)
+* [Send & Track](assets/02_SendTrack.zip)
+* [Fill, Sign, and Scan](assets/03_FillSignScan.zip)
 
 ## Lessons (cards in table)
 
