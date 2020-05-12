@@ -1,7 +1,7 @@
 ---
 title: Getting Sh*t Done with Acrobat DC
 description: Learn some tricks and tips for using Acrobat DC
-sub-product: Use Case
+sub-product: Adobe Doc Cloud Lab
 ---
 
 # Getting Sh*t Done with Acrobat DC

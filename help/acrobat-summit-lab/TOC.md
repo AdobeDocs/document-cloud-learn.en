@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat DC MAX Lab
+user-guide-title: Lab 719
 solution: Adobe Acrobat
 solution-title: Acrobat Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -11,8 +11,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 
 # Lab 719{#lab719}
 
-+ [Overview](overview.md)
-+ Lab Overview and Introduction{#overview} 
++ [Lab Overview and Introduction](overview.md){#overview} 
 + Get Sh*t Done with Acrobat DC{#adobe-doccloud-lab}
   + [Get Sh*t Done with Acrobat DC](gsd.md)
 
