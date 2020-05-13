@@ -1,6 +1,6 @@
 ---
-title: Getting Sh*t Done with Acrobat DC
-description: Learn some tricks and tips for using Acrobat DC
+title: Getting Sh*t Done with Adobe Document Cloud
+description: Learn some tricks and tips for using Adobe Document Cloud
 sub-product: Fill and Sign
 ---
 

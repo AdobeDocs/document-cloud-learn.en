@@ -1,10 +1,10 @@
 ---
-title: Getting Sh*t Done with Acrobat DC
-description: Learn some tricks and tips for using Acrobat DC
+title: Getting Sh*t Done with Adobe Document Cloud
+description: Learn some tricks and tips for using Adobe Document Cloud
 sub-product: Adobe Doc Cloud Lab
 ---
 
-# Getting Sh*t Done with Acrobat DC
+# Getting Sh*t Done with Adobe Document Cloud
 
 Did you know that Acrobat is the second most used application in Creative Cloud? Learn how to use Acrobat and Adobe Document Cloud apps to go digital, stay digital, and speed processes so that you can get back to being creative. Discover how to conduct business from anywhere with Acrobat and Document Cloud apps for both desktop and mobile.
 
