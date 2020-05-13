@@ -14,7 +14,7 @@ Step 1: Download the Adobe Fill & Sign app from the Apple App store or Google Pl
 
 Step 2: Open the app, tap "Select a form to fill out".
 
-![Uploaddoc](assets/mobilescan.jpg)
+![Uploaddoc](assets/mobilescan.jpg =500x)
 
 Step 3: Choose one of the import options. For this exercise, we will "Take a Picture".  
 
