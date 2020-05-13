@@ -50,7 +50,7 @@ Step 2: Observe as the app auto-detects your receipt, and captures its contents.
 Step 3: Tap "Save PDF" at the upper-right hand corner to store the reciept in your phone
 
 
-Recap:
+## Recap:
 
 * Scan paper documents and forms to PDF.
 * Convert JPG images to PDF.

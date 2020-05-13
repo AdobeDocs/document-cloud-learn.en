@@ -56,7 +56,7 @@ Step 10: Once the form is complete, tap the Share button in the lower right corn
 * Send—and track.
 * Secure—the document cannot be changed after signing. 
 
-Recap:
+## Recap:
 
 * Open a file from an email or snap a picture of a paper form with your device camera. 
 

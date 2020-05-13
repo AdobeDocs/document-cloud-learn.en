@@ -53,11 +53,11 @@ Step 1: Select the “Comment” button on the right-hand panel.
 
 ![Click comment](assets/Cselect.jpg)
 
-Step 5: Use the top ribbon tools to make any comment.
+Step 2: Use the top ribbon tools to markup the document and/or type a comment.
 
 ![comment ui](assets/commentsui.png)
 
-Step 6: Save the file with your comments.
+Your comments will auto-save and be viewable to others.
 
 ## Import PDF Comments to InDesign
 
@@ -79,7 +79,7 @@ Step 5: Open the PDF that contains the comments.
 
 Comments will appear in the UI.
 
-## Takeaway
+## Recap:
 
  Review and share design versions with Acrobat. Acrobat allows you to,
 
