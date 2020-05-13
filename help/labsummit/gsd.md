@@ -10,7 +10,7 @@ Get Shit Done with Adobe Document Cloud {#dclab}
 
 [![image](assets/fullfirstpage.jpg)](assets/GSD_2019_Handout.pdf)
 
-This handout contains more exercises to serve as a review of what was covered in this session.
+This handout contains more exercises and a review of the workflows covered.
 
 ## Lessons (basic bullet list)
 

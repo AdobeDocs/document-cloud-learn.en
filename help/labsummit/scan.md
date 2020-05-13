@@ -14,7 +14,7 @@ Collect a business card, receipt, or some other paper item that you'd like to wo
 
 ## Scan a business card
 
-Step 1: Download the Adobe Scan app from the Apple App store or Google Play.Open the Adobe Scan app
+Step 1: Download the Adobe Scan app from the Apple App store or Google Play. Open the Adobe Scan app
 
 Step 2: Open the Adobe Scan app
 
