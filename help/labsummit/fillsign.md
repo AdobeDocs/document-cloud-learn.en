@@ -22,34 +22,34 @@ Step 3: Choose one of the import options. For this exercise, we will "Take a Pic
 
 ![Step 2F image](assets/Step2F.jpg)
 
-Step 3: Use the white button to take a picture, and then tap "Use Photo" and tap "Done" in the upper right corner.
+Step 4: Use the white button to take a picture, and then tap "Use Photo" and tap "Done" in the upper right corner.
 
-Step 4: At the bottom of the app, tap the "Crop" tool and use the guides to crop the image. Tap "Done" when finished.
+Step 5: At the bottom of the app, tap the "Crop" tool and use the guides to crop the image. Tap "Done" when finished.
 
 ![local doc image](assets/localdoc.jpg)
 
-Step 5: Use the “Magic Wand” tool to clean the image if necessary. Tap “Done” when finished.
+Step 6: Use the “Magic Wand” tool to clean the image if necessary. Tap “Done” when finished.
 
-Step 6: Tap anywhere on the page to create a field and add the necessary information to your doc. Select the ellipse to view more options
+Step 7: Tap anywhere on the page to create a field and add the necessary information to your doc. Select the ellipse to view more options
 
 ![Fill image](assets/fill.jpg)
 
 
-Step 7: Tap the “Signature” button at the bottom of the app to add your signature. 
+Step 8: Tap the “Signature” button at the bottom of the app to add your signature. 
 
 ![Create Signature Image](assets/createsign.jpg)
 
-Step 8: Use a stylus or your finger to sign in the signature field. Move and place the signature field.
+Step 9: Use a stylus or your finger to sign in the signature field. Move and place the signature field.
 
 ![Signature Image](assets/sign.jpg)
 
-Step 9: Tap the Profile button at the bottom of the app to get pre-filled values such as your name and date. You just need to fill in this information once, and then you can use it on all future forms you complete with the Fill & Sign app.
+Step 10: Tap the Profile button at the bottom of the app to get pre-filled values such as your name and date. You just need to fill in this information once, and then you can use it on all future forms you complete with the Fill & Sign app.
 
 ![filled](assets/filled.jpg)
 
 ![pre pop](assets/prepop.jpg)
 
-Step 10: Once the form is complete, tap the Share button in the lower right corner to email.
+Step 11: Once the form is complete, tap the Share button in the lower right corner to email.
 
 * Save commonly used data—Sensei detects field types.
 * Sign it your way—draw or type.
