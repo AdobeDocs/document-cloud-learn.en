@@ -1,5 +1,5 @@
 ---
-user-guide-title: Lab 719 Getting Sh*t Done with Acrobat DC
+user-guide-title: Lab 719: Getting Sh*t Done with Acrobat DC
 solution: Adobe Acrobat
 solution-title: Acrobat Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
