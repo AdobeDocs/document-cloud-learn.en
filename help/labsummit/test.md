@@ -1,4 +1,10 @@
-## Lessons (cards in table)
+---
+title: Getting Sh*t Done with Acrobat DC
+description: Learn some tricks and tips for using Acrobat DC
+sub-product: Adobe Doc Cloud Lab
+---
+
+# Lessons (cards in table)
 
 <table>
 <tr>
