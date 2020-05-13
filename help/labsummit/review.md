@@ -57,7 +57,9 @@ Step 5: Use the top ribbon tools to make any comment.
 
 Step 6: Save the file with your comments.
 
-## Import comments from PDF and integrate directly into InDesign.
+## Import PDF Comments to InDesign
+
+InDesign CC 2019 allows you to import comments directly from PDF files. You can import, accept, and apply the changes with just one click. Selecting a comment in the new PDF Comments panel will locate and highlight the comment in your InDesign file.
 
 Step 1: Download the PDF file that contains the comments.
 

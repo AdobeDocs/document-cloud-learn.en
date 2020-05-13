@@ -6,6 +6,8 @@ sub-product: Scan
 
 # Go Digital with Adobe Scan
 
+De-clutter, organize, or share! There’s no need to keep piles of paper on your desk or stuff receipts in your wallet. The Adobe Scan mobile app scans paper documents directly into PDFs, and automatically recognizes text.
+
 For this exercise, collect a business card, receipt, or some other paper item that you'd like to scan into your phone.
 
 In this exercise, we will upload contents from a business card directly into your contacts.

@@ -8,7 +8,7 @@ sub-product: Adobe Doc Cloud Lab
 
 Get Shit Done with Adobe Document Cloud {#dclab}
 
-[![image](assets/fullfirstpage.png)](assets/GSD_2019_Handout.pdf)
+[![image](assets/fullfirstpage.jpg)](assets/GSD_2019_Handout.pdf)
 
 ## Lessons (basic bullet list)
 
