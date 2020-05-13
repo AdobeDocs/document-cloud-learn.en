@@ -12,7 +12,7 @@ Get Shit Done with Adobe Document Cloud {#dclab}
 
 This handout contains more exercises and a review of the workflows covered.
 
-## Lessons (basic bullet list)
+## Exercises
 
 Below are the demo files we use in the following exercises. Each exercise also relists this content.
 
