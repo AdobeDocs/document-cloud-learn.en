@@ -1,5 +1,5 @@
 ---
-user-guide-title: Lab 719: Getting Sh*t Done with Acrobat DC
+user-guide-title: Lab 719 - Getting Sh*t Done with Acrobat DC
 solution: Adobe Acrobat
 solution-title: Acrobat Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -9,7 +9,7 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 ---
 
-# Lab 719: Getting Sh*t Done with Acrobat DC {#lab719}
+# Lab 719 - Getting Sh*t Done with Acrobat DC {#lab719}
 
 + [Lab Overview and Introduction](overview.md)
 + Get Sh*t Done with Acrobat DC{#gsd}
