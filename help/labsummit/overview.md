@@ -15,4 +15,3 @@ In this session, you’ll learn how to:
 * Be digital on the go with the Acrobat Reader mobile app
 * Speed the feedback process with the new Document Cloud Review service
 
-

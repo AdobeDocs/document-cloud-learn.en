@@ -8,9 +8,9 @@ sub-product: Fill and Sign
 
 Fill, sign, and send forms fast from your desktop, browser, or mobile app. Adobe Sensei recognizes and saves commonly used data for use in a PDF form. Create a signature by drawing, importing a scan, or typing your name then securely apply it to a document.
 
-Here are the [demo files](assets/03_FillSignScan.zip) for this exercise. 
+In this exercise, you will import, fill, sign, and send a from using your mobile device.
 
-Fill & Sign App
+Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 
 Step 1: Download the Adobe Fill & Sign app from the Apple App store or Google Play.
 

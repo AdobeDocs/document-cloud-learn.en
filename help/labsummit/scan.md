@@ -8,9 +8,9 @@ sub-product: Scan
 
 De-clutter, organize, or share! There’s no need to keep piles of paper on your desk or stuff receipts in your wallet. The Adobe Scan mobile app scans paper documents directly into PDFs, and automatically recognizes text.
 
-For this exercise, collect a business card, receipt, or some other paper item that you'd like to scan into your phone.
+In this exercise, you will upload contents from a business card directly into your contacts. Scan and store a receipt.
 
-In this exercise, we will upload contents from a business card directly into your contacts.
+Collect a business card, receipt, or some other paper item that you'd like to work with.
 
 ## Scan a business card
 
@@ -38,7 +38,7 @@ Step 6: Make any desired edits or additions to the contact information before st
 
 The Adobe Scan app can also be useful to scan and store a receipt you'll need at a later time, such as for an expense report or other reimbursement.
 
-Step 1: With the Adobe Scan app open, take a photo of the receipt you’d like to save to your phone.
+Step 1: With the Adobe Scan app open, take a photo of the receipt you’d like to store.
 
 ![scan receipt image](assets/scanreceipt.png)
 
