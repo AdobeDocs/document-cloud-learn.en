@@ -4,14 +4,14 @@ description: Learn some tricks and tips for using Adobe Document Cloud
 sub-product: Adobe Doc Cloud Lab
 ---
 
-# Getting Sh*t Done with Adobe Document Cloud
+# Unleash Digital Experiences with Adobe Document Cloud
 
-Did you know that Acrobat is the second most used application in Creative Cloud? Learn how to use Acrobat and Adobe Document Cloud apps to go digital, stay digital, and speed processes so that you can get back to being creative. Discover how to conduct business from anywhere with Acrobat and Document Cloud apps for both desktop and mobile.
+Did you know that Document Cloud and its core products, Acrobat and Sign, are some of the most widely used productivity tools today? They’re used by business & marketing teams at over 80% of Fortune 100 companies.
+ 
+In this lab, take your productivity and creativity to the next level by learning how to:
+ 
+* Go Digital with PDF
+* Do more with PDF
+* Transforms customer and employee experiences
 
-In this session, you’ll learn how to:
-
-* Go digital with Adobe Scan
-* Stay digital with Adobe Fill & Sign — mobile and desktop
-* Be digital on the go with the Acrobat Reader mobile app
-* Speed the feedback process with the new Document Cloud Review service
-
+Audience Type: Advertiser|Channel Marketer|Creative Leader|IT Executive|Publisher|Social Marketer|Web Marketer |Campaign Manager|Commerce Executive|Content Marketer| Developer|Digital Marketer|IT Architect|Marketing Executive|

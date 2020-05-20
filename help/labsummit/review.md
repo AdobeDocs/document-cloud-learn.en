@@ -1,5 +1,5 @@
 ---
-title: Getting Sh*t Done with Adobe Document Cloud
+title: Unleash Digital Experiences with Adobe Document Cloud
 description: Learn some tricks and tips for using Adobe Document Cloud
 sub-product: Speed Feedback
 ---
@@ -17,13 +17,13 @@ Here are the [demo files](assets/01_Review.zip) for this exercise.
 
 ## Send personalized invitations for commenting
 
-Step 1: Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
+**Step 1:** Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
 
 ![Step 1 image](assets/Step1.png)
 
- Step 2: Click on “Send for Comments” in the right-hand panel or the "Share This File With Others" ![commentsicon](assets/sendforcommentsicon.png)  icon at the top right corner. 
+ **Step 2:** Click on “Send for Comments” in the right-hand panel or the "Share This File With Others" ![commentsicon](assets/sendforcommentsicon.png)  icon at the top right corner. 
 
-Step 3:Enter the email addresses of the recipients. You have the option of entering a message to the recipients and/or adding a deadline for review.
+**Step 3:**Enter the email addresses of the recipients. You have the option of entering a message to the recipients and/or adding a deadline for review.
 
 ![Step 2C image](assets/Step2C.png)
 
@@ -37,23 +37,23 @@ The reviewers receive an email invitation with a link to the review PDF. When th
 
 ## Send an anonymous or public link in an email
 
-Step 1: Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
+**Step 1:** Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
 
-Step 2: Click the "Share A Link" icon ![linkicon](assets/sendlinkicon.png). The shared link is generated instantly; you won’t have to wait for the file to be uploaded to the cloud. By default, the "Allow Comments" switch is turned on. 
+**Step 2:** Click the "Share A Link" icon ![linkicon](assets/sendlinkicon.png). The shared link is generated instantly; you won’t have to wait for the file to be uploaded to the cloud. By default, the "Allow Comments" switch is turned on. 
 
 ![Step 2L image](assets/Step2L.png)
 
-Step 3: Click "Copy Link" and share the link with the recipients.
+**Step 3:** Click "Copy Link" and share the link with the recipients.
 
 
 
 ## Making Comments
 
-Step 1: Select the “Comment” button on the right-hand panel.
+**Step 1:** Select the “Comment” button on the right-hand panel.
 
 ![Click comment](assets/Cselect.jpg)
 
-Step 2: Use the top ribbon tools to markup the document and/or type a comment.
+**Step 2:** Use the top ribbon tools to markup the document and/or type a comment.
 
 ![comment ui](assets/commentsui.png)
 
@@ -63,17 +63,17 @@ Your comments will auto-save and be viewable to others.
 
 InDesign CC 2019 allows you to import comments directly from PDF files. You can import, accept, and apply the changes with just one click. Selecting a comment in the new PDF Comments panel will locate and highlight the comment in your InDesign file.
 
-Step 1: Download the PDF file that contains the comments.
+**Step 1:** Download the PDF file that contains the comments.
 
-Step 2: Open your InDesign file.
+**Step 2:** Open your InDesign file.
 
-Step 3: Select “File” from the top menu. 
+**Step 3:** Select “File” from the top menu. 
 
 ![PDF Comments in Indd](assets/inddpdf.png)
 
-Step 4: Select “Import PDF Comments” from the dropdown.
+**Step 4:** Select “Import PDF Comments” from the dropdown.
 
-Step 5: Open the PDF that contains the comments. 
+**Step 5:** Open the PDF that contains the comments. 
 
 ![PDF Comments in Indd](assets/inddpdfshown.png)
 

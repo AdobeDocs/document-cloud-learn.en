@@ -1,12 +1,12 @@
 ---
-title: Getting Sh*t Done with Adobe Document Cloud
+title: Unleash Digital Experiences with Adobe Document Cloud
 description: Learn some tricks and tips for using Adobe Document Cloud
 sub-product: Adobe Doc Cloud Lab
 ---
 
-# Getting Sh*t Done Adobe Document Cloud
+# Unleash Digital Experiences with Adobe Document Cloud
 
-Get Sh*t Done with Adobe Document Cloud {#dclab}
+Unleash Digital Experiences with Adobe Document Cloud {#dclab}
 
 [![image](assets/fullfirstpage.jpg)](assets/GSD_2019_Handout.pdf)
 
