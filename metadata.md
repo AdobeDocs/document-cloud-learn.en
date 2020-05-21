@@ -7,8 +7,8 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/document-cloud-learn.en
-index: no
+git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
+index: yes
 ---
 
 # Metadata for internal use
