@@ -13,5 +13,3 @@ In this lab, take your productivity and creativity to the next level by learning
 * Go Digital with PDF
 * Do more with PDF
 * Transforms customer and employee experiences
-
-Audience Type: Advertiser|Channel Marketer|Creative Leader|IT Executive|Publisher|Social Marketer|Web Marketer |Campaign Manager|Commerce Executive|Content Marketer| Developer|Digital Marketer|IT Architect|Marketing Executive|
