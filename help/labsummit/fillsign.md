@@ -22,7 +22,7 @@ Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 
 ![Step 2F image](assets/Step2F.jpg)
 
-**Step 4:** Use the white button to take a picture, and then tap "Use Photo" and tap "Done" in the upper right corner.
+**Step 4:** Use the white button to take a picture, and then tap "Use Photo". Tap "Done" in the upper right corner.
 
 **Step 5:** At the bottom of the app, tap the "Crop" tool and use the guides to crop the image. Tap "Done" when finished.
 
@@ -50,11 +50,6 @@ Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 ![pre pop](assets/prepop.jpg)
 
 **Step 11:** Once the form is complete, tap the Share button in the lower right corner to email.
-
-* Save commonly used data—Sensei detects field types.
-* Sign it your way—draw or type.
-* Send—and track.
-* Secure—the document cannot be changed after signing. 
 
 ## Recap:
 

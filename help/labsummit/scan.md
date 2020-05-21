@@ -14,18 +14,18 @@ Collect a business card, receipt, or some other paper item that you'd like to wo
 
 ## Scan a business card
 
-**Step 1:** Download the Adobe Scan app from the Apple App store or Google Play. Open the Adobe Scan app
+**Step 1:** Download the Adobe Scan app from the Apple App store or Google Play.
 
 **Step 2:** Open the Adobe Scan app
 
-**Step 3:** From the app, take a photo of the business card containing the contact information you’d like to save to your phone
+**Step 3:** From the app, take a photo of the business card containing the contact information you’d like to save to your phone.
 
 ![b card image](assets/scanbcard.png)
 
 
 **Step 4:** Once scanning is complete, make the adjustments needed to ensure your card is within the bounding box.
 
-**Step 5:** Tap "Save PDF" at the upper right-hand corner. Then, tap "Save Contact"
+**Step 5:** Tap "Save PDF" at the upper right-hand corner. Then, tap "Save Contact".
 
 
 ![save b card mage](assets/savecontact.jpg)
@@ -36,7 +36,7 @@ Collect a business card, receipt, or some other paper item that you'd like to wo
 
 ## Scan and store a receipt
 
-The Adobe Scan app can also be useful to scan and store a receipt you'll need at a later time, such as for an expense report or other reimbursement.
+The Adobe Scan app can also be useful to scan and store a receipt you'll need at a later time (e.g. an expense report or other reimbursement).
 
 **Step 1:** With the Adobe Scan app open, take a photo of the receipt you’d like to store.
 
