@@ -30,7 +30,7 @@ Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 
 **Step 6:** Use the “Magic Wand” tool to clean the image if necessary. Tap “Done” when finished.
 
-**Step 7:** Tap anywhere on the page to create a field and add the necessary information to your doc. Select the ellipse to view more options
+**Step 7:** Tap anywhere on the page to create a field and add the necessary information to your doc. Select the ellipse to view more options.
 
 ![Fill image](assets/fill.jpg)
 
