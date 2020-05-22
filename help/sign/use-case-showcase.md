@@ -13,7 +13,7 @@ Below are recordings of the latest sessions:
 
 ## 2020 Sessions by Industry
 
-### [Insurance](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6)
+[Insurance](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6)
 
 Date: 2020-01-23
 
@@ -25,7 +25,7 @@ Topics:
 * Compliance and regulatory requirements in Financial sector
 * Delivering an excellent user experience
 
-### [Financial Services](https://esign.adobe.com/2020-use-case-showcase-feb-reg.html)
+[Financial Services](https://esign.adobe.com/2020-use-case-showcase-feb-reg.html)
 
 Date: 2020-02-27
 
@@ -38,7 +38,7 @@ Topics:
 * Best practices: Banking use cases and the benefits of Adobe Sign
 * Experience first: How to deliver excellent customer and employee experiences, improve efficiency, and comply with regulatory requirements in the banking industry
 
-### [Health Care](https://esign.adobe.com/2020-use-case-showcase-march-reg.html)
+[Health Care](https://esign.adobe.com/2020-use-case-showcase-march-reg.html)
 
 2020-03-26
 
@@ -48,7 +48,7 @@ Topics:
 * Growing Use of Telehealth
 * Digital Transformation: Infrastructure and Scaling
 
-### [Life Science](https://esign.adobe.com/2020-use-case-showcase-april-reg.html)
+[Life Science](https://esign.adobe.com/2020-use-case-showcase-april-reg.html)
 
 2020-04-30
 
