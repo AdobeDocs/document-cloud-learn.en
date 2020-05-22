@@ -6,6 +6,8 @@ sub-product: Use Case Showcase
 
 # Use Case Showcase 
 
+![use case banner](assets/use-case-showcase-banner.png)
+
 The Use Case Showcase is a monthly livestream session that introduces you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them. Each month a new topic will be highlighted.
 
 
