@@ -40,7 +40,6 @@ Topics:
 * Best practices: Banking use cases and the benefits of Adobe Sign
 * Experience first: How to deliver excellent customer and employee experiences, improve efficiency, and comply with regulatory requirements in the banking industry
 
-
 ### [Health Care](https://esign.adobe.com/2020-use-case-showcase-march-reg.html)
 
 2020-03-26
@@ -63,7 +62,3 @@ Topics:
 * Digital documents and processes as a part of a broader digital transformation: How to move the needle
 * Best practices: Life Sciences Use cases and the benefits of Adobe Sign
 * Experience first: How to deliver excellent customer and employee experiences, improve efficiency, and comply with regulatory requirements in this industry.
-
-
-
- 
