@@ -12,7 +12,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 # Adobe Sign Tutorials {#sign-tutorials}
 
 + [Overview](overview.md)
-+ Tutorials {#getting-started}
++ Introduction {#introduction}
   + [Getting Started](gettingstarted.md)
 + [Use Case Showcase](use-case-showcase.md)
 + [Innovation Series](innovationseries.md)
