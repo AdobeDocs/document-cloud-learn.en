@@ -45,6 +45,7 @@ Topics:
 * Experience first: How to deliver excellent customer and employee experiences, improve efficiency, and comply with regulatory requirements in the banking industry
 
 ### Health Care
+
 [Watch Health Care Session](https://esign.adobe.com/2020-use-case-showcase-march-ty.html)
 
 2020-03-26
@@ -56,6 +57,7 @@ Topics:
 * Digital Transformation: Infrastructure and Scaling
 
 ### Life Science
+
 [Watch Life Science Session](https://esign.adobe.com/2020-use-case-showcase-april-ty.html)
 
 2020-04-30
