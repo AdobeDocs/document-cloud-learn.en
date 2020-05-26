@@ -17,7 +17,7 @@ Below are recordings of the latest sessions:
 
 ### Insurance 
 
-[Watch Session](https://esign.adobe.com/2020-use-case-showcase-january-confirmation.html)
+[Watch Insurance Session](https://esign.adobe.com/2020-use-case-showcase-january-confirmation.html)
 
 Date: 2020-01-23
 
@@ -29,7 +29,9 @@ Topics:
 * Compliance and regulatory requirements in Financial sector
 * Delivering an excellent user experience
 
-[Financial Services](https://esign.adobe.com/2020-use-case-showcase-feb-ty.html)
+### Financial Services
+
+[Watch Financial Services Session](https://esign.adobe.com/2020-use-case-showcase-feb-ty.html)
 
 Date: 2020-02-27
 
@@ -42,7 +44,8 @@ Topics:
 * Best practices: Banking use cases and the benefits of Adobe Sign
 * Experience first: How to deliver excellent customer and employee experiences, improve efficiency, and comply with regulatory requirements in the banking industry
 
-[Health Care](https://esign.adobe.com/2020-use-case-showcase-march-ty.html)
+### Health Care
+[Watch Health Care Session](https://esign.adobe.com/2020-use-case-showcase-march-ty.html)
 
 2020-03-26
 
@@ -52,7 +55,8 @@ Topics:
 * Growing Use of Telehealth
 * Digital Transformation: Infrastructure and Scaling
 
-[Life Science](https://esign.adobe.com/2020-use-case-showcase-april-ty.html)
+### Life Science
+[Watch Life Science Session](https://esign.adobe.com/2020-use-case-showcase-april-ty.html)
 
 2020-04-30
 
