@@ -20,5 +20,6 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Send to a Single Recipient](send-to-single-recipient.md)
   + [Send to Multiple Recipients](send-to-multiple-recipients.md)
 + [Use Case Showcase](use-case-showcase.md)
++ [Innovation Series](innovationseries.md)
 
 
