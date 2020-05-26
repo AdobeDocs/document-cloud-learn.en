@@ -12,13 +12,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 # Adobe Sign Tutorials {#sign-tutorials}
 
 + [Overview](overview.md)
-+ Hello this is an example {#test}
-  + [test1](test1.md)
-  + [test2](test2.md)
-  + [Build a custom workflow](build-custom-workflow.md)
-+ Getting Started {#getting-started}
-  + [Send to a Single Recipient](send-to-single-recipient.md)
-  + [Send to Multiple Recipients](send-to-multiple-recipients.md)
++ Tutorials {#getting-started}
+  + [Getting Started](gettingstarted.md)
 + [Use Case Showcase](use-case-showcase.md)
 + [Innovation Series](innovationseries.md)
 
