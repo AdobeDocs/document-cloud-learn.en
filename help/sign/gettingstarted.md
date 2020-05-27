@@ -3,7 +3,7 @@ title: Sign Tutorials
 description: A collection of videos and tutorials for Adobe Sign.
 ---
 
-# Adobe Sign Tutorials
+# Adobe Sign Tutorials for Users
 
 ## Electronically Sign a Document
 
@@ -38,5 +38,11 @@ Learn how to manage and track agreements through your dashboard.
 Learn how to modify an agreement that's already been sent. This is helpful when a document is sent by mistake.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17343/?quality=9&autoplay=true&learn=on)
+
+## Get a Signature in Person
+
+Get a signature in person using your mobile app.
+
+>[!Video](https://video.tv.adobe.com/v/17362)
 
 

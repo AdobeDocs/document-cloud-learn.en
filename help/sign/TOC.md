@@ -12,8 +12,11 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 # Adobe Sign Tutorials {#sign-tutorials}
 
 + [Overview](overview.md)
-+ Introduction {#introduction}
++ Tutorials for Users {#intro-users}
   + [Getting Started](gettingstarted.md)
+  + [Getting to Value](gettingtovalue.md)
++ Tutorials for Administrators {#intro-admin}
+  + [Getting Started](administrators.md)
 + [Use Case Showcase](use-case-showcase.md)
 + [Innovation Series](innovationseries.md)
 
