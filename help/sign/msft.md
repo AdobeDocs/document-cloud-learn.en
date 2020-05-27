@@ -11,7 +11,7 @@ Fill out and sign a form directly from your Microsoft inbox.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29764t1/?quality=12&autoplay=true&learn=on)
 
-# Send for Signature with Outlook
+## Send for Signature with Outlook
 
 Send an agreement for signature through Outlook
 

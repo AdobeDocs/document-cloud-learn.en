@@ -41,8 +41,6 @@ Learn how to create an agreement template for Adobe Sign in Salesforce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17349/?quality=9&autoplay=true&learn=on)
 
-# INDUSTRY
-
 ## Use Bio-Pharma Settings
 
 Learn about Bio-pharma settings that allow you to configure Adobe Sign to meet FDA 21 CFR Part 11 requirements.
