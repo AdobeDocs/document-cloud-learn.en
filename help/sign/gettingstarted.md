@@ -5,6 +5,8 @@ description: A collection of videos and tutorials for Adobe Sign.
 
 # Adobe Sign Tutorials for Users
 
+These step-by-step videos show you what you need to know to start using Adobe Sign today.
+
 ## Electronically Sign a Document
 
 >[!VIDEO](https://video.tv.adobe.com/v/17360/?learn=on)

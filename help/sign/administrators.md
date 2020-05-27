@@ -4,7 +4,7 @@ description: This video shows how to use Adobe Sign to upload a document, add fo
 sub-product: Getting Started
 ---
 
-#Adobe Sign for Administrators
+# Adobe Sign for Administrators
 
 Overview of 7 key areas for administrators.
 
