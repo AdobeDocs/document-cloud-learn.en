@@ -14,7 +14,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + [Overview](overview.md)
 + Tutorials for Users {#intro-users}
   + [Getting Started](gettingstarted.md)
-  + [Getting to Value](gettingtovalue.md)
+  + [Getting to Value](gettovalue.md)
 + Tutorials for Administrators {#intro-admin}
   + [Getting Started](administrators.md)
 + [Use Case Showcase](use-case-showcase.md)

@@ -22,18 +22,21 @@ Learn to use the delegator role to send a document to an intermediary who can th
 
 ## Add an Approver
 
+3 min. 30 sec.
 Set up a document to be sent through an approval process. This involves sending the document to a few parties. In this video, you'll see how you might send a hiring contract through HR, employee, and the hiring manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17367)
 
 ## Create a Shared Document Template
 
+1 min. 48 sec.
 Create a reusable document template and add it to your Adobe Sign library for future use.
 
 >[VIDEO](https://video.tv.adobe.com/v/17345)
 
 ## Edit or Delete a Template
 
+1 min. 59 sec.
 Learn how to make changes to an existing template in your library.
 
 >[VIDEO](https://video.tv.adobe.com/v/17346)
