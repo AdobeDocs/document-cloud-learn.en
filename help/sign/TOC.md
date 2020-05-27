@@ -20,6 +20,9 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Setting Up](introadmin.md)
   + [Getting to Value](valueadmin.md)
 + [Integrations](msftintegrations.md)
+  + [Microsoft](msft.md)
+  + [Salesforce](sf.md)
+  + [Workday](workday.md)
 + [Use Case Showcase](use-case-showcase.md)
 + [Innovation Series](innovationseries.md)
 
