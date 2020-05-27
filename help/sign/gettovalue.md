@@ -1,6 +1,6 @@
 ---
 title: Sign Tutorials
-description: A collection of videos and tutorials for Adobe Sign.
+description: A collection of videos and tutorials for Adobe Sign for users.
 ---
 
 # Adobe Sign Tutorials for Users
@@ -9,7 +9,6 @@ In this section, you'll learn how to set up more sophisticated workflows, includ
 
 ## Set up Routing for Sigining Order
 
-1 min. 23 sec.
 Learn how to define the routing order for signature. Send a document in sequence, in parallel, or a combination of the two.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17347)
@@ -17,28 +16,24 @@ Learn how to define the routing order for signature. Send a document in sequence
 
 ## Delegate Someone Else to Sign a Document
 
-2 min. 52 sec.
 Learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17366)
 
 ## Add an Approver
 
-3 min. 30 sec.
 Set up a document to be sent through an approval process. This involves sending the document to a few parties. In this video, you'll see how you might send a hiring contract through HR, employee, and the hiring manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17367)
 
 ## Create a Shared Document Template
 
-1 min. 48 sec.
 Create a reusable document template and add it to your Adobe Sign library for future use.
 
->[VIDEO](https://video.tv.adobe.com/v/17345)
+>[!VIDEO](https://video.tv.adobe.com/v/17345)
 
 ## Edit or Delete a Template
 
-1 min. 59 sec.
 Learn how to make changes to an existing template in your library.
 
->[VIDEO](https://video.tv.adobe.com/v/17346)
+>[!VIDEO](https://video.tv.adobe.com/v/17346)
