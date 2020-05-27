@@ -18,13 +18,13 @@ Overview of 7 key areas for administrators.
 
 Learn how to add users to your account. This video shows you how you can activate an account for another person.
 
->[!VIDEO](https://video.tv.adobe.com/v/17356/?quality=9&autoplay=true&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/17356)
 
 ## Create and Manage Groups
 
 Learn how to create groups, add users to groups, and edit group settings.
 
->[!VIDEO](https://video.tv.adobe.com/v/17355/?quality=9&autoplay=true&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/17355)
 
 ## Share Account Access
 

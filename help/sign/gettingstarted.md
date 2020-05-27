@@ -33,18 +33,18 @@ Learn how to send a document for e-signature to more than one recipient.
 
 Learn how to manage and track agreements through your dashboard.
 
->[!VIDEO](https://video.tv.adobe.com/v/17341/?quality=9&autoplay=true&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/17341)
 
 ## Modify a Transaction In-Flight
 
 Learn how to modify an agreement that's already been sent. This is helpful when a document is sent by mistake.
 
->[!VIDEO](https://video.tv.adobe.com/v/17343/?quality=9&autoplay=true&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/17343)
 
 ## Get a Signature in Person
 
 Get a signature in person using your mobile app.
 
->[!Video](https://video.tv.adobe.com/v/17362)
+>[!VIDEO](https://video.tv.adobe.com/v/17362)
 
 
