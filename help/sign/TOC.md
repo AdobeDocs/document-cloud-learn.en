@@ -19,7 +19,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Tutorials for Administrators {#intro-admin}
   + [Setting Up](introadmin.md)
   + [Getting to Value](valueadmin.md)
-+ [Integrations](msftintegrations.md)
++ Integrations{#integrations}
   + [Microsoft](msft.md)
   + [Salesforce](sf.md)
   + [Workday](workday.md)
