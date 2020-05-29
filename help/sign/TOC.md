@@ -21,7 +21,15 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Modify a Transaction in-flight](modifyinflight.md)
   + [Get Signature in Person](signinperson.md)
 + Tutorials for Advanced Users {#advanced-users}
-  + [Advanced Workflows](advancedusers.md)
+  + [Set up Routing for Signature Order](settinguprouting.md)
+  + [Delegate Someone Else to Sign a Document](delegatesign.md)
+  + [Add an Approver](addapprover.md)
+  + [Send a Document in Bulk with Mega Sign](megasign.md)
+  + [Create a Webform](webform.md)
+  + [Sign a Document Using a Digital Signature](digitalsign.md)
+  + [Create a Shared Document Template](createtemplate.md)
+  + [Edit or Delete a Template](edittemplate.md)
+  + [Sign with a Stamp](stampsign.md)
 + Tutorials for Administrators {#intro-admin}
   + [Setting Up](introadmin.md)
   + [Getting to Value](valueadmin.md)
