@@ -5,12 +5,6 @@ description: A collection of videos and tutorials on integrations for Adobe Sign
 
 # Salesforce
 
->[!TIP]
->
->This is a tip.
->
->It has two paragraphs.
-
 ## Salesforce Integration: Create an Agreement Template
 
 Learn how to create an agreement template for Adobe Sign in Salesforce.

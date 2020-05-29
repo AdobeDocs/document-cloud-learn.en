@@ -12,9 +12,15 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 # Adobe Sign Tutorials {#sign-tutorials}
 
 + [Overview](overview.md)
-+ Tutorials for Users {#intro-users}
-  + [Getting Started](gettingstarted.md)
-  + [Getting to Value](gettovalue.md)
++ Tutorials for Beginner Users {#intro-users}
+  + [Electronically Sign a Document](elecsigndoc.md)
+  + [Fill and Sign](fillnsign.md)
+  + [Send to a Single Recipient](sendtosinglerecipient.md)
+  + [Send to Multiple Recipients](sendtomultiplerecipients.md)
+  + [Manage and Track Sent Agreements](manageandtrack.md)
+  + [Modify a Transaction in-flight](modifyinflight.md)
+  + [Get Signature in Person](signinperson.md)
++ Tutorials for Advanced Users
   + [Advanced Workflows](advancedusers.md)
 + Tutorials for Administrators {#intro-admin}
   + [Setting Up](introadmin.md)

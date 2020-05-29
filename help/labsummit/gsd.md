@@ -8,7 +8,7 @@ sub-product: Adobe Doc Cloud Lab
 
 Unleash Digital Experiences with Adobe Document Cloud {#dclab}
 
-[![image](assets/fullfirstpage.jpg)](assets/GSD_2019_Handout.pdf)
+[![image](assets/fullfirstpage.jpg)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
 This handout contains more exercises and a review of the workflows covered.
 
