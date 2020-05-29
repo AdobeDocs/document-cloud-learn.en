@@ -20,7 +20,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Manage and Track Sent Agreements](manageandtrack.md)
   + [Modify a Transaction in-flight](modifyinflight.md)
   + [Get Signature in Person](signinperson.md)
-+ Tutorials for Advanced Users
++ Tutorials for Advanced Users {#advanced-users}
   + [Advanced Workflows](advancedusers.md)
 + Tutorials for Administrators {#intro-admin}
   + [Setting Up](introadmin.md)
