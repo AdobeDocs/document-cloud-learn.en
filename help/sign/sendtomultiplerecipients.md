@@ -10,7 +10,7 @@ skill: beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-## Send to a Multiple Recipients
+# Send to a Multiple Recipients
 
 Learn how to send a document for e-signature to more than one recipient.
 

@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-## Fill and Sign a Document Yourself
+# Fill and Sign a Document Yourself
 
 Learn how to fill in forms and add your signature to documents you need to sign yourself.
 

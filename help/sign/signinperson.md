@@ -10,7 +10,7 @@ skill: beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-## Get a Signature in Person
+# Get a Signature in Person
 
 Get a signature in person using your mobile app.
 

@@ -10,6 +10,6 @@ skill: beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-## Electronically Sign a Document
+# Electronically Sign a Document
 
 >[!VIDEO](https://video.tv.adobe.com/v/17360)

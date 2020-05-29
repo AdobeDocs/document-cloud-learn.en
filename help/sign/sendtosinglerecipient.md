@@ -10,7 +10,7 @@ skill: beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-## Send to a Single Recipient
+# Send to a Single Recipient
 
 The most commonly used workflow in Adobe Sign: sending a document for signature. In this video, learn how to upload a document, add form fields, and send it to a recipient for signature.
 

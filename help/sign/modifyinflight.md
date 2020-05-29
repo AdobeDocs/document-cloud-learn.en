@@ -10,7 +10,7 @@ skill: beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-## Modify a Transaction In-Flight
+# Modify a Transaction In-Flight
 
 Learn how to modify an agreement that's already been sent. This is helpful when a document is sent by mistake.
 

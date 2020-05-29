@@ -10,7 +10,7 @@ skill: beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-## Manage and Track Agreements Sent for Signature
+# Manage and Track Agreements Sent for Signature
 
 Learn how to manage and track agreements through your dashboard.
 
