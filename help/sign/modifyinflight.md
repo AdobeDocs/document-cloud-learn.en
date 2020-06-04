@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Learn how to modify an agreement that's already been sent. This is helpful when a document is sent by mistake.
 
->[!VIDEO](https://video.tv.adobe.com/v/17343)
+>[!VIDEO](https://video.tv.adobe.com/v/17343?hidetitle=true )
