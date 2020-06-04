@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/17366)
+>[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)

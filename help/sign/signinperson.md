@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Get a signature in person using your mobile app.
 
->[!VIDEO](https://video.tv.adobe.com/v/17362)
+>[!VIDEO](https://video.tv.adobe.com/v/17362?hidetitle=true)

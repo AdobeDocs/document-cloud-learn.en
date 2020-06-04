@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Learn how to manage and track agreements through your dashboard.
 
->[!VIDEO](https://video.tv.adobe.com/v/17341)
+>[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)

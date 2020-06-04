@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Learn how to make changes to an existing template in your library.
 
->[!VIDEO](https://video.tv.adobe.com/v/17346)
+>[!VIDEO](https://video.tv.adobe.com/v/17346?hidetitle=true)

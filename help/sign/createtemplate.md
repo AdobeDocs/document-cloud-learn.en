@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Create a reusable document template and add it to your Adobe Sign library for future use.
 
->[!VIDEO](https://video.tv.adobe.com/v/17345)
+>[!VIDEO](https://video.tv.adobe.com/v/17345?hidetitle=true)

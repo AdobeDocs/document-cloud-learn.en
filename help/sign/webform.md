@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Learn how to use Adobe Sign to create a webform to be signed electronically. You can create a hosted hyperlink to your form or use the link to embed on your website in html or javascript.
 
->[!VIDEO](https://video.tv.adobe.com/v/27522)
+>[!VIDEO](https://video.tv.adobe.com/v/27522?hidetitle=true)

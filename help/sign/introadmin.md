@@ -12,26 +12,26 @@ Learn the fundamentals for adding users to your account, setting up groups, and 
 
 Overview of 7 key areas for administrators.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657)
+>[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
 ## Add Users to Your Account
 
 Learn how to add users to your account. This video shows you how you can activate an account for another person.
 
->[!VIDEO](https://video.tv.adobe.com/v/17356)
+>[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)
 
 ## Create and Manage Groups
 
 Learn how to create groups, add users to groups, and edit group settings.
 
->[!VIDEO](https://video.tv.adobe.com/v/17355)
+>[!VIDEO](https://video.tv.adobe.com/v/17355?hidetitle=true)
 
 ## Share Account Access
 
 In this tutorial, you'll see how to obtain view-only access to transactions in another user's account.
 
->[!VIDEO](https://youtu.be/ZeNcOOZfVJ4)
+>[!VIDEO](https://youtu.be/ZeNcOOZfVJ4?hidetitle=true)
 
 ## Building a Custom Workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/33656)
+>[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)

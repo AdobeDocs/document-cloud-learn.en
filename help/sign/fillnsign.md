@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Learn how to fill in forms and add your signature to documents you need to sign yourself.
 
->[!VIDEO](https://video.tv.adobe.com/v/33660)
+>[!VIDEO](https://video.tv.adobe.com/v/33660?hidetitle=true)

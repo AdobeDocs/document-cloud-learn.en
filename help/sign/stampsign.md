@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Use stamps to mark a document approved or completed. Learn how to include a stamp in your agreement.
 
->[!VIDEO](https://video.tv.adobe.com/v/20703)
+>[!VIDEO](https://video.tv.adobe.com/v/20703?hidetitle=true)

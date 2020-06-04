@@ -5,4 +5,4 @@ description: A collection of videos and tutorials on integrations for Adobe Sign
 
 # Workday
 
->[!VIDEO](https://video.tv.adobe.com/v/17351)
+>[!VIDEO](https://video.tv.adobe.com/v/17351?hidetitle=true)

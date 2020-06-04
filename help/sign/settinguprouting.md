@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Learn how to define the routing order for signature. Send a document in sequence, in parallel, or a combination of the two.
 
->[!VIDEO](https://video.tv.adobe.com/v/17347)
+>[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)

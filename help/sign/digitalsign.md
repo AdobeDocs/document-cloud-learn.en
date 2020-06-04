@@ -14,4 +14,4 @@ team: DC Product Marketing Retention and Engagement
 
 Sign a document with a cloud based digital signature - a type of electronic signature that enforces the authentication of the signer based on digital certificates by trusted third parties.
 
->[!VIDEO](https://video.tv.adobe.com/v/19638)
+>[!VIDEO](https://video.tv.adobe.com/v/19638?hidetitle=true)
