@@ -18,8 +18,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Fill and Sign](sign-beginner-tutorials/fill-and-sign.md)
   + [Send to a Single Recipient](sign-beginner-tutorials/send-to-single-recipient.md)
   + [Send to Multiple Recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
-  + [Manage and Track Sent Agreements](sign-beginner-tutorials/manageandtrack.md)
-  + [Modify a Transaction in-flight](sign-beginner-tutorials/modifyinflight.md)
+  + [Manage and Track Sent Agreements](sign-beginner-tutorials/manage-and-track.md)
+  + [Modify a Transaction in-flight](sign-beginner-tutorials/modify-in-flight.md)
   + [Get Signature in Person](sign-beginner-tutorials/sign-in-person.md)
 + Tutorials for Advanced Users {#advanced-users}
   + [Advanced Users Overview](advanced-users-overview.md)
@@ -39,7 +39,6 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Create and Manage Groups](create-and-manage-groups.md)
   + [Share Account Access](share-account-access.md)
   + [Building a Custom Workflow](building-a-custom-workflow.md)
-  + [Getting to Value](valueadmin.md)
 + Tutorials for Advanced Administrators{#advanced-admins}
   + [Advanced Admins Overiew](advanced-admin-overview.md)
   + [Learn about Global Settings](learn-about-global-settings.md)
