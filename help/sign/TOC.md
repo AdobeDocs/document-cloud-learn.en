@@ -39,16 +39,16 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Getting to Value](valueadmin.md)
 + Integrations{#integrations}
   + Microsoft{#msft}
-   + [Fill and Sign a Document in Microsoft Outlook](fill-and-sign-doc-msft-outlook.md)
-   + [Send for Signature with Outlook](send-for-signature-with-outlook.md)
-   + [Send for Signature with SharePoint Online](send-for-signature-with-sharepoint-online.md)
-   + [Track an Agreement with SharePoint Online](track-an-agreement-with-sharepoint-online.md)
+    + [Fill and Sign a Document in Microsoft Outlook](fill-and-sign-doc-msft-outlook.md)
+    + [Send for Signature with Outlook](send-for-signature-with-outlook.md)
+    + [Send for Signature with SharePoint Online](send-for-signature-with-sharepoint-online.md)
+    + [Track an Agreement with SharePoint Online](track-an-agreement-with-sharepoint-online.md)
   + Salesforce{#salesforce}
-   + [Create an Agreement Template](create-an-agreement-template.md)
-   + [Set up Data Mapping](set-up-data-mapping.md)
-   + [Set up Merging Map](set-up-merging-map.md)
-   + [Create a Custom Button](create-a-custom-button.md)
-   + [Workday](workday.md)
+    + [Create an Agreement Template](create-an-agreement-template.md)
+    + [Set up Data Mapping](set-up-data-mapping.md)
+    + [Set up Merging Map](set-up-merging-map.md)
+    + [Create a Custom Button](create-a-custom-button.md)
+    + [Workday](workday.md)
 + [Use Case Showcase](use-case-showcase.md)
 + [Innovation Series](innovationseries.md)
 
