@@ -30,7 +30,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Create a Shared Document Template](createtemplate.md)
   + [Edit or Delete a Template](edittemplate.md)
   + [Sign with a Stamp](stampsign.md)
-+ Setting Up for Administrators(#admin-set-up)
++ Setting Up for Administrators{#admin-set-up}
   + [Up & Running with Adobe Sign](up-and-running-admin.md)
   + [Add Users to your Account](add-users-to-your-account.md)
   + [Create and Manage Groups](create-and-manage-groups.md)
@@ -43,8 +43,11 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
    + [Send for Signature with Outlook](send-for-signature-with-outlook.md)
    + [Send for Signature with SharePoint Online](send-for-signature-with-sharepoint-online.md)
    + [Track an Agreement with SharePoint Online](track-an-agreement-with-sharepoint-online.md)
-  + [Salesforce](#salesforce)
+  + [Salesforce]{#salesforce}
    + [Create an Agreement Template](create-an-agreement-template.md)
+   + [Set up Data Mapping](set-up-data-mapping.md)
+   + [Set up Merging Map](set-up-merging-map.md)
+   + [Create a Custom Button](create-a-custom-button.md)
    + [Workday](workday.md)
 + [Use Case Showcase](use-case-showcase.md)
 + [Innovation Series](innovationseries.md)
