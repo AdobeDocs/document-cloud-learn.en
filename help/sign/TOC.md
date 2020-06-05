@@ -13,13 +13,13 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 
 + [Overview](overview.md)
 + Tutorials for Beginner Users {#intro-users}
-  + [Electronically Sign a Document](elecsigndoc.md)
-  + [Fill and Sign](fillnsign.md)
-  + [Send to a Single Recipient](sendtosinglerecipient.md)
-  + [Send to Multiple Recipients](sendtomultiplerecipients.md)
-  + [Manage and Track Sent Agreements](manageandtrack.md)
-  + [Modify a Transaction in-flight](modifyinflight.md)
-  + [Get Signature in Person](signinperson.md)
+  + [Electronically Sign a Document](sign-beginner-tutorials/elecsigndoc.md)
+  + [Fill and Sign](sign-beginner-tutorials/fillnsign.md)
+  + [Send to a Single Recipient](sign-beginner-tutorials/sendtosinglerecipient.md)
+  + [Send to Multiple Recipients](sign-beginner-tutorials/sendtomultiplerecipients.md)
+  + [Manage and Track Sent Agreements](sign-beginner-tutorials/manageandtrack.md)
+  + [Modify a Transaction in-flight](sign-beginner-tutorials/modifyinflight.md)
+  + [Get Signature in Person](sign-beginner-tutorials/signinperson.md)
 + Tutorials for Advanced Users {#advanced-users}
   + [Set up Routing for Signature Order](settinguprouting.md)
   + [Delegate Someone Else to Sign a Document](delegatesign.md)
