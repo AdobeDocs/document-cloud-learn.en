@@ -14,8 +14,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + [Overview](overview.md)
 + Tutorials for Beginner Users {#intro-users}
   + [Electronically Sign a Document](sign-beginner-tutorials/elecsigndoc.md)
-  + [Fill and Sign](sign-beginner-tutorials/fillnsign.md)
-  + [Send to a Single Recipient](sign-beginner-tutorials/sendtosinglerecipient.md)
+  + [Fill and Sign](sign-beginner-tutorials/fill-in-sign.md)
+  + [Send to a Single Recipient](sign-beginner-tutorials/send-to-single-recipient.md)
   + [Send to Multiple Recipients](sign-beginner-tutorials/sendtomultiplerecipients.md)
   + [Manage and Track Sent Agreements](sign-beginner-tutorials/manageandtrack.md)
   + [Modify a Transaction in-flight](sign-beginner-tutorials/modifyinflight.md)
@@ -38,6 +38,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Building a Custom Workflow](building-a-custom-workflow.md)
   + [Getting to Value](valueadmin.md)
 + Integrations{#integrations}
+  + [Integrations Overview](integrations-overview.md)
   + Microsoft{#msft}
     + [Fill and Sign a Document in Microsoft Outlook](fill-and-sign-doc-msft-outlook.md)
     + [Send for Signature with Outlook](send-for-signature-with-outlook.md)
