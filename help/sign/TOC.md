@@ -30,8 +30,12 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Create a Shared Document Template](createtemplate.md)
   + [Edit or Delete a Template](edittemplate.md)
   + [Sign with a Stamp](stampsign.md)
-+ Tutorials for Administrators {#intro-admin}
-  + [Setting Up](introadmin.md)
++ Setting Up for Administrators(introadmin.md)
+  + [Up & Running with Adobe Sign](up-and-running-admin.md)
+  + [Add Users to your Account](add-users-to-your-account.md)
+  + [Create and Manage Groups](create-and-manage-groups.md)
+  + [Share Account Access](share-account-access.md)
+  +[Building a Custom Workflow](building-a-custom-workflow.md)
   + [Getting to Value](valueadmin.md)
 + Integrations{#integrations}
   + [Microsoft](msft.md)
