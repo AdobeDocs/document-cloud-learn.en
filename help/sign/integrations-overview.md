@@ -14,7 +14,7 @@ team: DC Product Marketing Retention and Engagement
 
 We partner with other companies, so you can use Adobe Sign with other applications your organization already uses, such as Microsoft, Salesforce, and Workday to name a few. Check out how you can simplify your e-signature workflows through the processes in these integration tutorials. 
 
->[!TIP]
+>[!NOTE]
 > If you're having trouble accessing any of these features, check with your organization's administrator to ensure the integration is enabled.
 
 ## Microsoft Integrations Tutorials
@@ -30,4 +30,7 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
 * [Set up Data Mapping](set-up-data-mapping.md)
 * [Set up Merging Map](set-up-merging-map.md)
 * [Create a Custom Button](create-a-custom-button.md)
-* [Workday](workday.md)
+
+## Workday
+
+* [Creeate Data Mapping](workday.md)
