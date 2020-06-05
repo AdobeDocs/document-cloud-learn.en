@@ -5,8 +5,6 @@ description: A collection of videos and tutorials on integrations for Adobe Sign
 
 # Salesforce
 
-#
-
 ## Salesforce Integration: Set up Data Mapping
 
 Learn how to set up a data mapping for Adobe Sign in Salesforce.
