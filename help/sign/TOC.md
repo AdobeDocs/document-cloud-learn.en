@@ -24,10 +24,10 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Tutorials for Advanced Users {#advanced-users}
   + [Advanced Users Overview](advanced-users-overview.md)
   + [Set up Routing for Signature Order](sign-advanced-users/setting-up-routing.md)
-  + [Delegate Someone Else to Sign a Document](sign-advanced-usersdelegate-signature.md)
-  + [Add an Approver](sign-advanced-usersadd-an-approver.md)
-  + [Send a Document in Bulk with Mega Sign](sign-advanced-usersmegasign.md)
-  + [Create a Webform](sign-advanced-userswebform.md)
+  + [Delegate Someone Else to Sign a Document](sign-advanced-users/delegate-signature.md)
+  + [Add an Approver](sign-advanced-users/add-an-approver.md)
+  + [Send a Document in Bulk with Mega Sign](sign-advanced-users/megasign.md)
+  + [Create a Webform](sign-advanced-users/webform.md)
   + [Sign a Document Using a Digital Signature](sign-advanced-users/sign-with-a-digital-signture.md)
   + [Create a Shared Document Template](sign-advanced-users/create-a-template.md)
   + [Edit or Delete a Template](sign-advanced-users/edit-a-template.md)
@@ -51,8 +51,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Use Bio-Pharma Settings](use-bio-pharma-settings.md)
 + Integrations{#integrations}
   + [Integrations Overview](integrations-overview.md)
-  + Microsoft{#msft}
-    + [Fill and Sign a Document in Microsoft Outlook](fill-and-sign-doc-msft-outlook.md)
+  + Microsoft{#microsoft}
+    + [Fill and Sign a Document in Microsoft Outlook](fill-and-sign-doc-microsoft-outlook.md)
     + [Send for Signature with Outlook](send-for-signature-with-outlook.md)
     + [Send for Signature with SharePoint Online](send-for-signature-with-sharepoint-online.md)
     + [Track an Agreement with SharePoint Online](track-an-agreement-with-sharepoint-online.md)
