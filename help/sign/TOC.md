@@ -24,7 +24,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Tutorials for Advanced Users {#advanced-users}
   + [Advanced Users Overview](advanced-users-overview.md)
   + [Set up Routing for Signature Order](sign-advanced-users/setting-up-routing.md)
-  + [Delegate Someone Else to Sign a Document](sign-advanced-users/delegate-signature.md)
+  + [Delegate Someone Else to Sign a Document](sign-advanced-users/delegate-signture.md)
   + [Add an Approver](sign-advanced-users/add-an-approver.md)
   + [Send a Document in Bulk with Mega Sign](sign-advanced-users/megasign.md)
   + [Create a Webform](sign-advanced-users/webform.md)

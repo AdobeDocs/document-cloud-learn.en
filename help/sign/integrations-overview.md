@@ -19,7 +19,7 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
 
 ## Microsoft Integrations Tutorials
 
-* [Fill and Sign a Document in Microsoft Outlook](fill-and-sign-doc-msft-outlook.md)
+* [Fill and Sign a Document in Microsoft Outlook](fill-and-sign-doc-microsoft-outlook.md)
 * [Send for Signature with Outlook](send-for-signature-with-outlook.md)
 * [Send for Signature with SharePoint Online](send-for-signature-with-sharepoint-online.md)
 * [Track an Agreement with SharePoint Online](track-an-agreement-with-sharepoint-online.md)

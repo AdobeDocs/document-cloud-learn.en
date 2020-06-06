@@ -19,4 +19,3 @@ Learn the fundamentals: adding users to your account, setting up groups, and sha
 * [Create and Manage Groups](create-and-manage-groups.md)
 * [Share Account Access](share-account-access.md)
 * [Building a Custom Workflow](building-a-custom-workflow.md)
-* [Getting to Value](valueadmin.md)
