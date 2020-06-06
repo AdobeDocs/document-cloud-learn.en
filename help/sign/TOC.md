@@ -43,7 +43,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Advanced Admins Overiew](advanced-admin-overview.md)
   + [Learn about Global Settings](learn-about-global-settings.md)
   + [Create a Report](create-a-report.md)
-  + [Advanced Account Sharing](advanced-account-sharing)
+  + [Advanced Account Sharing](advanced-account-sharing.md)
   + [Set up your External Archive](set-up-your-external-archive.md)
   + [Set up Shared Events and Alerts](set-up-shared-events-and-alert.md)
   + [Create an Agreement Template](create-an-agreement-template.md)

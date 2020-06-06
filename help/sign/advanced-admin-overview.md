@@ -1,11 +1,11 @@
 ---
 title: Adobe Sign Tutorials
-description: Intro Admin Tutorial
+description: Advanced Administrators Overview
 feature: tutorial
-topics: Intro Admin Tutorial
+topics: Advanced Administrators Overview
 audience: Admin
 activity: Set up
-skill: Beginner
+skill: Advanced
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
