@@ -22,7 +22,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Modify a Transaction in-flight](sign-beginner-tutorials/modify-in-flight.md)
   + [Get Signature in Person](sign-beginner-tutorials/sign-in-person.md)
 + Tutorials for Advanced Users {#advanced-users}
-  + [Advanced Users Overview](sign-advanced-users/advanced-users-overview.md)
+  + [Advanced Users Overview](advanced-users-overview.md)
   + [Set up Routing for Signature Order](sign-advanced-users/setting-up-routing.md)
   + [Delegate Someone Else to Sign a Document](sign-advanced-users/delegate-signture.md)
   + [Add an Approver](sign-advanced-users/add-an-approver.md)
