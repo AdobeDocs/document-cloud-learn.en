@@ -1,13 +1,12 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
-feature: tutorial
-topics: Governement Learning
-audience: government
-activity: use
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+user-guide-title: Acrobat Tutorials
+solution: Acrobat
+solution-title: Learn & Support
+solution-hub-url: https://helpx.adobe.com/support/acrobat.html
+getting-started-title: Getting Started
+getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
+tutorials-title: Tutorials
+tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 ---
 
 # Acrobat Tutorials {#acrobat-tutorials}
