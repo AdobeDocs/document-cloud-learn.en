@@ -12,4 +12,4 @@ team: DC Product Marketing Retention and Engagement
 
 # 5 Tips for Working Anywhere with Acrobat DC for Government (Complete 15:12)
 
->[!VIDEO] https://video.tv.adobe.com/v/34200
+>[!VIDEO](https://video.tv.adobe.com/v/34200)
