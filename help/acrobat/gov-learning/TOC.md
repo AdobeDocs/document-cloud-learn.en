@@ -10,6 +10,8 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
+# Acrobat Tutorials for Government {#acrobat-tutorials-gov}
+
 [5 Tips for Working Anywhere with Acrobat DC for Government (Complete 15:12)](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
  + [Tip #1 – Get Your Tools (2:59)](get-your-tools.md)
  + [Tip #2 – Collaborate on Documents (2:03)](collaborate-on-documents.md)
