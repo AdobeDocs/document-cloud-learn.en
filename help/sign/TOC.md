@@ -21,7 +21,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Manage and Track Sent Agreements](sign-beginner-tutorials/manage-and-track.md)
   + [Modify a Transaction in-flight](sign-beginner-tutorials/modify-in-flight.md)
   + [Get Signature in Person](sign-beginner-tutorials/sign-in-person.md)
-+ Tutorials for Advanced Users {#advanced-users}
++ Advanced Workflows for Users {#advanced-users}
   + [Advanced Users Overview](advanced-users-overview.md)
   + [Set up Routing for Signature Order](sign-advanced-users/setting-up-routing.md)
   + [Delegate Someone Else to Sign a Document](sign-advanced-users/delegate-signture.md)
@@ -39,7 +39,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Create and Manage Groups](create-and-manage-groups.md)
   + [Share Account Access](share-account-access.md)
   + [Building a Custom Workflow](building-a-custom-workflow.md)
-+ Tutorials for Advanced Administrators{#advanced-admins}
++ Advanced Workflows for Administrators{#advanced-admins}
   + [Advanced Admins Overiew](advanced-admin-overview.md)
   + [Learn about Global Settings](learn-about-global-settings.md)
   + [Create a Report](create-a-report.md)
