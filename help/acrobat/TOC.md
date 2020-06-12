@@ -11,7 +11,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 
 # Acrobat Tutorials {#acrobat-tutorials}
 
-+ Industry {#industry}
++ Industry {#by-industry}
   + Acrobat for Government Users {#gov}
     + [Acrobat Tutorials for Government Overview](gov/gov-overview.md)
     + 5 Tips for Working Anywhere with Acrobat DC for Government {#tips}
