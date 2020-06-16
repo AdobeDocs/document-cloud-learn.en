@@ -12,7 +12,7 @@ team: DC Product Marketing Retention and Engagement
 
 # Acrobat Get Work Done
 
-<!--[Skill Builder Banner](assets/isbanner.png)!-->
+[Skill Builder Banner](assets/gwdbannerlong.png)
 
 The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about. This monthly webinar series was designed exclusively for our customers and will discuss new releases, integrations, and review features you already have access to. Each month a new topic will be highlighted.
 
