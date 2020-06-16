@@ -27,5 +27,5 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
       + [#2 – Authoring in Word (2:51)](gov/authoring-in-word.md)
       + [#3 – Finishing in Acrobat (4:37)](gov/finishing-in-acrobat.md)
 + Webinars {#webinars}
-  + [Skill Builders](skill-builders.md)
+  + [Skill Builder](skill-builders.md)
   + [Get Work Done](get-work-done.md)
