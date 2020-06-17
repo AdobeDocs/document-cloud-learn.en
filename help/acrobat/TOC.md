@@ -11,6 +11,8 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 
 # Acrobat Tutorials {#acrobat-tutorials}
 
++ Acrobat tutorials {#tutorials}
+  + [Combine files to PDF](combine-to-pdf.md)
 + Industry {#by-industry}
   + Acrobat for Government Users {#gov}
     + [Acrobat Tutorials for Government Overview](gov/gov-overview.md)
