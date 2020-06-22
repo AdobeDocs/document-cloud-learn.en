@@ -16,6 +16,10 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Create PDF files](create-pdf.md)
   + [Comment on PDF files in Acrobat DC](comment-on-pdf-files.md)
   + [Edit a PDF in Acrobat DC](edit-pdf.md)
+  + [Export a PDF to editable formats](export-pdf.md)
+  + [Fill and sign a PDF form](fill-and-sign.md)
+  + [Get to know the Acrobat DC interface](interface.md)
+  + [Protect a PDF file with a password](password-protect.md)
 
 + Industry {#by-industry}
   + Acrobat for Government Users {#gov}
