@@ -12,6 +12,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 # Acrobat Tutorials {#acrobat-tutorials}
 
 + Acrobat tutorials {#tutorials}
+  + [Where do PDFs come from](where-do-pdfs-come-from.md)
   + [Combine Files to PDF](combine-to-pdf.md)
   + [Create PDF files](create-pdf.md)
   + [Comment on PDF files in Acrobat DC](comment-on-pdf-files.md)

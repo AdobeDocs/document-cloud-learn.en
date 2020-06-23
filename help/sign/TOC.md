@@ -28,7 +28,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Add an Approver](sign-advanced-users/add-an-approver.md)
   + [Send a Document in Bulk with Mega Sign](sign-advanced-users/megasign.md)
   + [Create a Webform](sign-advanced-users/webform.md)
-  + [Sign a Document Using a Digital Signature](sign-advanced-users/sign-with-a-digital-signture.md)
+  + [Sign a Document Using a Digital Signature](sign-advanced-users/sign-with-a-digital-signature.md)
   + [Create a Shared Document Template](sign-advanced-users/create-a-template.md)
   + [Edit or Delete a Template](sign-advanced-users/edit-a-template.md)
   + [Sign with a Stamp](sign-advanced-users/sign-with-a-stamp.md)
