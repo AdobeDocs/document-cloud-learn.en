@@ -11,21 +11,22 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 
 # Adobe Sign Learning Hub {#sign-learning-hub}
 
-+ [Overview](overview.md)
++ Overview {#learning-hub}
+  + [Overview](overview.md)
 + Getting Started {#getting-started}
   + [Getting Started Overview](beginner-users-overview.md)
-    + Sending {#getting-started-sending}
-      + [Sending to a Single Recipient](sign-beginner-tutorials/send-to-single-recipient.md)
-      + [Sending to Multiple Recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Modifying a Document Already Sent for Signature](sign-beginner-tutorials/modify-in-flight.md)
-    + Signing {#getting-started-signing}
-      + [Electronically Signing a Document](sign-beginner-tutorials/electronically-sign-a-document.md)
-      + [Filling and Signing a Document](sign-beginner-tutorials/fill-and-sign.md)
-      + [Getting a Signature In Person](sign-beginner-tutorials/sign-in-person.md)
-      + [Signing using a Digital Signature](sign-beginner-tutorials/sign-with-a-digital-signature.md)
-      + [Signing with a Stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
-    + Managing {#getting-started-managing}
-      + [Managing and Tracking Documents](sign-beginner-tutorials/manage-and-track.md)
+  + Sending {#getting-started-sending}
+    + [Sending to a Single Recipient](sign-beginner-tutorials/send-to-single-recipient.md)
+    + [Sending to Multiple Recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
+    + [Modifying a Document Already Sent for Signature](sign-beginner-tutorials/modify-in-flight.md)
+  + Signing {#getting-started-signing}
+    + [Electronically Signing a Document](sign-beginner-tutorials/electronically-sign-a-document.md)
+    + [Filling and Signing a Document](sign-beginner-tutorials/fill-and-sign.md)
+    + [Getting a Signature In Person](sign-beginner-tutorials/sign-in-person.md)
+    + [Signing using a Digital Signature](sign-beginner-tutorials/sign-with-a-digital-signature.md)
+    + [Signing with a Stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
+  + Managing {#getting-started-managing}
+    + [Managing and Tracking Documents](sign-beginner-tutorials/manage-and-track.md)
 + Advanced Tasks {#advanced-tasks}
   + [Advanced Tasks Overview](advanced-users-overview.md)
   + Sending {#advanced-tasks-sending}
