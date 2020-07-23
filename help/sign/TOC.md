@@ -66,7 +66,6 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Setting up Data Mapping](set-up-data-mapping.md)
     + [Setting up Merge Mapping](set-up-merging-map.md)
     + [Creating a Custom Button](create-a-custom-button.md)
-    + [Workday](workday.md)
   + Workday {#workday}
     + [Setting up Data Mapping](workday.md)
 + Expand and Inspire {#expand}
