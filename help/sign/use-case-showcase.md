@@ -15,54 +15,45 @@ Below are recordings of the latest sessions:
 
 ## 2020 Sessions by Industry
 
-### Insurance 
+### Procurement & Logistics
 
-[Watch Insurance Session](https://esign.adobe.com/2020-use-case-showcase-january-confirmation.html)
+[Watch Procurement & Logistics Session](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6)
 
-Date: 2020-01-23
+2020-08-27
 
-Focus: How Adobe Sign works for Financial Services and Insurance
+Focus: How Adobe Sign works in procurement & logistics.
 
-Topics: 
+### HR Applications
 
-* Industry trends
-* Compliance and regulatory requirements in Financial sector
-* Delivering an excellent user experience
+[Watch HR Applications Session](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D)
 
-### Financial Services
+2020-07-30
 
-[Watch Financial Services Session](https://esign.adobe.com/2020-use-case-showcase-feb-ty.html)
+Focus: How Adobe Sign works in various HR applications.
 
-Date: 2020-02-27
+### State and Local Government
 
-Focus: How Adobe Sign works for Banking
+[Watch State and Local Government Session](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D)
 
-Topics:
+2020-06-25
 
-* Industry trends 2020 and beyond 
-* Digital documents and processes as a part of a broader digital transformation: How to move the needle
-* Best practices: Banking use cases and the benefits of Adobe Sign
-* Experience first: How to deliver excellent customer and employee experiences, improve efficiency, and comply with regulatory requirements in the banking industry
+Focus: How Adobe Sign works in State and Local Government.
 
-### Health Care
+### Education
 
-[Watch Health Care Session](https://esign.adobe.com/2020-use-case-showcase-march-ty.html)
+[Watch Education Session](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7)
 
-2020-03-26
+2020-05-28
 
-Focus: How Adobe Sign works for healthcare
-
-Topics:
-* Growing Use of Telehealth
-* Digital Transformation: Infrastructure and Scaling
+Focus: How Adobe Sign works for Education.
 
 ### Life Science
 
-[Watch Life Science Session](https://esign.adobe.com/2020-use-case-showcase-april-ty.html)
+[Watch Life Science Session](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6)
 
 2020-04-30
 
-Focus: How Adobe Sign works for Life Sciences
+Focus: How Adobe Sign works for Life Sciences.
 
 Topics:
 
@@ -70,3 +61,44 @@ Topics:
 * Digital documents and processes as a part of a broader digital transformation: How to move the needle
 * Best practices: Life Sciences Use cases and the benefits of Adobe Sign
 * Experience first: How to deliver excellent customer and employee experiences, improve efficiency, and comply with regulatory requirements in this industry.
+
+### Health Care
+
+[Watch Health Care Session](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE)
+
+2020-03-26
+
+Focus: How Adobe Sign works for healthcare.
+
+Topics:
+* Growing Use of Telehealth
+* Digital Transformation: Infrastructure and Scaling
+
+### Financial Services
+
+[Watch Financial Services Session](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992)
+
+Date: 2020-02-27
+
+Focus: How Adobe Sign works for Banking.
+
+Topics:
+
+* Industry trends 2020 and beyond 
+* Digital documents and processes as a part of a broader digital transformation: How to move the needle
+* Best practices: Banking use cases and the benefits of Adobe Sign
+* Experience first: How to deliver excellent customer and employee experiences, improve efficiency, and comply with regulatory requirements in the banking industry.
+
+### Insurance 
+
+[Watch Insurance Session](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6)
+
+Date: 2020-01-23
+
+Focus: How Adobe Sign works for Financial Services and Insurance.
+
+Topics: 
+
+* Industry trends
+* Compliance and regulatory requirements in Financial sector
+* Delivering an excellent user experience

@@ -2,7 +2,7 @@
 title: Adobe Sign Tutorials
 description: Fill and Sign tutorial demonstrates the most basic Adobe Sign use case for beginner users
 feature: tutorial
-topics: Fill and Sign
+topics: Filling and Signing a Document
 audience: user
 activity: use
 skill: beginner
@@ -10,8 +10,8 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Fill and Sign a Document Yourself
+# Filling and Signing a Document
 
-Learn how to fill in forms and add your signature to documents you need to sign yourself.
+Learn how to fill in forms and add your electronic signature to documents.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?hidetitle=true)

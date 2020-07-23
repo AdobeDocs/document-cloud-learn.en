@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Setting up Shared Events and Alerts
 description: Advanced Admin Tutorial
 feature: tutorial
 topics: Set up Shared Events and Alerts
@@ -10,8 +10,8 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Set up Shared Events and Alerts
+# Setting up Shared Events and Alerts
 
-Learn about Bio-pharma settings that allow you to configure Adobe Sign to meet FDA 21 CFR Part 11 requirements.
+Learn about shared events and alert settings in Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17359?hidetitle=true)

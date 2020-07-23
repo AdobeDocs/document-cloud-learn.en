@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Setting up your External Archive
 description: Advanced Admin Tutorial
 feature: tutorial
 topics: Set up your External Archive
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Set up your External Archive
+# Setting up your External Archive
 
 Learn how you can monitor the status of agreements through alerts and events settings
 

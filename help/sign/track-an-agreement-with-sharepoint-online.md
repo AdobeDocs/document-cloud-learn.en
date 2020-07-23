@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Tracking in SharePoint Online
 description: Microsoft Integrations
 feature: tutorial
 topics: Track an Agreement with SharePoint Online
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Track an Agreement with SharePoint Online
+# Tracking in SharePoint Online
 
 Track the progress of an agreement through Sharepoint.
 

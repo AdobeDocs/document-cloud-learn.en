@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Using Bio-Pharma Settings
 description: Advanced Admin Tutorial
 feature: tutorial
 topics: Advanced Account Sharing
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Use Bio-Pharma Settings
+# Using Bio-Pharma Settings
 
 Learn about Bio-pharma settings that allow you to configure Adobe Sign to meet FDA 21 CFR Part 11 requirements.
 

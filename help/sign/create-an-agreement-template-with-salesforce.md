@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Creating a Document Template in Adobe Sign for Salesforce
 description: Salesforce Integrations
 feature: tutorial
 topics: Create an Agreement Template
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Salesforce Integration: Create an Agreement Template
+# Creating a Document Template in Adobe Sign for Salesforce
 
 Learn how to create an agreement template for Adobe Sign in Salesforce.
 >[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)

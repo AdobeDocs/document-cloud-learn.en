@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Creating a Report
 description: Advanced Admin Tutorial
 feature: tutorial
 topics: Create a Report
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Create a Report
+# Creating a Report
 
 Learn how to run, save, and schedule reports through your dashboard.
 

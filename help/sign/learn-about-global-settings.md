@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Global Settings
 description: Advanced Admin Tutorial
 feature: tutorial
 topics: Learn about Global Settings
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Learn about Global Settings
+# Global Settings
 
 Learn how to edit settings globally or for groups.
 

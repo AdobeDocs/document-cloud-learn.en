@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Setting up Data Mapping
 description: Salesforce Integrations
 feature: tutorial
 topics: Set up Data Mapping
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Salesforce Integration: Set up Data Mapping
+# Setting up Data Mapping
 
 Learn how to set up a data mapping for Adobe Sign in Salesforce.
 
