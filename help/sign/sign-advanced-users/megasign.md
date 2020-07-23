@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Collecting Signatures in Bulk
 description: Send a Document in Bulk with Mega Sign tutorial
 feature: tutorial
 topics: Send a Document in Bulk with Mega Sign
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Send a Document in Bulk with Mega Sign
+# Collecting Signatures in Bulk
 
-Send an individual document for signature to many people at once using a csv.
+Send an individual document for signature to many people at once using a csv file.
 >[!VIDEO](https://video.tv.adobe.com/v/33655?hidetitle=true)

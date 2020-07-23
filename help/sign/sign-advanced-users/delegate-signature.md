@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Delegating to Someone Else
 description: Deletgate someone else to sign a document
 feature: tutorial
 topics: Delegate
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Delegate Someone Else to Sign a Document
+# Delegating to Someone Else
 
 Learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
 

@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Sending in SharePoint Online
 description: Microsoft Integrations
 feature: tutorial
 topics: Send for Signature with SharePoint Online
@@ -10,8 +10,8 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Send for Signature with SharePoint Online
+# Sending in SharePoint Online
 
-Send an agreement for signature directly through Sharepoint.
+Send an agreement for signature directly in Sharepoint Online.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29764t1?hidetitle=true)

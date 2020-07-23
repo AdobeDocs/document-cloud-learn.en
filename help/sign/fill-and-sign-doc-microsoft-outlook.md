@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Filling and Signing in Microsoft Outlook
 description: Microsoft Integrations
 feature: tutorial
 topics: Fill and Sign a Document in Microsoft Outlook
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Fill and Sign a Document in Microsoft Outlook
+# Filling and Signing in Microsoft Outlook
 
 Fill out and sign a form directly from your Microsoft inbox.
 

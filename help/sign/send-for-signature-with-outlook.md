@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Sending in Outlook
 description: Microsoft Integrations
 feature: tutorial
 topics: Send for Signature with Outlook
@@ -10,8 +10,8 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Send for Signature with Outlook
+# Sending in Outlook
 
-Send an agreement for signature through Outlook
+Send an agreement for signature through Outlook.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29765t1?hidetitle=true)

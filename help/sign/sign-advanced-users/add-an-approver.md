@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Adding an Approver
 description: Add an Approver tutorial
 feature: tutorial
 topics: Add an Approver
@@ -10,7 +10,7 @@ skill: advanced
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Add an Approver
+# Adding an Approver
 
 Set up a document to be sent through an approval process. This involves sending the document to a few parties. In this video, you'll see how you might send a hiring contract through HR, employee, and the hiring manager.
 

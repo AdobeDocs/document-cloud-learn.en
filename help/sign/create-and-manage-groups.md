@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Creating and Managing Groups
 description: Create and Manage Groups
 feature: tutorial
 topics: Create and Manage Groups
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Create and Manage Groups
+# Creating and Managing Groups
 
 Learn how to create groups, add users to groups, and edit group settings.
 

@@ -2,7 +2,7 @@
 title: Adobe Sign Tutorials
 description: Request signature from a multiple recipients tutorial
 feature: tutorial
-topics: Send to a Multiple Recipients
+topics: Sending to Multiple Recipients
 audience: user
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ skill: beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Send to a Multiple Recipients
+# Sending to Multiple Recipients
 
 Learn how to send a document for e-signature to more than one recipient.
 

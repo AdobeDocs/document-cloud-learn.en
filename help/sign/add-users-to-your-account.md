@@ -2,7 +2,7 @@
 title: Adobe Sign Tutorials
 description: Add Users to Your Account
 feature: tutorial
-topics: Add Users to Your Account
+topics: Adding Users
 audience: Admin
 activity: Set up
 skill: Beginner
@@ -10,8 +10,8 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Add Users to Your Account
+# Adding Users
 
-Learn how to add users to your account. This video shows you how you can activate an account for another person.
+Learn how to add users individually or in bulk to your Adobe Sign account.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)

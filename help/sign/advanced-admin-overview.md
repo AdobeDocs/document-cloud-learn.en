@@ -10,17 +10,15 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Advanced Administrators Overview
+# Advanced Tasks for Administrators Overview
 
-These tutorials cover topics that expand past the set up portion, and move into the various ways to manage the account and user settings. Define global settings, create usage reports, and templates for your organization to use.
+These tutorials cover topics that expand past the admin set up portion and move into defining global settings, creating reports, and advanced account settings.
 
-* [Learn about Global Settings](learn-about-global-settings.md)
-* [Create a Report](create-a-report.md)
+* [Global Settings](learn-about-global-settings.md)
+* [Creating a Report](create-a-report.md)
 * [Advanced Account Sharing](advanced-account-sharing.md)
-* [Set up your External Archive](set-up-your-external-archive.md)
-* [Set up Shared Events and Alerts](set-up-shared-events-and-alert.md)
-* [Create an Agreement Template](create-an-agreement-template.md)
-* [Use Bio-Pharma Settings](use-bio-pharma-settings.md)
+* [Creating a Template](create-an-agreement-template.md)
+* [Using Bio-Pharma Settings](use-bio-pharma-settings.md)
 
 
 

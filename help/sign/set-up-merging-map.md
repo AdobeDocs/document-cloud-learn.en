@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Setting up Merge Mapping
 description: Salesforce Integrations
 feature: tutorial
 topics: Set up Merging Map
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Adobe Sign Salesforce Integration: Set up Merging Map
+# Setting up Merge Mapping
 
 Learn how to set up a merge mapping for Adobe Sign in Salesforce.
 
