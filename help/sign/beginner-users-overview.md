@@ -21,5 +21,5 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
 * [Filling and Signing a Document](sign-beginner-tutorials/fill-and-sign.md)
 * [Getting a Signature In Person](sign-beginner-tutorials/sign-in-person.md)
 * [Managing and Tracking Documents](sign-beginner-tutorials/manage-and-track.md)
-* [Signing Using a Digital Signature](sign-advanced-users/sign-with-a-digital-signature.md)
-* [Signing Using a Stamp](sign-advanced-users/sign-with-a-stamp.md)
+* [Signing Using a Digital Signature](sign-beginner-tutorials/sign-with-a-digital-signature.md)
+* [Signing Using a Stamp](sign-beginner-tutorials/sign-with-a-stamp.md)

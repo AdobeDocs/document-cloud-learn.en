@@ -22,8 +22,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
       + [Electronically Signing a Document](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Filling and Signing a Document](sign-beginner-tutorials/fill-and-sign.md)
       + [Getting a Signature In Person](sign-beginner-tutorials/sign-in-person.md)
-      + [Signing using a Digital Signature](sign-beginner-users/sign-with-a-digital-signature.md)
-      + [Signing with a Stamp](sign-beginner-users/sign-with-a-stamp.md)
+      + [Signing using a Digital Signature](sign-beginner-tutorials/sign-with-a-digital-signature.md)
+      + [Signing with a Stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
     + Managing {#getting-started-managing}
       + [Managing and Tracking Documents](sign-beginner-tutorials/manage-and-track.md)
 + Advanced Tasks {#advanced-tasks}
