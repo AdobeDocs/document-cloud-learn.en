@@ -11,8 +11,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 
 # Adobe Sign Learning Hub {#sign-learning-hub}
 
-+ Overview {#learning-hub}
-  + [Overview](overview.md)
++ [Overview](overview.md)
 + Getting Started {#getting-started}
   + [Getting Started Overview](beginner-users-overview.md)
   + Sending {#getting-started-sending}
@@ -72,7 +71,3 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Expand and Inspire {#expand}
   + [Use Case Showcase](use-case-showcase.md)
   + [Innovation Series](innovation-series.md)
-
-
-
-

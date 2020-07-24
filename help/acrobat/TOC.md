@@ -11,6 +11,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 
 # Acrobat Tutorials {#acrobat-tutorials}
 
++ [Overview](overview.md)
 + Acrobat tutorials {#tutorials}
   + [Get to know the Acrobat DC interface](get-to-know-the-acrobat-dc-interface.md)
   + [Where do PDFs come from](where-do-pdfs-come-from.md)
@@ -22,7 +23,6 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Fill and sign a PDF form](fill-and-sign.md)
   + [Get to know the Acrobat DC interface](interface.md)
   + [Protect a PDF file with a password](password-protect.md)
-
 + Industry {#by-industry}
   + Acrobat for Government Users {#gov}
     + [Acrobat Tutorials for Government Overview](gov/gov-overview.md)
@@ -41,3 +41,4 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 + Webinars {#webinars}
   + [Skill Builder](skill-builder.md)
   + [Get Work Done](get-work-done.md)
+  
