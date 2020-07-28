@@ -6,7 +6,7 @@ sub-product: Use Case Showcase
 
 # Use Case Showcase 
 
-![use case banner](assets/ucscbanner.png)
+![use case banner](assets/UCSC_Rebrand.png)
 
 The Use Case Showcase is a monthly livestream session that introduces you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them. Each month a new topic will be highlighted.
 
@@ -17,7 +17,7 @@ Below are recordings of the latest sessions:
 
 ### Procurement & Logistics
 
-[Watch Procurement & Logistics Session](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6)
+[Watch Procurement & Logistics Session](https://esign.adobe.com/2020-use-case-showcase-aug-reg.html)
 
 2020-08-27
 
