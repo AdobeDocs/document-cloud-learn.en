@@ -13,7 +13,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 
 + [Overview](overview.md)
 + Getting Started {#getting-started}
-  + [Getting Started Overview](beginner-users-overview.md)
+  + [Overview](beginner-users-overview.md)
   + Sending {#getting-started-sending}
     + [Sending to a Single Recipient](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Sending to Multiple Recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
@@ -27,7 +27,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + Managing {#getting-started-managing}
     + [Managing and Tracking Documents](sign-beginner-tutorials/manage-and-track.md)
 + Advanced Tasks {#advanced-tasks}
-  + [Advanced Tasks Overview](advanced-users-overview.md)
+  + [Overview](advanced-users-overview.md)
   + Sending {#advanced-tasks-sending}
     + [Setting up Routing Order](sign-advanced-users/setting-up-routing.md)
     + [Delegating to Someone Else](sign-advanced-users/delegate-signature.md)
@@ -38,7 +38,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Creating a Document Template](sign-advanced-users/create-a-template.md)
     + [Managing Document Templates](sign-advanced-users/edit-a-template.md)
 + Administer {#admin-set-up}
-  + [Getting Started Administrator Overview](intro-admin-overview.md)
+  + [Overview](intro-admin-overview.md)
   + Getting Started {#getting-started-admin}
     + [Getting Up and Running](up-and-running-admin.md)
     + [Adding Users](add-users-to-your-account.md)
@@ -55,7 +55,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Advanced Account Sharing](advanced-account-sharing.md)
     + [Use Bio-Pharma Settings](use-bio-pharma-settings.md)
 + Integrate {#integrations}
-  + [Integrate Overview](integrations-overview.md)
+  + [Overview](integrations-overview.md)
   + Microsoft {#microsoft}
     + [Filling and Signing in Microsoft Outlook](fill-and-sign-doc-microsoft-outlook.md)
     + [Sending in Outlook](send-for-signature-with-outlook.md)

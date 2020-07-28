@@ -6,7 +6,7 @@ sub-product: Innovation Series
 
 # Adobe Sign Innovation Series
 
-![innovation series Banner](assets/isbanner.png) 
+![innovation series Banner](assets/Innovation_rebrand.png) 
 
 The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about. This monthly webinar series was designed exclusively for our customers and will discuss new releases, integrations, and review features you already have access to. Each month a new topic will be highlighted.
 
