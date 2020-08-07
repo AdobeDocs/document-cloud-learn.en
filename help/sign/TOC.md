@@ -4,7 +4,7 @@ solution: Adobe Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/sign/get-started.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 ---

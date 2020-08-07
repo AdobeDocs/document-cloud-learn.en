@@ -1,5 +1,5 @@
 ---
-title: Setting up a Web Form
+title: Set up a Web Form
 description: Create a Webform tutorial
 feature: tutorial
 topics: Create a Webform
@@ -10,8 +10,8 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Setting up a Web Form
+# Set up a Web Form
 
 Learn how to use Adobe Sign to create a document to be signed electronically for your website. You can create a hosted hyperlink to your form or use the link to embed on your website in html or javascript.
 
->[!VIDEO](https://video.tv.adobe.com/v/27522?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/37841?hidetitle=true)
