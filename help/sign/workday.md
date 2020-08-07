@@ -1,12 +1,12 @@
 ---
-title: Creating Data Mapping
-description: A collection of videos and tutorials on integrations for Adobe Sign for users.
+title: Configure Adobe Sign for Workday
+description: Learn how to configure Adobe Sign for Workday.
 ---
 
 # Workday
 
-## Creating Data Mapping
+## Configure Adobe Sign for Workday
 
-Learn how to set up a data mapping for Adobe Sign in Workday.
+Learn how to configure Adobe Sign for Workday.
 
->[!VIDEO](https://video.tv.adobe.com/v/17351?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/17412?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Creating a Document Template
-description: Create a Shared Document Template tutorial
+title: Creating a document template
+description: Create a reusable document template and add it to your Adobe Sign library for future use
 feature: tutorial
 topics: Create a Shared Document Template
 audience: user
@@ -10,8 +10,8 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Creating a Document Template
+# Creating a document template
 
 Create a reusable document template and add it to your Adobe Sign library for future use.
 
->[!VIDEO](https://video.tv.adobe.com/v/17345?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
