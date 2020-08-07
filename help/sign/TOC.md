@@ -67,7 +67,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Setting up Merge Mapping](set-up-merging-map.md)
     + [Creating a Custom Button](create-a-custom-button.md)
   + Workday {#workday}
-    + [Setting up Data Mapping](workday.md)
+    + [Configuring Adobe Sign with Workday](workday.md)
 + Expand and Inspire {#expand}
   + [Use Case Showcase](use-case-showcase.md)
   + [Innovation Series](innovation-series.md)
