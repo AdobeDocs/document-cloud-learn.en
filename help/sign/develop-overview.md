@@ -18,7 +18,7 @@ team: DC Product Marketing Retention and Engagement
 <tr>
   <td valign="top">
     <a href="https://www.adobe.io/apis/documentcloud/sign.html">
-      <img alt="Start" src="assets\Develop_Getting-Started.png" />
+      <img alt="Start" src="assets/Develop_Getting-Started.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html"><strong>Getting started</strong></a>
@@ -26,7 +26,7 @@ team: DC Product Marketing Retention and Engagement
   </td>
   <td valign="top">
     <a href="https://www.adobe.io/apis/documentcloud/sign.html">
-      <img alt="Learn" src="assets\Develop_Learn.png" />
+      <img alt="Learn" src="assets/Develop_Learn.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html"><strong>Learn what you can do</strong></a>
