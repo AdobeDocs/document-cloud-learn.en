@@ -33,4 +33,4 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
 
 ## Workday
 
-* [Creating Data Mapping](workday.md)
+* [Configuring Adobe Sign with Workday](workday.md)
