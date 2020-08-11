@@ -34,6 +34,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Adding an Approver](sign-advanced-users/add-an-approver.md)
     + [Collecting Signatures in Bulk](sign-advanced-users/megasign.md)
     + [Setting up a Webform](sign-advanced-users/webform.md)
+    + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
   + Managing {#advanced-tasks-managing}
     + [Creating a Document Template](sign-advanced-users/create-a-template.md)
     + [Managing Document Templates](sign-advanced-users/edit-a-template.md)
@@ -54,6 +55,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Creating a Report](create-a-report.md)
     + [Advanced Account Sharing](advanced-account-sharing.md)
     + [Use Bio-Pharma Settings](use-bio-pharma-settings.md)
+    + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
 + Integrate {#integrations}
   + [Overview](integrations-overview.md)
   + Microsoft {#microsoft}
@@ -69,7 +71,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + Workday {#workday}
     + [Configuring Adobe Sign with Workday](workday.md)
 + Expand and Inspire {#expand}
-  + [Use Case Showcase](use-case-showcase.md)
+  + [Overview](inspire-expand-overview.md)
+  + [Use case](use-case.md)
   + [Innovation Series](innovation-series.md)
 + Develop {#develop}
   + [Overview](develop-overview.md)

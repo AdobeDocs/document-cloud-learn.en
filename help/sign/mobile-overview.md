@@ -21,7 +21,7 @@ Send documents for signature, track e-signing progress, and get real-time update
       <img alt="Download for iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8"><strong>Download Adobe Sign for iOS</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8"><strong>Download Adobe Sign Mobile app for iOS</strong></a>
     <br>
   </td>
   <td>
@@ -29,7 +29,7 @@ Send documents for signature, track e-signing progress, and get real-time update
       <img alt="Download for Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en"><strong>Download Adobe Sign for Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en"><strong>Download Adobe Sign Mobile app for Android</strong></a>
     <br>
   <td>
     <img alt="Spacer" src="assets/Whitespacer.png" />
