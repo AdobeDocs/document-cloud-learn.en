@@ -25,11 +25,11 @@ team: DC Product Marketing Retention and Engagement
     <br>
   </td>
   <td>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html">
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html">
       <img alt="Learn" src="assets/Develop_Learn.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html"><strong>Learn what you can do</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html"><strong>Learn what you can do</strong></a>
     <br>
   <td>
   <img alt="Spacer" src="assets/Whitespacer.png" />
