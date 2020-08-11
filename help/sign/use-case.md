@@ -16,7 +16,7 @@ team: DC Product Marketing Retention and Engagement
 <tr>
   <td>
     <a href="use-case-showcase.md">
-      <img alt="Use Case Showcase" src="assets/UserCaseShowcase_1280.png" />
+      <img alt="Use Case Showcase" src="assets/UseCaseShowcase_1280.png" />
     </a>
     <div>
     <a href="use-case-showcase.md"><strong>Use Case Showcase</strong></a>

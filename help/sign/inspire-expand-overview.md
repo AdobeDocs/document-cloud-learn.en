@@ -25,11 +25,11 @@ See how you can transform customer and employee e-signing experiences by explori
     <br>
   </td>
   <td>
-    <a href="recipes.md">
-      <img alt="Recipes" src="assets/Expand_Recipe.png" />
+    <a href="innovation-series.md">
+      <img alt="Innovation Series" src="assets/Innovation-Series_1280.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Recipes</strong></a>
+    <a href="innovation-series.md"><strong>Innovation Series</strong></a>
     <br>
   <td>
     <img alt="Spacer" src="assets/Whitespacer.png" />
