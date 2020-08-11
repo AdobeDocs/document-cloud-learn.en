@@ -34,7 +34,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Adding an Approver](sign-advanced-users/add-an-approver.md)
     + [Collecting Signatures in Bulk](sign-advanced-users/megasign.md)
     + [Setting up a Webform](sign-advanced-users/webform.md)
-    + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)]
+    + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
   + Managing {#advanced-tasks-managing}
     + [Creating a Document Template](sign-advanced-users/create-a-template.md)
     + [Managing Document Templates](sign-advanced-users/edit-a-template.md)
