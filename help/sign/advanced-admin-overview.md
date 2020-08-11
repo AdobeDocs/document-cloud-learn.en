@@ -19,6 +19,7 @@ These tutorials cover topics that expand past the admin set up portion and move 
 * [Advanced Account Sharing](advanced-account-sharing.md)
 * [Creating a Template](create-an-agreement-template.md)
 * [Using Bio-Pharma Settings](use-bio-pharma-settings.md)
+* [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
 
 
 

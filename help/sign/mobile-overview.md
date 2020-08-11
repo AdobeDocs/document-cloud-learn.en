@@ -26,7 +26,7 @@ Send documents for signature, track e-signing progress, and get real-time update
   </td>
   <td>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en">
-      <img alt="Download for Android" src="assets/Mobile_Andriod.png" />
+      <img alt="Download for Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en"><strong>Download Adobe Sign for Android</strong></a>

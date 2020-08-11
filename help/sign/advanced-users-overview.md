@@ -16,3 +16,4 @@ These set of tutorials are for anyone who already knows the basics of sending an
 * [Setting Up a Web form](sign-advanced-users/webform.md)
 * [Creating a Document Template](sign-advanced-users/create-a-template.md)
 * [Managing Document Templates](sign-advanced-users/edit-a-template.md)
+* [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)

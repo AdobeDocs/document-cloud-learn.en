@@ -26,7 +26,7 @@ Deployment and best practice articles with valuable insight and knowledge gained
   </td>
   <td>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html">
-      <img alt="Best Practices" src="assets/Deploy_BP" />
+      <img alt="Best Practices" src="assets/Deploy_BP.png" />
     </a>
     <div>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html"><strong>Best Practices</strong></a>
