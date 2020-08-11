@@ -32,6 +32,7 @@ team: DC Product Marketing Retention and Engagement
     <a href="https://www.adobe.io/apis/documentcloud/sign.html"><strong>Learn what you can do</strong></a>
     <br>
   <td>
+  <img alt="Spacer" src="assets/Whitespacer.png" />
     <div>
     <br>
   </td>
