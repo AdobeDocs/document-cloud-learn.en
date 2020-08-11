@@ -72,4 +72,4 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Use Case Showcase](use-case-showcase.md)
   + [Innovation Series](innovation-series.md)
 + Develop {#develop}
-  + [Develop](develop-overview.md)
+  + [Overview](develop-overview.md)
