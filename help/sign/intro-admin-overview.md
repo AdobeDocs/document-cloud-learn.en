@@ -14,96 +14,84 @@ team: DC Product Marketing Retention and Engagement
 
 Learn the fundamentals: adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Adobe Sign.
 
-## Sending
-
 <table>
 <tr>
   <td>
-    <a href="sign-beginner-tutorials/send-to-single-recipient.md">
-      <img alt="Sending to Single Recipient" src="assets/Send-to-single-recipient.png" />
+    <a href="up-and-running-admin.md">
+      <img alt="Getting Up and Running" src="assets/Up-Running.png" />
     </a>
     <div>
-    <a href="sign-beginner-tutorials/send-to-single-recipient.md"><strong>Sending to a Single Recipient</strong></a>
+    <a href="up-and-running-admin.md"><strong>Getting Up and Running</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="sign-beginner-tutorials/send-to-multiple-recipients.md">
-      <img alt="Sending to Multiple Recipients" src="assets/Sending-to-multiple-recipients.png" />
-    <div>
-    <a href="sign-beginner-tutorials/send-to-multiple-recipients.md"><strong>Sending to Multiple Recipients</strong></a>
-    </div>
-    <br>
-  </td>
-  <td>
-    <a href="sign-beginner-tutorials/modify-in-flight.md">
-      <img alt="Modifying a Document Already Sent for Signature" src="assets/Modifying-sending.png" />
-    <div>
-    <a href="sign-beginner-tutorials/modify-in-flight.md"><strong>Modifying a Document Already Sent for Signature</strong></a>
-    </div>
-    <br>
-  </td>
-</tr>
-</table>
-
-## Signing
-
-<table>
-<tr>
-  <td>
-    <a href="sign-beginner-tutorials/electronically-sign-a-document.md">
-      <img alt="Electronically Signing a Document" src="assets/Electronically-sign.png" />
+    <a href="add-users-to-your-account.md">
+      <img alt="Adding Users" src="assets/Adding-Users.png" />
     </a>
     <div>
-    <a href="sign-beginner-tutorials/electronically-sign-a-document.md"><strong>Electronically Signing a Document</strong></a>
+    <a href="add-users-to-your-account.md"><strong>Adding Users</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="sign-beginner-tutorials/fill-and-sign.md">
-      <img alt="Filling and Signing a Document" src="assets/FillandSign.png" />
+    <a href="create-and-manage-groups.md">
+      <img alt="Creating and Managing Groups" src="assets/Creating-Groups.png" />
+    </a>
     <div>
-    <a href="sign-beginner-tutorials/fill-and-sign.md"><strong>Filling and Signing a Document</strong></a>
-    </div>
-    <br>
-  </td>
-  <td>
-    <a href="sign-beginner-tutorials/sign-in-person.md">
-      <img alt="Getting a Signature In Person" src="assets/In-person.png" />
-    <div>
-    <a href="sign-beginner-tutorials/sign-in-person.md"><strong>Getting a Signature In Person</strong></a>
+    <a href="create-and-manage-groups.md"><strong>Creating and Managing Groups</strong></a>
     </div>
     <br>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="sign-beginner-tutorials/sign-with-a-digital-signature.md">
-      <img alt="Signing Using a Digital Signature" src="assets/Digital-Signature.png" />
+    <a href="share-account-access.md">
+      <img alt="Sharing Account Access" src="assets/SharingAccess.png" />
+    </a>
     <div>
-    <a href="sign-beginner-tutorials/sign-with-a-digital-signature.md"><strong>Signing Using a Digital Signature</strong></a>
+    <a href="share-account-access.md"><strong>Sharing Account Access</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="sign-beginner-tutorials/sign-with-a-stamp.md">
-      <img alt="Signing Using a Stamp" src="assets/Stamp.png" />
+    <a href="building-a-custom-workflow.md">
+      <img alt="Setting up a Workflow" src="assets/BuildingWorkflow.png" />
+    </a>
     <div>
-    <a href="sign-beginner-tutorials/sign-with-a-stamp.md"><strong>Signing Using a Stamp</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Setting up a Workflow</strong></a>
     </div>
     <br>
-  </td> 
+  </td>
+  <td>
+    <a href="set-up-your-external-archive.md">
+      <img alt="Setting up an External Archive" src="assets/ExternalArchive.png" />
+    </a>
+    <div>
+    <a href="set-up-your-external-archive.md"><strong>Setting up an External Archive</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="set-up-shared-events-and-alert.md">
+      <img alt="Setting up Shared Events and Alerts" src="assets/SharedEvents.png" />
+    </a>
+    <div>
+    <a href="set-up-shared-events-and-alert.md"><strong>Setting up Shared Events and Alerts</strong></a>
+    </div>
+    <br>
+  </td>
   <td>
     <img alt="Spacer" src="assets/Whitespacer.png" />
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
-
-* [Getting Up and Running](up-and-running-admin.md)
-* [Add Users](add-users-to-your-account.md)
-* [Creating and Managing Groups](create-and-manage-groups.md)
-* [Sharing Account Access](share-account-access.md)
-* [Setting up a Workflow](building-a-custom-workflow.md)
-* [Setting up an External Archive](set-up-your-external-archive.md)
-* [Setting up Shared Events and Alerts](set-up-shared-events-and-alert.md)
