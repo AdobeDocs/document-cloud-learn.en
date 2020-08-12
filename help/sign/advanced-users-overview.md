@@ -31,10 +31,10 @@ These set of tutorials are for anyone who already knows the basics of sending an
     <br>
   </td>
   <td>
-    <a href="sign-advanced-users/sign-in-person.md">
+    <a href="sign-advanced-users/add-an-approver.md">
       <img alt="Adding an Approver" src="assets/Approver.png" />
     <div>
-    <a href="sign-advanced-users/sign-in-person.md"><strong>Adding an Approver</strong></a>
+    <a href="sign-advanced-users/add-an-approver.md"><strong>Adding an Approver</strong></a>
     </div>
     <br>
   </td>
