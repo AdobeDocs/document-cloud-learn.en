@@ -51,11 +51,11 @@ Welcome to the [!DNL Sign] Learning Hub. The Learning Hub contains a wide range 
     <br>
   </td>
   <td>
-    <a href="inspire-expand-overview.md">
+    <a href="expand-inspire-overview.md">
       <img alt="Advanced tasks" src="assets/AS_Title_Inspire.png" />
     </a>
     <div>
-    <a href="inspire-expand-overview.md"><strong>Expand and inspire</strong></a>
+    <a href="expand-inspire-overview.md"><strong>Expand and inspire</strong></a>
     </div>
     <em>Explore real-world use cases and recipes to imagine the possibilities</em>
     <br>

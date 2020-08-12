@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Expand and inspire
+# Expand and inspire overview
 
 See how you can transform customer and employee e-signing experiences by exploring use cases and inspirational ideas.
 
