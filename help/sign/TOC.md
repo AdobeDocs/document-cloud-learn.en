@@ -15,9 +15,9 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Getting Started {#getting-started}
   + [Overview](beginner-users-overview.md)
   + Sending {#getting-started-sending}
-    + [Sending to a Single Recipient](sign-beginner-tutorials/send-to-single-recipient.md)
-    + [Sending to Multiple Recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
-    + [Modifying a Document Already Sent for Signature](sign-beginner-tutorials/modify-in-flight.md)
+    + [Sending to a Single Recipient](beginner-users-sending.md#sending-single-recipient)
+    + [Sending to Multiple Recipients](beginner-users-sending.md#sending-multiple-recipients)
+    + [Modifying a Document Already Sent for Signature](beginner-users-sending.md#sending-modify)
   + Signing {#getting-started-signing}
     + [Electronically Signing a Document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and Signing a Document](sign-beginner-tutorials/fill-and-sign.md)
@@ -73,6 +73,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Expand and Inspire {#expand}
   + [Overview](inspire-expand-overview.md)
   + [Use case](use-case.md)
+    + [Use Case Showcase](use-case-showcase.md)
+    + [Recipes](recipes.md)
   + [Innovation Series](innovation-series.md)
 + Develop {#develop}
   + [Overview](develop-overview.md)
