@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Deploy Overview
+# Deploy overview
 
 Deployment and best practice articles with valuable insight and knowledge gained by working with our customers.
 
