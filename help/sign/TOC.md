@@ -72,7 +72,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Configuring Adobe Sign with Workday](workday.md)
 + Expand and Inspire {#expand}
   + [Overview](expand-inspire-overview.md)
-  + Use Case
+  + Use Case {#use-case}
     + [Use Case](use-case.md)
     + [Recipes](recipes.md)
   + [Innovation Series](innovation-series.md)
