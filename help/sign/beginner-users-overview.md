@@ -29,7 +29,7 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
   </td>
   <td>
     <a href="sign-beginner-tutorials/send-to-multiple-recipients.md">
-    <img alt="Sending to Multiple Recipients" src="assets/Sending-to-multiple-recipients.png" />
+      <img alt="Sending to Multiple Recipients" src="assets/Sending-to-multiple-recipients.png" />
     <div>
     <a href="sign-beginner-tutorials/send-to-multiple-recipients.md"><strong>Sending to Multiple Recipients</strong></a>
     </div>
@@ -37,7 +37,7 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
   </td>
   <td>
     <a href="sign-beginner-tutorials/modify-in-flight.md">
-    <img alt="Modifying a Document Already Sent for Signature" src="assets/Modifying-sending.png" />
+      <img alt="Modifying a Document Already Sent for Signature" src="assets/Modifying-sending.png" />
     <div>
     <a href="sign-beginner-tutorials/modify-in-flight.md"><strong>Modifying a Document Already Sent for Signature</strong></a>
     </div>
@@ -61,7 +61,7 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
   </td>
   <td>
     <a href="sign-beginner-tutorials/fill-and-sign.md">
-    <img alt="Filling and Signing a Document" src="assets/FillandSign.png" />
+      <img alt="Filling and Signing a Document" src="assets/FillandSign.png" />
     <div>
     <a href="sign-beginner-tutorials/fill-and-sign.md"><strong>Filling and Signing a Document</strong></a>
     </div>
@@ -69,7 +69,7 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
   </td>
   <td>
     <a href="sign-beginner-tutorials/sign-in-person.md">
-    <img alt="Getting a Signature In Person" src="assets/In-person.png" />
+      <img alt="Getting a Signature In Person" src="assets/In-person.png" />
     <div>
     <a href="sign-beginner-tutorials/sign-in-person.md"><strong>Getting a Signature In Person</strong></a>
     </div>
@@ -79,7 +79,7 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
 <tr>
   <td>
     <a href="sign-beginner-tutorials/sign-with-a-digital-signature.md">
-    <img alt="Signing Using a Digital Signature" src="assets/Digital-Signature.png" />
+      <img alt="Signing Using a Digital Signature" src="assets/Digital-Signature.png" />
     <div>
     <a href="sign-beginner-tutorials/sign-with-a-digital-signature.md"><strong>Signing Using a Digital Signature</strong></a>
     </div>
@@ -87,7 +87,7 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
   </td>
   <td>
     <a href="sign-beginner-tutorials/sign-with-a-stamp.md">
-    <img alt="Signing Using a Stamp" src="assets/Stamp.png" />
+      <img alt="Signing Using a Stamp" src="assets/Stamp.png" />
     <div>
     <a href="sign-beginner-tutorials/sign-with-a-stamp.md"><strong>Signing Using a Stamp</strong></a>
     </div>
@@ -105,11 +105,11 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
 <table>
 <tr>
   <td>
-    <a href="#sign-beginner-tutorials/manage-and-track.md">
+    <a href="sign-beginner-tutorials/manage-and-track.md">
       <img alt="Managing and Tracking Documents" src="assets/Managing.png" />
     </a>
     <div>
-    <a href="#sign-beginner-tutorials/manage-and-track.md"><strong>Managing and Tracking Documents</strong></a>
+    <a href="sign-beginner-tutorials/manage-and-track.md"><strong>Managing and Tracking Documents</strong></a>
     </div>
     <br>
   </td>

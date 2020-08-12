@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Mobile Overview
+# Mobile overview
 
 Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device.
 
