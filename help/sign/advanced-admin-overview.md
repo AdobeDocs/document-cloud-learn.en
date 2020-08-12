@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Advanced Tasks for Administrators Overview
+# Advanced tasks for administrators overview
 
 These tutorials cover topics that expand past the admin set up portion and move into defining global settings, creating reports, and advanced account settings.
 
