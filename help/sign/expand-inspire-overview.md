@@ -30,6 +30,7 @@ See how you can transform customer and employee e-signing experiences by explori
     <div>
     <a href="innovation-series.md"><strong>Innovation Series</strong></a>
     <br>
+  </td>
   <td>
     <a href="recipes.md">
       <img alt="Use case recipes" src="assets/Expand_Recipe.png" />
@@ -37,6 +38,6 @@ See how you can transform customer and employee e-signing experiences by explori
     <div>
     <a href="recipes.md"><strong>Recipes</strong></a>
     <br>
-  <td>
+  </td>
 </tr>
 </table>
