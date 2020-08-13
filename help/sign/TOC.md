@@ -76,7 +76,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Use Case Showcase](use-case-showcase.md)
     + [Recipes](recipes.md)
   + Innovation Series {#innovation}
-    + [Innovation Series](innovation-series.md)
+    + [Webinars](innovation-series.md)
 + Develop {#develop}
   + [Overview](develop-overview.md)
 + Deploy  {#deploy}
