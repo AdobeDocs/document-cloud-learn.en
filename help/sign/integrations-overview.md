@@ -22,11 +22,11 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
 <table>
 <tr>
   <td>
-    <a href="Filling and Signing in Microsoft Outlook">
+    <a href="fill-and-sign-doc-microsoft-outlook.md">
       <img alt="Filling and Signing in Microsoft Outlook" src="assets/MS-FillSign.png" />
     </a>
     <div>
-    <a href="Filling and Signing in Microsoft Outlook"><strong>Filling and Signing in Microsoft Outlook</strong></a>
+    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Filling and Signing in Microsoft Outlook</strong></a>
     </div>
     <br>
   </td>
