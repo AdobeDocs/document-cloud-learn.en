@@ -24,6 +24,7 @@ See how you can transform customer and employee e-signing experiences by explori
     <a href="use-case-showcase.md"><strong>Use Case Showcase</strong></a>
     <br>
   </td>
+  <td>
     <a href="innovation-series.md">
       <img alt="Innovation Series" src="assets/Innovation-Series_1280.png" />
     </a>
