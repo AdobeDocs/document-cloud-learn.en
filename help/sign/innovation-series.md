@@ -10,6 +10,22 @@ sub-product: Innovation Series
 
 The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about. This monthly webinar series was designed exclusively for our customers and will discuss new releases, integrations, and review features you already have access to. Each month a new topic will be highlighted.
 
+## Adobe Sign 11.3 Release Details
+
+[Watch Session] (https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-11-3-release-details.html)
+
+Date: 2020-09-10
+
+Focus: Learn what's new in the Adobe Sign 11.3 release.
+
+## Power up business workflows with Adobe Sign and Microsoft Power Apps
+
+[Watch Session] (https://event.on24.com/wcc/r/2441915/BF8E21409D15697E7531DAA0308EC4480
+
+Date: 2020-08-06
+
+Focus: The Power Apps integration with Adobe Sign and Microsoft Power Automate enables you to quickly preset hundreds of business processes without any coding and deliver solutions faster via your custom web and mobile apps using the Adobe Sign Power Automate connector.
+
 ## Adobe Sign 11.2 Release Details
 
 [Watch Session](https://event.on24.com/wcc/r/2354350/C5FBCF28ED017C6E3132DF44228200D7)
