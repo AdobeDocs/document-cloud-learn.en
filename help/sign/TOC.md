@@ -74,7 +74,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Overview](expand-inspire-overview.md)
   + Use Case {#use-case}
     + [Use Case](use-case.md)
-    + [Recipes](recipes.md)
+      + [Use Case Showcase](use-case-showcase.md)
+      + [Recipes](recipes.md)
   + [Innovation Series](innovation-series.md)
 + Develop {#develop}
   + [Overview](develop-overview.md)
