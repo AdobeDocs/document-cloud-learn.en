@@ -16,7 +16,7 @@ Download a PDF recipe or click to view how to set up these e-signature use cases
 
 <table>
 <tr>
-  td>
+  <td>
     <a href="assets/UseCaseRecipe-EN-CreatingWebForms.pdf">
       <img alt="Business Grants and Loans" src="assets/UC_Webforms.png" />
     </a>

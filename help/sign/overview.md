@@ -91,7 +91,7 @@ Welcome to the [!DNL Sign] Learning Hub. The Learning Hub contains a wide range 
     <em>Send, track, and get real-time updates on your mobile device</em>
     <br>
   <td>
-   <img alt="Spacer" src="assets/AS_Whitespacer.png" />
+   <img alt="Spacer" src="assets/Whitespacer.png" />
     <div>
     <br>
   </td>
