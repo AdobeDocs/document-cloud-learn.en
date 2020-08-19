@@ -25,30 +25,30 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Get to know the Acrobat DC interface](getting-started/interface.md)
   + [Protect a PDF file with a password](getting-started/password-protect.md)
 + Advanced Tasks {#advanced-tasks}
-  + [Overview](advanced-tasks/advanced-users-overview.md)
+  + [Overview](advanced-tasks/advanced-tasks-overview.md)
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
 + Integrate {#integrations}
   + [Overview](integrate/integrate-overview.md)
 + Industry {#by-industry}
-  + [Overview] (industry/industry-overview.md)
+  + [Overview](industry/industry-overview.md)
   + Acrobat for Government Users {#gov}
-    + [Acrobat for Government Overview](gov/gov-overview.md)
+    + [Acrobat for Government Overview](industry/gov/gov-overview.md)
     + 5 Tips for Working Anywhere with Acrobat DC for Government {#tips}
-      + [5 Tips for Working Anywhere with Acrobat DC for Government (Complete 15:12)](gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
-      + [Tip #1 – Get Your Tools (2:59)](gov/get-your-tools.md)
-      + [Tip #2 – Collaborate on Documents (2:03)](gov/collaborate-on-documents.md)
-      + [Tip #3 – Protect Digital Documents (1:23)](gov/protect-digital-documents.md)
-      + [Tip #4 – Work with Forms and Signatures (7:03)](gov/work-with-forms-and-signatures.md)
-      + [Tip #5 – Scan and Edit on Mobile (1:43)](gov/scan-and-edit-on-mobile.md)
+      + [5 Tips for Working Anywhere with Acrobat DC for Government (Complete 15:12)](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
+      + [Tip #1 – Get Your Tools (2:59)](industry/gov/get-your-tools.md)
+      + [Tip #2 – Collaborate on Documents (2:03)](industry/gov/collaborate-on-documents.md)
+      + [Tip #3 – Protect Digital Documents (1:23)](industry/gov/protect-digital-documents.md)
+      + [Tip #4 – Work with Forms and Signatures (7:03)](industry/gov/work-with-forms-and-signatures.md)
+      + [Tip #5 – Scan and Edit on Mobile (1:43)](industry/gov/scan-and-edit-on-mobile.md)
     + Making PDFs Accessible{#pdfs}
-      + [Making PDFs Accessible (Complete 14:11)](gov/making-pdfs-accessible.md)
-      + [#1 – Understanding Accessibility (6:42)](gov/understanding-accessibility.md)
-      + [#2 – Authoring in Word (2:51)](gov/authoring-in-word.md)
-      + [#3 – Finishing in Acrobat (4:37)](gov/finishing-in-acrobat.md)
+      + [Making PDFs Accessible (Complete 14:11)](industry/gov/making-pdfs-accessible.md)
+      + [#1 – Understanding Accessibility (6:42)](industry/gov/understanding-accessibility.md)
+      + [#2 – Authoring in Word (2:51)](industry/gov/authoring-in-word.md)
+      + [#3 – Finishing in Acrobat (4:37)](industry/gov/finishing-in-acrobat.md)
 + Develop {#develop}
-  + [Overview] (develop/develop-overview.md)
+  + [Overview](develop/develop-overview.md)
 + Deploy {#deploy}
-  + [Overview] (deploy/deploy-overview.md)
+  + [Overview](deploy/deploy-overview.md)
 + Mobile {#mobile}
-  + [Overview] (mobile/mobile-overview.md)
+  + [Overview](mobile/mobile-overview.md)

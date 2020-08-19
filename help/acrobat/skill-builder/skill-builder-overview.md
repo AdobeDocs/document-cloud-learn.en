@@ -1,16 +1,10 @@
 ---
-title: Acrobat Tutorials
-description: Skill Builder Interactive Tutorials
-feature: tutorial
-topics: Acrobat Skill Builders
-audience: User
-activity: use
-skill: Beginner
-doc-type: feature video
-team: DMe Enablement
----
+title: Acrobat Skill Builders
+description: Interactive Acrobat Skill Builders
 
 # Acrobat Skill Builders
+
+Get up-to-speed on Acrobat DC with these interactive skill builders.
 
 ## Go Digital
 
