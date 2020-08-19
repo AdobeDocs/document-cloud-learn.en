@@ -9,4 +9,4 @@ description: Learn how to configure Adobe Sign for Workday.
 
 Learn how to configure Adobe Sign for Workday.
 
->[!VIDEO](https://video.tv.adobe.com/v/17412?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)
