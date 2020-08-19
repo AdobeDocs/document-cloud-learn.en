@@ -10,30 +10,30 @@ Welcome to the [!DNL Acrobat] Learning Hub. The Adobe Acrobat Learning Hub conta
 <table>
 <tr>
   <td>
-    <a href="Getting-started/getting-started-overview.md">
-      <img alt="Getting started" src="assets/Acrobat_Title_Getting_Started.png" />
+    <a href="getting-started/getting-started-overview.md">
+      <img alt="Getting started" src="assets/acrobat_title_getting_started.png" />
     </a>
     <div>
-    <a href="Getting-started/getting-started-overview.md"><strong>Getting started</strong></a>
+    <a href="getting-started/getting-started-overview.md"><strong>Getting started</strong></a>
     </div>
     <em>Get up-to-speed on how to create, edit, convert, protect, and more with PDF files.</em>
     <br>
   </td>
   <td>
-    <a href="Advanced-tasks/advanced-tasks-overview.md">
-      <img alt="Advanced tasks" src="assets/Acrobat_Title_Advanced_Tasks.png" />
+    <a href="advanced-tasks/advanced-tasks-overview.md">
+      <img alt="Advanced tasks" src="assets/acrobat_title_advanced_tasks.png" />
     </a>
     <div>
-    <a href="Advanced-tasks/advanced-tasks-overview.md"><strong>Advanced tasks</strong></a>
+    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Advanced tasks</strong></a>
     </div>
     <em>Go beyond the basics with specific tasks and automation</em>
     <br>
   <td>
-    <a href="Skill-builder/Skill-builder-overview.md">
-      <img alt="Skill Builder" src="assets/Acrobat_Title_Skill_Builder.png" />
+    <a href="skill-builder/skill-builder-overview.md">
+      <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="Skill-builder/Skill-builder-overview.md"><strong>Skill Builders</strong></a>
+    <a href="skill-builder/skill-builder-overview.md"><strong>Skill Builders</strong></a>
     </div>
     <em>Task-based tips to help you go digital, stay digital, and get work done</em>
     <br>
@@ -41,52 +41,52 @@ Welcome to the [!DNL Acrobat] Learning Hub. The Adobe Acrobat Learning Hub conta
 </tr>
 <tr>
   <td>
-    <a href="Integrate/Integrate-overview.md">
-      <img alt="Integrate" src="assets/Acrobat_Title_Integrate.png" />
+    <a href="integrate/integrate-overview.md">
+      <img alt="Integrate" src="assets/acrobat_title_integrate.png" />
     </a>
     <div>
-    <a href="Integrate/Integrate-overview.md"><strong>Integrate</strong></a>
+    <a href="integrate/integrate-overview.md"><strong>Integrate</strong></a>
     </div>
     <em>Add Acrobat to your existing systems, processes, and applications</em>
     <br>
   </td>
   <td>
-    <a href="Industry/Industry-overview.md">
-      <img alt="Industry" src="assets/Acrobat_Title_Industry.png" />
+    <a href="industry/industry-overview.md">
+      <img alt="Industry" src="assets/acrobat_title_industry.png" />
     </a>
     <div>
-    <a href="Industry/Industry-overview.md"><strong>Industry</strong></a>
+    <a href="industry/industry-overview.md"><strong>Industry</strong></a>
     </div>
     <em>Explore how real-world business go 100% digital</em>
     <br>
   <td>
-    <a href="Develop/Develop-overview.md">
-      <img alt="Develop" src="assets/Acrobat_Title_Develop.png" />
+    <a href="develop/develop-overview.md">
+      <img alt="Develop" src="assets/acrobat_title_develop.png" />
     </a>
     <div>
-    <a href="Develop/Develop-overview.md"><strong>Develop</strong></a>
+    <a href="develop/develop-overview.md"><strong>Develop</strong></a>
     </div>
-    <em>Get development resources on Adobe Acrobat I/O</em>
+    <em>Get development resources on Adobe Acrobat</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="Deploy/Deploy-overview.md">
-      <img alt="Deploy" src="assets/Acrobat_Title_Deploy.png" />
+    <a href="deploy/deploy-overview.md">
+      <img alt="Deploy" src="assets/acrobat_title_deploy.png" />
     </a>
     <div>
-    <a href="Deploy/Deploy-overview.md"><strong>Deploy</strong></a>
+    <a href="deploy/deploy-overview.md"><strong>Deploy</strong></a>
     </div>
     <em>Insight and best practices for deploying Acrobat within your organization</em>
     <br>
   </td>
   <td>
-    <a href="Mobile/Mobile-overview.md">
-      <img alt="Mobile" src="assets/Acrobat_Title_Mobile.png" />
+    <a href="mobile/mobile-overview.md">
+      <img alt="Mobile" src="assets/acrobat_title_mobile.png" />
     </a>
     <div>
-    <a href="Mobile/Mobile-overview.md"><strong>Mobile</strong></a>
+    <a href="mobile/mobile-overview.md"><strong>Mobile</strong></a>
     </div>
     <em>Create, fill, and sign PDFs on your mobile device</em>
     <br>

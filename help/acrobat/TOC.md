@@ -13,25 +13,25 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 
 + [Overview](overview.md)
 + Getting Started {#getting-started}
-  + [Overview](Getting-started/getting-started-overview.md)
-  + [Get to know the Acrobat DC interface](Getting-started/get-to-know-the-acrobat-dc-interface.md)
-  + [Where do PDFs come from](Getting-started/where-do-pdfs-come-from.md)
-  + [Combine Files to PDF](Getting-started/combine-to-pdf.md)
-  + [Create PDF files](Getting-started/create-pdf.md)
-  + [Comment on PDF files in Acrobat DC](Getting-started/comment-on-pdf-files.md)
-  + [Edit a PDF in Acrobat DC](Getting-started/edit-pdf.md)
-  + [Export a PDF to editable formats](Getting-started/export-pdf.md)
-  + [Fill and sign a PDF form](Getting-started/fill-and-sign.md)
-  + [Get to know the Acrobat DC interface](Getting-started/interface.md)
-  + [Protect a PDF file with a password](Getting-started/password-protect.md)
+  + [Overview](getting-started/getting-started-overview.md)
+  + [Get to know the Acrobat DC interface](getting-started/get-to-know-the-acrobat-dc-interface.md)
+  + [Where do PDFs come from](getting-started/where-do-pdfs-come-from.md)
+  + [Combine Files to PDF](getting-started/combine-to-pdf.md)
+  + [Create PDF files](getting-started/create-pdf.md)
+  + [Comment on PDF files in Acrobat DC](getting-started/comment-on-pdf-files.md)
+  + [Edit a PDF in Acrobat DC](getting-started/edit-pdf.md)
+  + [Export a PDF to editable formats](getting-started/export-pdf.md)
+  + [Fill and sign a PDF form](getting-started/fill-and-sign.md)
+  + [Get to know the Acrobat DC interface](getting-started/interface.md)
+  + [Protect a PDF file with a password](getting-started/password-protect.md)
 + Advanced Tasks {#advanced-tasks}
-  + [Overview](Advanced-tasks/advanced-users-overview.md)
+  + [Overview](advanced-tasks/advanced-users-overview.md)
 + Skill Builders {#skill-builders}
-  + [Overview](Skill-builder/Skill-builder-overview.md)
+  + [Overview](skill-builder/skill-builder-overview.md)
 + Integrate {#integrations}
-  + [Overview](Integrate/Integrate-overview.md)
+  + [Overview](integrate/integrate-overview.md)
 + Industry {#by-industry}
-  + [Overview] (Industry/Industry-overview.md)
+  + [Overview] (industry/industry-overview.md)
   + Acrobat for Government Users {#gov}
     + [Acrobat for Government Overview](gov/gov-overview.md)
     + 5 Tips for Working Anywhere with Acrobat DC for Government {#tips}
@@ -47,8 +47,8 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
       + [#2 – Authoring in Word (2:51)](gov/authoring-in-word.md)
       + [#3 – Finishing in Acrobat (4:37)](gov/finishing-in-acrobat.md)
 + Develop {#develop}
-  + [Overview] (Develop/Develop-overview.md)
+  + [Overview] (develop/develop-overview.md)
 + Deploy {#deploy}
-  + [Overview] (Deploy/Deploy-overview.md)
+  + [Overview] (deploy/deploy-overview.md)
 + Mobile {#mobile}
-  + [Overview] (Mobile/Mobile-overview.md)
+  + [Overview] (mobile/mobile-overview.md)
