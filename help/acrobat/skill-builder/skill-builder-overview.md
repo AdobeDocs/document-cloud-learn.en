@@ -13,7 +13,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/paperpdf/">
-      <img alt="Paper to PDF" src="assets/sb_papertoPDF.png" />
+      <img alt="Paper to PDF" src="../assets/sb_papertopdf.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/paperpdf/"><strong>Go From Paper to PDF</strong></a>
@@ -23,7 +23,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/">
-      <img alt="Prepare for Signature" src="assets/sb_prepareforsignature.png" />
+      <img alt="Prepare for Signature" src="../assets/sb_prepareforsignature.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/"><strong>Prepare for Signature</strong></a>
@@ -32,7 +32,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -45,7 +45,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
 <tr>
  <td>
     <a href="https://doccloud.adobeconnect.com/createpdfs/">
-      <img alt="Create and Organize PDFs" src="assets/sb_create.png" />
+      <img alt="Create and Organize PDFs" src="../assets/sb_create.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/createpdfs/"><strong>Create and Organize PDFs</strong></a>
@@ -55,7 +55,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/micro/">
-      <img alt="Acrobat and Microsoft 101" src="assets/sb_microsoft.png" />
+      <img alt="Acrobat and Microsoft 101" src="../assets/sb_microsoft.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/micro/"><strong>Acrobat and Microsoft 101</strong></a>
@@ -65,7 +65,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/editpdf/">
-      <img alt="Edit Your PDFs" src="assets/sb_edit.png" />
+      <img alt="Edit Your PDFs" src="../assets/sb_edit.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/editpdf/"><strong>Edit Your PDFs</strong></a>
@@ -77,7 +77,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/">
-      <img alt="Sign Your Work" src="assets/sb_signed.png" />
+      <img alt="Sign Your Work" src="../assets/sb_signed.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/sign/"><strong>Sign Your Work</strong></a>
@@ -87,7 +87,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/">
-      <img alt="Convert Your PDFs" src="assets/sb_convert.png" />
+      <img alt="Convert Your PDFs" src="../assets/sb_convert.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/"><strong>Convert Your PDFs</strong></a>
@@ -97,7 +97,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/fillsign/">
-      <img alt="Fill and Sign Anywhere" src="assets/sb_fill.png" />
+      <img alt="Fill and Sign Anywhere" src="../assets/sb_fill.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/fillsign/"><strong>Fill and Sign Anywhere</strong></a>
@@ -109,7 +109,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/paperpdf/">
-      <img alt="Optimize Your PDFs" src="assets/sb_optimize.png" />
+      <img alt="Optimize Your PDFs" src="../assets/sb_optimize.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/paperpdf/"><strong>Optimize Your PDFs</strong></a>
@@ -118,12 +118,12 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
     <br>
   </td>
    <td>
-   <img alt="Spacer" src="assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -136,7 +136,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-share/">
-      <img alt="Share and Collect Feedback" src="assets/sb_feedback.png" />
+      <img alt="Share and Collect Feedback" src="../assets/sb_feedback.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-share/"><strong>Share and Collect Feedback</strong></a>
@@ -146,7 +146,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/securepdfs/">
-      <img alt="Secure Your PDFs" src="assets/sb_secure.png" />
+      <img alt="Secure Your PDFs" src="../assets/sb_secure.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/securepdfs/"><strong>Secure Your PDFs</strong></a>
@@ -155,7 +155,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
