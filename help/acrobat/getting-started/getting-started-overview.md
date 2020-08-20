@@ -5,7 +5,8 @@ description: A collection of tutorials, webinars, and use cases for Adobe Acroba
 
 # Getting started overview
 
-Welcome to the [!DNL Acrobat] Learning Hub. The Learning Hub contains a wide range of learning experiences focused on Adobe Acrobat. Our tutorials, webinars, and use cases are designed to quickly bring users up-to-speed on Adobe Acrobat.
+Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-step tutorials. From creating a document to protecting your PDF files, this content is designed to ease you into PDF workflows.
+
 
 ## Acrobat Tutorials
 
