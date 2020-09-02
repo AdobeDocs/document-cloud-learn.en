@@ -15,9 +15,17 @@ Below are recordings of the latest sessions:
 
 ## 2020 Sessions by Industry
 
+### Sales
+
+[Register for Sales](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html)
+
+2020-09-24
+
+Focus: Adobe experts will highlight best practices for successful digital transformation in procurement, and the discussion will cover industry trends and requirements for delivering excellent user experiences.
+
 ### Procurement & Logistics
 
-[Watch Procurement & Logistics Session](https://esign.adobe.com/2020-use-case-showcase-aug-reg.html)
+[Watch Procurement & Logistics Session](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6)
 
 2020-08-27
 
