@@ -60,7 +60,9 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
     <br>
   </td>
    <td>
-    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Accelerating the Mortgage Loan Process" src="assets/teamsmortgage.png" />
+    </a>
     <div>
     <br>
   </td>
@@ -78,10 +80,10 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Creating a Document Template" src="assets/SF-Template.png" />
+      <img alt="Creating a Document Template in Adobe Sign for Salesforce" src="assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Creating a Document Template</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Creating a Document Template in Adobe Sign for Salesforce</strong></a>
     </div>
     <br>
   </td>

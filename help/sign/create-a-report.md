@@ -8,6 +8,7 @@ activity: Create a Report
 skill: Advanced
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 17357.jpg
 ---
 
 # Creating a Report

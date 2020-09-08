@@ -8,6 +8,7 @@ activity: use
 skill: any
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 29767t1.jpg
 ---
 
 # Tracking in SharePoint Online

@@ -8,6 +8,7 @@ activity: use
 skill: advanced
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 37839.jpg
 ---
 
 # Collect signatures in bulk

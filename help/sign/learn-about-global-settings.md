@@ -8,6 +8,7 @@ activity: Global Settings
 skill: Advanced
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 17358.jpg
 ---
 
 # Global Settings

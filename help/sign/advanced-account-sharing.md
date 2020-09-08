@@ -8,10 +8,11 @@ activity: Advanced Account Sharing
 skill: Advanced
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 40186.jpg
 ---
 
 # Advanced Account Sharing
 
-See how to use advanced account sharing. This feature allows admins and users to delegate their send, modify, and view permissions.
+Advanced account sharing allows admins and users to delegate their send, modify, and view permissions.
 
->[!VIDEO](https://video.tv.adobe.com/v/17363?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)

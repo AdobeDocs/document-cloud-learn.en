@@ -63,8 +63,9 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Sending in Outlook](send-for-signature-with-outlook.md)
     + [Sending in SharePoint Online](send-for-signature-with-sharepoint-online.md)
     + [Tracking in SharePoint Online](track-an-agreement-with-sharepoint-online.md)
+    + [Accelerating the Mortgage Loan Process](adobe-sign-teams-mortgage.md)
   + Salesforce {#salesforce}
-    + [Creating a Document Template](create-an-agreement-template-with-salesforce.md)
+    + [Creating a Document Template](create-an-agreement-template.md)
     + [Setting up Data Mapping](set-up-data-mapping.md)
     + [Setting up Merge Mapping](set-up-merging-map.md)
     + [Creating a Custom Button](create-a-custom-button.md)

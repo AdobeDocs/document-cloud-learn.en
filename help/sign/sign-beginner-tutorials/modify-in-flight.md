@@ -8,6 +8,7 @@ activity: use
 doc-type: feature video
 skill: beginner
 team: DC Product Marketing Retention and Engagement
+thumbnail: 17343.jpg
 ---
 
 # Modifying a Document Already Sent for Signature

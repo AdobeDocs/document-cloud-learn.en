@@ -8,6 +8,7 @@ activity: Set up Shared Events and Alerts
 skill: Advanced
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 17359.jpg
 ---
 
 # Setting up Shared Events and Alerts
