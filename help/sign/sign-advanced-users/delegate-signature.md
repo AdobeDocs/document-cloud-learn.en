@@ -8,6 +8,7 @@ activity: use
 skill: advanced
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 17366.jpg
 ---
 
 # Delegating to Someone Else

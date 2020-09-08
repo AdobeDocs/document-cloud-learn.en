@@ -8,10 +8,11 @@ activity: use
 skill: any
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 29764t1.jpg
 ---
 
 # Filling and Signing in Microsoft Outlook
 
-Fill out and sign a form directly from your Microsoft inbox.
+Fill out and sign a form directly from your Microsoft Outlook inbox.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29764t1?hidetitle=true)

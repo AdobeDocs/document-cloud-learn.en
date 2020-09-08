@@ -8,6 +8,7 @@ activity: Advanced Account Sharing
 skill: Advanced
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 21748.jpg
 ---
 
 # Using Bio-Pharma Settings

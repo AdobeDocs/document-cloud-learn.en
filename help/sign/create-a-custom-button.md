@@ -8,6 +8,7 @@ activity: use
 skill: any
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 17352.jpg
 ---
 
 # Create a Custom Button in Adobe Sign for Salesforce

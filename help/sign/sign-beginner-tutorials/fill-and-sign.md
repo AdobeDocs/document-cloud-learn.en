@@ -8,6 +8,7 @@ activity: use
 skill: beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 33660.jpg
 ---
 
 # Filling and Signing a Document

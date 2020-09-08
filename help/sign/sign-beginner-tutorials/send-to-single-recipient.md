@@ -8,6 +8,7 @@ activity: use
 doc-type: feature video
 skill: beginner
 team: DC Product Marketing Retention and Engagement
+thumbnail: 33659.jpg
 ---
 
 # Sending to a Single Recipient

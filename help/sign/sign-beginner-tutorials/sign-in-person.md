@@ -8,6 +8,7 @@ activity: use
 doc-type: feature video
 skill: beginner
 team: DC Product Marketing Retention and Engagement
+thumbnail: 17362.jpg
 ---
 
 # Getting a Signature In Person

@@ -8,6 +8,7 @@ activity: use
 doc-type: feature video
 skill: advanced
 team: DC Product Marketing Retention and Engagement
+thumbnail: 17347.jpg
 ---
 
 # Setting up Routing Order
