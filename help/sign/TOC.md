@@ -46,7 +46,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Creating and Managing Groups](create-and-manage-groups.md)
     + [Sharing Account Access](share-account-access.md)
     + [Setting up a Workflow](building-a-custom-workflow.md)
-    + [Creating a Template](create-an-agreement-template.md)
+    + [Creating a Template](sign-advanced-users/create-a-template.md)
     + [Setting up an External Archive](set-up-your-external-archive.md)
     + [Setting up Shared Events and Alerts](set-up-shared-events-and-alert.md)
   + Advanced Tasks {#advanced-tasks-admins}
