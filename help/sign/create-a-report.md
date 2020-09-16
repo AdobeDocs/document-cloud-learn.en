@@ -5,7 +5,7 @@ feature: tutorial
 topics: Create a Report
 audience: Admin
 activity: Create a Report
-skill: Advanced
+skill: Beginning
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 thumbnail: 17357.jpg

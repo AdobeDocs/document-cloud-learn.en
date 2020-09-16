@@ -1,8 +1,8 @@
 ---
-title: Getting Up & Running
-description: Up & Running with Adobe Sign
+title: Up & Running for Admins
+description: Up & Running for Admins
 feature: tutorial
-topics: Up & Running with Adobe Sign
+topics: Up & Running for Admins
 audience: Admin
 activity: Set up
 skill: Beginner
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 33657.jpg
 ---
 
-# Getting Up & Running
+# Up & Running for Admins
 
 Overview of 7 key areas for administrators to get up & running quickly in Adobe Sign.
 
