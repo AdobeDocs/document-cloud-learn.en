@@ -12,18 +12,10 @@ team: DC Product Marketing Retention and Engagement
 
 # Advanced tasks for administrators overview
 
-These tutorials cover topics that expand past the admin set up portion and move into defining global settings, creating reports, and advanced account settings.
+These tutorials cover topics that expand past the admin set up portion and move into defining global settings, account access and sharing, and text tagging.
 
 * [Global Settings](learn-about-global-settings.md)
-* [Creating a Report](create-a-report.md)
+* [Sharing Account Access](share-account-access.md)
 * [Advanced Account Sharing](advanced-account-sharing.md)
-* [Creating a Template](create-an-agreement-template.md)
 * [Using Bio-Pharma Settings](use-bio-pharma-settings.md)
 * [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
-
-
-
-
-
-
-

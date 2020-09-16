@@ -41,18 +41,20 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Administer {#admin-set-up}
   + [Overview](intro-admin-overview.md)
   + Getting Started {#getting-started-admin}
-    + [Getting Up and Running](up-and-running-admin.md)
+    + [Up and Running for Admins](up-and-running-admin.md)
+    + [Setting up Shared Events and Alerts](set-up-shared-events-and-alert.md)
     + [Adding Users](add-users-to-your-account.md)
     + [Creating and Managing Groups](create-and-manage-groups.md)
-    + [Sharing Account Access](share-account-access.md)
-    + [Setting up a Workflow](building-a-custom-workflow.md)
-    + [Creating a Template](sign-advanced-users/create-a-template.md)
     + [Setting up an External Archive](set-up-your-external-archive.md)
-    + [Setting up Shared Events and Alerts](set-up-shared-events-and-alert.md)
-  + Advanced Tasks {#advanced-tasks-admins}
+    + [Creating a Template](sign-advanced-users/create-a-template.md)
+    + [Creating a Report](create-a-report.md)
+    + [Set up a Webform](sign-advanced-users/webform.md)
+    + [Collect Signatures in Bulk](sign-advanced-users/megasign.md)
+    + [Setting up a Workflow](building-a-custom-workflow.md)
+ + Advanced Tasks {#advanced-tasks-admins}
     + [Advanced Tasks Administrator Overview](advanced-admin-overview.md)
     + [Global Settings](learn-about-global-settings.md)
-    + [Creating a Report](create-a-report.md)
+    + [Sharing Account Access](share-account-access.md)
     + [Advanced Account Sharing](advanced-account-sharing.md)
     + [Use Bio-Pharma Settings](use-bio-pharma-settings.md)
     + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
