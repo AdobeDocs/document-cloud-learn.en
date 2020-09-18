@@ -51,7 +51,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Set up a Webform](sign-advanced-users/webform.md)
     + [Collect Signatures in Bulk](sign-advanced-users/megasign.md)
     + [Setting up a Workflow](building-a-custom-workflow.md)
- + Advanced Tasks {#advanced-tasks-admins}
+  + Advanced Tasks {#advanced-tasks-admins}
     + [Advanced Tasks Administrator Overview](advanced-admin-overview.md)
     + [Global Settings](learn-about-global-settings.md)
     + [Sharing Account Access](share-account-access.md)
