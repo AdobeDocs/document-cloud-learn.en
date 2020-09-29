@@ -15,4 +15,4 @@ thumbnail: 41205.jpg
 
 Take a quick tour of the Adobe Sign interface to get up and running.
 
->[!VIDEO]https://video.tv.adobe.com/v/41205?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)

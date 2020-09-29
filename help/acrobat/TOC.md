@@ -46,6 +46,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
       + [#1 – Understanding Accessibility (6:42)](industry/gov/understanding-accessibility.md)
       + [#2 – Authoring in Word (2:51)](industry/gov/authoring-in-word.md)
       + [#3 – Finishing in Acrobat (4:37)](industry/gov/finishing-in-acrobat.md)
+      + [Making PDF Ballots More Accessible](industry/gov/making-pdf-ballots-accessible.md)
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
 + Deploy {#deploy}
