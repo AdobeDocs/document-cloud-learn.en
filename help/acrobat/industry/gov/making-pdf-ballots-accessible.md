@@ -12,7 +12,7 @@ team: DC Enterprise Enablement
 
 # Making PDF Ballots More Accessible
 
-[Watch Session] (https://event.on24.com/wcc/r/2620020/599427B9BC7DA6BB34A4D46EB0EB1F63)
+[Watch Session](https://event.on24.com/wcc/r/2620020/599427B9BC7DA6BB34A4D46EB0EB1F63)
 
 Date: 2020-09-10
 
