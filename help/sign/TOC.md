@@ -15,9 +15,9 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Getting Started {#getting-started}
   + [Overview](beginner-users-overview.md)
   + Sending {#getting-started-sending}
+    + [Quick Tour of Adobe Sign](sign-beginner-tutorials/quick-tour.md)
     + [Sending to a Single Recipient](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Sending to Multiple Recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
-    + [Modifying a Document Already Sent for Signature](sign-beginner-tutorials/modify-in-flight.md)
   + Signing {#getting-started-signing}
     + [Electronically Signing a Document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and Signing a Document](sign-beginner-tutorials/fill-and-sign.md)
@@ -26,6 +26,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Signing with a Stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
   + Managing {#getting-started-managing}
     + [Managing and Tracking Documents](sign-beginner-tutorials/manage-and-track.md)
+    + [Modifying a Document Already Sent for Signature](sign-beginner-tutorials/modify-in-flight.md)
 + Advanced Tasks {#advanced-tasks}
   + [Overview](advanced-users-overview.md)
   + Sending {#advanced-tasks-sending}
