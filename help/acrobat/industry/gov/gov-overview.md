@@ -32,3 +32,5 @@ See the Making PDFs Accessible tutorial or select a specific workflow within the
 * [#1 – Understanding Accessibility (6:42)](understanding-accessibility.md)
 * [#2 – Authoring in Word (2:51)](authoring-in-word.md)
 * [#3 – Finishing in Acrobat (4:37)](finishing-in-acrobat.md)
+
+[Making PDF Ballots More Accessible](making-pdf=ballots-accessible.md)

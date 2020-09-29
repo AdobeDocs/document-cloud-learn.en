@@ -120,17 +120,21 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
     <br>
   </td>
   <td>
+    <a href="sign-advanced-users/create-a-template.md">
+      <img alt="Creating a Document Template" src="assets/Template.png" />
+    </a>
+    <div>
+    <a href="sign-advanced-users/create-a-template.md"><strong>Creating a Document Template</strong></a>
+    </div>
+    <br>
+  </td>
+  <td>
     <a href="sign-beginner-tutorials/modify-in-flight.md">
       <img alt="Modifying a Document Already Sent for Signature" src="assets/Modifying-sending.png" />
     </a>
     <div>
     <a href="sign-beginner-tutorials/modify-in-flight.md"><strong>Modifying a Document Already Sent for Signature</strong></a>
     </div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
