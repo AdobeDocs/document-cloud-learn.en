@@ -1,5 +1,5 @@
 ---
-title: Making PDF Ballots More Accesible
+title: Making PDF Ballots More Accessible
 description: Governement Learning
 feature: webinar
 topics: Governement Learning
