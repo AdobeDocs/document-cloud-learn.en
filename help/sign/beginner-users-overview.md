@@ -18,6 +18,15 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
 
 <table>
 <tr>
+ <td>
+    <a href="sign-beginner-tutorials/quick-tour.md">
+      <img alt="Quick Tour of Adobe Sign" src="assets/Quick-Tour.png" />
+    </a>
+    <div>
+    <a href="sign-beginner-tutorials/quick-tour.md"><strong>Quick Tour of Adobe Sign</strong></a>
+    </div>
+    <br>
+  </td>
   <td>
     <a href="sign-beginner-tutorials/send-to-single-recipient.md">
       <img alt="Sending to Single Recipient" src="assets/Send-to-single-recipient.png" />
@@ -33,15 +42,6 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
     </a>
     <div>
     <a href="sign-beginner-tutorials/send-to-multiple-recipients.md"><strong>Sending to Multiple Recipients</strong></a>
-    </div>
-    <br>
-  </td>
-  <td>
-    <a href="sign-beginner-tutorials/modify-in-flight.md">
-      <img alt="Modifying a Document Already Sent for Signature" src="assets/Modifying-sending.png" />
-    </a>
-    <div>
-    <a href="sign-beginner-tutorials/modify-in-flight.md"><strong>Modifying a Document Already Sent for Signature</strong></a>
     </div>
     <br>
   </td>
@@ -120,8 +120,12 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <a href="sign-beginner-tutorials/modify-in-flight.md">
+      <img alt="Modifying a Document Already Sent for Signature" src="assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="sign-beginner-tutorials/modify-in-flight.md"><strong>Modifying a Document Already Sent for Signature</strong></a>
+    </div>
     <br>
   </td>
   <td>
