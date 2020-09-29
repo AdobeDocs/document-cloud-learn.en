@@ -76,21 +76,17 @@ These set of tutorials are for anyone who already knows the basics of sending an
 <table>
 <tr>
   <td>
-    <a href="sign-advanced-users/create-a-template.md"> 
-      <img alt="Creating a Document Template" src="assets/Template.png" />
-    </a>
-    <div>
-    <a href="sign-advanced-users/create-a-template.md"><strong>Creating a Document Template</strong></a>
-    </div>
-    <br>
-  </td>
-  <td>
     <a href="sign-advanced-users/edit-a-template.md">
       <img alt="Managing Document Templates" src="assets/ManageTemplate.png" />
     </a>
     <div>
     <a href="sign-advanced-users/edit-a-template.md"><strong>Managing Document Templates</strong></a>
     </div>
+  <td>
+    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
     <img alt="Spacer" src="assets/Whitespacer.png" />
     <div>
