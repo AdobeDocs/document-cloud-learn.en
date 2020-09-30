@@ -7,7 +7,7 @@ description: A collection of tutorials, webinars, and use cases for Adobe Acroba
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Welcome to the [!DNL Acrobat] Learning Hub. The Adobe Acrobat Learning Hub contains a wide range of learning experiences focused on Adobe Acrobat. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and IT administrators up-to-speed on Adobe Acrobat.
+Welcome to the Adobe Acrobat Learning Hub. You'll find a wide range of learning experiences focused on Adobe Acrobat. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and advanced users up-to-speed on Adobe Acrobat.
 
 ## Learning Paths
 

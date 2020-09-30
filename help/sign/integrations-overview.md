@@ -41,7 +41,7 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
   </td>
   <td>
     <a href="send-for-signature-with-sharepoint-online.md">
-      <img alt="Sending in SharePoint Online" src="assets/MS-SendSP.png" />
+      <img alt="Sending in SharePoint Online" src="assets/Sending-in-SP.png" />
     </a>
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>Sending in SharePoint Online</strong></a>

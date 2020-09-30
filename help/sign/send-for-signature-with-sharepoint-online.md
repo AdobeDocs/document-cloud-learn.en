@@ -8,11 +8,11 @@ activity: use
 skill: any
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
-thumbnail: 29764t1.jpg
+thumbnail: 41263.jpg
 ---
 
 # Sending in SharePoint Online
 
 Send an agreement for signature directly in Sharepoint Online.
 
->[!VIDEO](https://video.tv.adobe.com/v/29764t1?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
