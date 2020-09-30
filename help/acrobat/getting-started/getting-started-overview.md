@@ -18,5 +18,4 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
 * [Edit a PDF in Acrobat DC](edit-pdf.md)
 * [Export a PDF to editable formats](export-pdf.md)
 * [Fill and sign a PDF form](fill-and-sign.md)
-* [Get to know the Acrobat DC interface](interface.md)
 * [Protect a PDF file with a password](password-protect.md)
