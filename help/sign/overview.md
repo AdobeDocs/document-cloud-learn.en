@@ -5,7 +5,7 @@ description: A collection of tutorials, webinars, and use cases for Adobe Sign.
 
 # Adobe Sign Learning Hub
 
-![Adobe Sign Hero Image](Hero_Sign.jpg)
+![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
 
 Welcome to the [!DNL Sign] Learning Hub. The Learning Hub contains a wide range of learning experiences focused on Adobe Sign. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and IT administrators up-to-speed on Adobe Sign.
 
