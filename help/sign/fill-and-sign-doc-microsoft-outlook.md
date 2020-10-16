@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 29764t1.jpg
 ---
 
-# Filling and Signing in Microsoft Outlook
+# Filling and Signing in Outlook
 
 Fill out and sign a form directly from your Microsoft Outlook inbox.
 

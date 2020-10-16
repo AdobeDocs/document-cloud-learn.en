@@ -62,7 +62,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Integrate {#integrations}
   + [Overview](integrations-overview.md)
   + Microsoft {#microsoft}
-    + [Filling and Signing in Microsoft Outlook](fill-and-sign-doc-microsoft-outlook.md)
+    + [Filling and Signing in Outlook](fill-and-sign-doc-microsoft-outlook.md)
     + [Sending in Outlook](send-for-signature-with-outlook.md)
     + [Sending in SharePoint Online](send-for-signature-with-sharepoint-online.md)
     + [Tracking in SharePoint Online](track-an-agreement-with-sharepoint-online.md)

@@ -104,6 +104,7 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
     <div>
     <br>
   </td>
+</tr>  
 </table>
 
 ## Managing
