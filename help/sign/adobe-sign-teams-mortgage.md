@@ -13,8 +13,6 @@ thumbnail: 40125.jpg
 
 # Sending in Microsoft Teams
 
-## Accelerating the Mortgage Loan Process
-
-The Adobe Sign & Microsoft Teams integration enables mortgage brokers to send agreements for signature or check the status of existing agreements, all from within Microsoft Teams. This tight integration will accelerate the mortgage loan process—even when working with mortgage applicants in a remote work environment.
+The Adobe Sign & Microsoft Teams integration enables you to send agreements for signature or check the status of existing agreements, all from within Microsoft Teams. This use case walks through a mortgage broker sending out an loan application directly within Teams. This tight integration accelerates the mortgage loan process—even when working with mortgage applicants in a remote work environment.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
