@@ -13,6 +13,6 @@ thumbnail: 17343.jpg
 
 # Modifying a Document Already Sent for Signature
 
-Learn how to modify an document that's already been sent--like when a document is sent by mistake.
+Learn how to modify a document that's already been sent--like when a document is sent by mistake.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17343?hidetitle=true)
