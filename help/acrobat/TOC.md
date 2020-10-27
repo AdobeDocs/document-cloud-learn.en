@@ -1,6 +1,6 @@
 ---
 user-guide-title: Acrobat Learning Hub
-solution: Acrobat
+solution: Document Cloud, Acrobat DC
 solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
 getting-started-title: Getting Started
