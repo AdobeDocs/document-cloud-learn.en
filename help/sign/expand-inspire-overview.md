@@ -18,7 +18,7 @@ See how you can transform customer and employee e-signing experiences by explori
 <tr>
   <td>
     <a href="sign-usecase/use-case-showcase.md">
-      <img alt="Use Case Showcase" src="assets/UseCaseShowcase.png" />
+      <img alt="Use Case Showcase" src="assets/UseCaseShowcaseR.png" />
     </a>
     <div>
     <a href="sign-usecase/use-case-showcase.md"><strong>Use Case Showcase</strong></a>
@@ -34,7 +34,7 @@ See how you can transform customer and employee e-signing experiences by explori
   </td>
   <td>
     <a href="sign-usecase/recipes.md">
-      <img alt="Use case recipes" src="assets/Expand_Recipe.png" />
+      <img alt="Use case recipes" src="assets/Expand_RecipeR.png" />
     </a>
     <div>
     <a href="sign-usecase/recipes.md"><strong>Use Case Recipes</strong></a>
