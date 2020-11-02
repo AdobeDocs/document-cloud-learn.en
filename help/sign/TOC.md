@@ -78,7 +78,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + [Overview](expand-inspire-overview.md)
   + Use Case {#use-case}
     + [Showcase](sign-usecase/use-case-showcase.md)
-    + [Recipes](sign-usecase/recipes.md)
+    + Recipes {#recipes}
+    + [Overview](sign-usecase/recipes.md)
     + Government {#gov}
       + [Business Grants and Loans](sign-usecase/usecasegovgrants.md)
       + [Telework Agreement](sign-usecase/usecasegovtelework.md)

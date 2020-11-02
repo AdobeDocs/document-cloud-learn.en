@@ -20,7 +20,7 @@ Click to view how to set up these e-signature use cases.
 <tr>
   <td>
     <a href="usecasegovgrants.md">
-      <img alt="Business Grants and Loans" src="../assets/UC_Webforms.png" />
+      <img alt="Business Grants and Loans" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
     <a href="usecasegovgrants.md"><strong>Business Grants and Loans</strong></a>
@@ -30,7 +30,7 @@ Click to view how to set up these e-signature use cases.
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="Telework Agreement" src="../assets/UC_Megasign.png" />
+      <img alt="Telework Agreement" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
     <a href="usecasegovtelework.md"><strong>Telework Agreement</strong></a>
@@ -40,7 +40,7 @@ Click to view how to set up these e-signature use cases.
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="Contracts and Requisition Forms" src="../assets/UC_Workflow.png" />
+      <img alt="Contracts and Requisition Forms" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
     <a href="usecasegovcontracts.md"><strong>Contracts and Requisition Forms</strong></a>
@@ -52,7 +52,7 @@ Click to view how to set up these e-signature use cases.
 <tr>
   <td>
     <a href="usecasegovreemployment.md">
-      <img alt="Reemployment Assistance" src="../assets/UC_Webforms.png" />
+      <img alt="Reemployment Assistance" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
     <a href="usecasegovreemployment.md"><strong>Reemployment Assistance</strong></a>
@@ -62,7 +62,7 @@ Click to view how to set up these e-signature use cases.
   </td>
   <td>
     <a href="usecasegovpaycheck.md">
-      <img alt="Paycheck Protection" src="../assets/UC_PaycheckProtection.png" />
+      <img alt="Paycheck Protection" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
     <a href="usecasegovpaycheck.md"><strong>Paycheck Protection</strong></a>
@@ -72,7 +72,7 @@ Click to view how to set up these e-signature use cases.
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="Remote Warrant Request" src="../assets/UC_Remote_Warrant.png" />
+      <img alt="Remote Warrant Request" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
     <a href="usecasegovremote.md"><strong>Remote Warrant Request</strong></a>
