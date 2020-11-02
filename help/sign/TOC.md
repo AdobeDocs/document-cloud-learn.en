@@ -77,15 +77,15 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Expand and Inspire {#expand}
   + [Overview](expand-inspire-overview.md)
   + Use Case {#use-case}
-    + [Showcase](UseCase/use-case-showcase.md)
-    + [Recipes](UseCase/recipes.md)
+    + [Showcase](usecase/use-case-showcase.md)
+    + [Recipes](usecase/recipes.md)
     + Government {#gov}
-      + [Business Grants and Loans](UseCase/UseCaseGovGrants.md)
-      + [Telework Agreement](UseCase/UseCaseGovTelework.md)
-      + [Contracts and Requisition Forms](UseCase/UseCaseGovContracts.md)
-      + [Reemployment Assistance](UseCase/UseCaseGovReemployment.md)
-      + [Paycheck Protection](UseCase/UseCaseGovPaycheck.md)
-      + [Remote Warrant Request](UseCase/UseCaseGovRemote.md)
+      + [Business Grants and Loans](usecase/usecasegovgrants.md)
+      + [Telework Agreement](usecase/usecasegovtelework.md)
+      + [Contracts and Requisition Forms](usecase/usecasegovcontracts.md)
+      + [Reemployment Assistance](usecase/usecasegovreemployment.md)
+      + [Paycheck Protection](usecase/usecasegovpaycheck.md)
+      + [Remote Warrant Request](usecase/usecasegovremote.md)
   + Innovation Series {#innovation}
     + [Webinars](innovation-series.md)
 + Develop {#develop}
