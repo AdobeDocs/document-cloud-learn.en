@@ -29,11 +29,11 @@ Click to view how to set up these e-signature use cases.
     <br>
   </td> 
   <td>
-    <a href="UseCaseGovGrants.md">
+    <a href="UseCaseGovTelework.md">
       <img alt="Telework Agreement" src="assets/UC_Megasign.png" />
     </a>
     <div>
-    <a href="UseCaseGovGrants.md"><strong>Telework Agreement</strong></a>
+    <a href="UseCaseGovTelework.md"><strong>Telework Agreement</strong></a>
     </div>
     <em>Efficiently collect signatures from all your employees on telework agreements, policy updates, and more</em>
     <br>
