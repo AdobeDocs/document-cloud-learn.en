@@ -18,7 +18,7 @@ Date: 2020-11-05
 
 Focus: Adobe is transitioning its former domain, echosign.com, to Adobe Sign. Before you switch domains, further actions may be required if your organization uses specific features or configurations. Join us for the Innovation Series webinar to learn more about the domain name change and what actions you need to take to make the switch.
 
-##
+## Create Reusable Templates
 
 [Watch Session](https://event.on24.com/wcc/r/2610633/A35E5A376EA0FBCF5BCAF2EAA72EBA89?partnerref=EXL)
 

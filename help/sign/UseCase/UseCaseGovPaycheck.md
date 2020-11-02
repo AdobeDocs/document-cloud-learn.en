@@ -15,4 +15,4 @@ thumbnail:
 
 See how you can use Adobe Sign to convert the Payment Protection Program form into an online interactive form.
 
->[!VIDEO](https://www.youtube.com/embed/ikOJg4e_S3Q)
+[Payment Capture Interactive Walkthrough](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)
