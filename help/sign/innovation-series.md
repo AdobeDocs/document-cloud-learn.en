@@ -10,9 +10,25 @@ sub-product: Innovation Series
 
 The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about. This monthly webinar series was designed exclusively for our customers and will discuss new releases, integrations, and review features you already have access to. Each month a new topic will be highlighted.
 
+## Domain Name Change
+
+[Register for session](https://event.on24.com/wcc/r/2706474/A969A2147FBE327B6905D19ED66B007A?partnerref=EXL)
+
+Date: 2020-11-05
+
+Focus: Adobe is transitioning its former domain, echosign.com, to Adobe Sign. Before you switch domains, further actions may be required if your organization uses specific features or configurations. Join us for the Innovation Series webinar to learn more about the domain name change and what actions you need to take to make the switch.
+
+##
+
+[Watch Session](https://event.on24.com/wcc/r/2610633/A35E5A376EA0FBCF5BCAF2EAA72EBA89?partnerref=EXL)
+
+Date: 2020-10
+
+Focus: Learn just how easy it is to create reusable templates for the documents you use most. You’ll learn how to save time and effort while reducing errors across the whole team.
+
 ## Adobe Sign 11.3 Release Details
 
-[Watch Session] (https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-11-3-release-details.html)
+[Watch Session](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-11-3-release-details.html)
 
 Date: 2020-09-10
 
@@ -20,7 +36,7 @@ Focus: Learn what's new in the Adobe Sign 11.3 release.
 
 ## Power up business workflows with Adobe Sign and Microsoft Power Apps
 
-[Watch Session] (https://event.on24.com/wcc/r/2441915/BF8E21409D15697E7531DAA0308EC4480
+[Watch Session](https://event.on24.com/wcc/r/2441915/BF8E21409D15697E7531DAA0308EC4480
 
 Date: 2020-08-06
 

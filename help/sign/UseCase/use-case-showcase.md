@@ -15,9 +15,17 @@ Below are recordings of the latest sessions:
 
 ## 2020 Sessions by Industry
 
+### Legal
+
+[Watch Legal Session](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL)
+
+2020-10
+
+Focus: Our panelists discuss how legal departments are managing the shift to fully remote document processes. Whether you’re just starting out or have already digitized some workflows, Adobe Sign can amplify your team’s productivity at every phase of digital transformation.
+
 ### Sales
 
-[Register for Sales](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html)
+[Watch Sales Session](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html)
 
 2020-09-24
 

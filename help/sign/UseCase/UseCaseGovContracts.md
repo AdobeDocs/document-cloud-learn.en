@@ -1,0 +1,20 @@
+---
+title: Contracts and Requisition Forms
+description: Use Case Tutorial
+feature: tutorial
+topics: Contracts and Requisition Forms
+audience: Admin
+activity: Contracts and Requisition Forms
+skill: Beginning
+doc-type: feature video
+team: DC Product Marketing Retention and Engagement
+thumbnail:
+---
+
+# Contracts and Requisition Forms
+
+Quickly replace paper processing with compliant digital workflows, complete with audit reports.
+
+>[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
+
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
