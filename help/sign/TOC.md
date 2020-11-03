@@ -87,6 +87,9 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
       + [Reemployment Assistance](sign-usecase/usecasegovreemployment.md)
       + [Paycheck Protection](sign-usecase/usecasegovpaycheck.md)
       + [Remote Warrant Request](sign-usecase/usecasegovremote.md)
+    + Commercial {#com}
+      + [Contracts and Requisition Forms](sign-usecase/usecasecomcontracts.md)
+      + [Policy Agreements](sign-usecase/usecasecompolicy.md)
   + Innovation Series {#innovation}
     + [Webinars](innovation-series.md)
 + Develop {#develop}
