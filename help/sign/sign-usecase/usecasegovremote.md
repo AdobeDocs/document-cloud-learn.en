@@ -17,4 +17,6 @@ Use e-signatures and web conferencing together to reduce the time it takes to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/33813?hidetitle=true)
 
+Click to download PDF recipe for remote warrant request.
+
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

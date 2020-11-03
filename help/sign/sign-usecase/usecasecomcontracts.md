@@ -1,5 +1,5 @@
 ---
-title: Government Contracts and Requisition Forms
+title: Contracts and Requisition Forms
 description: Use Case Tutorial
 feature: tutorial
 topics: Contracts and Requisition Forms
@@ -11,12 +11,12 @@ team: DC Product Marketing Retention and Engagement
 thumbnail:
 ---
 
-# Government Contracts and Requisition Forms
+# Contracts and Requisition Forms
 
 Quickly replace paper processing with compliant digital workflows, complete with audit reports.
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
 
 Click to download PDF recipe for contracts and requisition forms.
 
-[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

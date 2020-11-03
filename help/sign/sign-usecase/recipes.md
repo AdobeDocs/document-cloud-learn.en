@@ -82,3 +82,35 @@ Click to view how to set up these e-signature use cases.
   </td>
 </tr>
 </table>
+
+## Commercial Use Cases
+
+<table>
+<tr>
+  <td>
+    <a href="usecasecomcontracts.md">
+      <img alt="Contracts and Requisition Forms" src="../assets/UC_WebformsR.png" />
+    </a>
+    <div>
+    <a href="usecasecomcontracts.md"><strong>Contracts and Requisition Forms</strong></a>
+    </div>
+    <em>Quickly replace paper processing with compliant digital workflows, complete with audit reports</em>
+    <br>
+  </td> 
+  <td>
+    <a href="usecasecompolicy.md">
+      <img alt="Policy Agreements" src="../assets/UC_MegasignR.png" />
+    </a>
+    <div>
+    <a href="usecasecompolicy.md"><strong>Policy Agreements</strong></a>
+    </div>
+    <em>Efficiently collect signatures from all your employees on telework agreements, policy updates, and more</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
