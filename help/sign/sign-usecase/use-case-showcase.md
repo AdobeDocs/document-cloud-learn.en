@@ -15,11 +15,19 @@ Below are recordings of the latest sessions:
 
 ## 2020 Sessions by Industry
 
+### Government
+
+[Register for Government Session](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL)
+
+Date: 12-03-2020
+
+Focus: Our expert panelists will cover best practices and a variety of government-specific use cases to show you how Adobe Sign can help your team save time, money, and resources while staying compliant and secure.
+
 ### Legal
 
 [Watch Legal Session](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL)
 
-2020-10
+Date: 10-29-2020
 
 Focus: Our panelists discuss how legal departments are managing the shift to fully remote document processes. Whether you’re just starting out or have already digitized some workflows, Adobe Sign can amplify your team’s productivity at every phase of digital transformation.
 
@@ -27,7 +35,7 @@ Focus: Our panelists discuss how legal departments are managing the shift to ful
 
 [Watch Sales Session](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html)
 
-2020-09-24
+Date: 09-24-2020
 
 Focus: Adobe experts will highlight best practices for successful digital transformation in procurement, and the discussion will cover industry trends and requirements for delivering excellent user experiences.
 
@@ -35,7 +43,7 @@ Focus: Adobe experts will highlight best practices for successful digital transf
 
 [Watch Procurement & Logistics Session](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6)
 
-2020-08-27
+Date: 08-27-2020
 
 Focus: How Adobe Sign works in procurement & logistics.
 
@@ -43,7 +51,7 @@ Focus: How Adobe Sign works in procurement & logistics.
 
 [Watch HR Applications Session](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D)
 
-2020-07-30
+Date: 07-30-2020
 
 Focus: How Adobe Sign works in various HR applications.
 
@@ -51,7 +59,7 @@ Focus: How Adobe Sign works in various HR applications.
 
 [Watch State and Local Government Session](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D)
 
-2020-06-25
+Date: 06-25-2020
 
 Focus: How Adobe Sign works in State and Local Government.
 
@@ -59,7 +67,7 @@ Focus: How Adobe Sign works in State and Local Government.
 
 [Watch Education Session](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7)
 
-2020-05-28
+Date: 05-28-2020
 
 Focus: How Adobe Sign works for Education.
 
@@ -67,7 +75,7 @@ Focus: How Adobe Sign works for Education.
 
 [Watch Life Science Session](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6)
 
-2020-04-30
+Date: 04-30-2020
 
 Focus: How Adobe Sign works for Life Sciences.
 
@@ -82,7 +90,7 @@ Topics:
 
 [Watch Health Care Session](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE)
 
-2020-03-26
+Date: 03-26-2020
 
 Focus: How Adobe Sign works for healthcare.
 
@@ -94,7 +102,7 @@ Topics:
 
 [Watch Financial Services Session](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992)
 
-Date: 2020-02-27
+Date: 02-27-2020
 
 Focus: How Adobe Sign works for Banking.
 
@@ -109,7 +117,7 @@ Topics:
 
 [Watch Insurance Session](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6)
 
-Date: 2020-01-23
+Date: 01-23-2020
 
 Focus: How Adobe Sign works for Financial Services and Insurance.
 
