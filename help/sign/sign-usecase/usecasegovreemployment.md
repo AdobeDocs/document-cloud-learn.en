@@ -17,4 +17,6 @@ Help citizens get the help they need without standing in line with all-digital a
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?hidetitle=true)
 
+Click to download PDF recipe for reemployment assistance.
+
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)
