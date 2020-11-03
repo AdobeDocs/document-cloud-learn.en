@@ -17,4 +17,6 @@ Provide fast assistance to businesses by providing self-serve access to grant, l
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
 
+Click to download PDF recipe for business grants and loans.
+
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

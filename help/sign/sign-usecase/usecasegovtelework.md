@@ -17,4 +17,6 @@ Efficiently collect signatures from all your employees on telework agreements, p
 
 >[!VIDEO](https://video.tv.adobe.com/v/33808?hidetitle=true)
 
+Click to download PDF recipe for telework agreements.
+
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
