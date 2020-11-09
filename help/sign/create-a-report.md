@@ -13,6 +13,6 @@ thumbnail: 17357.jpg
 
 # Creating a Report
 
-Learn how to run, save, and schedule reports through your dashboard.
+Learn how to run, save, and schedule reports in Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
