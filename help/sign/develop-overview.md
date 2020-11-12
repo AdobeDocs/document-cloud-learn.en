@@ -32,8 +32,11 @@ team: DC Product Marketing Retention and Engagement
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html"><strong>Learn what you can do</strong></a>
     <br>
   <td>
-  <img alt="Spacer" src="assets/Whitespacer.png" />
+    <a href="gigasign.md">
+      <img alt="Gather High-Volume Documents using GigaSign" src="assets/gigasign.jpg" />
+    </a>
     <div>
+    <a href="gigasign.md"><strong>Gather High-Volume Documents using GigaSign</strong></a>
     <br>
   </td>
 </tr>
