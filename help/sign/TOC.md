@@ -94,6 +94,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Webinars](innovation-series.md)
 + Develop {#develop}
   + [Overview](develop-overview.md)
+  + Custom APIs {#custom}
+    + [GigaSign](gigasign.md)
 + Deploy  {#deploy}
   + [Overview](deploy-overview.md)
 + Mobile  {#mobile}
