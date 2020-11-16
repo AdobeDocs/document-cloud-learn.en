@@ -15,20 +15,20 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
 <tr>
   <td>
     <a href="beginner-users-overview.md">
-      <img alt="Getting started" src="assets/AS_Title_Getting-Started.png" />
+      <img alt="Getting Started" src="assets/AS_Title_Getting-Started.png" />
     </a>
     <div>
-    <a href="beginner-users-overview.md"><strong>Getting started</strong></a>
+    <a href="beginner-users-overview.md"><strong>Getting Started</strong></a>
     </div>
     <em>Get up-to-speed on how to send, sign, and track documents</em>
     <br>
   </td>
   <td>
     <a href="advanced-users-overview.md">
-      <img alt="Advanced tasks" src="assets/AS_Title_Advanced.png" />
+      <img alt="Advanced Tasks" src="assets/AS_Title_Advanced.png" />
     </a>
     <div>
-    <a href="advanced-users-overview.md"><strong>Advanced tasks</strong></a>
+    <a href="advanced-users-overview.md"><strong>Advanced Tasks</strong></a>
     </div>
     <em>Go beyond the basics with specific tasks and automation</em>
     <br>
@@ -56,10 +56,10 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
   </td>
   <td>
     <a href="expand-inspire-overview.md">
-      <img alt="Advanced tasks" src="assets/AS_Title_Inspire.png" />
+      <img alt="Expand and Inspire" src="assets/AS_Title_Inspire.png" />
     </a>
     <div>
-    <a href="expand-inspire-overview.md"><strong>Expand and inspire</strong></a>
+    <a href="expand-inspire-overview.md"><strong>Expand and Inspire</strong></a>
     </div>
     <em>Explore real-world use cases and recipes to imagine the possibilities</em>
     <br>
