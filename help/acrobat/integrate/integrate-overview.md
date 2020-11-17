@@ -1,5 +1,5 @@
 ---
-title: Industry overview
+title: Integrate overview
 description: A collection of tutorials, webinars, and use cases for Adobe Acrobat.
 ---
 
