@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Tutorials
-description: Mobile Overview
+title: Mobile overview
+description: Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device.
 feature: tutorial
 topics: Adobe Sign for Mobile
 audience: User

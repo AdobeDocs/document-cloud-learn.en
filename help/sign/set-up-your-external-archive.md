@@ -1,6 +1,6 @@
 ---
 title: Setting up your External Archive
-description: Advanced Admin Tutorial
+description: Learn how you can monitor the status of agreements through alerts and events settings.
 feature: tutorial
 topics: Set up your External Archive
 audience: Admin
@@ -12,7 +12,7 @@ team: DC Product Marketing Retention and Engagement
 
 # Setting up your External Archive
 
-Learn how you can monitor the status of agreements through alerts and events settings
+Learn how you can monitor the status of agreements through alerts and events settings.
 
 Set up your external archive
 Archive copies of signed agreements to any email address or to Box and Evernote. A copy of the Signed and Filed email is sent to either the email address you provide or to the service you set up.

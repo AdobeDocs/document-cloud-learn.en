@@ -1,6 +1,6 @@
 ---
 title: Creating and Managing Groups
-description: Create and Manage Groups
+description: Learn how to create groups, add users to groups, and edit group settings.
 feature: tutorial
 topics: Create and Manage Groups
 audience: Admin

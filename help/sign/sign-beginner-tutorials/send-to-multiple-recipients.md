@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Sending to Multiple Recipients
 description: Request signature from a multiple recipients tutorial
 feature: tutorial
 topics: Sending to Multiple Recipients

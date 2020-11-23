@@ -1,6 +1,6 @@
 ---
 title: Reemployment Assistance
-description: Use Case Tutorial
+description: Help citizens get the help they need without standing in line with all-digital application forms that can go live in days.
 feature: tutorial
 topics: Reemployment Assistance
 audience: Admin

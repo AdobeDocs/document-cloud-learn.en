@@ -1,6 +1,6 @@
 ---
-title: Innovation Series
-description: Adobe Sign Innovation Series webinar
+title: Adobe Sign Innovation Series
+description: The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about.
 sub-product: Innovation Series
 ---
 
@@ -12,7 +12,7 @@ The Adobe Sign Innovation Series are 30-minute sessions packed with content that
 
 ## Adobe Sign Innovation Series Year in Review: Adapting to telework
 
-[Register for session](https://event.on24.com/wcc/r/2807465/CA7E35087BE2CAE41B4F7252DCE56EEB?partnerref=EXL)
+[Register for Session](https://event.on24.com/wcc/r/2807465/CA7E35087BE2CAE41B4F7252DCE56EEB?partnerref=EXL)
 
 Date: 12-10-2020
 
@@ -20,7 +20,7 @@ Focus: 2020 was a year that required us all to adapt to unforeseeable circumstan
 
 ## Domain Name Change
 
-[Register for session](https://event.on24.com/wcc/r/2706474/A969A2147FBE327B6905D19ED66B007A?partnerref=EXL)
+[Watch Session](https://event.on24.com/wcc/r/2706474/A969A2147FBE327B6905D19ED66B007A?partnerref=EXL)
 
 Date: 11-05-2020
 

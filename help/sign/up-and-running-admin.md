@@ -1,6 +1,6 @@
 ---
 title: Up & Running for Admins
-description: Up & Running for Admins
+description: Overview of 7 key areas for administrators to get up & running quickly in Adobe Sign.
 feature: tutorial
 topics: Up & Running for Admins
 audience: Admin

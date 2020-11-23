@@ -1,6 +1,6 @@
 ---
 title: Sending in Outlook
-description: Microsoft Integrations
+description: Send an agreement for signature from inside Microsoft Outlook.
 feature: tutorial
 topics: Send for Signature with Outlook
 audience: user or admin

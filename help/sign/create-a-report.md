@@ -1,6 +1,6 @@
 ---
 title: Creating a Report
-description: Advanced Admin Tutorial
+description: Learn how to run, save, and schedule reports in Adobe Sign.
 feature: tutorial
 topics: Create a Report
 audience: Admin

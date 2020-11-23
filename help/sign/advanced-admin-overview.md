@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Tutorials
-description: Advanced Administrators Overview
+title: Advanced tasks for administrators overview
+description: These tutorials cover topics that expand past the admin set up portion and move into defining global settings, account access and sharing, and text tagging.
 feature: tutorial
 topics: Advanced Administrators Overview
 audience: Admin

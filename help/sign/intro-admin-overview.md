@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Tutorials
-description: Intro Admin Tutorial
+title: Getting Started for Administrators
+description: Learn the fundamentals of adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts.
 feature: tutorial
 topics: Getting Started for Administrators
 audience: Admin

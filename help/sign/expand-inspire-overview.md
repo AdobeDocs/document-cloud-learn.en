@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Tutorials
-description: Expand and inspire overview
+title: Expand and inspire overview
+description: See how you can transform customer and employee e-signing experiences by exploring use cases and inspirational ideas
 feature: tutorial
 topics: Innovation Use Case
 audience: User

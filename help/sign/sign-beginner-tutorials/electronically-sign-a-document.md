@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Electronically Signing a Document
 description: Electronically Sign a document tutorial demonstrates the most basic Adobe Sign use case for beginner users
 feature: tutorial
 topics: Electronically Signing a Document

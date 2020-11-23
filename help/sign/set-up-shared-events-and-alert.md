@@ -1,6 +1,6 @@
 ---
 title: Setting up Shared Events and Alerts
-description: Advanced Admin Tutorial
+description: Learn about shared events and alert settings in Adobe Sign.
 feature: tutorial
 topics: Set up Shared Events and Alerts
 audience: Admin

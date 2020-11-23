@@ -1,6 +1,6 @@
 ---
 title: Telework Agreement
-description: Use Case Tutorial
+description: Efficiently collect signatures from all your employees on telework agreements, policy updates, and more.
 feature: tutorial
 topics: Telework Agreement
 audience: Admin

@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Sending to a Single Recipient
 description: Request signature from a single recipient tutorial
 feature: tutorial
 topics: Sending to a Single Recipient

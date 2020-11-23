@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Sign with a Stamp
 description: Sign with a Stamp tutorial
 feature: tutorial
 topics: Sign with a Stamp

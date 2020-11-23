@@ -1,6 +1,6 @@
 ---
 title: Getting Started Overview
-description: Beginner tutorials
+description: Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step tutorials.
 feature: tutorial
 topics: Electronically Sign and Send documents for signature
 audience: user

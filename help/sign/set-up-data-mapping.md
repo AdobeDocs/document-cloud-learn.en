@@ -1,6 +1,6 @@
 ---
 title: Setting up Data Mapping
-description: Salesforce Integrations
+description: Learn how to set up a data mapping for Adobe Sign in Salesforce.
 feature: tutorial
 topics: Set up Data Mapping
 audience: user or admin

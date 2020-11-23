@@ -1,6 +1,6 @@
 ---
 title: Remote Warrant Request
-description: Use Case Tutorial
+description: Use e-signatures and web conferencing together to reduce the time it takes to request and secure warrants from judges.
 feature: tutorial
 topics: Remote Warrant Request
 audience: Admin
