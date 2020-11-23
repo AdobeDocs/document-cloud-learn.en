@@ -1,6 +1,6 @@
 ---
 title: Gather High-Volume Documents using GigaSign
-description: Advanced Admin Tutorial
+description: Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time.
 feature: tutorial
 topics: Sending
 audience: Admin

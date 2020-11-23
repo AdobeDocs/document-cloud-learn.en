@@ -1,6 +1,6 @@
 ---
 title: Global Settings
-description: Advanced Admin Tutorial
+description: Learn how to edit settings globally or for groups.
 feature: tutorial
 topics: Learn about Global Settings
 audience: Admin

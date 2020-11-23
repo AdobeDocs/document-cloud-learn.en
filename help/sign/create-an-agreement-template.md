@@ -1,6 +1,6 @@
 ---
 title: Creating a Document Template in Adobe Sign for Salesforce
-description: Advanced Admin Tutorial
+description: Learn how to create an agreement template for Adobe Sign in Salesforce.
 feature: tutorial
 topics: Create an Agreement Template
 audience: Admin

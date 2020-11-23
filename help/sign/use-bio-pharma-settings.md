@@ -1,6 +1,6 @@
 ---
 title: Using Bio-Pharma Settings
-description: Advanced Admin Tutorial
+description: Learn about Bio-pharma settings that allow you to configure Adobe Sign to meet FDA 21 CFR Part 11 requirements.
 feature: tutorial
 topics: Advanced Account Sharing
 audience: Admin

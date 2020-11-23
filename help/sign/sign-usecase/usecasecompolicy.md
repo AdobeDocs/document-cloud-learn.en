@@ -1,6 +1,6 @@
 ---
 title: Policy Agreements
-description: Use Case Tutorial
+description: Efficiently collect signatures from all your employees on Policy Agreements, policy updates, and more.
 feature: tutorial
 topics: Policy Agreements
 audience: Admin

@@ -1,6 +1,6 @@
 ---
 title: Sharing Account Access
-description: Share Account Access
+description: Learn how to obtain view-only access to transactions in another user's account.
 feature: tutorial
 topics: Share Account Access
 audience: Admin

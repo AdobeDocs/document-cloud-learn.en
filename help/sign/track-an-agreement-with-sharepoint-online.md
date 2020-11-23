@@ -1,6 +1,6 @@
 ---
 title: Tracking in SharePoint Online
-description: Microsoft Integrations
+description: Track the progress of an agreement through Sharepoint.
 feature: tutorial
 topics: Track an Agreement with SharePoint Online
 audience: user or admin

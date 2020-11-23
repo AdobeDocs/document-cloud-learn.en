@@ -1,6 +1,6 @@
 ---
 title: Government Contracts and Requisition Forms
-description: Use Case Tutorial
+description: Quickly replace paper processing with compliant digital workflows, complete with audit reports.
 feature: tutorial
 topics: Contracts and Requisition Forms
 audience: Admin

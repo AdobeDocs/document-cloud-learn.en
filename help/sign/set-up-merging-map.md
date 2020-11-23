@@ -1,6 +1,6 @@
 ---
 title: Setting up Merge Mapping
-description: Salesforce Integrations
+description: Learn how to set up a merge mapping for Adobe Sign in Salesforce.
 feature: tutorial
 topics: Set up Merging Map
 audience: user or admin

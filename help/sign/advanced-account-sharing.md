@@ -1,6 +1,6 @@
 ---
 title: Advanced Account Sharing
-description: Advanced Admin Tutorial
+description: Advanced account sharing allows admins and users to delegate their send, modify, and view permissions.
 feature: tutorial
 topics: Advanced Account Sharing
 audience: Admin

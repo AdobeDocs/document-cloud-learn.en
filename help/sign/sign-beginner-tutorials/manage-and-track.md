@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign Tutorials
+title: Managing and tracking documents
 description: Manage and track agreements sent for signature document tutorial
 feature: tutorial
 topics: Managing and tracking documents

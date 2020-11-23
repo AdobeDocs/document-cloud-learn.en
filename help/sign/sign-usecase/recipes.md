@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Tutorials
-description: Use Case Recipes
+title: Use Case Recipes
+description: Learn how to set up these e-signature use cases.
 feature: tutorial
 topics: Use Case Recipes
 audience: User

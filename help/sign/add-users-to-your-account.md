@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Tutorials
-description: Add Users to Your Account
+title: Adding Users
+description: Learn how to add users individually or in bulk to your Adobe Sign account.
 feature: tutorial
 topics: Adding Users
 audience: Admin

@@ -1,6 +1,6 @@
 ---
 title: Paycheck Protection
-description: Use Case Tutorial
+description: See how you can use Adobe Sign to convert the Payment Protection Program form into an online interactive form.
 feature: tutorial
 topics: Paycheck Protection
 audience: Admin
