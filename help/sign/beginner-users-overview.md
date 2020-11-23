@@ -10,7 +10,7 @@ skill: beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Getting started overview
+# Getting Started Overview
 
 Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step tutorials. From signing a document yourself to requesting a signature from one or multiple recipient(s), this content is designed to ease you into e-signature workflows.
 
@@ -100,7 +100,7 @@ Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step t
     <br>
   </td> 
   <td>
-    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>
