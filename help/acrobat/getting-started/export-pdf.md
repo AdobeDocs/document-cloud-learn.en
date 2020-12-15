@@ -1,6 +1,6 @@
 ---
-title: Acrobat Tutorials
-description: Export a PDF to Microsoft Office
+title: Export a PDF to Microsoft Office
+description: Learn how to use Acrobat DC to export your PDF files to editable formats
 feature: tutorial
 topics: Export a PDF to Microsoft Office
 audience: User

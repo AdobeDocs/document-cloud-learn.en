@@ -1,6 +1,6 @@
 ---
-title: Acrobat Tutorials
-description: Edit a PDF
+title: Edit a PDF in Acrobat DC
+description: Learn how to use Acrobat DC to edit text and images in PDF files
 feature: tutorial
 topics: Edit a PDF
 audience: User

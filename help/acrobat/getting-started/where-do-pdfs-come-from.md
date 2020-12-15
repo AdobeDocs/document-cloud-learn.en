@@ -1,6 +1,6 @@
 ---
-title: Acrobat Tutorials
-description: Where do PDFs come from?
+title: Where do PDFs come from?
+description: Understand where PDFs come from and their uses
 feature: tutorial
 topics: Where do PDFs come from?
 audience: User

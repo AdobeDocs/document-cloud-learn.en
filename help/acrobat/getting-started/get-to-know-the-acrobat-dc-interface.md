@@ -1,6 +1,6 @@
 ---
-title: Acrobat Tutorials
-description: Get to know the Acrobat DC interface
+title: Get to know the Acrobat DC interface
+description: See how the Adobe Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile
 feature: tutorial
 topics: Get to know the Acrobat DC interface
 audience: User

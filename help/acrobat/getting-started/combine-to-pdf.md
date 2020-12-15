@@ -1,6 +1,6 @@
 ---
-title: Acrobat Tutorials
-description: Combine files into a single PDF
+title: Combine files into a single PDF
+description: You can combine many different types of files into a single PDF
 feature: tutorial
 topics: Combine files into a single PDF
 audience: User
