@@ -1,6 +1,6 @@
 ---
-title: Acrobat Tutorials
-description: Protect a PDF file with a password
+title: Protect a PDF file with a password
+description: Learn how to add a password to your PDF to protect others from opening or editing the file
 feature: tutorial
 topics: Protect a PDF file with a password
 audience: User

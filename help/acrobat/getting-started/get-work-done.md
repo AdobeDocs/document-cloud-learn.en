@@ -1,5 +1,5 @@
 ---
-title: Acrobat Tutorials
+title: Acrobat Get Work Done Webinars
 description: Skill Builders Webinars
 feature: tutorial
 topics: Acrobat Skill Builders

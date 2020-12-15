@@ -1,6 +1,6 @@
 ---
-title: Acrobat Tutorials
-description: Create PDFs in Acrobat DC
+title: Create PDFs in Acrobat DC
+description: Create PDFs from all kinds of documents
 feature: tutorial
 topics: Create PDFs in Acrobat DC
 audience: User

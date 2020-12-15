@@ -1,6 +1,6 @@
 ---
-title: Acrobat Tutorials
-description: Comment on PDFs in Acrobat DC
+title: Comment on PDFs in Acrobat DC
+description: Learn how to use Acrobat DC to add comments to a PDF file
 feature: tutorial
 topics: Comment on PDFs in Acrobat DC
 audience: User
