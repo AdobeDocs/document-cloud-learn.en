@@ -7,3 +7,33 @@ description: A collection of tutorials, webinars, and use cases for Adobe Acroba
 
 Go beyond the basics by using these advanced tools in Acrobat.
 
+## Acrobat Tutorials
+
+<table>
+<tr>
+  <td>
+    <a href="action.md">
+      <img alt="Actions Wizard" src="../assets/ActionWizard_thumbnail.png" />
+    </a>
+    <div>
+    <a href="action.md"><strong>Actions Wizard</strong></a>
+    </div>
+    <em>Create an action to automatically apply a set of commands to one or multiple files</em>
+    <br>
+  </td>
+  <td>
+    <a href="redact.md">
+      <img alt="Redact & Sanitize" src="../assets/RedactThumbnail.png" />
+    </a>
+    <div>
+    <a href="redact.md"><strong>Redact & Sanitize</strong></a>
+    </div>
+    <em>Permanently remove private or sensitive information from your PDF</em>
+    <br>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+

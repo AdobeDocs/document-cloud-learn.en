@@ -20,7 +20,7 @@ Welcome to the Adobe Acrobat Learning Hub. You'll find a wide range of learning 
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>Getting started</strong></a>
     </div>
-    <em>Get up-to-speed on how to create, edit, convert, protect, and more with PDF files.</em>
+    <em>Get up-to-speed on how to create, edit, convert, protect, and more with PDF files</em>
     <br>
   </td>
   <td>
