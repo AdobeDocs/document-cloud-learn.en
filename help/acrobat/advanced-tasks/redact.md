@@ -33,11 +33,11 @@ comments, metadata, or hidden layers. *Available in Acrobat Pro DC only*.
 
 1. To find specific content to redact, select **Redact Text & Images, Find Text & Redact**.
 
-Use the cursor to select the content to redact and see a preview of the redaction by hovering over the selected content.
+    Use the cursor to select the content to redact and see a preview of the redaction by hovering over the selected content.
 
     ![Redact Step 5a](../assets/Redact_4.png)
 
-Use the search box to search for a specific word or phrase, or select **Pattern** to find certain types of information. Select the boxes next to items and click **Search & Remove Text**.
+    Use the search box to search for a specific word or phrase, or select **Pattern** to find certain types of information. Select the boxes next to items and click **Search & Remove Text**.
 
     ![Redact Step 5b](../assets/Redact_5.png)
 
