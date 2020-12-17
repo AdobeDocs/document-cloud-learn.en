@@ -25,7 +25,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Protect a PDF file with a password](getting-started/password-protect.md)
 + Advanced Tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
-  + [Actions Wizard](advanced-tasks/action.md)
+  + [Action Wizard](advanced-tasks/action.md)
   + [Redact & Sanitize](advanced-tasks/redact.md)
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
