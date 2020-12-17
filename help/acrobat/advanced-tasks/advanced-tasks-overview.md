@@ -12,11 +12,11 @@ Go beyond the basics by using these advanced tools in Acrobat.
 <table>
 <tr>
   <td>
-    <a href="actions.md">
+    <a href="action.md">
       <img alt="Actions Wizard" src="../assets/ActionWizard_thumbnail.png" />
     </a>
     <div>
-    <a href="actions.md"><strong>Actions Wizard</strong></a>
+    <a href="action.md"><strong>Actions Wizard</strong></a>
     </div>
     <em>Create an action to automatically apply a set of commands to one or multiple files</em>
     <br>
