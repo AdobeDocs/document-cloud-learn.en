@@ -13,10 +13,10 @@ Go beyond the basics by using these advanced tools in Acrobat.
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Actions Wizard" src="../assets/ActionWizard_thumbnail.png" />
+      <img alt="Action Wizard" src="../assets/ActionWizard_thumbnail.png" />
     </a>
     <div>
-    <a href="action.md"><strong>Actions Wizard</strong></a>
+    <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
     <em>Create an action to automatically apply a set of commands to one or multiple files</em>
     <br>
@@ -36,4 +36,5 @@ Go beyond the basics by using these advanced tools in Acrobat.
     <br>
   </td>
 </tr>
+</table>
 
