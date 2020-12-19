@@ -1,8 +1,8 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: Authoring in Word
+description: Adobe Sign Government Tutorials - Authoring in Word
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner

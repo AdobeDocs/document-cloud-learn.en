@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: Acrobat DC for Government
+description: Adobe Sign Government Tutorials - Acrobat DC for Government
 feature: tutorial
 topics: Governement Learning
 audience: government

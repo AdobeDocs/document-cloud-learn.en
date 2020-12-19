@@ -1,8 +1,8 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: Scan and Edit on Mobile
+description: Adobe Sign Government Tutorials - Scan and Edit on Mobile
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner

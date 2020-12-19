@@ -1,8 +1,8 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: 5 Tips for Working Anywhere with Acrobat DC for Government
+description: 5 Tips for Working Anywhere with Acrobat DC for Government
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner

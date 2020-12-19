@@ -1,8 +1,8 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: Making PDFs Accessible
+description: Adobe Sign Government Tutorials - Making PDFs Accessible
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner

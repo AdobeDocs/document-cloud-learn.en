@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Understanding Accessiblity
+title: Understanding Accessibility
+description: Adobe Sign Government Tutorials - Understanding Accessiblity
 feature: tutorial
 topics: Making PDFs accessible.
 audience: government

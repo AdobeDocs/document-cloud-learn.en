@@ -1,8 +1,8 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: Finishing in Acrobat
+description: Adobe Sign government tutorial - Finishing in Acrobat.
 feature: tutorial
-topics: Governement Learning
+topics: Making PDFs accessible
 audience: government
 activity: use
 skill: Beginner
