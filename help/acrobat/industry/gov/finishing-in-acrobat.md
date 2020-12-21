@@ -1,6 +1,6 @@
 ---
-title: Finishing in Acrobat
-description: Adobe Sign government tutorial - Finishing in Acrobat.
+title: Making PDFs Accessible Part 3
+description: Finish making accessible documents in Acrobat
 feature: tutorial
 topics: Making PDFs accessible
 audience: government
@@ -8,8 +8,11 @@ activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 34514.jpg
 ---
 
-# #3 – Finishing in Acrobat (4:37)
+# Making PDFs Accessible Part 3
+
+## Finishing in Acrobat (4:37)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34514)

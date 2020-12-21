@@ -1,6 +1,6 @@
 ---
-title: Authoring in Word
-description: Adobe Sign Government Tutorials - Authoring in Word
+title: Making PDFs Accessible Part 2
+description: Authoring accessible documents in Microsoft Word
 feature: tutorial
 topics: Government Learning
 audience: government
@@ -8,8 +8,11 @@ activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 34513.jpg
 ---
 
-# #2 – Authoring in Word (2:51)
+# Making PDFs Accessible Part 2
+
+## Authoring in Word (2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513)
