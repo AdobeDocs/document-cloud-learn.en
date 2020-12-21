@@ -1,8 +1,8 @@
 ---
 title: 5 Tips for Working Anywhere with Acrobat DC for Government
-description: Governement Learning
+description: Government Learning
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner
