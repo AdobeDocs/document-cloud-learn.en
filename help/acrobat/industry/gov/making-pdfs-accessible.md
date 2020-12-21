@@ -1,6 +1,7 @@
 ---
 title: Making PDFs Accessible
 description: Government Learning
+solution: Acrobat DC
 feature: tutorial
 topics: Government Learning
 audience: government

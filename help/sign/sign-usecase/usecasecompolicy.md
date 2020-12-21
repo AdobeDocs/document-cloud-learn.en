@@ -8,7 +8,7 @@ activity: Policy Agreements
 skill: intermediate
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
-thumbnail:
+thumbnail: 33979.jpg
 ---
 
 # Policy Agreements

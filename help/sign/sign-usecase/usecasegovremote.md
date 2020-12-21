@@ -8,7 +8,7 @@ activity: Remote Warrant Request
 skill: Beginning
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
-thumbnail:
+thumbnail: 33813.jpg
 ---
 
 # Remote Warrant Request

@@ -1,6 +1,7 @@
 ---
 title: Action Wizard
 description: Automate a routine set of commands to your files
+solution: Acrobat DC
 feature: tutorial
 topics: Action Wizard
 audience: User

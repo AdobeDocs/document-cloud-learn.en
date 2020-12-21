@@ -1,6 +1,7 @@
 ---
 title: Tip 1 Get Your Tools
 description: Adobe Sign Government Tutorials - Get Your Tools
+solution: Acrobat DC
 feature: tutorial
 topics: Government Learning
 audience: government

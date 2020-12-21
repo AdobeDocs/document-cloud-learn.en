@@ -8,7 +8,6 @@ activity: Paycheck Protection
 skill: Beginning
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
-thumbnail:
 ---
 
 # Paycheck Protection

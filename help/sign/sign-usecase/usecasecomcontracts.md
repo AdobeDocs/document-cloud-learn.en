@@ -8,7 +8,7 @@ activity: Contracts and Requisition Forms
 skill: Intermediate
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
-thumbnail:
+thumbnail: 33980.jpg
 ---
 
 # Contracts and Requisition Forms

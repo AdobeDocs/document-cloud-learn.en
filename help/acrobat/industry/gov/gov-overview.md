@@ -1,6 +1,7 @@
 ---
 title: Acrobat DC for Government
 description: Quickly respond to urgent challenges with this curated collection of quick start recipes and learning videos
+solution: Acrobat DC
 feature: tutorial
 topics: Governement Learning
 audience: government
