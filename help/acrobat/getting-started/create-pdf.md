@@ -8,6 +8,7 @@ activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 35491.jpg
 ---
 
 # Create PDFs in Acrobat DC

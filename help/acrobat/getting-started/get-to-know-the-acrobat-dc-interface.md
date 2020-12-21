@@ -8,6 +8,7 @@ activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 23590.jpg
 ---
 
 # Get to know the Acrobat DC interface

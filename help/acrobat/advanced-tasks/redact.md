@@ -8,6 +8,7 @@ activity: use
 skill: Advanced
 doc-type: tutorial
 team: DC Product Marketing Engagement
+thumbnail: KT-6804.jpg
 ---
 
 # Redact & Sanitize

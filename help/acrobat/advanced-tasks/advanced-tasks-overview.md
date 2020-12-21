@@ -13,7 +13,7 @@ Go beyond the basics by using these advanced tools in Acrobat.
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/ActionWizard_thumbnail.png" />
+      <img alt="Action Wizard" src="../assets/Action.jpg" />
     </a>
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
@@ -23,7 +23,7 @@ Go beyond the basics by using these advanced tools in Acrobat.
   </td>
   <td>
     <a href="redact.md">
-      <img alt="Redact & Sanitize" src="../assets/RedactThumbnail.png" />
+      <img alt="Redact & Sanitize" src="../assets/Redact.jpg" />
     </a>
     <div>
     <a href="redact.md"><strong>Redact & Sanitize</strong></a>

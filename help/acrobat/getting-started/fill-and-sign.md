@@ -9,6 +9,7 @@ activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 35495.jpg
 ---
 
 # Fill and sign a PDF form
