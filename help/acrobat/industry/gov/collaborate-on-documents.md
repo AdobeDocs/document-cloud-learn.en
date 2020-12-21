@@ -1,6 +1,7 @@
 ---
 title: Tip 2 Collaborate on Documents
 description: Government Learning
+solution: Acrobat DC
 feature: tutorial
 topics: Government Learning
 audience: government

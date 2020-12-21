@@ -1,6 +1,7 @@
 ---
 title: 5 Tips for Working Anywhere with Acrobat DC for Government
 description: 5 Tips for Working Anywhere with Acrobat DC for Government
+solution: Acrobat DC
 feature: tutorial
 topics: Government Learning
 audience: government

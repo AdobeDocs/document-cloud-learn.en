@@ -8,7 +8,7 @@ activity: Reemployment Assistance
 skill: Beginning
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
-thumbnail:
+thumbnail: 33809.jpg
 ---
 
 # Reemployment Assistance

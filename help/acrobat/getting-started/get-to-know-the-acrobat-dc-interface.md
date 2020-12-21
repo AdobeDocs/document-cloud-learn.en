@@ -1,6 +1,7 @@
 ---
 title: Get to know the Acrobat DC interface
 description: See how the Adobe Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile
+solution: Acrobat DC
 feature: tutorial
 topics: Get to know the Acrobat DC interface
 audience: User

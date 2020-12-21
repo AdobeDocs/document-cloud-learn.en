@@ -17,7 +17,7 @@ Below are recordings of the latest sessions:
 
 ### Government
 
-[Register for Government Session](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL)
+[Watch Government Session](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL)
 
 Date: 12-03-2020
 

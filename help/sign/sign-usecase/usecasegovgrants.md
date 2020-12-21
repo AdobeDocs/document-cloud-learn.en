@@ -8,7 +8,7 @@ activity: Business Grants and Loans
 skill: Beginning
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
-thumbnail:
+thumbnail: 33810.jpg
 ---
 
 # Business Grants and Loans

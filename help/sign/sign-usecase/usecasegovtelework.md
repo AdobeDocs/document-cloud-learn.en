@@ -8,7 +8,7 @@ activity: Telework Agreement
 skill: Beginning
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
-thumbnail:
+thumbnail: 33808.jpg
 ---
 
 # Telework Agreement

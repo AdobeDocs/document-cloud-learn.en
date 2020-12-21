@@ -1,6 +1,7 @@
 ---
 title: Where do PDFs come from?
 description: Understand where PDFs come from and their uses
+solution: Acrobat DC
 feature: tutorial
 topics: Where do PDFs come from?
 audience: User

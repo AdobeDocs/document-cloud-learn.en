@@ -1,6 +1,7 @@
 ---
 title: Tip 5 Scan and Edit on Mobile
 description: Adobe Sign Government Tutorials - Scan and Edit on Mobile
+solution: Acrobat DC
 feature: tutorial
 topics: Government Learning
 audience: government

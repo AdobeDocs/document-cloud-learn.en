@@ -1,6 +1,7 @@
 ---
 title: Create PDFs in Acrobat DC
 description: Create PDFs from all kinds of documents
+solution: Acrobat DC
 feature: tutorial
 topics: Create PDFs in Acrobat DC
 audience: User

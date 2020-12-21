@@ -1,6 +1,7 @@
 ---
 title: Making PDFs Accessible Part 1
 description: Adobe Sign Government Tutorials - Understanding Accessiblity
+solution: Acrobat DC
 feature: tutorial
 topics: Making PDFs accessible.
 audience: government
