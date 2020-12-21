@@ -2,7 +2,7 @@
 title: Making PDFs Accessible Part 3
 description: Finish making accessible documents in Acrobat
 feature: tutorial
-topics: Government Learning
+topics: Making PDFs accessible
 audience: government
 activity: use
 skill: Beginner

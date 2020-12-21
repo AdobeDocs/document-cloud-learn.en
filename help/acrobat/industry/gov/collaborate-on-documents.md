@@ -1,6 +1,6 @@
 ---
-title: Tip 2 – Collaborate on Documents
-description: Governement Learning
+title: Tip 2 Collaborate on Documents
+description: Government Learning
 feature: tutorial
 topics: Government Learning
 audience: government

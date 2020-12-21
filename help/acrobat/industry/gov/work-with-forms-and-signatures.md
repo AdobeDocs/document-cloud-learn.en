@@ -1,6 +1,6 @@
 ---
 title: Tip 4 Work with Forms and Signatures
-description: Government Learning
+description: Adobe Sign Government Tutorials - Work with Forms and Signatures
 feature: tutorial
 topics: Government Learning
 audience: government

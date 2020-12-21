@@ -1,6 +1,6 @@
 ---
 title: Tip 3 Protect Digital Documents
-description: Government Learning
+description: Adobe Sign Government Tutorials - Protect Digital Documents
 feature: tutorial
 topics: Government Learning
 audience: government

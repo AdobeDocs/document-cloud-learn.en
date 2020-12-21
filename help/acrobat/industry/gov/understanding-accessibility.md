@@ -1,8 +1,8 @@
 ---
 title: Making PDFs Accessible Part 1
-description: Government Learning
+description: Adobe Sign Government Tutorials - Understanding Accessiblity
 feature: tutorial
-topics: Governement Learning
+topics: Making PDFs accessible.
 audience: government
 activity: use
 skill: Beginner
