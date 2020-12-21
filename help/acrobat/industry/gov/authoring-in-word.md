@@ -1,5 +1,5 @@
 ---
-title: 2 – Authoring in Word
+title: Making PDFs Accessible Part 2
 description: Authoring accessible documents in Microsoft Word
 feature: tutorial
 topics: Government Learning
@@ -11,6 +11,8 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 34513.jpg
 ---
 
-# #2 – Authoring in Word (2:51)
+# Making PDFs Accessible Part 2
+
+## Authoring in Word (2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513)

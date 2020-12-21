@@ -1,5 +1,5 @@
 ---
-title: Tip 3 – Protect Digital Documents
+title: Tip 3 Protect Digital Documents
 description: Government Learning
 feature: tutorial
 topics: Government Learning
@@ -11,6 +11,6 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 34510.jpg
 ---
 
-# Tip #3 – Protect Digital Documents (1:23)
+# Tip 3 Protect Digital Documents (1:23)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34510)
