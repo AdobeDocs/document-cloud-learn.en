@@ -1,13 +1,14 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: Tip 5 – Scan and Edit on Mobile
+description: Government Learning
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 34511.jpg
 ---
 
 # Tip #5 – Scan and Edit on Mobile (1:43)

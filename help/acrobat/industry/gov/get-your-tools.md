@@ -1,13 +1,14 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: Tip 1 – Get Your Tools
+description: Government Learning
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 34290.jpg
 ---
 
 # Tip #1 – Get Your Tools (2:59)

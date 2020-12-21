@@ -1,13 +1,14 @@
 ---
-title: Adobe Sign Government Tutorials
-description: Governement Learning
+title: Tip 4 – Work with Forms and Signatures
+description: Government Learning
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 34512.jpg
 ---
 
 # Tip #4 – Work with Forms and Signatures (7:03)

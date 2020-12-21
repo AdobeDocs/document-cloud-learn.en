@@ -1,13 +1,14 @@
 ---
 title: Making PDF Ballots More Accessible
-description: Governement Learning
+description: Government Learning
 feature: webinar
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Advanced
 doc-type: webinar
 team: DC Enterprise Enablement
+thumbnail: KT-6817.jpg
 ---
 
 # Making PDF Ballots More Accessible

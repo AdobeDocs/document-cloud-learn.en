@@ -1,13 +1,14 @@
 ---
-title: Adobe Sign Government Tutorials
+title: Tip 2 – Collaborate on Documents
 description: Governement Learning
 feature: tutorial
-topics: Governement Learning
+topics: Government Learning
 audience: government
 activity: use
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: 34509.jpg
 ---
 
 # Tip #2 – Collaborate on Documents (2:03)
