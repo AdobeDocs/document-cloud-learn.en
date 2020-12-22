@@ -1,6 +1,6 @@
 ---
 title: Adding an Approver
-description: Add an Approver tutorial
+description: Learn how to add an approver to your contract approval process
 feature: tutorial
 topics: Add an Approver
 audience: user

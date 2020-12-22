@@ -1,6 +1,6 @@
 ---
-title: Acrobat Get Work Done Webinars
-description: Skill Builders Webinars
+title: Get Work Done Webinars
+description: Join our on-demand webinars to build your Acrobat DC skills
 solution: Acrobat DC
 feature: tutorial
 topics: Acrobat Skill Builders
@@ -11,17 +11,19 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Acrobat Get Work Done Webinars
+# Get Work Done Webinars
+
+Join one of our on-demand webinars to build your Acrobat DC skills.
 
 ## Getting started with Acrobat DC
 
 [Watch Session](https://event.on24.com/wcc/r/2183715/E63B725DCA506E5ED6DC4E8DD8FC697F)
 
-## Go Digital with Acrobat DC
+## Go digital with Acrobat DC
 
 [Watch Session](https://event.on24.com/wcc/r/2095265/BB6A25ABE083633A9F63E8E59EF8CE65)
 
-## Share and Review Documents with Acrobat DC
+## Share and review documents with Acrobat DC
 
 [Watch Session](https://acrobatusers.com/get-work-done/)
 
@@ -29,11 +31,11 @@ team: DC Product Marketing Retention and Engagement
 
 [Watch Session](https://event.on24.com/wcc/r/2128094/0F7F552385DD5F853A69666D1F95523C)
 
-## Part III: Get Word Done with Acrobat DC
+## Part III: Get Work Done with Acrobat DC
 
 [Watch Session](https://event.on24.com/wcc/r/2135576/6904C80D4F45B8B7C280A7AB4C23ED1C)
 
-## Introduction to Using Acrobat Pro DC to Create Accessible PDFs (8 AM PDT)
+## Introduction to using Acrobat Pro DC to create Accessible PDFs (8 AM PDT)
 
 [Watch Session](https://event.on24.com/wcc/r/2250039/9E538E4AD268D6D301FEDA1BFCB87717)
 

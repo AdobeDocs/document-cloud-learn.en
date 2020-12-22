@@ -1,6 +1,6 @@
 ---
 title: Advanced Account Sharing
-description: Advanced account sharing allows admins and users to delegate their send, modify, and view permissions.
+description: Advanced account sharing allows admins and users to delegate their send, modify, and view permissions
 feature: tutorial
 topics: Advanced Account Sharing
 audience: Admin
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 40186.jpg
 ---
 
-# Advanced Account Sharing
+# Advanced account sharing
 
 Advanced account sharing allows admins and users to delegate their send, modify, and view permissions.
 

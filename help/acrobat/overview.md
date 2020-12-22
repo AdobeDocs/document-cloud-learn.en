@@ -1,6 +1,6 @@
 ---
 title: Adobe Acrobat Tutorials Overview
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat.
+description: A collection of tutorials, webinars, and use cases for Adobe Acrobat DC.
 ---
 
 # Adobe Acrobat Learning Hub
@@ -9,7 +9,7 @@ description: A collection of tutorials, webinars, and use cases for Adobe Acroba
 
 Welcome to the Adobe Acrobat Learning Hub. You'll find a wide range of learning experiences focused on Adobe Acrobat. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and advanced users up-to-speed on Adobe Acrobat.
 
-## Learning Paths
+## Learning paths
 
 <table>
 <tr>

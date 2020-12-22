@@ -1,6 +1,6 @@
 ---
-title: Integrate overview
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat.
+title: Integrate Overview
+description: Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps
 ---
 
 # Integrate overview

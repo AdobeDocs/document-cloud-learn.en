@@ -1,6 +1,6 @@
 ---
 title: Delegating to Someone Else
-description: Deletgate someone else to sign a document
+description: Delegate someone else to sign a document
 feature: tutorial
 topics: Delegate
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17366.jpg
 ---
 
-# Delegating to Someone Else
+# Delegating to someone else
 
 Learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
 

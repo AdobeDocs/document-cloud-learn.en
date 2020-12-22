@@ -1,6 +1,6 @@
 ---
 title: Sending to Multiple Recipients
-description: Request signature from a multiple recipients tutorial
+description: Learn how to send a document for e-signature to more than one recipient
 feature: tutorial
 topics: Sending to Multiple Recipients
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 33661.jpg
 ---
 
-# Sending to Multiple Recipients
+# Sending to multiple recipients
 
 Learn how to send a document for e-signature to more than one recipient.
 

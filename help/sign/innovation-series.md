@@ -1,10 +1,10 @@
 ---
 title: Adobe Sign Innovation Series
-description: The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about.
+description: The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about
 sub-product: Innovation Series
 ---
 
-# Adobe Sign Innovation Series
+# Adobe Sign Innovation series
 
 ![innovation series Banner](assets/Innovation_rebrand.png) 
 

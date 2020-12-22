@@ -14,7 +14,11 @@ thumbnail: KT-6803.jpg
 
 # Action Wizard
 
-Create an action to automatically apply a set of commands to one or multiple files. *Available in Acrobat Pro DC only*.
+Create an action to automatically apply a set of commands to one or multiple files. 
+
+>[!NOTE]
+>
+>Available in Acrobat Pro DC only.
 
 1. In Acrobat Pro DC, select **Action Wizard** from the Tools center or pane.
 
@@ -34,4 +38,4 @@ Create an action to automatically apply a set of commands to one or multiple fil
 
 Now you can run the custom action any time you need to perform that series of steps on a PDF file.
 
-[Download this Action Wizard tutorial](../assets/AcrobatDCActionWizard.pdf).    
+[![Download Action Wizard tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).

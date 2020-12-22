@@ -1,6 +1,6 @@
 ---
-title: Deployment overview
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat.
+title: Deployment Overview
+description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers
 ---
 
 # Deployment overview

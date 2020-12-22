@@ -1,6 +1,6 @@
 ---
 title: Sending to a Single Recipient
-description: Request signature from a single recipient tutorial
+description: Learn how to upload a document, add form fields, and send a document to a single recipient
 feature: tutorial
 topics: Sending to a Single Recipient
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 33659.jpg
 ---
 
-# Sending to a Single Recipient
+# Sending to a single recipient
 
 The most commonly used workflow in Adobe Sign: sending a document for signature. In this video, learn how to upload a document, add form fields, and send it to a recipient for signature.
 

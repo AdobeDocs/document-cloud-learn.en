@@ -1,6 +1,6 @@
 ---
 title: Getting a Signature In Person
-description: Get a signature in person tutorial
+description: Learn how to get someone else's signature in person using the Adobe Sign mobile app
 feature: tutorial
 topics: Getting a Signature In Person
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17362.jpg
 ---
 
-# Getting a Signature In Person
+# Getting a signature in person
 
 Learn how to get someone else's signature in person using the Adobe Sign mobile app.
 

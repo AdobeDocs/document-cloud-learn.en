@@ -1,6 +1,6 @@
 ---
 title: Use Case Recipes
-description: Learn how to set up these e-signature use cases.
+description: Learn how to set up these e-signature use cases
 feature: tutorial
 topics: Use Case Recipes
 audience: User
@@ -10,11 +10,11 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Use Case Recipes
+# Use case recipes
 
 Click to view how to set up these e-signature use cases.
 
-## Government Use Cases
+## Government use cases
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ Click to view how to set up these e-signature use cases.
 </tr>
 </table>
 
-## Commercial Use Cases
+## Commercial use cases
 
 <table>
 <tr>

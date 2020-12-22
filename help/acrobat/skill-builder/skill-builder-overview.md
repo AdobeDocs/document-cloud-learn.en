@@ -1,6 +1,6 @@
 ---
-title: Acrobat Skill Builders
-description: Interactive Acrobat Skill Builders
+title: Acrobat DC Skill Builders
+description: Get up-to-speed on Acrobat DC with these interactive skill builders
 ---
 
 # Acrobat Skill Builders

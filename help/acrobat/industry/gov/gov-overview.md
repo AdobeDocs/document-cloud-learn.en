@@ -1,6 +1,6 @@
 ---
-title: Acrobat DC for Government
-description: Quickly respond to urgent challenges with this curated collection of quick start recipes and learning videos
+title: Acrobat for Government Overview
+description: Explore our Acrobat DC tutorials specifically designed for federal, state, and local government
 solution: Acrobat DC
 feature: tutorial
 topics: Governement Learning
@@ -10,11 +10,11 @@ skill: Beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Acrobat DC for Government
+# Acrobat DC for government
 
 Quickly respond to urgent challenges with this curated collection of quick start recipes and learning videos.
 
-The 5 Tips tutorial is the complete set of tips 1-5. If you want to review a specific workflow, bypass the full video by selecting the tip that you're most interested in learning about. Below is the description and duration of each tutorial.
+The 5 Tips tutorial is the complete set of tips. If you want to review a specific workflow, bypass the full video by selecting the tip that you're most interested in learning about. Below is the description and duration of each tutorial.
 
 
 [5 Tips for Working Anywhere with Acrobat DC for Government (Complete 15:12)](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 

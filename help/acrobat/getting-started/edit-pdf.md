@@ -1,6 +1,6 @@
 ---
 title: Edit a PDF in Acrobat DC
-description: Learn how to use Acrobat DC to edit text and images in PDF files
+description: Learn how to edit text and images in PDF files
 solution: Acrobat DC
 feature: tutorial
 topics: Edit a PDF

@@ -1,5 +1,5 @@
 ---
-title: Creating a document template
+title: Creating a Document Template
 description: Create a reusable document template and add it to your Adobe Sign library for future use
 feature: tutorial
 topics: Create a Shared Document Template

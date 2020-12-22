@@ -1,6 +1,6 @@
 ---
 title: Filling and Signing a Document
-description: Fill and Sign tutorial demonstrates the most basic Adobe Sign use case for beginner users
+description: Learn how to fill in forms and add your electronic signature to documents
 feature: tutorial
 topics: Filling and Signing a Document
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 33660.jpg
 ---
 
-# Filling and Signing a Document
+# Filling and signing a document
 
 Learn how to fill in forms and add your electronic signature to documents.
 

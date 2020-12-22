@@ -1,6 +1,6 @@
 ---
 title: Use Case Showcase
-description: The Use Case Showcase is a monthly livestream session that introduces you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them.
+description: The Use Case Showcase is a monthly livestream session that introduces you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them
 sub-product: Use Case Showcase
 ---
 
@@ -13,7 +13,7 @@ The Use Case Showcase is a monthly livestream session that introduces you to new
 
 Below are recordings of the latest sessions:
 
-## 2020 Sessions by Industry
+## 2020 sessions by industry
 
 ### Government
 
@@ -55,9 +55,9 @@ Date: 07-30-2020
 
 Focus: How Adobe Sign works in various HR applications.
 
-### State and Local Government
+### State & Local Government
 
-[Watch State and Local Government Session](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D)
+[Watch State & Local Government Session](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D)
 
 Date: 06-25-2020
 

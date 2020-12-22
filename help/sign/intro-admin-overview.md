@@ -1,6 +1,6 @@
 ---
 title: Administrators Overview
-description: Learn the fundamentals of adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts.
+description: Learn the fundamentals of adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts
 feature: tutorial
 topics: Getting Started for Administrators
 audience: Admin
@@ -10,11 +10,11 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Administrators Overview
+# Administrators overview
 
 Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Adobe Sign. The Advanced Tasks cover topics that expand past the admin set up portion and move into defining global settings, account access and sharing, and text tagging.
 
-## Getting Started
+## Getting started
 
 <table>
 <tr>
@@ -127,7 +127,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 </tr>
 </table>
 
-## Advanced Tasks
+## Advanced tasks
 
 <table>
 <tr>

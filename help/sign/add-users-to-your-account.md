@@ -1,6 +1,6 @@
 ---
 title: Adding Users
-description: Learn how to add users individually or in bulk to your Adobe Sign account.
+description: Learn how to add users individually or in bulk to your Adobe Sign account
 feature: tutorial
 topics: Adding Users
 audience: Admin
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17356.jpg
 ---
 
-# Adding Users
+# Adding users
 
 Learn how to add users individually or in bulk to your Adobe Sign account.
 

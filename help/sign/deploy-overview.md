@@ -1,6 +1,6 @@
 ---
-title: Deploy overview
-description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers.
+title: Deploy Overview
+description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers
 feature: tutorial
 topics: Deploying Adobe Sign
 audience: Admin

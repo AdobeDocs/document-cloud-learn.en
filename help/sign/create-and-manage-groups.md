@@ -1,6 +1,6 @@
 ---
 title: Creating and Managing Groups
-description: Learn how to create groups, add users to groups, and edit group settings.
+description: Learn how to create groups, add users to groups, and edit group settings
 feature: tutorial
 topics: Create and Manage Groups
 audience: Admin
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17355.jpg
 ---
 
-# Creating and Managing Groups
+# Creating and managing groups
 
 Learn how to create groups, add users to groups, and edit group settings.
 

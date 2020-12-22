@@ -1,5 +1,5 @@
 ---
-title: Expand and inspire overview
+title: Expand and Inspire Overview
 description: See how you can transform customer and employee e-signing experiences by exploring use cases and inspirational ideas
 feature: tutorial
 topics: Innovation Use Case

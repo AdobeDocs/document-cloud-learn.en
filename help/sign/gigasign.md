@@ -1,6 +1,6 @@
 ---
 title: Gather High-Volume Documents using GigaSign
-description: Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time.
+description: Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time
 feature: tutorial
 topics: Sending
 audience: Admin
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 328113.jpg
 ---
 
-# Gather High-Volume Documents using GigaSign
+# Gather high-volume documents using GigaSign
 
 Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. It is designed for high-volume communications with your employees and customers--supporting up to 2,500 recipients with each bulk send. GigaSign leverages the Adobe Sign API to provide the same functionality as MegaSign, but includes additional support for multiple signers, recipient groups, recipient roles, agreement names, carbon copy and more. 
 
@@ -25,7 +25,7 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 [IP Addresses to white list (only if needed)](https://helpx.adobe.com/sign/system-requirements.html#IPs)
 
-## Basic Setup Instructions
+## Basic setup instructions
 
 1. Go to your adobe sign account -> top of screen click “Group” or “Account” whichever you see
 
