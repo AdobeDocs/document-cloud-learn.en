@@ -1,13 +1,13 @@
 ---
-title: Advanced tasks overview
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat.
+title: Advanced Tasks Overview
+description: Go beyond the basics by using these advanced tools in Acrobat
 ---
 
 # Advanced tasks overview
 
 Go beyond the basics by using these advanced tools in Acrobat.
 
-## Acrobat Tutorials
+## Acrobat tutorials
 
 <table>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Modifying a Document Already Sent for Signature
-description: Modify a transaction in-flight tutorial
+description: Learn how to modify a transaction that's currently in progress
 feature: tutorial
 topics: Modifying a Document Already Sent for Signature
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17343.jpg
 ---
 
-# Modifying a Document Already Sent for Signature
+# Modifying a document already sent for signature
 
 Learn how to modify a document that's already been sent--like when a document is sent by mistake.
 

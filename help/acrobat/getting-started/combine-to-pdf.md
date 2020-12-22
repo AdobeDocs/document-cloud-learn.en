@@ -1,6 +1,6 @@
 ---
-title: Combine files into a single PDF
-description: You can combine many different types of files into a single PDF
+title: Combine Files into a Single PDF
+description: Combine many different types of files into a single PDF
 solution: Acrobat DC
 feature: tutorial
 topics: Combine files into a single PDF
@@ -14,6 +14,6 @@ thumbnail: 35452.jpg
 
 # Combine files into a single PDF
 
-You can combine many different types of files into a single PDF. 
+Learn how to combine many different types of files into a single PDF. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)

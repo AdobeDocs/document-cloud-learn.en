@@ -1,6 +1,6 @@
 ---
 title: Sign a Document Using a Digital Signature
-description: Sign a Document Using a Digital Signature tutorial
+description: Learn how to sign a document with a cloud-based digital signature
 feature: tutorial
 topics: Sign a Document Using a Digital Signature
 audience: user
@@ -11,8 +11,8 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 19638.jpg
 ---
 
-# Sign a Document Using a Digital Signature
+# Sign a document Using a Digital Signature
 
-Sign a document with a cloud based digital signature - a type of electronic signature that enforces the authentication of the signer based on digital certificates by trusted third parties.
+Learn how to sign a document with a cloud based digital signature - a type of electronic signature that enforces the authentication of the signer based on digital certificates by trusted third parties.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19638?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Fill and sign a PDF form
-description: Quickly sign a PDF form
+title: Fill and Sign a PDF Form
+description: Learn how to quickly and easily fill and sign a PDF form
 solution: Acrobat DC
 feature: tutorial
 topics: Fill and sign a PDF form
@@ -14,6 +14,6 @@ thumbnail: 35495.jpg
 
 # Fill and sign a PDF form
 
-Quickly sign a PDF form using stored profile information and intuitive tools.
+Learn how to quickly and easily fill and sign a PDF form.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35495?hidetitle=true)

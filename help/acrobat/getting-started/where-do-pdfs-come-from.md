@@ -12,7 +12,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17096.jpg
 ---
 
-# Where do PDfs come from?
+# Where do PDFs come from?
 
 Understand where PDFs come from and their uses.
 

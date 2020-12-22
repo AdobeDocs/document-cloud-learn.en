@@ -12,8 +12,8 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 34513.jpg
 ---
 
-# Making PDFs Accessible Part 2
+# Making PDFs Accessible part 2
 
-## Authoring in Word (2:51)
+## Authoring in Microsoft Word (2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513)

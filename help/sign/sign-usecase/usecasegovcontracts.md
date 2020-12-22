@@ -1,6 +1,6 @@
 ---
 title: Government Contracts and Requisition Forms
-description: Quickly replace paper processing with compliant digital workflows, complete with audit reports.
+description: Quickly replace paper processing with compliant digital workflows, complete with audit reports
 feature: tutorial
 topics: Contracts and Requisition Forms
 audience: Admin
@@ -11,12 +11,12 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 33811.jpg
 ---
 
-# Government Contracts and Requisition Forms
+# Government contracts and requisition forms
 
 Quickly replace paper processing with compliant digital workflows, complete with audit reports.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 
-Click to download PDF recipe for contracts and requisition forms.
+Click to download the PDF recipe for contracts and requisition forms.
 
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)

@@ -1,6 +1,6 @@
 ---
 title: Managing Document Templates
-description: Edit or Delete a Template
+description: Edit or Delete a Template from your library
 feature: tutorial
 topics: Edit or Delete a Template
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17346.jpg
 ---
 
-# Managing Document Templates
+# Managing document templates
 
 Learn how to make changes to an existing template or delete a template in your library.
 

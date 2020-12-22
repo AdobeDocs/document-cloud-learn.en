@@ -9,7 +9,7 @@ description: A collection of tutorials, webinars, and use cases for Adobe Sign.
 
 Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning experiences focused on Adobe Sign. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign.
 
-## Learning Paths
+## Learning paths
 
 <table>
 <tr>

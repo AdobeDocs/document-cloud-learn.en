@@ -1,6 +1,6 @@
 ---
-title: Getting started overview
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat.
+title: Getting Started Overview
+description: Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-step tutorials
 ---
 
 # Getting started overview
@@ -8,7 +8,7 @@ description: A collection of tutorials, webinars, and use cases for Adobe Acroba
 Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-step tutorials. From creating a document to protecting your PDF files, this content is designed to ease you into PDF workflows.
 
 
-## Acrobat Tutorials
+## Acrobat tutorials
 
 <table>
 <tr>

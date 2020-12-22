@@ -1,6 +1,6 @@
 ---
 title: Sending in SharePoint Online
-description: Send an agreement for signature directly in Sharepoint Online.
+description: Send an agreement for signature directly in Sharepoint Online
 feature: tutorial
 topics: Send for Signature with SharePoint Online
 audience: user or admin

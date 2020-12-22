@@ -1,6 +1,6 @@
 ---
-title: Managing and tracking documents
-description: Manage and track agreements sent for signature document tutorial
+title: Managing and Tracking Documents
+description: Learn how to manage and track agreements that you've sent for signature
 feature: tutorial
 topics: Managing and tracking documents
 audience: user

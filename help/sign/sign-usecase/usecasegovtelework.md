@@ -1,6 +1,6 @@
 ---
 title: Telework Agreement
-description: Efficiently collect signatures from all your employees on telework agreements, policy updates, and more.
+description: Efficiently collect signatures from all your employees on telework agreements, policy updates, and more
 feature: tutorial
 topics: Telework Agreement
 audience: Admin
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 33808.jpg
 ---
 
-# Telework Agreement
+# Telework agreement
 
 Efficiently collect signatures from all your employees on telework agreements, policy updates, and more.
 

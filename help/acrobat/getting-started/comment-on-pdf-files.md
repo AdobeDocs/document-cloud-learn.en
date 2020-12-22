@@ -1,6 +1,6 @@
 ---
 title: Comment on PDFs in Acrobat DC
-description: Learn how to use Acrobat DC to add comments to a PDF file
+description: Learn how to add comments and then share a PDF for review
 solution: Acrobat DC
 feature: tutorial
 topics: Comment on PDFs in Acrobat DC

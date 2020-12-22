@@ -1,6 +1,6 @@
 ---
 title: Set up a Web Form
-description: Create a Webform tutorial
+description: Learn how to create a document to be signed electronically directly on your website
 feature: tutorial
 topics: Create a Webform
 audience: user
@@ -13,6 +13,6 @@ thumbnail: 37841.jpg
 
 # Set up a Web Form
 
-Learn how to use Adobe Sign to create a document to be signed electronically for your website. You can create a hosted hyperlink to your form or use the link to embed on your website in html or javascript.
+Learn how to use Adobe Sign to create a document to be signed electronically directly on your website. You can create a hosted hyperlink to your form or use the link to embed on your website in html or javascript.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?hidetitle=true)

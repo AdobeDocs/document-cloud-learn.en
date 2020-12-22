@@ -1,6 +1,6 @@
 ---
-title: Mobile overview
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat.
+title: Mobile )verview
+description: Create, fill, and sign PDFs on your mobile device
 ---
 
 # Mobile overview

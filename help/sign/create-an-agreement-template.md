@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17349.jpg
 ---
 
-# Creating a Document Template in Adobe Sign for Salesforce
+# Creating a document template in Adobe Sign for Salesforce
 
 Learn how to create an agreement template for Adobe Sign in Salesforce.
 

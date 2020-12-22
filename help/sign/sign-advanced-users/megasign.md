@@ -1,6 +1,6 @@
 ---
 title: Collect Signatures in Bulk
-description: Send a Document in Bulk with Mega Sign tutorial
+description: Collect hundreds of signatures using Mega Sign
 feature: tutorial
 topics: Send a Document in Bulk with Mega Sign
 audience: user

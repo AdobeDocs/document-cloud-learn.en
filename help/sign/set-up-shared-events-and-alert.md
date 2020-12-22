@@ -1,6 +1,6 @@
 ---
 title: Setting up Shared Events and Alerts
-description: Learn about shared events and alert settings in Adobe Sign.
+description: Learn about shared events and alert settings in Adobe Sign
 feature: tutorial
 topics: Set up Shared Events and Alerts
 audience: Admin
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17359.jpg
 ---
 
-# Setting up Shared Events and Alerts
+# Setting up shared events and alerts
 
 Learn about shared events and alert settings in Adobe Sign.
 

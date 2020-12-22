@@ -1,6 +1,6 @@
 ---
 title: Electronically Signing a Document
-description: Electronically Sign a document tutorial demonstrates the most basic Adobe Sign use case for beginner users
+description: Learn how easy it is to sign a document sent to you with Adobe Sign
 feature: tutorial
 topics: Electronically Signing a Document
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17360.jpg
 ---
 
-# Electronically Signing a Document
+# Electronically signing a document
 
 Learn how easy it is to sign a document sent to you with Adobe Sign.
 

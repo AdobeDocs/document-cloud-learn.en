@@ -1,6 +1,6 @@
 ---
 title: Making PDFs Accessible Part 3
-description: Finish making accessible documents in Acrobat
+description: Finish making Accessible documents in Acrobat DC
 solution: Acrobat DC
 feature: tutorial
 topics: Making PDFs accessible
@@ -12,7 +12,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 34514.jpg
 ---
 
-# Making PDFs Accessible Part 3
+# Making PDFs Accessible part 3
 
 ## Finishing in Acrobat (4:37)
 

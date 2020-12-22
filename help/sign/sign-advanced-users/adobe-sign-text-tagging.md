@@ -1,6 +1,6 @@
 ---
 title: Adobe Sign Text Tagging
-description: Text tagging in Adobe Sign
+description: Learn how to build Adobe Sign form fields by text tagging using Adobe Acrobat
 feature: tutorial
 topics: Text tagging
 audience: user

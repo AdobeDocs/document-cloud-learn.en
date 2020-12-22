@@ -1,6 +1,6 @@
 ---
-title: Integrate overview
-description: Learn how to use Adobe Sign with other applications your organization already uses, such as Microsoft, Salesforce, and Workday.
+title: Integrate Overview
+description: Learn how to use Adobe Sign with other applications your organization already uses, such as Microsoft, Salesforce, and Workday
 feature: tutorial
 topics: Integrations
 audience: user or admin

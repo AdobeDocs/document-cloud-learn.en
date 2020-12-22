@@ -1,6 +1,6 @@
 ---
-title: Industry overview
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat.
+title: Industry Overview
+description: See how you can transform customer and employee experiences by exploring industry use cases and inspirational ideas.
 ---
 
 # Industry overview
@@ -9,7 +9,6 @@ See how you can transform customer and employee experiences by exploring industr
 
 ## Government
 
+Explore our Acrobat DC tutorials specifically designed for federal, state, and local government.
+
 * [Acrobat Tutorials for Government Overview](gov/gov-overview.md)
-* [5 Tips for Working Anywhere with Acrobat DC for Government (Complete 15:12)](gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
-* [Making PDFs Accessible (Complete 14:11)](gov/making-pdfs-accessible.md)
-* [Making PDF Ballots More Accessible](gov/making-pdf-ballots-accessible.md)

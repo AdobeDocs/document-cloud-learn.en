@@ -35,7 +35,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Delegating to Someone Else](sign-advanced-users/delegate-signature.md)
     + [Adding an Approver](sign-advanced-users/add-an-approver.md)
     + [Collecting Signatures in Bulk](sign-advanced-users/megasign.md)
-    + [Setting up a Webform](sign-advanced-users/webform.md)
+    + [Setting up a Web Form](sign-advanced-users/webform.md)
     + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
   + Managing {#advanced-tasks-managing}
     + [Managing Document Templates](sign-advanced-users/edit-a-template.md)
@@ -49,8 +49,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Setting up an External Archive](set-up-your-external-archive.md)
     + [Creating a Template](sign-advanced-users/create-a-template.md)
     + [Creating a Report](create-a-report.md)
-    + [Set up a Webform](sign-advanced-users/webform.md)
-    + [Collect Signatures in Bulk](sign-advanced-users/megasign.md)
+    + [Setting up a Web Form](sign-advanced-users/webform.md)
+    + [Collecting Signatures in Bulk](sign-advanced-users/megasign.md)
     + [Setting up a Workflow](building-a-custom-workflow.md)
   + Advanced Tasks {#advanced-tasks-admins}
     + [Global Settings](learn-about-global-settings.md)
@@ -65,7 +65,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Sending in Outlook](send-for-signature-with-outlook.md)
     + [Sending in SharePoint Online](send-for-signature-with-sharepoint-online.md)
     + [Tracking in SharePoint Online](track-an-agreement-with-sharepoint-online.md)
-    + [Sending in Microsoft Teams](adobe-sign-teams-mortgage.md)
+    + [Sending Documents for Signature in Microsoft Teams](adobe-sign-teams-mortgage.md)
   + Salesforce {#salesforce}
     + [Creating a Document Template](create-an-agreement-template.md)
     + [Setting up Data Mapping](set-up-data-mapping.md)
@@ -97,5 +97,5 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [GigaSign](gigasign.md)
 + Deploy  {#deploy}
   + [Overview](deploy-overview.md)
-+ Mobile  {#mobile}
++ Mobile {#mobile}
   + [Overview](mobile-overview.md)

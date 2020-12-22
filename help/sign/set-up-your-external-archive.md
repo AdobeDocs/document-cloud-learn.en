@@ -1,6 +1,6 @@
 ---
 title: Setting up your External Archive
-description: Learn how you can monitor the status of agreements through alerts and events settings.
+description: Learn how you can monitor the status of agreements through alerts and events settings
 feature: tutorial
 topics: Set up your External Archive
 audience: Admin
@@ -10,7 +10,7 @@ doc-type: feature video
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Setting up your External Archive
+# Setting up your external archive
 
 Learn how you can monitor the status of agreements through alerts and events settings.
 
@@ -19,7 +19,7 @@ Archive copies of signed agreements to any email address or to Box and Evernote.
 
 Archives are perfect for keeping backup copies of the agreements you've sent.
 
-## External archive: Email address
+## External archive: email address
 
 1. Log in as the account admin, go to the Account tab, and click Account Settings and External Archive.
 

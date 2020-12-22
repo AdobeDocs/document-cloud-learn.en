@@ -1,6 +1,6 @@
 ---
 title: Setting up Routing Order
-description: Set up routing for signing order tutorial
+description: Set up signature routing order
 feature: tutorial
 topics: Set up routing for signing order
 audience: user
@@ -11,7 +11,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 17347.jpg
 ---
 
-# Setting up Routing Order
+# Setting up routing order
 
 Learn how to define the routing order for each signature. Send a document in sequence, in parallel, or a combination of the two.
 
