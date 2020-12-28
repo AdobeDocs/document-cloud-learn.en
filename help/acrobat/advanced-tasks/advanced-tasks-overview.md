@@ -35,7 +35,7 @@ Go beyond the basics by using these advanced tools in Acrobat.
       <img alt="Reduce File Size & Optimize" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="redact.md"><strong>Reduce File Size & Optimize</strong></a>
+    <a href="reduce.md"><strong>Reduce File Size & Optimize</strong></a>
     </div>
     <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
     <br>
