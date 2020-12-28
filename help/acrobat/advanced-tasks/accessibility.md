@@ -48,4 +48,4 @@ In the accessibility report window, right-click on an item to bring up the conte
 
 Click to download a PDF of the *Preparing Accessibile PDF files* tutorial.
 
-[![Download Accessibility tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessibility.pdf).
+[![Download Accessibility tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).
