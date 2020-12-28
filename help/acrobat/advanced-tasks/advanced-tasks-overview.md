@@ -47,7 +47,7 @@ Go beyond the basics by using these advanced tools in Acrobat.
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
     <div>
-    <a href="formdata.md"><strong>Working with Form Data</strong></a>
+    <a href="formdata.md"><strong>Working with form data</strong></a>
     </div>
     <em>Compile form data into a single spreadsheet</em>
     <br>
@@ -57,7 +57,7 @@ Go beyond the basics by using these advanced tools in Acrobat.
       <img alt="Preparing Accessible PDF Files" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Preparing Accessible PDF Files</strong></a>
+    <a href="accessibility.md"><strong>Preparing Accessible PDF files</strong></a>
     </div>
     <em>Create universally accessible PDF files</em>
     <br>

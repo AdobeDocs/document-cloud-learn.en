@@ -94,6 +94,18 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Quickly sign a PDF form</em>
     <br>
   <td>
+    <a href="scan-and-ocr.md">
+      <img alt="Scan & OCR" src="../assets/Scan.jpg" />
+    </a>
+    <div>
+    <a href="scan-ad-ocr.md"><strong>Scan & OCR</strong></a>
+    </div>
+    <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="password-protect.md">
       <img alt="Protect a PDF file with a password" src="../assets/Protect.jpg" />
     </a>
@@ -101,6 +113,16 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <a href="password-protect.md"><strong>Protect a PDF file with a password</strong></a>
     </div>
     <em>Learn how to add a password to your PDF to protect others from opening or editing the file</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
