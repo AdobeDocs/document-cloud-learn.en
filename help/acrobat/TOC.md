@@ -17,16 +17,17 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Get to know the Acrobat DC Interface](getting-started/get-to-know-the-acrobat-dc-interface.md)
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
   + [Combine Files to PDF](getting-started/combine-to-pdf.md)
-  + [Create PDF files](getting-started/create-pdf.md)
-  + [Comment on PDF files in Acrobat DC](getting-started/comment-on-pdf-files.md)
+  + [Create PDF Files](getting-started/create-pdf.md)
+  + [Comment on PDF Files in Acrobat DC](getting-started/comment-on-pdf-files.md)
   + [Edit a PDF in Acrobat DC](getting-started/edit-pdf.md)
   + [Export a PDF to Editable Formats](getting-started/export-pdf.md)
-  + [Fill and Sign a PDF form](getting-started/fill-and-sign.md)
+  + [Fill and Sign a PDF Form](getting-started/fill-and-sign.md)
   + [Protect a PDF File with a Password](getting-started/password-protect.md)
 + Advanced Tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
   + [Action Wizard](advanced-tasks/action.md)
   + [Redact & Sanitize](advanced-tasks/redact.md)
+  + [Reduce File Size & Optimize](advanced-tasks/reduce.md)
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
 + Integrate {#integrations}

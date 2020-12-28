@@ -31,8 +31,13 @@ Go beyond the basics by using these advanced tools in Acrobat.
     <em>Permanently remove private or sensitive information from your PDF</em>
     <br>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="reduce.md">
+      <img alt="Reduce File Size & Optimize" src="../assets/Reduce.jpg" />
+    </a>
     <div>
+    <a href="redact.md"><strong>Reduce File Size & Optimize</strong></a>
+    </div>
+    <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
     <br>
   </td>
 </tr>
