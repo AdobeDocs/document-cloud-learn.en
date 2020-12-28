@@ -98,7 +98,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
       <img alt="Scan & OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-ad-ocr.md"><strong>Scan & OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Scan & OCR</strong></a>
     </div>
     <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
     <br>
