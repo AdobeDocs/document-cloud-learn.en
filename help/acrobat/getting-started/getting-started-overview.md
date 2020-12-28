@@ -36,7 +36,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
       <img alt="Combine Files to PDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-    <a href="combine-to-pdf.md"><strong>Combine Files to PDFs</strong></a>
+    <a href="combine-to-pdf.md"><strong>Combine files to PDFs</strong></a>
     </div>
     <em>Combine many different types of files into a single PDF</em>
     <br>

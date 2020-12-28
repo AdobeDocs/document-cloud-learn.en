@@ -38,4 +38,6 @@ Create an action to automatically apply a set of commands to one or multiple fil
 
 Now you can run the custom action any time you need to perform that series of steps on a PDF file.
 
+Click to download a PDF of the Action Wizard tutorial.
+
 [![Download Action Wizard tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
