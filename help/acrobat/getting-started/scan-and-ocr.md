@@ -1,6 +1,6 @@
 ---
 title: Scan & OCR
-Convert scans or images of documents into searchable, editable PDF files, and adjust the quality of the resulting file
+description: Convert scans or images of documents into searchable, editable PDF files, and adjust the quality of the resulting file
 solution: Acrobat DC
 feature: tutorial
 topics: Scan
