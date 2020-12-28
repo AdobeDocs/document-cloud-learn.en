@@ -22,6 +22,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Edit a PDF in Acrobat DC](getting-started/edit-pdf.md)
   + [Export a PDF to Editable Formats](getting-started/export-pdf.md)
   + [Fill and Sign a PDF Form](getting-started/fill-and-sign.md)
+  + [Scan & OCR](getting-started/scan-and-ocr.md)
   + [Protect a PDF File with a Password](getting-started/password-protect.md)
 + Advanced Tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
