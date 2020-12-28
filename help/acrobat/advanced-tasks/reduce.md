@@ -6,10 +6,10 @@ feature: tutorial
 topics: Optimize
 audience: User
 activity: use
-skill: Advanced
+skill: Intermediate
 doc-type: tutorial
 team: DC Product Marketing Engagement
-thumbnail:
+thumbnail: KT-6827.jpg
 ---
 
 # Reduce file size & optimize
@@ -42,6 +42,6 @@ Reduce large files and optimize your PDFs without compromising quality for shari
 
     ![Reduce Step 6](../assets/Reduce_6.png)
 
-Click to download a PDF of the Reduce file size & optimize tutorial.    
+Click to download a PDF of the *Reduce file size & optimize* tutorial.    
 
 [![Download Reduce file size & optimize tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).
