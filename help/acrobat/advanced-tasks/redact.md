@@ -59,6 +59,6 @@ comments, metadata, or hidden layers.
 
     ![Sanitize Step 2](../assets/Redact_7.png)
 
-Click to download a PDF of the Redact & Sanitize tutorial.    
+Click to download a PDF of the *Redact & Sanitize* tutorial.    
 
 [![Download Redact & Sanitize tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCRedact.pdf).

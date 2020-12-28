@@ -26,8 +26,10 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 + Advanced Tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
   + [Action Wizard](advanced-tasks/action.md)
+  + [Preparing Accessible PDF Files](advanced-tasks/accessibility.md)
   + [Redact & Sanitize](advanced-tasks/redact.md)
   + [Reduce File Size & Optimize](advanced-tasks/reduce.md)
+  + [Working with Form Data](advanced-tasks/formdata.md)
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
 + Integrate {#integrations}
