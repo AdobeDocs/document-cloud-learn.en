@@ -106,6 +106,16 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
 </tr>
 <tr>
   <td>
+    <a href="organize.md">
+      <img alt="Organize Pages" src="../assets/Organize.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>Organize Pages</strong></a>
+    </div>
+    <em>Add, replace, extract, rotate, delete, and move pages in your PDF</em>
+    <br>
+  </td>
+   <td>
     <a href="password-protect.md">
       <img alt="Protect a PDF file with a password" src="../assets/Protect.jpg" />
     </a>
@@ -125,10 +135,5 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Quickly sign a PDF form</em>
     <br>
   <td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
