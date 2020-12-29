@@ -16,4 +16,4 @@ thumbnail: 17096.jpg
 
 Understand where PDFs come from and their uses.
 
->[!VIDEO](https://video.tv.adobe.com/v/17096/?learn=on?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/17096?hidetitle=true)

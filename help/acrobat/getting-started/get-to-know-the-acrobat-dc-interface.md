@@ -16,4 +16,4 @@ thumbnail: 23590.jpg
 
 See how the Adobe Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile using a consistent Home view experience.
 
->[!VIDEO](https://video.tv.adobe.com/v/23590/?learn=on?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/23590?hidetitle=true)
