@@ -24,6 +24,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Create Fillable Forms](getting-started/create-fillable-forms.md)
   + [Fill and Sign a PDF Form](getting-started/fill-and-sign.md)
   + [Scan & OCR](getting-started/scan-and-ocr.md)
+  + [Organize Pages](getting-started/organize.md)
   + [Protect a PDF File with a Password](getting-started/password-protect.md)
 + Advanced Tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
