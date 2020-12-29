@@ -21,6 +21,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Comment on PDF Files in Acrobat DC](getting-started/comment-on-pdf-files.md)
   + [Edit a PDF in Acrobat DC](getting-started/edit-pdf.md)
   + [Export a PDF to Editable Formats](getting-started/export-pdf.md)
+  + [Create Fillable Forms](getting-started/create-fillable-forms.md)
   + [Fill and Sign a PDF Form](getting-started/fill-and-sign.md)
   + [Scan & OCR](getting-started/scan-and-ocr.md)
   + [Protect a PDF File with a Password](getting-started/password-protect.md)
