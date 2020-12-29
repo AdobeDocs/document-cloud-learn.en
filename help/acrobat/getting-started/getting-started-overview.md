@@ -85,13 +85,13 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <br>
   </td>
   <td>
-    <a href="fill-and-sign.md">
-      <img alt="Fill and sign a PDF form" src="../assets/FillSign.jpg" />
+    <a href="create-fillable-forms.md">
+      <img alt="Create fillable forms" src="../assets/Form.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill and sign a PDF form</strong></a>
+    <a href="create-fillable-forms.md"><strong>Create fillable forms</strong></a>
     </div>
-    <em>Quickly sign a PDF form</em>
+    <em>Turn a scanned paper form or document created in other application into a fillable PDF form</em>
     <br>
   <td>
     <a href="scan-and-ocr.md">
@@ -116,10 +116,15 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="fill-and-sign.md">
+      <img alt="Fill and sign a PDF form" src="../assets/FillSign.jpg" />
+    </a>
     <div>
+    <a href="fill-and-sign.md"><strong>Fill and sign a PDF form</strong></a>
+    </div>
+    <em>Quickly sign a PDF form</em>
     <br>
-  </td>
+  <td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>

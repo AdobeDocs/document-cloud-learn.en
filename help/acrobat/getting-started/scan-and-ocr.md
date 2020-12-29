@@ -14,7 +14,7 @@ thumbnail: KT-6830.jpg
 
 # Scan & OCR
 
-Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving.
+Convert scans or images of documents into searchable, editable PDF files, and adjust the quality of the resulting file.
 
 1. In Acrobat DC, select **Scan & OCR** from the Tools center or pane.
 
