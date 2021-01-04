@@ -28,7 +28,7 @@ Welcome to the Adobe Acrobat Learning Hub. You'll find a wide range of learning 
       <img alt="Advanced tasks" src="assets/acrobat_title_advanced_tasks.png" />
     </a>
     <div>
-    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Advanced tasks</strong></a>
+    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Advanced Tasks</strong></a>
     </div>
     <em>Go beyond the basics with specific tasks and automation</em>
     <br>
