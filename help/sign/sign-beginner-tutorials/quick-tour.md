@@ -1,6 +1,6 @@
 ---
 title: Quick Tour of Adobe Sign
-description: Take a quick tour of the Adobe Sign interface to get up and running
+description: Take a quick tour of Adobe Sign to get up and running
 feature: tutorial
 topics: Getting Started
 audience: user
