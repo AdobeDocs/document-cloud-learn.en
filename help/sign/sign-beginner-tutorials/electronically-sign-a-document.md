@@ -1,6 +1,6 @@
 ---
 title: Electronically Signing a Document
-description: Learn how easy it is to sign a document sent to you with Adobe Sign
+description: Learn how easy it is to sign a document that has been sent to you with Adobe Sign
 feature: tutorial
 topics: Electronically Signing a Document
 audience: user
@@ -13,6 +13,6 @@ thumbnail: 17360.jpg
 
 # Electronically signing a document
 
-Learn how easy it is to sign a document sent to you with Adobe Sign.
+Learn how easy it is to sign a document that has been sent to you with Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17360?hidetitle=true)
