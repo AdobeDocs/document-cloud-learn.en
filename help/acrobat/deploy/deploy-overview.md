@@ -1,6 +1,7 @@
 ---
 title: Deployment Overview
 description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers
+thumbnail: KT-6862.jpg
 ---
 
 # Deployment overview

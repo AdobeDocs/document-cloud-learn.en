@@ -1,6 +1,7 @@
 ---
 title: Integrate Overview
 description: Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps
+thumbnail: KT-6859.jpg
 ---
 
 # Integrate overview

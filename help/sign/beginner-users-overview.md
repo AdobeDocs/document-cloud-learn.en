@@ -8,6 +8,7 @@ activity: use
 doc-type: feature video
 skill: beginner
 team: DC Product Marketing Retention and Engagement
+thumbnail: KT-6847.jpg
 ---
 
 # Getting started overview

@@ -8,6 +8,7 @@ activity: use
 skill: any
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: KT-6850.jpg
 ---
 
 # Integrate overview

@@ -8,6 +8,7 @@ activity: Set up
 skill: Beginner
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: KT-6849.jpg
 ---
 
 # Administrators overview
