@@ -1,6 +1,7 @@
 ---
 title: Getting Started Overview
 description: Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-step tutorials
+thumbnail: KT-6856.jpg
 ---
 
 # Getting started overview

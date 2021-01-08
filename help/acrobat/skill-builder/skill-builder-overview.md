@@ -1,6 +1,7 @@
 ---
 title: Acrobat DC Skill Builders
 description: Get up-to-speed on Acrobat DC with these interactive skill builders
+thumbnail: KT-6858.jpg
 ---
 
 # Acrobat Skill Builders

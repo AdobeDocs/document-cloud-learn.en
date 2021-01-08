@@ -8,6 +8,7 @@ activity: Inspire
 skill: All
 doc-type: feature video
 team: DC Product Marketing Retention and Engagement
+thumbnail: KT-6851.jpg
 ---
 
 # Expand and inspire overview

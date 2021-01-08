@@ -1,6 +1,7 @@
 ---
-title: Mobile )verview
+title: Mobile Overview
 description: Create, fill, and sign PDFs on your mobile device
+thumbnail: KT-6863.jpg
 ---
 
 # Mobile overview

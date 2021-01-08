@@ -1,6 +1,7 @@
 ---
 title: Adobe Sign Learning Hub
-description: A collection of tutorials, webinars, and use cases for Adobe Sign.
+description: A collection of tutorials, webinars, and use cases for Adobe Sign
+thumbnail: KT-6846.jpg
 ---
 
 # Adobe Sign Learning Hub
