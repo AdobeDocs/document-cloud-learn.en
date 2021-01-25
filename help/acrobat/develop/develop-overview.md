@@ -6,6 +6,8 @@ thumbnail: KT-6861.jpg
 
 # Develop overview
 
+![Acrobat Develop Image](../assets/Hero-Develop.png)
+
 Develop software that integrates with Acrobat and Adobe Reader using JavaScript, Plug-ins, or IAC.
 
 ## Acrobat SDK

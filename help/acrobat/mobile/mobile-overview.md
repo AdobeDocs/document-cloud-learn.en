@@ -6,6 +6,8 @@ thumbnail: KT-6863.jpg
 
 # Mobile overview
 
+![Acrobat Mobile Image](../assets/Hero-Mobile.png)
+
 Create, fill, and sign PDFs on your mobile device.
 
 Download [Adobe Acrobat Reader mobile app](https://acrobat.adobe.com/us/en/mobile/acrobat-reader.html) the free global standard for reliably viewing, annotating, and signing PDFs.

@@ -1,10 +1,12 @@
 ---
-title: Deployment Overview
+title: Deploy Overview
 description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers
 thumbnail: KT-6862.jpg
 ---
 
-# Deployment overview
+# Deploy overview
+
+![Acrobat Deployment Image](../assets/Hero-Deploy.png)
 
 Deployment and best practice articles with valuable insight and knowledge gained by working with our customers.
 

@@ -6,6 +6,8 @@ thumbnail: KT-6859.jpg
 
 # Integrate overview
 
+![Acrobat Integrate Image](../assets/Hero-Integrate.png)
+
 Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps.
 
 ## Microsoft 365

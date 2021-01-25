@@ -6,6 +6,8 @@ thumbnail: KT-6860.jpg
 
 # Industry overview
 
+![Acrobat Industry Image](../assets/Hero-Industry.png)
+
 See how you can transform customer and employee experiences by exploring industry use cases and inspirational ideas.
 
 ## Government

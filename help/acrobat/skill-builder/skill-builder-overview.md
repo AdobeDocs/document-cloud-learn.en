@@ -8,6 +8,8 @@ thumbnail: KT-6858.jpg
 
 Get up-to-speed on Acrobat DC with these interactive skill builders.
 
+![Acrobat Skill Builder Image](../assets/Hero-SkillBuilders.png)
+
 ## Go Digital
 
 <table>
