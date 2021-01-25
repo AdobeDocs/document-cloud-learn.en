@@ -39,9 +39,9 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Overview](integrate/integrate-overview.md)
 + Industry {#by-industry}
   + [Overview](industry/industry-overview.md)
-  + Acrobat for Government Users {#gov}
-    + [Acrobat for Government Overview](industry/gov/gov-overview.md)
-    + 5 Tips for Working Anywhere with Acrobat DC for Government {#tips}
+  + Government {#gov}
+    + [Overview](industry/gov/gov-overview.md)
+    + 5 Tips for Working Anywhere with Acrobat DC {#tips}
       + [5 Tips for Working Anywhere with Acrobat DC](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
       + [Tip #1 – Get Your Tools](industry/gov/get-your-tools.md)
       + [Tip #2 – Collaborate on Documents](industry/gov/collaborate-on-documents.md)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Acrobat Tutorials Overview
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat DC.
+title: Adobe Acrobat Learning Hub
+description: A collection of tutorials, webinars, and use cases for Adobe Acrobat DC
 thumbnail: KT-6864.jpg
 ---
 

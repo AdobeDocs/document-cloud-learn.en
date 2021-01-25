@@ -2,7 +2,7 @@
 title: Get Work Done Webinars
 description: Join our on-demand webinars to build your Acrobat DC skills
 solution: Acrobat DC
-feature: tutorial
+feature: webinar
 topics: Acrobat Skill Builders
 audience: User
 activity: use

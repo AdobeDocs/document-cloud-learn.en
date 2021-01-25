@@ -1,6 +1,6 @@
 ---
 title: Collect Signatures in Bulk
-description: Collect hundreds of signatures using Mega Sign
+description: Learn how to collect hundreds of signatures for a liability waiver in just a few short steps
 feature: tutorial
 topics: Send a Document in Bulk with Mega Sign
 audience: user

@@ -1,6 +1,6 @@
 ---
 title: Redact & Sanitize
-description: Automate a routine set of commands to your files
+description: Learn to use the Redact tool to permanently remove private or sensitive information from your PDF
 solution: Acrobat DC
 feature: tutorial
 topics: Action Wizard
@@ -14,8 +14,7 @@ thumbnail: KT-6804.jpg
 
 # Redact & Sanitize
 
-Use the Redact tool to permanently remove private or sensitive information from your PDF and Sanitize document to remove information that is not visible in the file, such as
-comments, metadata, or hidden layers. 
+Learn to use the Redact tool to permanently remove private or sensitive information from your PDF. Use the Sanitize tool to remove information that is not visible in the file, such as comments, metadata, or hidden layers.
 
 >[!NOTE]
 >

@@ -1,6 +1,6 @@
 ---
 title: Develop Overview
-description: 40% of agreements in Adobe Sign are created using APIs
+description: Learn how to use Adobe Sign APIs to create custom applications for your teams, partners and customers
 feature: tutorial
 topics: Getting Started for Developers
 audience: Admin

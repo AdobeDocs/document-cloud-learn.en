@@ -26,19 +26,19 @@ See how you can transform customer and employee e-signing experiences by explori
     <br>
   </td>
   <td>
-    <a href="innovation-series.md">
-      <img alt="Innovation Series" src="assets/Innovation-Series_1280.png" />
-    </a>
-    <div>
-    <a href="innovation-series.md"><strong>Innovation Series</strong></a>
-    <br>
-  </td>
-  <td>
     <a href="sign-usecase/recipes.md">
       <img alt="Use case recipes" src="assets/Expand_RecipeR.png" />
     </a>
     <div>
     <a href="sign-usecase/recipes.md"><strong>Use Case Recipes</strong></a>
+    <br>
+  </td>
+  <td>
+    <a href="innovation-series.md">
+      <img alt="Innovation Series" src="assets/Innovation-Series_1280.png" />
+    </a>
+    <div>
+    <a href="innovation-series.md"><strong>Innovation Series</strong></a>
     <br>
   </td>
 </tr>
