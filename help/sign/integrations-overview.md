@@ -68,7 +68,7 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -118,12 +118,12 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>

@@ -1,6 +1,6 @@
 ---
 title: Preparing Accessible PDF Files
-description: Create universally accessible PDF files
+description: Adobe Acrobat Pro DC includes many tools to help you create universally accessible PDF files
 solution: Acrobat DC
 feature: tutorial
 topics: Accessibility

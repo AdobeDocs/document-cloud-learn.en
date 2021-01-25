@@ -1,6 +1,6 @@
 ---
 title: Managing Document Templates
-description: Edit or Delete a Template from your library
+description: Edit or delete a template from your library
 feature: tutorial
 topics: Edit or Delete a Template
 audience: user
