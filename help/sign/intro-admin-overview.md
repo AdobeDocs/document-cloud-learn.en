@@ -13,6 +13,8 @@ thumbnail: KT-6849.jpg
 
 # Administrators overview
 
+![Sign Administrators Image](assets/Hero-Admin.png)
+
 Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Adobe Sign. The Advanced Tasks cover topics that expand past the admin set up portion and move into defining global settings, account access and sharing, and text tagging.
 
 ## Getting started

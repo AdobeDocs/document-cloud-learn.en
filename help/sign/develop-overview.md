@@ -13,6 +13,8 @@ thumbnail: KT-6852.jpg
 
 # Develop overview
 
+![Sign Develop Image](assets/Hero-Develop.png)
+
 40% of agreements in Adobe Sign are created using APIs. Use APIs to create custom applications for your teams, partners and customers.
 
 <table>

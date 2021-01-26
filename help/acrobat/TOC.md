@@ -48,7 +48,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
       + [Tip #3 – Protect Digital Documents](industry/gov/protect-digital-documents.md)
       + [Tip #4 – Work with Forms and Signatures](industry/gov/work-with-forms-and-signatures.md)
       + [Tip #5 – Scan and Edit on Mobile](industry/gov/scan-and-edit-on-mobile.md)
-    + Making PDFs Accessible {#pdfs}
+    + Accessibility {#pdfs}
       + [Making PDFs Accessible](industry/gov/making-pdfs-accessible.md)
       + [#1 – Understanding Accessibility](industry/gov/understanding-accessibility.md)
       + [#2 – Authoring in Word](industry/gov/authoring-in-word.md)

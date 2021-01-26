@@ -13,6 +13,8 @@ thumbnail: KT-6853.jpg
 
 # Deploy overview
 
+![Sign Deploy Image](assets/Hero-Deploy.png)
+
 Deployment and best practice articles with valuable insight and knowledge gained by working with our customers.
 
 <table>

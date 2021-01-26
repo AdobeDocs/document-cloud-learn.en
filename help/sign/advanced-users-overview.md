@@ -6,6 +6,8 @@ thumbnail: KT-6848.jpg
 
 # Advanced tasks overview
 
+![Sign Advanced Image](assets/Hero-Advanced.png)
+
 Learn how to send a document out for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates. 
 
 These set of tutorials are for anyone who already knows the basics of sending and requesting signatures, and wants to learn more ways Adobe Sign can work for them.
