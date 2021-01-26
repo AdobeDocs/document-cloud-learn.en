@@ -33,6 +33,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     </div>
     <em>Understand where PDFs come from and their uses</em>
     <br>
+  </td>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files to PDF" src="../assets/Combine.jpg" />
@@ -117,7 +118,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Add, replace, extract, rotate, delete, and move pages in your PDF</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="password-protect.md">
       <img alt="Protect a PDF file with a password" src="../assets/Protect.jpg" />
     </a>
