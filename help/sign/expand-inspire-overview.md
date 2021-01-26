@@ -13,6 +13,8 @@ thumbnail: KT-6851.jpg
 
 # Expand and inspire overview
 
+![Sign Expanc Image](assets/Hero-Expand.png)
+
 See how you can transform customer and employee e-signing experiences by exploring use cases and inspirational ideas.
 
 <table>

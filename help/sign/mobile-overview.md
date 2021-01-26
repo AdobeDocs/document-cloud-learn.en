@@ -13,6 +13,8 @@ thumbnail: KT-6854.jpg
 
 # Mobile overview
 
+![Sign Mobile Image](assets/Hero-Mobile.png)
+
 Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device.
 
 <table>

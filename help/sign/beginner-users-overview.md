@@ -13,6 +13,8 @@ thumbnail: KT-6847.jpg
 
 # Getting started overview
 
+![Sign Getting Started Image](assets/Hero-GettingStarted.png)
+
 Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step tutorials. From signing a document yourself to requesting a signature from one or multiple recipient(s), this content is designed to ease you into e-signature workflows.
 
 ## Sending

@@ -13,6 +13,8 @@ thumbnail: KT-6850.jpg
 
 # Integrate overview
 
+![Sign Integrate Image](assets/Hero-Integrate.png)
+
 We partner with other companies, so you can use Adobe Sign with other applications your organization already uses, such as Microsoft, Salesforce, and Workday to name a few. Check out how you can simplify your e-signature workflows through the processes in these integration tutorials. 
 
 >[!NOTE]
