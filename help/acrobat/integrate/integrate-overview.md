@@ -10,7 +10,7 @@ thumbnail: KT-6859.jpg
 
 Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps.
 
-## Microsoft 365
+## Microsoft
 
 Learn how everyone on your team can work seamlessly with PDF files, right inside [Microsoft 365](https://acrobat.adobe.com/us/en/business/integrations/microsoft-office-365.html).
 
