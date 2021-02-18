@@ -14,6 +14,8 @@ Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps.
 
 Learn how everyone on your team can work seamlessly with PDF files, right inside [Microsoft 365](https://acrobat.adobe.com/us/en/business/integrations/microsoft-office-365.html).
 
+Watch the tutorial on how [Adobe Acrobat for Teams](acrobatandteams.md) allows users to collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving Microsoft Teams.
+
 ## Google Drive
 
 Learn how to be more productive with time-saving PDF and e-signature tools that integrate seamlessly with [Google Drive](https://acrobat.adobe.com/us/en/business/integrations/google-drive.html).
