@@ -37,6 +37,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Overview](skill-builder/skill-builder-overview.md)
 + Integrate {#integrations}
   + [Overview](integrate/integrate-overview.md)
+  + [Create PDF from Microsoft Word](integrate/createfromword.md)
   + [Microsoft Teams](integrate/acrobatandteams.md)
 + Industry {#by-industry}
   + [Overview](industry/industry-overview.md)
