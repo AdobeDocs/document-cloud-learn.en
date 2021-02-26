@@ -39,6 +39,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Overview](integrate/integrate-overview.md)
   + [Create PDF from Microsoft Word](integrate/createfromword.md)
   + [Microsoft Teams](integrate/acrobatandteams.md)
+  + [Work with your SharePoint files](integrate/acrobatandsp.md)
 + Industry {#by-industry}
   + [Overview](industry/industry-overview.md)
   + Government {#gov}
