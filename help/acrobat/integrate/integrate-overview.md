@@ -14,7 +14,7 @@ Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps.
 
 Learn how everyone on your team can work seamlessly with PDF files, right inside [Microsoft 365](https://acrobat.adobe.com/us/en/business/integrations/microsoft-office-365.html).
 
-* Watch the tutorial on how to create rich, robust PDF files with hyperlinked table of contents and cross-references, bookmarks, and even attachments using the [Acrobat Add-on for Microsoft Word](acrobatandteams.md).
+* Watch the tutorial on how to create rich, robust PDF files with hyperlinked table of contents and cross-references, bookmarks, and even attachments using the [Acrobat Add-on for Microsoft Word](createfromword.md).
 
 * Watch the [Working with SharePoint files](acrobatandsp.md) tutorial on how to securely convert Microsoft 365 files to PDFs, combine documents into one file, comment, and rearrange pages — right from SharePoint online
 
