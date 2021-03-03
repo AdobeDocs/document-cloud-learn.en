@@ -1,13 +1,10 @@
 ---
 title: Sending to a Single Recipient
 description: Jump in and learn how easy it is to start sending a document out for signature
-feature: tutorial
-topics: Sending to a Single Recipient
-audience: user
-activity: use
-doc-type: feature video
-skill: beginner
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Beginner
 thumbnail: 33659.jpg
 ---
 

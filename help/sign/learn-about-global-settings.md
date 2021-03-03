@@ -1,13 +1,11 @@
 ---
 title: Global Settings
 description: Learn how to edit settings globally or for groups
-feature: tutorial
-topics: Learn about Global Settings
-audience: Admin
-activity: Global Settings
-skill: Advanced
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate, Experienced
+topic: Administration
 thumbnail: 17358.jpg
 ---
 

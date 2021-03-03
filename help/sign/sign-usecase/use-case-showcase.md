@@ -1,7 +1,10 @@
 ---
 title: Use Case Showcase
 description: The Use Case Showcase is a monthly livestream session that introduces you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them
-sub-product: Use Case Showcase
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 ---
 
 # Use Case Showcase 

@@ -1,13 +1,10 @@
 ---
 title: Managing and Tracking Documents
 description: Learn how to manage and track agreements that you've sent for signature
-feature: tutorial
-topics: Managing and tracking documents
-audience: user
-activity: use
-doc-type: feature video
-skill: beginner
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Beginner
 thumbnail: 17341.jpg
 ---
 

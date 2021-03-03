@@ -1,13 +1,10 @@
 ---
 title: Set up a Web Form
 description: Learn how to create a document that can be signed electronically directly on your website
-feature: tutorial
-topics: Create a Webform
-audience: user
-activity: use
-skill: advanced
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner, Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 37841.jpg
 ---
 

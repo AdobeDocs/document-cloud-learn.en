@@ -1,13 +1,11 @@
 ---
 title: Sending in SharePoint Online
 description: Send an agreement for signature directly in Sharepoint Online
-feature: tutorial
-topics: Send for Signature with SharePoint Online
-audience: user or admin
-activity: use
-skill: any
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Integrations
 thumbnail: 41263.jpg
 ---
 

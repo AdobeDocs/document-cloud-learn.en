@@ -1,13 +1,11 @@
 ---
 title: Sending documents for signature in Microsoft Teams
 description: The Adobe Sign & Microsoft Teams integration enables you to send agreements for signature or check the status of existing agreements, all from within Microsoft Teams
-feature: tutorial
-topics: Accelerating the Mortgage Loan Process
-audience: user or admin
-activity: use
-skill: any
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Integrations
 thumbnail: 40125.jpg
 ---
 

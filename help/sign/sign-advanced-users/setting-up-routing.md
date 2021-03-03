@@ -1,13 +1,10 @@
 ---
 title: Setting up Routing Order
 description: Learn how to define the routing order for multiple signatures
-feature: tutorial
-topics: Set up routing for signing order
-audience: user
-activity: use
-doc-type: feature video
-skill: advanced
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 17347.jpg
 ---
 

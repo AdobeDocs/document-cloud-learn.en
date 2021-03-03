@@ -1,13 +1,10 @@
 ---
 title: Government Contracts and Requisition Forms
 description: Quickly replace paper processing with compliant digital workflows, complete with audit reports
-feature: tutorial
-topics: Contracts and Requisition Forms
-audience: Admin
-activity: Contracts and Requisition Forms
-skill: Intermediate
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 33811.jpg
 ---
 

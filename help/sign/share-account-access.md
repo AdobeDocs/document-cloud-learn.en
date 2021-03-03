@@ -1,13 +1,10 @@
 ---
 title: Sharing Account Access
 description: Learn how to obtain view-only access to transactions in another user's account
-feature: tutorial
-topics: Share Account Access
-audience: Admin
-activity: Set up
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner, Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 40187.jpg
 ---
 

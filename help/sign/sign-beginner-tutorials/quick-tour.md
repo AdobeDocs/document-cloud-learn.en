@@ -1,13 +1,10 @@
 ---
 title: Quick Tour of Adobe Sign
 description: Take a quick tour of Adobe Sign to get up and running
-feature: tutorial
-topics: Getting Started
-audience: user
-activity: use
-doc-type: feature video
-skill: beginner
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Beginner
 thumbnail: 41205.jpg
 ---
 

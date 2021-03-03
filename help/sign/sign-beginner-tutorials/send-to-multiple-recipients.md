@@ -1,13 +1,10 @@
 ---
 title: Sending to Multiple Recipients
 description: Learn how to send a document for e-signature to more than one person in exactly the order you want
-feature: tutorial
-topics: Sending to Multiple Recipients
-audience: user
-activity: use
-doc-type: feature video
-skill: beginner
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Beginner
 thumbnail: 33661.jpg
 ---
 

@@ -1,13 +1,10 @@
 ---
 title: Delegating to Someone Else
 description: Delegate someone else to sign a document
-feature: tutorial
-topics: Delegate
-audience: user
-activity: use
-skill: advanced
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 17366.jpg
 ---
 

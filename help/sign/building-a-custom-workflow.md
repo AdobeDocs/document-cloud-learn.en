@@ -1,13 +1,10 @@
 ---
 title: Building a Custom Workflow
 description: Learn how to tailor and automate document workflows to get electronic signatures and collect form data
-feature: tutorial
-topics: Building a Custom Workflow
-audience: Admin
-activity: Set up
-skill: Advanced
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner, Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Experienced
 thumbnail: 33656.jpg
 ---
 

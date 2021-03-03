@@ -1,12 +1,10 @@
 ---
 title: Setting up your External Archive
 description: Learn how you can monitor the status of agreements through alerts and events settings
-feature: tutorial
-topics: Set up your External Archive
-audience: Admin
-activity: Set up your External Archive
-skill: Advanced
-doc-type: feature video
+role: Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Beginner, Intermediate
 team: DC Product Marketing Retention and Engagement
 ---
 

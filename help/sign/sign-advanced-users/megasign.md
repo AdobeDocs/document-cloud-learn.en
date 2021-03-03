@@ -1,13 +1,10 @@
 ---
 title: Collect Signatures in Bulk
 description: Learn how to collect hundreds of signatures for a liability waiver in just a few short steps
-feature: tutorial
-topics: Send a Document in Bulk with Mega Sign
-audience: user
-activity: use
-skill: advanced
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner, Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 37839.jpg
 ---
 
