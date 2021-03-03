@@ -1,13 +1,11 @@
 ---
 title: Integrate Overview
 description: Learn how to use Adobe Sign with other applications your organization already uses, such as Microsoft, Salesforce, and Workday
-feature: tutorial
-topics: Integrations
-audience: user or admin
-activity: use
-skill: any
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Integrations
 thumbnail: KT-6850.jpg
 ---
 

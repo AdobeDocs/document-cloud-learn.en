@@ -1,13 +1,11 @@
 ---
 title: Adding Users
 description: Learn how to add users individually or in bulk to your Adobe Sign account
-feature: tutorial
-topics: Adding Users
-audience: Admin
-activity: Set up
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Administration
 thumbnail: 17356.jpg
 ---
 

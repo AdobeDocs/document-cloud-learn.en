@@ -1,13 +1,11 @@
 ---
 title: Administrators Overview
 description: Learn the fundamentals of adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts
-feature: tutorial
-topics: Getting Started for Administrators
-audience: Admin
-activity: Set up
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Administration
 thumbnail: KT-6849.jpg
 ---
 

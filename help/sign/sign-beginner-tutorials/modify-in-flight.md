@@ -1,13 +1,10 @@
 ---
 title: Modifying a Document Already Sent for Signature
 description: Learn how to modify a transaction that's currently in progress
-feature: tutorial
-topics: Modifying a Document Already Sent for Signature
-audience: user
-activity: use
-doc-type: feature video
-skill: beginner
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Beginner
 thumbnail: 17343.jpg
 ---
 

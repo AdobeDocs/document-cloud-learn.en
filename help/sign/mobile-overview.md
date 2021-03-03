@@ -1,13 +1,11 @@
 ---
 title: Mobile Overview
 description: Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device
-feature: tutorial
-topics: Adobe Sign for Mobile
-audience: User
-activity: Set up
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Mobile
 thumbnail: KT-6854.jpg
 ---
 

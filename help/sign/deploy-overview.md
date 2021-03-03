@@ -1,13 +1,9 @@
 ---
 title: Deploy Overview
-description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers
-feature: tutorial
-topics: Deploying Adobe Sign
-audience: Admin
-activity: Set up
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: KT-6853.jpg
 ---
 

@@ -1,13 +1,11 @@
 ---
 title: Develop Overview
 description: Learn how to use Adobe Sign APIs to create custom applications for your teams, partners and customers
-feature: tutorial
-topics: Getting Started for Developers
-audience: Admin
-activity: Set up
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Developer
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Integrations
 thumbnail: KT-6852.jpg
 ---
 

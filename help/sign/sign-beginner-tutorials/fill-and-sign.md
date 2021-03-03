@@ -1,13 +1,10 @@
 ---
 title: Filling and Signing a Document
 description: Learn how to fill in forms and add your electronic signature to documents
-feature: tutorial
-topics: Filling and Signing a Document
-audience: user
-activity: use
-skill: beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Beginner
 thumbnail: 33660.jpg
 ---
 

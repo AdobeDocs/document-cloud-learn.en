@@ -1,13 +1,11 @@
 ---
 title: Create a Custom Button in Adobe Sign for Salesforce
 description: Learn how to create a custom button in a standard object in Salesforce.com
-feature: tutorial
-topics: Create a Custom Button
-audience: user or admin
-activity: use
-skill: any
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Integrations
 thumbnail: 17352.jpg
 ---
 

@@ -1,13 +1,10 @@
 ---
 title: Expand and Inspire Overview
 description: See how you can transform customer and employee e-signing experiences by exploring use cases and inspirational ideas
-feature: tutorial
-topics: Innovation Use Case
-audience: User
-activity: Inspire
-skill: All
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: KT-6851.jpg
 ---
 

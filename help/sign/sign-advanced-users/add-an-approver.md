@@ -1,13 +1,10 @@
 ---
 title: Adding an Approver
 description: Learn how to add an approver to your contract approval process
-feature: tutorial
-topics: Add an Approver
-audience: user
-activity: use
-doc-type: feature video
-skill: advanced
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 17367.jpg
 ---
 

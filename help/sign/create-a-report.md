@@ -1,13 +1,10 @@
 ---
 title: Creating a Report
 description: Learn how to run, save, and schedule reports in Adobe Sign
-feature: tutorial
-topics: Create a Report
-audience: Admin
-activity: Create a Report
-skill: Beginning
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner, Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 17357.jpg
 ---
 

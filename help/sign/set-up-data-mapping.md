@@ -1,13 +1,11 @@
 ---
 title: Setting up Data Mapping
 description: Learn how to set up a data mapping for Adobe Sign in Salesforce
-feature: tutorial
-topics: Set up Data Mapping
-audience: user or admin
-activity: use
-skill: any
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Administrator
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
+topic: Integrations
 thumbnail: 17351.jpg
 ---
 

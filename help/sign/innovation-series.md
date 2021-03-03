@@ -1,7 +1,10 @@
 ---
 title: Adobe Sign Innovation Series
 description: The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about
-sub-product: Innovation Series
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 ---
 
 # Adobe Sign Innovation series
