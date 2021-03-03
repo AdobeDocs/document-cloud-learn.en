@@ -1,12 +1,10 @@
 ---
 title: Use Case Recipes
 description: Learn how to set up these e-signature use cases
-feature: tutorial
-topics: Use Case Recipes
-audience: User
-activity: Set up
-skill: All
-doc-type: feature video
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 team: DC Product Marketing Retention and Engagement
 ---
 

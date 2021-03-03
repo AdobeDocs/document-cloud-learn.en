@@ -1,13 +1,10 @@
 ---
 title: Reemployment Assistance
 description: Help citizens get the help they need without standing in line with all-digital application forms that can go live in days
-feature: tutorial
-topics: Reemployment Assistance
-audience: Admin
-activity: Reemployment Assistance
-skill: Beginning
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 33809.jpg
 ---
 

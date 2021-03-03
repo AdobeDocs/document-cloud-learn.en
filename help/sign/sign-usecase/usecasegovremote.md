@@ -1,13 +1,10 @@
 ---
 title: Remote Warrant Request
 description: Use e-signatures and web conferencing together to reduce the time it takes to request and secure warrants from judges
-feature: tutorial
-topics: Remote Warrant Request
-audience: Admin
-activity: Remote Warrant Request
-skill: Beginning
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 33813.jpg
 ---
 

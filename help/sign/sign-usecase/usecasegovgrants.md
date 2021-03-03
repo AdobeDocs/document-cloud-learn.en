@@ -1,13 +1,10 @@
 ---
 title: Business Grants and Loans
 description: Provide fast assistance to businesses by providing self-serve access to grant, loan, and tax deferral request forms
-feature: tutorial
-topics: Business Grants and Loans
-audience: Admin
-activity: Business Grants and Loans
-skill: Beginning
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 33810.jpg
 ---
 

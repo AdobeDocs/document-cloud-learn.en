@@ -1,13 +1,10 @@
 ---
 title: Policy Agreements
 description: Efficiently collect signatures from all your employees on policy agreements, updates, and more
-feature: tutorial
-topics: Policy Agreements
-audience: Admin
-activity: Policy Agreements
-skill: intermediate
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 33979.jpg
 ---
 

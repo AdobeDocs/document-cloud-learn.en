@@ -1,13 +1,10 @@
 ---
 title: Telework Agreement
 description: Efficiently collect signatures from all your employees on telework agreements, policy updates, and more
-feature: tutorial
-topics: Telework Agreement
-audience: Admin
-activity: Telework Agreement
-skill: Beginning
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Adobe Sign
+solution: Document Cloud
+level: Intermediate
 thumbnail: 33808.jpg
 ---
 
