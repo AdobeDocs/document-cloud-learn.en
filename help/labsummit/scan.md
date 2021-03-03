@@ -1,7 +1,7 @@
 ---
-title: Unleash Digital Experiences with Adobe Document Cloud
+title: Go Digital with Adobe Scan
 description: Learn some tricks and tips for using Adobe Document Cloud
-sub-product: Scan
+solution: Document Cloud
 ---
 
 # Go Digital with Adobe Scan

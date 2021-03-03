@@ -1,7 +1,7 @@
 ---
-title: Unleash Digital Experiences with Adobe Document Cloud
+title: Share PDF files and review online
 description: Learn some tricks and tips for using Adobe Document Cloud
-sub-product: Speed Feedback
+solution: Document Cloud
 ---
 
 # Share PDF files and review online
