@@ -1,6 +1,6 @@
 ---
 user-guide-title: Unleash Digital Experiences with Adobe Document Cloud
-solution: Adobe Document Cloud
+solution: Document Cloud
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
 getting-started-title: Getting Started
@@ -12,7 +12,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 # Unleash Digital Experiences with Adobe Document Cloud {#lab719}
 
 + [Lab Overview and Introduction](overview.md)
-+ Unleash Digital Experiences with Adobe Document Cloud{#gsd}
++ Unleash Digital Experiences with Adobe Document Cloud {#gsd}
    + [Unleash Digital Experiences with Adobe Document Cloud](gsd.md)
    + [Ex.1: Scan any form](scan.md)
    + [Ex.2: Fill and Sign any form](fillsign.md)
