@@ -60,7 +60,7 @@ If you want to trigger when an Account is added to an agreement in Salesforce, E
 
 1. When you're finished enabling sync on the Custom Objects, remember to reactivate the Sync:
 
-![Enable Global](assets/enableGlobal.png)
+    ![Enable Global](assets/enableGlobal.png)
 
 #### Create the Program
 
