@@ -3,7 +3,6 @@ title: Global Settings
 description: Learn how to edit settings globally or for groups
 role: Administrator
 product: Adobe Sign
-solution: Document Cloud
 level: Intermediate, Experienced
 topic: Administration
 thumbnail: 17358.jpg

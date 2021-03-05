@@ -3,8 +3,7 @@ title: Setting up your External Archive
 description: Learn how you can monitor the status of agreements through alerts and events settings
 role: Administrator
 product: Adobe Sign
-solution: Document Cloud
-level: Beginner, Intermediate
+level: Beginner
 team: DC Product Marketing Retention and Engagement
 ---
 

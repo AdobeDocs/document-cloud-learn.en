@@ -3,7 +3,6 @@ title: Integrate Overview
 description: Learn how to use Adobe Sign with other applications your organization already uses, such as Microsoft, Salesforce, and Workday
 role: Business Practitioner
 product: Adobe Sign
-solution: Document Cloud
 level: Intermediate
 topic: Integrations
 thumbnail: KT-6850.jpg
@@ -150,6 +149,61 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
   </td>
   <td>
     <img alt="Spacer" src="assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Marketo Configuration Guides
+
+<table>
+<tr>
+  <td>
+    <a href="marketo-salesforce-reminder.md">
+      <img alt="Send reminders using Adobe Sign for Salesforce and Marketo" src="assets/Integrate-Salesforce-Reminder.jpg" />
+    </a>
+    <div>
+    <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketo</strong></a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <a href="marketo-salesforce-sms.md">
+      <img alt="Send notifications using Adobe Sign for Salesforce and Marketo" src="assets/Integrate-Salesforce-SMS.jpg" />
+    </a>
+    <div>
+    <a href="marketo-salesforce-sms.md"><strong>Send notifications using Adobe Sign for Salesforce and Marketo</strong></a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <a href="marketo-dynamics-reminder.md">
+      <img alt="Send reminders using Adobe Sign for Microsoft Dynamics and Marketo" src="assets/Integrate-Dynamics-Reminder.jpg" />
+    </a>
+    <div>
+    <a href="marketo-dynamics-reminder.md"><strong>Send reminders using Adobe Sign for Microsoft Dynamics and Marketo<strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="marketo-dynamics-sms.md">
+      <img alt="Send notifications using Adobe Sign for Microsoft Dynamics and Marketo" src="assets/Integrate-Dynamics-SMS.jpg" />
+    </a>
+    <div>
+    <a href="marketo-dynamics-sms.md"><strong>Send notifications using Adobe Sign for Microsoft Dynamics and Marketo</strong></a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>

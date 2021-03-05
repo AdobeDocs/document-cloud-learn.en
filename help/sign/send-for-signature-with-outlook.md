@@ -3,7 +3,6 @@ title: Sending in Outlook
 description: Send an agreement for signature from inside Microsoft Outlook
 role: Business Practitioner
 product: Adobe Sign
-solution: Document Cloud
 level: Intermediate
 topic: Integrations
 thumbnail: 29765t1.jpg
