@@ -160,40 +160,40 @@ We partner with other companies, so you can use Adobe Sign with other applicatio
 <table>
 <tr>
   <td>
-    <a href="marketo-salesforce-reminder.md">
+    <a href="integrations/marketo-salesforce-reminder.md">
       <img alt="Send reminders using Adobe Sign for Salesforce and Marketo" src="assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketo</strong></a>
+    <a href="integrations/marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketo</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="marketo-salesforce-sms.md">
+    <a href="integrations/marketo-salesforce-sms.md">
       <img alt="Send notifications using Adobe Sign for Salesforce and Marketo" src="assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Send notifications using Adobe Sign for Salesforce and Marketo</strong></a>
+    <a href="integrations/marketo-salesforce-sms.md"><strong>Send notifications using Adobe Sign for Salesforce and Marketo</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="marketo-dynamics-reminder.md">
+    <a href="integrations/marketo-dynamics-reminder.md">
       <img alt="Send reminders using Adobe Sign for Microsoft Dynamics and Marketo" src="assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Send reminders using Adobe Sign for Microsoft Dynamics and Marketo<strong></a>
+    <a href="integrations/marketo-dynamics-reminder.md"><strong>Send reminders using Adobe Sign for Microsoft Dynamics and Marketo<strong></a>
     </div>
     <br>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="marketo-dynamics-sms.md">
+    <a href="integrations/marketo-dynamics-sms.md">
       <img alt="Send notifications using Adobe Sign for Microsoft Dynamics and Marketo" src="assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Send notifications using Adobe Sign for Microsoft Dynamics and Marketo</strong></a>
+    <a href="integrations/marketo-dynamics-sms.md"><strong>Send notifications using Adobe Sign for Microsoft Dynamics and Marketo</strong></a>
     </div>
     <br>
   </td>
