@@ -3,7 +3,6 @@ title: Mobile Overview
 description: Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device
 role: Business Practitioner
 product: Adobe Sign
-solution: Document Cloud
 level: Intermediate
 topic: Mobile
 thumbnail: KT-6854.jpg

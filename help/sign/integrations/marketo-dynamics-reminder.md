@@ -1,5 +1,5 @@
 ---
-title: Sending reminders for unsigned Adobe Sign for Microsoft Dynamics 365 agreements
+title: Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo
 description: Learn how to send a text message, email, push notification, or SMS reminder if it remains unsigned
 role: Administrator
 product: Adobe Sign
@@ -8,7 +8,7 @@ level: Intermediate
 topic: Integrations
 ---
 
-# Send reminders for unsigned agreements using Adobe Sign for Microsoft Dynamics 365 and Marketo
+# Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo
 
 When creating an Adobe Sign agreement, it may be useful to send an email, push notification, or SMS reminder if it remains unsigned after a period of time. Learn how to send an email reminder for unsigned agreements using Marketo and Microsoft Dynamics 365.
 
@@ -18,9 +18,9 @@ When creating an Adobe Sign agreement, it may be useful to send an email, push n
 
 1. Install [Adobe Sign for Microsoft Dynamics 365](https://appsource.microsoft.com/en-us/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86). Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
-### Finding the Custom Object
+### Find the custom object
 
-Once the *Marketo - Dynamics Sync* and *Adobe Sign for Dynamics* configurations are complete, two new options will appear for Dynamics in the Marketo Admin Terminal.
+Once the Marketo - Dynamics Sync and Adobe Sign for Dynamics configurations are complete, two new options will appear for Dynamics in the Marketo Admin Terminal.
 
 ![Admin](assets/adminTerminal.png)
 
@@ -28,17 +28,17 @@ Once the *Marketo - Dynamics Sync* and *Adobe Sign for Dynamics* configurations 
 
     ![Refresh](assets/refreshSchema.png)
 
-### Syncing the Custom Object
+### Sync the custom object
 
-On the right side, see Lead, Contact, and Account-based Custom Objects. 
+On the right side, see Lead, Contact, and Account-based custom objects. 
 
-**Enable Sync** for the objects under **Lead** if you want to send a reminder when a Lead has not signed an agreement in Dynamics.
+**Enable Sync** for the objects under Lead if you want to send a reminder when a Lead has not signed an agreement in Dynamics.
 
-**Enable Sync** for the objects under **Contact** if you want to send a reminder when a Contact has not signed an agreement in Dynamics.
+**Enable Sync** for the objects under Contact if you want to send a reminder when a Contact has not signed an agreement in Dynamics.
 
-**Enable Sync** for the objects under **Account** if you want to send a reminder when an Account has not signed an agreement in Dynamics.
+**Enable Sync** for the objects under Account if you want to send a reminder when an Account has not signed an agreement in Dynamics.
 
-1. **Enable Sync** for the agreement object under the desired Parent (Lead, Contact, or Account)*.
+1. **Enable Sync** for the agreement object under the desired Parent (Lead, Contact, or Account).
 
     ![Custom Objects](assets/enableSyncDynamics.png)
 
@@ -48,15 +48,15 @@ On the right side, see Lead, Contact, and Account-based Custom Objects.
 
     ![Custom Sync 2](assets/entitySync2.png)
 
-1. Reactivate the Sync after enabling sync on the Custom Objects. Go back to the Admin Terminal, click **Microsoft Dynamics**, then click on **Enable Sync**.
+1. Reactivate the sync after enabling sync on the custom objects. Go back to the Admin Terminal, click **Microsoft Dynamics**, then click on **Enable Sync**.
 
     ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
     ![Enable Global](assets/enableGlobalDynamics.png)
 
-### Create the Program and Token
+### Create the program and token
 
-1. In the Marketing Activities section of Marketo, right-click on Marketing Activities on the left bar. Select **New Campaign Folder**, and give it a name.
+1. In the Marketing Activities section of Marketo, right-click on **Marketing Activities** on the left bar. Select **New Campaign Folder**, and give it a name.
 
     ![New Folder](assets/newFolder.png)
 
@@ -74,9 +74,9 @@ On the right side, see Lead, Contact, and Account-based Custom Objects.
 
     ![Name and Edit](assets/nameAndSave.png)
 
-1. Expand **Custom Objects** on the right-hand side, then expand the **Agreement** object. Find and drag *Name*, *Agreement Status*, *Sent on*, and *Current Signer Url* onto the canvas.
+1. Expand **Custom Objects** on the right-hand side, then expand the **Agreement** object. Find and drag Name, Agreement Status, Sent on, and Current Signer Url onto the canvas.
 
-1. Write a Velocity script using these tokens to display the agreement URL of an agreement that goes unsigned for a week. Here is an example that compares the current date to *Sent On*: 
+1. Write a Velocity script using these tokens to display the agreement URL of an agreement that goes unsigned for a week. Here is an example that compares the current date to Sent On: 
 
     ```
     #foreach($agreement in $adobe_agreementList)
@@ -104,11 +104,11 @@ On the right side, see Lead, Contact, and Account-based Custom Objects.
 
 1. Click **Save**.
 
-### Create the Reminder and add personalization
+### Create the reminder and add personalization
 
 Examples of personalization include: the name of the signer, the name of the agreement, a link to the agreement, etc.
 
-1. Right-click on the Program you created and click **New Local Asset**, then select **Email**.
+1. Right-click on the program you created and click **New Local Asset**, then select **Email**.
 
     ![New Email](assets/createNewEmail.png)
 
@@ -128,9 +128,9 @@ Examples of personalization include: the name of the signer, the name of the agr
 
     ![Email Link](assets/emailLink.png)
 
-### Setting up the Smart Campaign Filter
+### Set up the Smart Campaign Filter
 
-1. Right-click on the Program you created, then click **New Smart Campaign**.
+1. Right-click on the program you created, then click **New Smart Campaign**.
 
     ![Smart Campaign 1](assets/smartCampaign1.png)
 
@@ -142,7 +142,7 @@ Examples of personalization include: the name of the signer, the name of the agr
 
     ![Has Agreement](assets/hasAgreementDynamics1.png)
 
-1. The fields you exposed to the Trigger should be available in **Add Constraint**. Select **Agreement Status** and any other fields you wish to filter by. For each field added, define the values to filter by. In this case, it will only trigger when the **Agreement Status** is *Out for Signature* and **Sent On** is *in past before 1 week*. 
+1. The fields you exposed to the trigger should be available in **Add Constraint**. Select **Agreement Status** and any other fields you wish to filter by. For each field added, define the values to filter by. In this case, it will only trigger when the **Agreement Status** is Out for Signature and **Sent On** is in past before 1 week.
 
     ![Agreement Status](assets/hasAgreementDynaSentOn.png)
 
@@ -150,13 +150,13 @@ Examples of personalization include: the name of the signer, the name of the agr
     >
     > Add a unique identifier to the constraints, like **Name**, if you want this campaign to only run for certain agreements.
 
-1. Confirm the Campaign audience and see who will qualify in the Schedule tab.
+1. Confirm the campaign audience and see who will qualify in the Schedule tab.
 
     ![Qualifiers](assets/qualifiers.png)
 
-### Setting up the Smart Campaign Flow
+### Set up the Smart Campaign Flow
 
-Because the campaign filter **Days Until Expires** was used, you can use a scheduled recurrence for the Campaign.
+Because the campaign filter **Days Until Expires** was used, you can use a scheduled recurrence for the campaign.
 
 1. Click on the **Flow** tab in the Smart Campaign. Search for and drag the **Send Email** flow onto the canvas and select the reminder email you created in the previous section.
 
@@ -166,7 +166,7 @@ Because the campaign filter **Days Until Expires** was used, you can use a sched
 
     ![Schedule Tab](assets/scheduleTab.png)
 
-1. Set the **Schedule** to *Daily*. Choose a start day and time and end date for the Campaign if necessary.
+1. Set the **Schedule** to Daily. Choose a start day and time and end date for the campaign if necessary.
 
     ![Schedule Settings](assets/scheduleSettings.png)
 
