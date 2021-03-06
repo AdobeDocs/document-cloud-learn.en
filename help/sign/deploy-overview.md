@@ -39,4 +39,24 @@ Deployment and best practice articles with valuable insight and knowledge gained
     <br>
   </td>
 </tr>
+<tr>
+  <td>
+    <a href="assets/SignStudyGuide.pdf">
+      <img alt="Adobe Sign Essentials Study Guide" src="assets/SignStudyGuide.png" />
+    </a>
+    <div>
+    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign Essentials Study Guide</strong></a>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
