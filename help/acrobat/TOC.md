@@ -61,5 +61,6 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Overview](develop/develop-overview.md)
 + Deploy {#deploy}
   + [Overview](deploy/deploy-overview.md)
+  + [Important Acrobat DC product updates for ETLA customers](deploy/signentitlementchanges.md)
 + Mobile {#mobile}
   + [Overview](mobile/mobile-overview.md)
