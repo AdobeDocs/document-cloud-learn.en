@@ -18,7 +18,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
 <tr>
   <td>
     <a href="createfromword.md">
-      <img alt="Create PDF files from Microsoft Word" src="assets/CreateWord.png" />
+      <img alt="Create PDF files from Microsoft Word" src="../assets/CreateWord.png" />
     </a>
     <div>
     <a href="createfromword.md"><strong>Create PDF files from Microsoft Word</strong></a>
@@ -28,7 +28,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
   </td>
   <td>
     <a href="acrobatandsp.md">
-      <img alt="Work with your SharePoint files" src="assets/SharePoint.png" />
+      <img alt="Work with your SharePoint files" src="../assets/SharePoint.png" />
     </a>
     <div>
     <a href="acrobatandsp.md"><strong>Work with your SharePoint files</strong></a>
@@ -37,7 +37,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <br>
   <td>
     <a href="acrobatandteams.md">
-      <img alt="PDF collaboration in Microsoft Teams" src="assets/MicrosoftTeams.png" />
+      <img alt="PDF collaboration in Microsoft Teams" src="../assets/MicrosoftTeams.png" />
     </a>
     <div>
     <a href="acrobatandteams.md"><strong>PDF collaboration in Microsoft Teams</strong></a>
