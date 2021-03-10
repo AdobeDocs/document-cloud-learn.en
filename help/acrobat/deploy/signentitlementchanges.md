@@ -43,7 +43,7 @@ Please reach out to your Adobe contact to discuss how you can continue providing
 
 ## Access to existing agreements
 
-Users will still be able to access any agreements sent out prior to this action via Adobe Document Cloud by signing in with their Adobe ID at https://documentcloud.adobe.com. If this user is scheduled for migration to Sign Enterprise, they will need to follow these {instructions](https://helpx.adobe.com/sign/kb/how-to-download-signed-documents---adobe-sign.html).
+Users will still be able to access any agreements sent out prior to this action via Adobe Document Cloud by signing in with their Adobe ID at https://documentcloud.adobe.com. If this user is scheduled for migration to Sign Enterprise, they will need to follow these [instructions](https://helpx.adobe.com/sign/kb/how-to-download-signed-documents---adobe-sign.html).
 
 ## Acrobat DC experience without Sign Individual entitlement
 
