@@ -14,11 +14,39 @@ Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps.
 
 Learn how everyone on your team can work seamlessly with PDF files, right inside [Microsoft 365](https://acrobat.adobe.com/us/en/business/integrations/microsoft-office-365.html).
 
-* Watch the tutorial on how to create rich, robust PDF files with hyperlinked table of contents and cross-references, bookmarks, and even attachments using the [Acrobat Add-on for Microsoft Word](createfromword.md).
-
-* Watch the [Working with SharePoint files](acrobatandsp.md) tutorial on how to securely convert Microsoft 365 files to PDFs, combine documents into one file, comment, and rearrange pages — right from SharePoint online
-
-* Watch the tutorial on how [Adobe Acrobat for Teams](acrobatandteams.md) allows users to collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving Microsoft Teams.
+<table>
+<tr>
+  <td>
+    <a href="createfromword.md">
+      <img alt="Create PDF files from Microsoft Word" src="../assets/CreateWord.png" />
+    </a>
+    <div>
+    <a href="createfromword.md"><strong>Create PDF files from Microsoft Word</strong></a>
+    </div>
+    <em>Create rich, robust PDF files with hyperlinked table of contents and cross-references, bookmarks, and even attachments directly from Microsoft Word</em>
+    <br>
+  </td>
+  <td>
+    <a href="acrobatandsp.md">
+      <img alt="Work with your SharePoint files" src="../assets/SharePoint.png" />
+    </a>
+    <div>
+    <a href="acrobatandsp.md"><strong>Work with your SharePoint files</strong></a>
+    </div>
+    <em>Streamline document workflows with SharePoint and Acrobat DC</em>
+    <br>
+  <td>
+    <a href="acrobatandteams.md">
+      <img alt="PDF collaboration in Microsoft Teams" src="../assets/MicrosoftTeams.png" />
+    </a>
+    <div>
+    <a href="acrobatandteams.md"><strong>PDF collaboration in Microsoft Teams</strong></a>
+    </div>
+    <em>Collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving Microsoft Teams</em>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Google Drive
 
