@@ -19,7 +19,7 @@ Learn how to send an email reminder when an agreement remains unsigned after a p
 
 1. Install Adobe Sign for Salesforce. Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
-### Find the custom object
+## Find the custom object
 
 If the Marketo - Salesforce Sync and Adobe Sign for Salesforce configurations are complete,  several new options will appear for Salesforce in the Marketo Admin Terminal.
 
@@ -39,7 +39,7 @@ If the Marketo - Salesforce Sync and Adobe Sign for Salesforce configurations ar
 
     ![Refresh 2](assets/refreshSchema2.png)
 
-### Sync the custom object
+## Sync the custom object
 
 On the right side, see Lead, Contact, and Account-based custom objects. 
 
@@ -59,7 +59,7 @@ On the right side, see Lead, Contact, and Account-based custom objects.
 
     ![Custom Sync 2](assets/customObjectSync2.png)
 
-### Expose the custom object fields to triggers
+## Expose the custom object fields to triggers
 
 1. While the Global Sync is deactivated, select the Agreement custom object you enabled sync for, then **Edit Visible Fields**.
 
@@ -73,7 +73,7 @@ On the right side, see Lead, Contact, and Account-based custom objects.
 
     ![Enable Global](assets/enableGlobal.png)
 
-### Create the program and token
+## Create the program and token
 
 1. In the Marketing Activities section of Marketo, right-click on **Marketing Activities** on the left bar, select **New Campaign Folder**, and give it a name.
 
@@ -123,7 +123,7 @@ On the right side, see Lead, Contact, and Account-based custom objects.
 
 1. Click **Save**.
 
-### Create the reminder and add personalization
+## Create the reminder and add personalization
 
 Examples of personalization include: the name of the signer, the name of the agreement, a link to the agreement, etc.
 
@@ -147,7 +147,7 @@ Examples of personalization include: the name of the signer, the name of the agr
 
     ![Email Link](assets/emailLink.png)
 
-### Set up the Smart Campaign Filter
+## Set up the Smart Campaign Filter
 
 1. Right-click on the program you created, then click **New Smart Campaign**.
 
@@ -173,7 +173,7 @@ Examples of personalization include: the name of the signer, the name of the agr
 
     ![Qualifiers](assets/qualifiers.png)
 
-### Set up the Smart Campaign Flow
+## Set up the Smart Campaign Flow
 
 Because the campaign filter **Days Unsigned** was used, you can use a scheduled recurrence for the campaign.
 

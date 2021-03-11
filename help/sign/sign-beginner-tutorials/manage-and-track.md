@@ -10,6 +10,6 @@ thumbnail: 17341.jpg
 
 # Managing and tracking documents
 
-Learn how to manage and track documents in Adobe Sign.
+In this video tutorial, you'll learn how to manage and track documents that you sent out for signature in Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)

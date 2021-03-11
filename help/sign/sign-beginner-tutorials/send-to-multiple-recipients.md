@@ -10,6 +10,6 @@ thumbnail: 33661.jpg
 
 # Sending to multiple recipients
 
-Do you have more than one person that needs to interact with your document? Learn how to send a document for e-signature to more than one person in exactly the order you want.
+Do you have more than one person that needs to interact with your document? In thhis video tutorial , you'll learn how to send a document for e-signature to more than one person in exactly the order you want.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33661?hidetitle=true)

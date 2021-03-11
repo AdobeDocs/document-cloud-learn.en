@@ -13,7 +13,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 
 + [Overview](overview.md)
 + Getting Started {#getting-started}
-  + [Overview](beginner-users-overview.md)
+  + [Overview](sign-beginner-tutorials/beginner-users-overview.md)
   + Sending {#getting-started-sending}
     + [Quick Tour of Adobe Sign](sign-beginner-tutorials/quick-tour.md)
     + [Sending to a Single Recipient](sign-beginner-tutorials/send-to-single-recipient.md)

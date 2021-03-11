@@ -19,7 +19,7 @@ Learn how to send an email reminder when an agreement remains unsigned after a p
 
 1. Install [Adobe Sign for Microsoft Dynamics 365](https://appsource.microsoft.com/en-us/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86). Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
-### Find the custom object
+## Find the custom object
 
 Once the Marketo - Dynamics Sync and Adobe Sign for Dynamics configurations are complete, two new options will appear for Dynamics in the Marketo Admin Terminal.
 
@@ -29,7 +29,7 @@ Once the Marketo - Dynamics Sync and Adobe Sign for Dynamics configurations are 
 
     ![Refresh](assets/refreshSchema.png)
 
-### Sync the custom object
+## Sync the custom object
 
 On the right side, see Lead, Contact, and Account-based custom objects. 
 
@@ -55,7 +55,7 @@ On the right side, see Lead, Contact, and Account-based custom objects.
 
     ![Enable Global](assets/enableGlobalDynamics.png)
 
-### Create the program and token
+## Create the program and token
 
 1. In the Marketing Activities section of Marketo, right-click on **Marketing Activities** on the left bar. Select **New Campaign Folder**, and give it a name.
 
@@ -105,7 +105,7 @@ On the right side, see Lead, Contact, and Account-based custom objects.
 
 1. Click **Save**.
 
-### Create the reminder and add personalization
+## Create the reminder and add personalization
 
 Examples of personalization include: the name of the signer, the name of the agreement, a link to the agreement, etc.
 
@@ -129,7 +129,7 @@ Examples of personalization include: the name of the signer, the name of the agr
 
     ![Email Link](assets/emailLink.png)
 
-### Set up the Smart Campaign Filter
+## Set up the Smart Campaign Filter
 
 1. Right-click on the program you created, then click **New Smart Campaign**.
 
@@ -155,7 +155,7 @@ Examples of personalization include: the name of the signer, the name of the agr
 
     ![Qualifiers](assets/qualifiers.png)
 
-### Set up the Smart Campaign Flow
+## Set up the Smart Campaign Flow
 
 Because the campaign filter **Days Until Expires** was used, you can use a scheduled recurrence for the campaign.
 

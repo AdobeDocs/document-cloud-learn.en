@@ -10,6 +10,6 @@ thumbnail: 19638.jpg
 
 # Sign a document Using a Digital Signature
 
-Learn how to sign a document with a cloud based digital signature - a type of electronic signature that enforces the authentication of the signer based on digital certificates by trusted third parties.
+In this video tutorial you'll learn how to sign a document using a cloud-based digital signature. Digital signatures are a type of electronic signature that enforces the authentication of the signer based on digital certificates issued by trusted third parties.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19638?hidetitle=true)

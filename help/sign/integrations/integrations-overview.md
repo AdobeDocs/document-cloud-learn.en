@@ -108,7 +108,7 @@ You can use Adobe Sign inside other applications your organization already uses,
       <img alt="Setting up Merge Mapping" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Setting up Merge Mapping<strong></a>
+    <a href="set-up-merging-map.md"><strong>Setting up Merge Mapping</strong></a>
     </div>
     <br>
     <em>Merge data from Salesforce directly into an agreement</em>
@@ -186,7 +186,7 @@ You can use Adobe Sign inside other applications your organization already uses,
     <div>
     <a href="marketo-salesforce-sms.md"><strong>Send notifications using Adobe Sign for Salesforce and Marketo</strong></a>
     </div>
-    <em>Learn how to send a text message, email, or push notification to let the signer know an agreement is on it's way</em>
+    <em>Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way</em>
     <br>
   </td>
   <td>
@@ -194,7 +194,7 @@ You can use Adobe Sign inside other applications your organization already uses,
       <img alt="Send reminders using Adobe Sign for Microsoft Dynamics and Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Send reminders using Adobe Sign for Microsoft Dynamics and Marketo<strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Send reminders using Adobe Sign for Microsoft Dynamics and Marketo</strong></a>
     </div>
     <em>Learn how to send an email reminder when an agreement remains unsigned after a period of time</em>
     <br>
@@ -208,7 +208,7 @@ You can use Adobe Sign inside other applications your organization already uses,
     <div>
     <a href="marketo-dynamics-sms.md"><strong>Send notifications using Adobe Sign for Microsoft Dynamics and Marketo</strong></a>
     </div>
-    <em>Learn how to send a text message, email, or push notification to let the signer know an agreement is on it's way</em>
+    <em>Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way</em>
     <br>
   </td>
   <td>
