@@ -8,8 +8,8 @@ topic: Integrations
 thumbnail: 17351.jpg
 ---
 
-# Setting up data mapping in Salesforce
+# Setting up Data Mapping in Salesforce
 
-Learn how to set up a data mapping for Adobe Sign in Salesforce.
+Learn how to set up a data mapping for Adobe Sign in Salesforce. Data Mapping allows you to pull data back into Salesforce after an agreement has been signed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17351?hidetitle=true)

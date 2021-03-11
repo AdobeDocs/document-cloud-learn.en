@@ -137,6 +137,6 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     </div>
     <em>Quickly sign a PDF form</em>
     <br>
-  <td>
+  </td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Filling and Signing in Outlook
-description: Fill out and sign a form directly from your Microsoft Outlook inbox
+description: Fill out and sign a form directly within Microsoft Outlook
 role: Business Practitioner
 product: Adobe Sign
 level: Intermediate
@@ -10,6 +10,6 @@ thumbnail: 29764t1.jpg
 
 # Filling and signing in Outlook
 
-Fill out and sign a form directly from your Microsoft Outlook inbox.
+Steamline your document workflows by filling out and signing a form directly within Microsoft Outlook.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29764t1?hidetitle=true)

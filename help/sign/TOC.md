@@ -61,18 +61,18 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Integrate {#integrations}
   + [Overview](integrations-overview.md)
   + Microsoft {#microsoft}
-    + [Filling and Signing in Outlook](fill-and-sign-doc-microsoft-outlook.md)
-    + [Sending in Outlook](send-for-signature-with-outlook.md)
-    + [Sending in SharePoint Online](send-for-signature-with-sharepoint-online.md)
-    + [Tracking in SharePoint Online](track-an-agreement-with-sharepoint-online.md)
-    + [Sending Documents for Signature in Microsoft Teams](adobe-sign-teams-mortgage.md)
+    + [Filling and Signing in Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
+    + [Sending in Outlook](integrations/send-for-signature-with-outlook.md)
+    + [Sending in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
+    + [Tracking in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
+    + [Sending Documents for Signature in Microsoft Teams](integrations/adobe-sign-teams-mortgage.md)
   + Salesforce {#salesforce}
-    + [Creating a Document Template](create-an-agreement-template.md)
-    + [Setting up Data Mapping](set-up-data-mapping.md)
-    + [Setting up Merge Mapping](set-up-merging-map.md)
-    + [Creating a Custom Button](create-a-custom-button.md)
+    + [Creating a Document Template](integrations/create-an-agreement-template.md)
+    + [Setting up Data Mapping](integrations/set-up-data-mapping.md)
+    + [Setting up Merge Mapping](integrations/set-up-merging-map.md)
+    + [Creating a Custom Button](integrations/create-a-custom-button.md)
   + Workday {#workday}
-    + [Configuring Adobe Sign with Workday](workday.md)
+    + [Configuring Adobe Sign with Workday](integrations/workday.md)
   + Marketo {#marketo}
     + [Send notifications using Adobe Sign for Salesforce and Marketo](integrations/marketo-salesforce-sms.md)
     + [Send reminders using Adobe Sign for Salesforce and Marketo](integrations/marketo-salesforce-reminder.md)
