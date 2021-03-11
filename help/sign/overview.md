@@ -49,13 +49,13 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
 </tr>
 <tr>
   <td>
-    <a href="integrations-overview.md">
+    <a href="integrations/integrations-overview.md">
       <img alt="Integrate" src="assets/AS_Title_Integrate.png" />
     </a>
     <div>
-    <a href="integrations-overview.md"><strong>Integrate</strong></a>
+    <a href="integrations/integrations-overview.md"><strong>Integrate</strong></a>
     </div>
-    <em>Add workflows to your existing systems, processes, and applications</em>
+    <em>Add Adobe Sign directly inside other applications your organization already uses</em>
     <br>
   </td>
   <td>
@@ -86,7 +86,7 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
     <div>
     <a href="deploy-overview.md"><strong>Deploy</strong></a>
     </div>
-    <em>Insight and best practices for deploying within your organization</em>
+    <em>Insight and best practices for deploying Adobe Sign within your organization</em>
     <br>
   </td>
   <td>

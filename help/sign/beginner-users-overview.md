@@ -3,7 +3,6 @@ title: Getting Started Overview
 description: Learn how to start using Adobe Sign through these brief (1-2 min) step-by-step tutorials
 role: Business Practitioner
 product: Adobe Sign
-solution: Document Cloud
 level: Beginner
 thumbnail: KT-6847.jpg
 ---

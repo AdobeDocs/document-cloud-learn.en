@@ -3,7 +3,6 @@ title: Develop Overview
 description: Learn how to use Adobe Sign APIs to create custom applications for your teams, partners and customers
 role: Developer
 product: Adobe Sign
-solution: Document Cloud
 level: Intermediate
 topic: Integrations
 thumbnail: KT-6852.jpg

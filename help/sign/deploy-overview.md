@@ -1,5 +1,6 @@
 ---
 title: Deploy Overview
+description: Best practice articles and valuable insight on deploying Adobe Sign
 role: Administrator
 product: Adobe Sign
 solution: Document Cloud
@@ -11,7 +12,7 @@ thumbnail: KT-6853.jpg
 
 ![Sign Deploy Image](assets/Hero-Deploy.png)
 
-Deployment and best practice articles with valuable insight and knowledge gained by working with our customers.
+Best practice articles with valuable insight on deploying Adobe Sign within your organization.
 
 <table>
 <tr>
