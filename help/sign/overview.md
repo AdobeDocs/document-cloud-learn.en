@@ -22,7 +22,7 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
       <img alt="Getting Started" src="assets/AS_Title_Getting-Started.png" />
     </a>
     <div>
-    <a href="beginner-users-overview.md"><strong>Getting Started</strong></a>
+    <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Getting Started</strong></a>
     </div>
     <em>Get up-to-speed on how to send, sign, and track documents</em>
     <br>
