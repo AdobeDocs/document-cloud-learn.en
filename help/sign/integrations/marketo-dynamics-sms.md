@@ -1,6 +1,6 @@
 ---
 title: Send notifications using Adobe Sign for Microsoft Dynamics 365 and Marketo
-description: Learn how to send a text message, email, or push notification to let the signer know an agreement is on it's way
+description: Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way
 role: Administrator
 product: Adobe Sign
 solution: Document Cloud
@@ -11,7 +11,7 @@ thumbnail: KT-7249.jpg
 
 # Send notifications using Adobe Sign for Microsoft Dynamics 365 and Marketo
 
-Learn how to send a text message, email, or push notification to let the signer know an agreement is on it's way using Adobe Sign for Microsoft Dynamics 365 and Marketo. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. This walkthrough uses [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), but there are other Marketo SMS solutions available.
+Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way using Adobe Sign for Microsoft Dynamics 365 and Marketo. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. This walkthrough uses [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), but there are other Marketo SMS solutions available.
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ Learn how to send a text message, email, or push notification to let the signer 
 
 1. Install Adobe Sign for Microsoft Dynamics 365. Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
-### Find the custom object
+## Find the custom object
 
 Once the Marketo - Dynamics Sync and Adobe Sign for Dynamics configurations are complete, two new options will appear for Dynamics in the Marketo Admin Terminal.
 
@@ -29,7 +29,7 @@ Once the Marketo - Dynamics Sync and Adobe Sign for Dynamics configurations are 
 
     ![Refresh](assets/refreshSchema.png)
 
-### Sync the custom object
+## Sync the custom object
 
 On the right side, see Lead, Contact, and Account-based custom objects. 
 
@@ -55,7 +55,7 @@ On the right side, see Lead, Contact, and Account-based custom objects.
 
     ![Enable Global](assets/enableGlobalDynamics.png)
 
-### Create the program
+## Create the program
 
 1. In the Marketing Activities section of Marketo, right-click on **Marketing Activities** on the left bar, select **New Campaign Folder**, and give it a name.
 
@@ -67,7 +67,7 @@ On the right side, see Lead, Contact, and Account-based custom objects.
 
     ![New Program 2](assets/newProgram2.png)
 
-### Set up Twilio SMS
+## Set up Twilio SMS
 
 First ensure you have an active Twilio account and purchased the SMS features you require. 
 
@@ -107,7 +107,7 @@ Retrieve these parameters from your account, now open your Marketo instance.
 
 1. Set the Response type to JSON then click **Save**.
 
-### Set up the Smart Campaign Trigger
+## Set up the Smart Campaign Trigger
 
 1. In the Marketing Activities section, right-click on the program you created, then select **New Smart Campaign**.
 
@@ -123,7 +123,7 @@ Retrieve these parameters from your account, now open your Marketo instance.
 
     ![Added to Agreement](assets/addedToAgreementDynamics.png)
 
-### Set up the Smart Campaign Flow
+## Set up the Smart Campaign Flow
 
 1. Click on the **Flow** tab in the Smart Campaign. Search for and drag the **Call Webhook** flow onto the canvas and select the webhook you created in the previous section.
 

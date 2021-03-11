@@ -10,6 +10,6 @@ thumbnail: 33660.jpg
 
 # Filling and signing a document
 
-Learn how to fill in forms and add your electronic signature to documents.
+In this video tutorial, you'll learn how to fill in forms AND add your electronic signature to documents.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?hidetitle=true)

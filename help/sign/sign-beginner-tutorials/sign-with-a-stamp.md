@@ -10,6 +10,6 @@ thumbnail: 20703.jpg
 
 # Sign with a stamp
 
-Use stamps to mark a document approved or completed. Learn how to include a stamp in your agreement.
+In this video tutorial, you'll learn how to use stamps to mark a document approved or completed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/20703?hidetitle=true)
