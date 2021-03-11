@@ -86,7 +86,7 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
     <div>
     <a href="deploy-overview.md"><strong>Deploy</strong></a>
     </div>
-    <em>Insight and best practices for deploying within your organization</em>
+    <em>Insight and best practices for deploying Adobe Sign within your organization</em>
     <br>
   </td>
   <td>

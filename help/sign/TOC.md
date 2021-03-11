@@ -59,7 +59,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Use Bio-Pharma Settings](use-bio-pharma-settings.md)
     + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
 + Integrate {#integrations}
-  + [Overview](integrations-overview.md)
+  + [Overview](integrations/integrations-overview.md)
   + Microsoft {#microsoft}
     + [Filling and Signing in Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
     + [Sending in Outlook](integrations/send-for-signature-with-outlook.md)
