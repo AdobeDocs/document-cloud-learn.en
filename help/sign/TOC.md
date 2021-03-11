@@ -29,7 +29,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Creating a Document Template](sign-advanced-users/create-a-template.md)
     + [Modifying a Document Already Sent for Signature](sign-beginner-tutorials/modify-in-flight.md)
 + Advanced Tasks {#advanced-tasks}
-  + [Overview](advanced-users-overview.md)
+  + [Overview](sign-advanced-users/advanced-users-overview.md)
   + Sending {#advanced-tasks-sending}
     + [Setting up Routing Order](sign-advanced-users/setting-up-routing.md)
     + [Delegating to Someone Else](sign-advanced-users/delegate-signature.md)

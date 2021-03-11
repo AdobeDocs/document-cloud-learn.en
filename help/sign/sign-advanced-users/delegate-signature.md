@@ -1,6 +1,6 @@
 ---
 title: Delegating to Someone Else
-description: Delegate someone else to sign a document
+description: Use the delegator role to send a document to an intermediary who can then route the document for signature
 role: Business Practitioner
 product: Adobe Sign
 solution: Document Cloud
@@ -10,6 +10,6 @@ thumbnail: 17366.jpg
 
 # Delegating to someone else
 
-Learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
+In this tutorial, you'll learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)

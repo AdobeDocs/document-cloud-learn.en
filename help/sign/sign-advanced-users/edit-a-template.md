@@ -10,6 +10,6 @@ thumbnail: 17346.jpg
 
 # Managing document templates
 
-Learn how to make changes to an existing template or delete a template in your library.
+In this video tutorial, you'll learn how to make changes to an existing template or delete a template in your library.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17346?hidetitle=true)

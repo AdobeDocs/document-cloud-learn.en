@@ -28,11 +28,11 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
     <br>
   </td>
   <td>
-    <a href="advanced-users-overview.md">
+    <a href="sign-advanced-users/advanced-users-overview.md">
       <img alt="Advanced Tasks" src="assets/AS_Title_Advanced.png" />
     </a>
     <div>
-    <a href="advanced-users-overview.md"><strong>Advanced Tasks</strong></a>
+    <a href="sign-advanced-users/advanced-users-overview.md"><strong>Advanced Tasks</strong></a>
     </div>
     <em>Go beyond the basics with specific tasks and automation</em>
     <br>
