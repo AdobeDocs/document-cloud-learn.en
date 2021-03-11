@@ -126,12 +126,12 @@ You can use Adobe Sign inside other applications your organization already uses,
     <em>Create a custom button that starts the sending process and auto populates an agreement inside Salesforce</em>
   </td>
   <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
