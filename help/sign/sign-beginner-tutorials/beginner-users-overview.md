@@ -9,7 +9,7 @@ thumbnail: KT-6847.jpg
 
 # Getting started overview
 
-![Sign Getting Started Image](assets/Hero-GettingStarted.png)
+![Sign Getting Started Image](../assets/Hero-GettingStarted.png)
 
 Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials. Get a quick tour of Adobe Sign and then jump into sending a document to one or more people. This content is designed to ease you into e-signature workflows.
 
@@ -32,7 +32,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
       <img alt="Sending to Single Recipient" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="sign-beginner-tutorials/send-to-single-recipient.md"><strong>Sending to a Single Recipient</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Sending to a Single Recipient</strong></a>
     </div>
     <br>
     <em>Jump in and learn how easy it is send a document out for signature</em>
@@ -129,7 +129,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Manage and track agreements that you've sent for signature</em>
   </td>
   <td>
-    <a href="sign-advanced-users/create-a-template.md">
+    <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Creating a Document Template" src="../assets/Template.png" />
     </a>
     <div>

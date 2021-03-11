@@ -10,6 +10,6 @@ thumbnail: 17360.jpg
 
 # Electronically signing a document
 
-Learn how easy it is to sign a document that has been sent to you with Adobe Sign.
+In this video tutorial, you'll learn how easy it is to sign a document that has been sent to you with Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17360?hidetitle=true)
