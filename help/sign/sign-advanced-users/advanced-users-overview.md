@@ -60,7 +60,7 @@ These set of tutorials are for anyone who already knows the basics of sending an
     <a href="megasign.md"><strong>Collecting Signatures in Bulk</strong></a>
     </div>
     <br>
-    <em>Collect hundreds of signatures at once for a liability waiver in just a few short steps</em>
+    <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
   </td>
   <td>
     <a href="webform.md">
