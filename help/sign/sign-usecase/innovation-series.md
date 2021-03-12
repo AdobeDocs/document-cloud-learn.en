@@ -14,7 +14,7 @@ The Adobe Sign Innovation Series are 30-minute sessions packed with content that
 
 ## Adobe Sign Innovation Series Year in Review: Adapting to telework
 
-[Register for Session](https://event.on24.com/wcc/r/2807465/CA7E35087BE2CAE41B4F7252DCE56EEB?partnerref=EXL)
+[Watch](https://event.on24.com/wcc/r/2807465/CA7E35087BE2CAE41B4F7252DCE56EEB?partnerref=EXL)
 
 Date: 12-10-2020
 
