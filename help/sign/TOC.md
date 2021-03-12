@@ -99,7 +99,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
   + Custom APIs {#custom}
-    + [GigaSign](gigasign.md)
+    + [GigaSign](develop/gigasign.md)
 + Deploy  {#deploy}
   + [Overview](deploy-overview.md)
 + Mobile {#mobile}

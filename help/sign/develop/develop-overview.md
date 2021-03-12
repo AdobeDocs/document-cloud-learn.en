@@ -10,7 +10,7 @@ thumbnail: KT-6852.jpg
 
 # Develop overview
 
-![Sign Develop Image](assets/Hero-Develop.png)
+![Sign Develop Image](../assets/Hero-Develop.png)
 
 40% of agreements in Adobe Sign are created using APIs. Use APIs to create custom applications for your teams, partners and customers.
 
@@ -18,7 +18,7 @@ thumbnail: KT-6852.jpg
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html">
-      <img alt="Start" src="assets/Develop_Getting-Started.png" />
+      <img alt="Start" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html"><strong>Getting started</strong></a>
@@ -26,18 +26,19 @@ thumbnail: KT-6852.jpg
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html">
-      <img alt="Learn" src="assets/Develop_Learn.png" />
+      <img alt="Learn" src="../assets/Develop_Learn.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html"><strong>Learn what you can do</strong></a>
     <br>
   <td>
     <a href="gigasign.md">
-      <img alt="Gather High-Volume Documents using GigaSign" src="assets/gigasign.jpg" />
+      <img alt="Gather High-Volume Documents using GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
     <a href="gigasign.md"><strong>Gather High-Volume Documents using GigaSign</strong></a>
     <br>
+    <em>Send, collect, and track documents for signature to thousands of people at the same time</em>
   </td>
 </tr>
 </table>
