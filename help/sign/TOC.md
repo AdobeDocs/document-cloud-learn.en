@@ -40,23 +40,23 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + Managing {#advanced-tasks-managing}
     + [Managing Document Templates](sign-advanced-users/edit-a-template.md)
 + Administer {#admin-set-up}
-  + [Overview](intro-admin-overview.md)
+  + [Overview](admin/intro-admin-overview.md)
   + Getting Started {#getting-started-admin}
-    + [Up and Running for Admins](up-and-running-admin.md)
-    + [Setting up Shared Events and Alerts](set-up-shared-events-and-alert.md)
-    + [Adding Users](add-users-to-your-account.md)
-    + [Creating and Managing Groups](create-and-manage-groups.md)
-    + [Setting up an External Archive](set-up-your-external-archive.md)
+    + [Up and Running for Admins](admin/up-and-running-admin.md)
+    + [Setting up Shared Events and Alerts](admin/set-up-shared-events-and-alert.md)
+    + [Adding Users](admin/add-users-to-your-account.md)
+    + [Creating and Managing Groups](admin/create-and-manage-groups.md)
+    + [Setting up an External Archive](admin/set-up-your-external-archive.md)
     + [Creating a Template](sign-advanced-users/create-a-template.md)
-    + [Creating a Report](create-a-report.md)
+    + [Creating a Report](admin/create-a-report.md)
     + [Setting up a Web Form](sign-advanced-users/webform.md)
     + [Collecting Signatures in Bulk](sign-advanced-users/megasign.md)
-    + [Setting up a Workflow](building-a-custom-workflow.md)
+    + [Setting up a Workflow](admin/building-a-custom-workflow.md)
   + Advanced Tasks {#advanced-tasks-admins}
-    + [Global Settings](learn-about-global-settings.md)
-    + [Sharing Account Access](share-account-access.md)
-    + [Advanced Account Sharing](advanced-account-sharing.md)
-    + [Use Bio-Pharma Settings](use-bio-pharma-settings.md)
+    + [Global Settings](admin/learn-about-global-settings.md)
+    + [Sharing Account Access](admin/share-account-access.md)
+    + [Advanced Account Sharing](admin/advanced-account-sharing.md)
+    + [Use Bio-Pharma Settings](admin/use-bio-pharma-settings.md)
     + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
 + Integrate {#integrations}
   + [Overview](integrations/integrations-overview.md)
@@ -97,9 +97,9 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
   + Innovation Series {#innovation}
     + [Webinars](sign-usecase/innovation-series.md)
 + Develop {#develop}
-  + [Overview](develop-overview.md)
+  + [Overview](develop/develop-overview.md)
   + Custom APIs {#custom}
-    + [GigaSign](gigasign.md)
+    + [GigaSign](develop/gigasign.md)
 + Deploy  {#deploy}
   + [Overview](deploy-overview.md)
 + Mobile {#mobile}

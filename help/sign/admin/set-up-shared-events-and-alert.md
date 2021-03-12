@@ -7,8 +7,8 @@ level: Intermediate
 thumbnail: 17359.jpg
 ---
 
-# Setting up shared events and alerts
+# Setting up Shared Events and Alerts
 
-Learn about shared events and alert settings in Adobe Sign.
+In this video tutorial, you'll learn about shared events and alert settings that you can configure in Adobe Sign. Alerts are actions that did not take place in a certain timeframe, and Events are actions that did take place.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17359?hidetitle=true)
