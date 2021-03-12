@@ -23,6 +23,7 @@ thumbnail: KT-6852.jpg
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html"><strong>Getting started</strong></a>
     <br>
+    <em>Create your developer account now to get started</em>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html">
@@ -31,6 +32,7 @@ thumbnail: KT-6852.jpg
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html"><strong>Learn what you can do</strong></a>
     <br>
+    <em>Learn how you can incorporate the functionality of Adobe Sign into any external application</em>
   <td>
     <a href="gigasign.md">
       <img alt="Gather High-Volume Documents using GigaSign" src="../assets/gigasign.jpg" />

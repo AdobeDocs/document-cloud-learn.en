@@ -1,6 +1,6 @@
 ---
 title: Adobe Sign Learning Hub
-description: A collection of tutorials, webinars, and use cases for Adobe Sign
+description: A collection of tutorials, webinars, and use cases designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign
 role: Business Practitioner, Administrator
 product: Adobe Sign
 level: Beginner, Intermediate, Advanced
@@ -11,7 +11,7 @@ thumbnail: KT-6846.jpg
 
 ![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
 
-Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning experiences focused on Adobe Sign. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign.
+Adobe Sign, an Adobe Document Cloud solution, scales to meet your organization’s needs with integrations, APIs, advanced authentication, additional admin features, and more. On the Adobe Sign Learning Hub, you'll find a wide range of learning experiences designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign.
 
 ## Learning paths
 
