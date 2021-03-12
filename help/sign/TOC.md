@@ -79,7 +79,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Send notifications using Adobe Sign for Microsoft Dynamics and Marketo](integrations/marketo-dynamics-sms.md)
     + [Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo](integrations/marketo-dynamics-reminder.md)
 + Expand and Inspire {#expand}
-  + [Overview](sign-usercase/expand-inspire-overview.md)
+  + [Overview](sign-usecase/expand-inspire-overview.md)
   + Use Case {#use-case}
     + [Showcase](sign-usecase/use-case-showcase.md)
   + Recipes {#recipes}
