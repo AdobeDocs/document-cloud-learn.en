@@ -10,7 +10,7 @@ team: DC Product Marketing Retention and Engagement
 
 # Use case recipes
 
-Click to view how to set up these e-signature use cases.
+Speed up your organization's digital workflows with these government and commercial e-signature examples. Click to view a PDF with resouces and details on how to set up these specific e-signature use cases.
 
 ## Government use cases
 

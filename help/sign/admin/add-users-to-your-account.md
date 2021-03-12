@@ -11,6 +11,6 @@ thumbnail: 17356.jpg
 
 # Adding users
 
-Learn how to add users individually or in bulk to your Adobe Sign account.
+In this video tutorial, you'll learn how to add users individually or in bulk to your Adobe Sign account.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)

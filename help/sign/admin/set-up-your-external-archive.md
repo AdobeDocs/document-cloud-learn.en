@@ -1,20 +1,15 @@
 ---
-title: Setting up your External Archive
-description: Learn how you can monitor the status of agreements through alerts and events settings
+title: Setting up an External Archive
+description: Learn how to create an external archive for backup copies of agreements that have been sent
 role: Administrator
 product: Adobe Sign
 level: Beginner
 team: DC Product Marketing Retention and Engagement
 ---
 
-# Setting up your external archive
+# Setting up an external archive
 
-Learn how you can monitor the status of agreements through alerts and events settings.
-
-Set up your external archive
-Archive copies of signed agreements to any email address or to Box and Evernote. A copy of the Signed and Filed email is sent to either the email address you provide or to the service you set up.
-
-Archives are perfect for keeping backup copies of the agreements you've sent.
+Learn how to create an external archive for backup copies of agreements that have been sent. You can archive copies of signed agreements to any email address or to Box and Evernote. A copy of the Signed and Filed email is sent to either the email address you provide or to the service you set up.
 
 ## External archive: email address
 

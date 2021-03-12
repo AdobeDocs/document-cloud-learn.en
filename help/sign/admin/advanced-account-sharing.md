@@ -11,6 +11,6 @@ thumbnail: 40186.jpg
 
 # Advanced account sharing
 
-Advanced account sharing allows admins and users to delegate their send, modify, and view permissions.
+In this video tutorial, you'll learn how to setup advanced account sharing. This allows admins and users to delegate their send, modify, and view permissions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)

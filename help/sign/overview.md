@@ -37,11 +37,11 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
     <em>Go beyond the basics with specific tasks and automation</em>
     <br>
   <td>
-    <a href="intro-admin-overview.md">
+    <a href="admin/intro-admin-overview.md">
       <img alt="Administer" src="assets/AS_Title_Administer.png" />
     </a>
     <div>
-    <a href="intro-admin-overview.md"><strong>Administer</strong></a>
+    <a href="admin/intro-admin-overview.md"><strong>Administer</strong></a>
     </div>
     <em>Basic to advanced set up tips for your organization</em>
     <br>
@@ -68,11 +68,11 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
     <em>Explore real-world use cases and recipes redefining what's possible with e-signatures</em>
     <br>
   <td>
-    <a href="develop-overview.md">
+    <a href="develop/develop-overview.md">
       <img alt="Develop" src="assets/AS_Title_Develop.png" />
     </a>
     <div>
-    <a href="develop-overview.md"><strong>Develop</strong></a>
+    <a href="develop/develop-overview.md"><strong>Develop</strong></a>
     </div>
     <em>Get development resources on Adobe Sign I/O</em>
     <br>

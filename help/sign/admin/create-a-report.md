@@ -10,6 +10,6 @@ thumbnail: 17357.jpg
 
 # Creating a report
 
-Learn how to run, save, and schedule reports in Adobe Sign.
+In this video tutorial, you'll learn how to run, save, and schedule reports in Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
