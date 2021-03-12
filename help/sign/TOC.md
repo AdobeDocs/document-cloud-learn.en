@@ -79,7 +79,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Send notifications using Adobe Sign for Microsoft Dynamics and Marketo](integrations/marketo-dynamics-sms.md)
     + [Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo](integrations/marketo-dynamics-reminder.md)
 + Expand and Inspire {#expand}
-  + [Overview](expand-inspire-overview.md)
+  + [Overview](sign-usecase/expand-inspire-overview.md)
   + Use Case {#use-case}
     + [Showcase](sign-usecase/use-case-showcase.md)
   + Recipes {#recipes}
@@ -95,7 +95,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
       + [Contracts and Requisition Forms](sign-usecase/usecasecomcontracts.md)
       + [Policy Agreements](sign-usecase/usecasecompolicy.md)
   + Innovation Series {#innovation}
-    + [Webinars](innovation-series.md)
+    + [Webinars](sign-usecase/innovation-series.md)
 + Develop {#develop}
   + [Overview](develop-overview.md)
   + Custom APIs {#custom}

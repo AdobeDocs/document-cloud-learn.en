@@ -1,6 +1,6 @@
 ---
 title: Use Case Recipes
-description: Learn how to set up these e-signature use cases
+description: Speed up your organization's digital workflows with these government and commercial e-signature examples
 role: Business Practitioner
 product: Adobe Sign
 solution: Document Cloud

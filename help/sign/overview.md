@@ -59,13 +59,13 @@ Welcome to the Adobe Sign Learning Hub. You'll find a wide range of learning exp
     <br>
   </td>
   <td>
-    <a href="expand-inspire-overview.md">
+    <a href="sign-usecase/expand-inspire-overview.md">
       <img alt="Expand and Inspire" src="assets/AS_Title_Inspire.png" />
     </a>
     <div>
-    <a href="expand-inspire-overview.md"><strong>Expand and Inspire</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Expand and Inspire</strong></a>
     </div>
-    <em>Explore real-world use cases and recipes to imagine the possibilities</em>
+    <em>Explore real-world use cases and recipes redefining what's possible with e-signatures</em>
     <br>
   <td>
     <a href="develop-overview.md">
