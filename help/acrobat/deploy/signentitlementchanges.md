@@ -1,6 +1,9 @@
 ---
 title: Important Acrobat DC product updates for ETLA customers
 description: Learn about important changes to Acrobat DC entitlements included in ETLA (Enterprise Term License Agreement) offers beginning August 2020 through November 20, 2020
+role: Administrator
+product: Acrobat DC
+level: Intermediate
 thumbnail: KT-7269.jpg
 ---
 

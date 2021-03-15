@@ -1,14 +1,9 @@
 ---
 title: Get to Know the Acrobat DC Interface
 description: Learn how Acrobat DC makes it easy to access files and tools across desktop, web, and mobile
-solution: Acrobat DC
-feature: tutorial
-topics: Get to know the Acrobat DC interface
-audience: User
-activity: use
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Beginner
 thumbnail: 23590.jpg
 ---
 

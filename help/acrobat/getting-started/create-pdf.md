@@ -1,14 +1,9 @@
 ---
 title: Create PDFs in Acrobat DC
 description: Create PDFs from all kinds of documents
-solution: Acrobat DC
-feature: tutorial
-topics: Create PDFs in Acrobat DC
-audience: User
-activity: use
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Beginner
 thumbnail: 35491.jpg
 ---
 

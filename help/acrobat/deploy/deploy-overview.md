@@ -1,6 +1,9 @@
 ---
 title: Deploy Overview
 description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers
+role: Administrator
+product: Acrobat DC
+level: Intermediate
 thumbnail: KT-6862.jpg
 ---
 

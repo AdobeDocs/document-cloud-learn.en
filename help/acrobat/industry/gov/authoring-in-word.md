@@ -1,14 +1,10 @@
 ---
 title: Making PDFs Accessible Part 2
 description: Authoring accessible documents in Microsoft Word
-solution: Acrobat DC
-feature: tutorial
-topics: Government Learning
-audience: government
-activity: use
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Advanced
+topic: Accessibility
 thumbnail: 34513.jpg
 ---
 

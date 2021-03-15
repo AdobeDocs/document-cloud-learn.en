@@ -1,14 +1,10 @@
 ---
 title: Making PDFs Accessible Part 1
 description: Understanding Accessiblity
-solution: Acrobat DC
-feature: tutorial
-topics: Making PDFs accessible.
-audience: government
-activity: use
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Advanced
+topic: Accessibility
 thumbnail: 34540.jpg
 ---
 

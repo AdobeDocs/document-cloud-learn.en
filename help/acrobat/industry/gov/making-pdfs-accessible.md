@@ -1,14 +1,10 @@
 ---
 title: Making PDFs Accessible
 description: Complete set of tips to help make your PDF files accessible
-solution: Acrobat DC
-feature: tutorial
-topics: Government Learning
-audience: government
-activity: use
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Advanced
+topic: Accessibility
 thumbnail: 34291.jpg
 ---
 
