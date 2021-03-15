@@ -1,6 +1,10 @@
 ---
 title: Integrate Overview
 description: Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps
+role: Business Practitioner
+product: Acrobat DC
+level: Beginner
+topic: Integrations
 thumbnail: KT-6859.jpg
 ---
 

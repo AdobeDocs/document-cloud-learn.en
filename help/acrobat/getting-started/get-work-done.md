@@ -1,13 +1,9 @@
 ---
 title: Get Work Done Webinars
 description: Join our on-demand webinars to build your Acrobat DC skills
-solution: Acrobat DC
-feature: webinar
-topics: Acrobat Skill Builders
-audience: User
-activity: use
-skill: Beginner
-doc-type: feature video
+role: Business Practitioner
+product: Acrobat DC
+level: Beginner
 team: DC Product Marketing Retention and Engagement
 ---
 

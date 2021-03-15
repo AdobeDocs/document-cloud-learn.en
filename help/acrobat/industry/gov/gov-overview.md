@@ -1,13 +1,9 @@
 ---
 title: Acrobat DC for government
 description: Explore our Acrobat DC tutorials specifically designed for federal, state, and local government
-solution: Acrobat DC
-feature: tutorial
-topics: Government Learning
-audience: government
-activity: use
-skill: Beginner
-team: DC Product Marketing Retention and Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Beginner
 ---
 
 # Acrobat DC for government

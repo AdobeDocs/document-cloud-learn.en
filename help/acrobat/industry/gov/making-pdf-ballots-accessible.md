@@ -1,14 +1,10 @@
 ---
 title: Making PDF Ballots More Accessible
 description: Learn about the key areas of PDF accessibility necessary to allow users of assistive technologies, such as screen readers, to read and complete their ballots
-solution: Acrobat DC
-feature: webinar
-topics: Government Learning
-audience: government
-activity: use
-skill: Advanced
-doc-type: webinar
-team: DC Enterprise Enablement
+role: Business Practitioner
+product: Acrobat DC
+level: Advanced
+topic: Accessibility
 thumbnail: KT-6817.jpg
 ---
 

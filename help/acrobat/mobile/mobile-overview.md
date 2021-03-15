@@ -1,6 +1,10 @@
 ---
 title: Mobile Overview
 description: Create, fill, and sign PDFs on your mobile device
+role: Business Practitioner
+product: Acrobat DC
+level: Intermediate
+topic: mobile
 thumbnail: KT-6863.jpg
 ---
 

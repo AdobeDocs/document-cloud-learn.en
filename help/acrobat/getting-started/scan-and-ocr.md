@@ -1,14 +1,9 @@
 ---
 title: Scan & OCR
 description: Convert scans or images of documents into searchable, editable PDF files, and adjust the quality of the resulting file
-solution: Acrobat DC
-feature: tutorial
-topics: Scan
-audience: User
-activity: use
-skill: Beginner
-doc-type: tutorial
-team: DC Product Marketing Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Beginner
 thumbnail: KT-6830.jpg
 ---
 

@@ -1,14 +1,9 @@
 ---
 title: 5 Tips for Working Anywhere with Acrobat DC
-description: Complete set of tips for government employees working anywhere with Acrobat DC
-solution: Acrobat DC
-feature: tutorial
-topics: Government Learning
-audience: government
-activity: use
-skill: Beginner
-doc-type: feature video
-team: DC Product Marketing Retention and Engagement
+description: 5 tips for government employees working anywhere with Acrobat DC
+role: Business Practitioner
+product: Acrobat DC
+level: Beginner
 thumbnail: 34200.jpg
 ---
 

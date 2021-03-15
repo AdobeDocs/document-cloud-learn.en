@@ -1,14 +1,9 @@
 ---
 title: Action Wizard
 description: Automate a routine set of commands to your files
-solution: Acrobat DC
-feature: tutorial
-topics: Action Wizard
-audience: User
-activity: use
-skill: Advanced
-doc-type: tutorial
-team: DC Product Marketing Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Advanced
 thumbnail: KT-6803.jpg
 ---
 

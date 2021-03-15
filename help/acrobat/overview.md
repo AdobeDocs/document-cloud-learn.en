@@ -1,6 +1,9 @@
 ---
 title: Adobe Acrobat Learning Hub
 description: A collection of tutorials, webinars, and use cases for Adobe Acrobat DC
+role: Business Practitioner
+product: Acrobat DC
+level: Beginner, Intermediate, Advanced
 thumbnail: KT-6864.jpg
 ---
 

@@ -1,14 +1,9 @@
 ---
 title: Working With Form Data
 description: Compile form data into a single spreadsheet
-solution: Acrobat DC
-feature: tutorial
-topics: Forms
-audience: User
-activity: use
-skill: Intermediate
-doc-type: tutorial
-team: DC Product Marketing Engagement
+role: Business Practitioner
+product: Acrobat DC
+level: Advanced
 thumbnail: KT-6828.jpg
 ---
 
