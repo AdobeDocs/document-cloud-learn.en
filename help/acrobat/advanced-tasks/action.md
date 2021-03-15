@@ -1,6 +1,6 @@
 ---
 title: Action Wizard
-description: Automate a routine set of commands to your files
+description: Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files
 role: Business Practitioner
 product: Acrobat DC
 level: Advanced
@@ -9,7 +9,7 @@ thumbnail: KT-6803.jpg
 
 # Action Wizard
 
-Create an action to automatically apply a set of commands to one or multiple files. 
+Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files. 
 
 >[!NOTE]
 >

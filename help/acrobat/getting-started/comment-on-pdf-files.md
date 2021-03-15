@@ -1,6 +1,6 @@
 ---
 title: Comment on PDFs in Acrobat DC
-description: Learn how to add comments and then share a PDF for review
+description: Learn how to add comments and then share a PDF for review with others
 role: Business Practitioner
 product: Acrobat DC
 level: Beginner
@@ -9,6 +9,6 @@ thumbnail: 35492.jpg
 
 # Comment on PDFs in Acrobat DC
 
-Learn how to use Acrobat DC to add clear, specific comments to a PDF file - and then share with others to collect additional comments on the same file, in real time.
+In this video tutorial, you'll learn how to add comments to a PDF file—-and then share the file with others to collect additional comments in real time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35492?hidetitle=true)

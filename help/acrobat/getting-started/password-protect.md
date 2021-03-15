@@ -9,6 +9,6 @@ thumbnail: 35497.jpg
 
 # Protect a PDF file with a password
 
-Learn how to add a password to your PDF to protect others from opening or editing the file.
+In this video tutorial, you'll learn how to add a password to your PDF to protect others from opening or editing the file.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35497?hidetitle=true)
