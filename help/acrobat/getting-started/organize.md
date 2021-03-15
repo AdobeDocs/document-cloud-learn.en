@@ -9,7 +9,7 @@ thumbnail: KT-6832.jpg
 
 # Organize pages
 
-Use Organize Pages in Acrobat DC to add, replace, extract, rotate, delete, and move pages in your PDF.
+Use **Organize Pages** in Acrobat DC to add, replace, extract, rotate, delete, and move pages in your PDF.
 
 1. In Acrobat DC, select **Organize Pages** from the Tools center or pane.
 

@@ -56,7 +56,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <div>
     <a href="create-pdf.md"><strong>Create PDF files</strong></a>
     </div>
-    <em>Create PDFs from all kinds of documents</em>
+    <em>Create PDFs from all different kinds of documents</em>
     <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <div>
     <a href="comment-on-pdf-files.md"><strong>Comment on PDF files in Acrobat DC</strong></a>
     </div>
-    <em>Learn how to use Acrobat DC to add comments to a PDF file</em>
+    <em>Add comments to a PDF file and then share it with others</em>
     <br>
   <td>
     <a href="edit-pdf.md">
@@ -75,7 +75,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <div>
     <a href="edit-pdf.md"><strong>Edit a PDF in Acrobat DC</strong></a>
     </div>
-    <em>Learn how to edit text and images in PDF files</em>
+    <em>Edit text and images in PDF files</em>
     <br>
   </td>
 </tr>
@@ -97,7 +97,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <div>
     <a href="create-fillable-forms.md"><strong>Create fillable forms</strong></a>
     </div>
-    <em>Turn a scanned paper form or document created in other application into a fillable PDF form</em>
+    <em>Turn a document created in other application into a fillable PDF form</em>
     <br>
   <td>
     <a href="scan-and-ocr.md">
@@ -128,7 +128,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <div>
     <a href="password-protect.md"><strong>Protect a PDF file with a password</strong></a>
     </div>
-    <em>Learn how to add a password to your PDF to protect others from opening or editing the file</em>
+    <em>Add a password to your PDF to protect others from opening or editing the file</em>
     <br>
   </td>
   <td>
@@ -138,7 +138,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <div>
     <a href="fill-and-sign.md"><strong>Fill and sign a PDF form</strong></a>
     </div>
-    <em>Quickly sign a PDF form</em>
+    <em>Quickly fill in and sign a PDF form</em>
     <br>
   </td>
 </tr>

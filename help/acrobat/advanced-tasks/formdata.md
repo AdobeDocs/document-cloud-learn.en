@@ -1,6 +1,6 @@
 ---
 title: Working With Form Data
-description: Compile form data into a single spreadsheet
+description: Merge form field data into a single spreadsheet in Acrobat DC
 role: Business Practitioner
 product: Acrobat DC
 level: Advanced

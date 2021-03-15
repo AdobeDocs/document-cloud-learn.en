@@ -11,7 +11,7 @@ thumbnail: KT-6857.jpg
 
 ![Acrobat Getting Started Image](../assets/Hero-AdvancedTasks.png)
 
-Go beyond the basics by using these advanced tools in Acrobat.
+Go beyond the basics, with these advanced tools in Acrobat DC. Learn how to create an Action to repeat mundane tasks, remove sensitive information, reduce and optimize large files, quickly gather form data, or create univerally Accessible PDF files.
 
 ## Acrobat tutorials
 
@@ -24,7 +24,7 @@ Go beyond the basics by using these advanced tools in Acrobat.
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Create an action to automatically apply a set of commands to one or multiple files</em>
+    <em>Create an Action to automatically apply a set of commands to one or multiple files</em>
     <br>
   </td>
   <td>

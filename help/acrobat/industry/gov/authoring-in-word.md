@@ -1,5 +1,5 @@
 ---
-title: Making PDFs Accessible Part 2
+title: Making PDFs Accessible--Authoring in Microsoft Word
 description: Authoring accessible documents in Microsoft Word
 role: Business Practitioner
 product: Acrobat DC
@@ -8,7 +8,9 @@ topic: Accessibility
 thumbnail: 34513.jpg
 ---
 
-# Making PDFs Accessible part 2
+# Making PDFs Accessible--Authoring in Microsoft Word
+
+In the second video tutorial in the Making PDFs Accessible series, you'll learn best practices for creating PDF files that are authored in Microsoft Word.
 
 ## Authoring in Microsoft Word (2:51)
 

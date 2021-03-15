@@ -9,6 +9,6 @@ thumbnail: 17096.jpg
 
 # Where do PDFs come from?
 
-Understand where PDFs come from and their uses.
+Learn where PDFs come from and how you can use them in digital workflows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17096?hidetitle=true)

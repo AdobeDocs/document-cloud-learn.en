@@ -1,6 +1,6 @@
 ---
 title: Create fillable forms
-description: Turn a scanned paper form or document created in InDesign, Microsoft Word or Excel, or other application into a fillable PDF form
+description: Turn a document created in InDesign, Microsoft Word, or Excel into a fillable PDF form
 role: Business Practitioner
 product: Acrobat DC
 level: Beginner

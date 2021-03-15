@@ -1,6 +1,6 @@
 ---
 title: Preparing Accessible PDF Files
-description: Adobe Acrobat Pro DC includes many tools to help you create universally accessible PDF files
+description: Use Adobe Acrobat Pro DC to check the accessibility of your existing PDF files
 role: Business Practitioner
 product: Acrobat DC
 level: Advanced
@@ -10,7 +10,7 @@ thumbnail: KT-6829.jpg
 
 # Preparing Accessible PDF files
 
-Adobe Acrobat Pro DC includes many tools to help you create universally accessible PDF files.
+Learn how to check the accessibility of your existing PDF files. The **Full Check/Accessibility Check** tool verifies whether the document conforms to accessibility standards, such as PDF/UA and WCAG 2.0. The **Accessibility Report** summarizes the findings of the accessibility check.
 
 >[!NOTE]
 >

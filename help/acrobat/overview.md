@@ -11,7 +11,7 @@ thumbnail: KT-6864.jpg
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Welcome to the Adobe Acrobat Learning Hub. You'll find a wide range of learning experiences focused on Adobe Acrobat. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and advanced users up-to-speed on Adobe Acrobat.
+Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by converting, editing, sharing, and signing PDFs. On the Adobe Acrobat Learning Hub, you'll find a wide range of learning experiences designed to quickly bring both beginners and advanced users up-to-speed on Adobe Acrobat.
 
 ## Learning paths
 
