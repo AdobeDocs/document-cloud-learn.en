@@ -14,7 +14,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 + [Overview](overview.md)
 + Getting Started {#getting-started}
   + [Overview](getting-started/getting-started-overview.md)
-  + [Get to know the Acrobat DC Interface](getting-started/get-to-know-the-acrobat-dc-interface.md)
+  + [Get to know the Acrobat DC interface](getting-started/get-to-know-the-acrobat-dc-interface.md)
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
   + [Combine Files to PDF](getting-started/combine-to-pdf.md)
   + [Create PDF Files](getting-started/create-pdf.md)

@@ -11,6 +11,6 @@ thumbnail: 34290.jpg
 
 The first step to start working from anywhere is to get your Acrobat DC tools and companion mobile apps.
 
-## Get your tools (2:59)
+## Tip #1 - Get your tools (2:59)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34290)

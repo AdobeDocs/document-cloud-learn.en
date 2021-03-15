@@ -16,6 +16,6 @@ In the third video tutorial, you'll learn finish making your PDF file accessible
 >
 >Available in Acrobat Pro DC only.
 
-## Finishing in Acrobat (4:37)
+## Part 3 - Finishing in Acrobat (4:37)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34514)

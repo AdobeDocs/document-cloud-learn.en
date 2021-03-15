@@ -12,6 +12,6 @@ thumbnail: 34513.jpg
 
 In the second video tutorial in the Making PDFs Accessible series, you'll learn best practices for creating PDF files that are authored in Microsoft Word.
 
-## Authoring in Microsoft Word (2:51)
+## Part 2 - Authoring in Microsoft Word (2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513)

@@ -12,6 +12,6 @@ thumbnail: 34540.jpg
 
 In the first video tutorial in the Making PDFs Accessible series, you learn what it means to make a PDF accessible for people with disabilities.
 
-## Understanding Accessibility (6:42)
+## Part 1 - Understanding Accessibility (6:42)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34540)
