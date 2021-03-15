@@ -12,6 +12,6 @@ thumbnail: 34509.jpg
 
 Create simple and effortless workflows for collaborating on documents.
 
-# Collaborate on documents (2:03)
+## Collaborate on documents (2:03)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34509)
