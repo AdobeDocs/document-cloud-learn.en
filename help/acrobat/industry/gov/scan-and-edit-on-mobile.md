@@ -12,6 +12,6 @@ thumbnail: 34511.jpg
 
 Learn how to work with Adobe Scan and Acrobat Reader mobile apps to get work done from anywhere.
 
-## Scan and edit on mobile (1:43)
+## Tip #5 - Scan and edit on mobile (1:43)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34511)

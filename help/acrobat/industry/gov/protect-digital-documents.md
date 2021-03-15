@@ -11,6 +11,6 @@ thumbnail: 34510.jpg
 
 Add a password to your PDF to prevent copying, editing, or printing.
 
-## Protect digital documents (1:23)
+## Tip #3 - Protect digital documents (1:23)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34510)

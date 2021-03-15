@@ -11,6 +11,6 @@ thumbnail: 34512.jpg
 
 Everyone at some point needs to fill out forms. Since you don't always have access to a printer, learn how to stay digital when filling out forms.
 
-## Work with forms and signatures (7:03)
+## Tip #4 - Work with forms and signatures (7:03)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34512)
