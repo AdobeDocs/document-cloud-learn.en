@@ -11,4 +11,4 @@ thumbnail: 34200.jpg
 
 In this video tutorial, you'll learn how to get and use the tools in Acrobat DC and its companion mobile apps to work from anywhere.
 
->[!VIDEO](https://video.tv.adobe.com/v/34200)
+>[!VIDEO](https://video.tv.adobe.com/v/34200?chaptermarkers=on)
