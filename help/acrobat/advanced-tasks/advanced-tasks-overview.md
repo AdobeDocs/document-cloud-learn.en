@@ -15,7 +15,7 @@ Go beyond the basics, with these advanced tools in Acrobat DC. Learn how to crea
 
 ## Acrobat tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="action.md">

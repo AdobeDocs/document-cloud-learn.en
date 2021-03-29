@@ -15,7 +15,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
 
 ## Acrobat tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">

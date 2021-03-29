@@ -15,7 +15,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
 
 ## Go Digital
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/paperpdf/">
@@ -47,7 +47,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
 
 ## Stay Digital
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
     <a href="https://doccloud.adobeconnect.com/createpdfs/">
@@ -138,7 +138,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
 
 ## Get Work Done
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-share/">

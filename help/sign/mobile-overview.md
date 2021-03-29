@@ -14,7 +14,7 @@ thumbnail: KT-6854.jpg
 
 Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device.
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8">

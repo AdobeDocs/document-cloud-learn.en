@@ -15,7 +15,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
 
 ## Learning paths
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="getting-started/getting-started-overview.md">

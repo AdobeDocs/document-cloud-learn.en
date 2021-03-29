@@ -14,7 +14,7 @@ Speed up your organization's digital workflows with these government and commerc
 
 ## Government use cases
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasegovgrants.md">
@@ -83,7 +83,7 @@ Speed up your organization's digital workflows with these government and commerc
 
 ## Commercial use cases
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasecomcontracts.md">

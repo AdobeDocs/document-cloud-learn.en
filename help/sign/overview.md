@@ -15,7 +15,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
 
 ## Learning paths
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="sign-beginner-tutorials/beginner-users-overview.md">

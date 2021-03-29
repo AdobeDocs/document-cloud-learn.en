@@ -14,7 +14,7 @@ thumbnail: KT-6853.jpg
 
 Best practice articles with valuable insight on deploying Adobe Sign within your organization.
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html">
