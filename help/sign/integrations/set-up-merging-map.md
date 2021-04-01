@@ -10,6 +10,6 @@ thumbnail: 17350.jpg
 
 # Setting up Merge Mapping in Salesforce
 
-Learn how to set up a merge mapping for Adobe Sign in Salesforce. Merge Mapping allows you to merge data from Salesforce directly into an agreement.
+In this video tutorial, you'll learn how to set up a merge mapping for Adobe Sign in Salesforce. Merge Mapping allows you to merge data from Salesforce directly into an agreement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17350?hidetitle=true)

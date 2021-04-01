@@ -11,6 +11,6 @@ thumbnail: 17349.jpg
 
 # Creating a document template in Adobe Sign for Salesforce
 
-Learn how to create an Document Template for Adobe Sign in Salesforce. Document Templates provide speed and consistency in your sign transactions and the ability to manage document revisions and changes.
+In this video tutorial, you'll learn how to create a Document Template for Adobe Sign in Salesforce. Document Templates provide speed and consistency in your sign transactions and the ability to manage document revisions and changes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)

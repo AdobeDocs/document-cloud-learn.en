@@ -75,7 +75,8 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Configuring Adobe Sign with Workday](integrations/workday.md)
   + Marketo {#marketo}
     + [Send notifications using Adobe Sign for Salesforce and Marketo](integrations/marketo-salesforce-sms.md)
-    + [Send reminders using Adobe Sign for Salesforce and Marketo](integrations/marketo-salesforce-reminder.md)
+    + [Send reminders using Adobe Sign for Salesforce and Marketo video tutorial](integrations/marketo-salesforce-reminder-video.md)
+    + [Send reminders using Adobe Sign for Salesforce and Marketo configuration guide](integrations/marketo-salesforce-reminder.md)
     + [Send notifications using Adobe Sign for Microsoft Dynamics and Marketo](integrations/marketo-dynamics-sms.md)
     + [Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo](integrations/marketo-dynamics-reminder.md)
 + Expand and Inspire {#expand}

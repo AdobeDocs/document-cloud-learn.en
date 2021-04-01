@@ -1,6 +1,6 @@
 ---
-title: Send reminders using Adobe Sign for Salesforce and Marketo
-description: Learn how to send an email reminder when an agreement remains unsigned after a period of time
+title: Send reminders using Adobe Sign for Salesforce and Marketo Configuration Guide
+description: Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time
 role: Administrator
 product: Adobe Sign
 solution: Adobe Sign, Marketo, Document Cloud
@@ -9,9 +9,9 @@ topic: Integrations
 thumbnail: KT-7248.jpg
 ---
 
-# Send reminders using Adobe Sign for Salesforce and Marketo
+# Send reminders using Adobe Sign for Salesforce and Marketo Configuration Guide
 
-Learn how to send an email reminder when an agreement remains unsigned after a period of time using Adobe Sign for Salesforce and Marketo.
+Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time. This integration uses Adobe Sign for Salesforce, Marketo, and the Marketo and Salesforce sync.
 
 ## Prerequisites
 
