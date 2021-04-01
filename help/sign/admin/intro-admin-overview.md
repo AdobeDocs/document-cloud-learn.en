@@ -16,7 +16,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## Getting started
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="up-and-running-admin.md">
@@ -139,7 +139,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## Advanced tasks
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
@@ -182,7 +182,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     </div>
     <br>
     <em>Set up Bio-pharma settings that allow you to meet FDA 21 CFR Part 11 requirements</em>
-   </td> 
+  </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Adobe Sign Text Tagging" src="../assets/Text-Tagging.png" />

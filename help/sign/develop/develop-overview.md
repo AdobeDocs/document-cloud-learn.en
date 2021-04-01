@@ -14,7 +14,7 @@ thumbnail: KT-6852.jpg
 
 40% of agreements in Adobe Sign are created using APIs. Use APIs to create custom applications for your teams, partners and customers.
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html">
@@ -33,6 +33,7 @@ thumbnail: KT-6852.jpg
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html"><strong>Learn what you can do</strong></a>
     <br>
     <em>Learn how you can incorporate the functionality of Adobe Sign into any external application</em>
+  </td>  
   <td>
     <a href="gigasign.md">
       <img alt="Gather High-Volume Documents using GigaSign" src="../assets/gigasign.jpg" />

@@ -36,6 +36,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
     </div>
     <em>Go beyond the basics with specific tasks and automation</em>
     <br>
+  </td>
   <td>
     <a href="skill-builder/skill-builder-overview.md">
       <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />

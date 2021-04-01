@@ -13,7 +13,7 @@ thumbnail: KT-6851.jpg
 
 Learn how you can transform your organization's e-signing experiences by exploring these real-world use cases and recipes.
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="use-case-showcase.md">

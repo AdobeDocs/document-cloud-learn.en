@@ -36,6 +36,7 @@ Go beyond the basics, with these advanced tools in Acrobat DC. Learn how to crea
     </div>
     <em>Permanently remove private or sensitive information from your PDF</em>
     <br>
+  </td>  
   <td>
     <a href="reduce.md">
       <img alt="Reduce File Size & Optimize" src="../assets/Reduce.jpg" />
@@ -67,6 +68,7 @@ Go beyond the basics, with these advanced tools in Acrobat DC. Learn how to crea
     </div>
     <em>Create universally accessible PDF files</em>
     <br>
+  </td>  
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>

@@ -123,7 +123,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
     <em>Prepare PDFs for distribution</em>
     <br>
   </td>
-   <td>
+  <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
