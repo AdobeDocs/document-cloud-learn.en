@@ -16,7 +16,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 
 ## Sending
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="setting-up-routing.md">
@@ -84,7 +84,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 
 ## Managing
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="edit-a-template.md">
@@ -95,6 +95,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     </div>
     <br>
     <em>Edit or delete a template from your library</em>
+  </td>  
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>

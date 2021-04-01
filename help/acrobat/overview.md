@@ -68,6 +68,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
     </div>
     <em>Explore how real-world business go 100% digital</em>
     <br>
+  </td>  
   <td>
     <a href="develop/develop-overview.md">
       <img alt="Develop" src="assets/acrobat_title_develop.png" />
@@ -99,6 +100,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
     </div>
     <em>Create, fill, and sign PDFs on your mobile device</em>
     <br>
+  </td>  
   <td>
    <img alt="Spacer" src="assets/Whitespacer.png" />
     <div>
