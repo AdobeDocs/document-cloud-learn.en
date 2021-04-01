@@ -181,7 +181,7 @@ You can use Adobe Sign inside other applications your organization already uses,
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Send reminders using Adobe Sign for Salesforce and Marketo video tutorial" src="../assets/Integrate-Salesforce-Reminder-Video.jpg" />
+      <img alt="Send reminders using Adobe Sign for Salesforce and Marketo video tutorial" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketovideo tutorial</strong></a>
