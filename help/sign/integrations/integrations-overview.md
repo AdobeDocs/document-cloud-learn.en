@@ -19,7 +19,7 @@ You can use Adobe Sign inside other applications your organization already uses,
 
 ## Microsoft integrations tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="fill-and-sign-doc-microsoft-outlook.md">
@@ -63,7 +63,7 @@ You can use Adobe Sign inside other applications your organization already uses,
     <br>
     <em>Track the progress of an agreement directly within Microsoft Sharepoint</em>
   </td>
-   <td>
+  <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="Sending Documents for Signature in Microsoft Teams" src="../assets/teamsmortgage.png" />
     </a>
@@ -81,7 +81,7 @@ You can use Adobe Sign inside other applications your organization already uses,
 
 ## Salesforce integrations tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
@@ -140,7 +140,7 @@ You can use Adobe Sign inside other applications your organization already uses,
 
 ## Workday integration tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="workday.md">
@@ -152,7 +152,7 @@ You can use Adobe Sign inside other applications your organization already uses,
     <br>
     <em>Learn how to configure Adobe Sign to work directly within Workday to seamlessly manage all your HR paperwork</em>
   </td>
-   <td>
+  <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
@@ -165,20 +165,10 @@ You can use Adobe Sign inside other applications your organization already uses,
 </tr>
 </table>
 
-## Marketo configuration guides
+## Marketo integration tutorials & configuration guides
 
-<table>
+<table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="marketo-salesforce-reminder.md">
-      <img alt="Send reminders using Adobe Sign for Salesforce and Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
-    </a>
-    <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketo</strong></a>
-    </div>
-    <em>Learn how to send an email reminder when an agreement remains unsigned after a period of time</em>
-    <br>
-  </td>
   <td>
     <a href="marketo-salesforce-sms.md">
       <img alt="Send notifications using Adobe Sign for Salesforce and Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
@@ -190,6 +180,28 @@ You can use Adobe Sign inside other applications your organization already uses,
     <br>
   </td>
   <td>
+    <a href="marketo-salesforce-reminder-video.md">
+      <img alt="Send reminders using Adobe Sign for Salesforce and Marketo video tutorial" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+    </a>
+    <div>
+    <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketovideo tutorial</strong></a>
+    </div>
+    <em>In this video tutorial, you'll learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time</em>
+    <br>
+  </td>
+  <td>
+    <a href="marketo-salesforce-reminder.md">
+      <img alt="Send reminders using Adobe Sign for Salesforce and Marketo configuration guide" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+    </a>
+    <div>
+    <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketo configuration guide</strong></a>
+    </div>
+    <em>Read how to send an email reminder from Marketo when an agreement remains unsigned after a period of time</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Send reminders using Adobe Sign for Microsoft Dynamics and Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -199,8 +211,6 @@ You can use Adobe Sign inside other applications your organization already uses,
     <em>Learn how to send an email reminder when an agreement remains unsigned after a period of time</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Send notifications using Adobe Sign for Microsoft Dynamics and Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -209,11 +219,6 @@ You can use Adobe Sign inside other applications your organization already uses,
     <a href="marketo-dynamics-sms.md"><strong>Send notifications using Adobe Sign for Microsoft Dynamics and Marketo</strong></a>
     </div>
     <em>Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>

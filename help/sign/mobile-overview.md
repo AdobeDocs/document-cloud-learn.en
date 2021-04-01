@@ -31,6 +31,7 @@ Send documents for signature, track e-signing progress, and get real-time update
     <div>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en"><strong>Download Adobe Sign Mobile app for Android</strong></a>
     <br>
+  </td>  
   <td>
     <img alt="Spacer" src="assets/Whitespacer.png" />
     <div>

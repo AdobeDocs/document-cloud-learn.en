@@ -11,6 +11,6 @@ thumbnail: 17352.jpg
 
 # Create a custom button in Adobe Sign for Salesforce
 
-Learn how to create a custom button in a standard object in Salesforce.com. In this example, we'll add a custom button to a **Contact** in Salesforce. When the button is clicked it starts the sending process and populates information from the **Contact** directly into the agreement.
+In this video tutorial, you'll learn how to create a custom button in a standard object in Salesforce.com. In this example, we'll add a custom button to a **Contact** in Salesforce. When the button is clicked it starts the sending process and populates information from the **Contact** directly into the agreement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?hidetitle=true)

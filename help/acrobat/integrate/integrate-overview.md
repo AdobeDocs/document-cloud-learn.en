@@ -18,7 +18,7 @@ Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps.
 
 Learn how everyone on your team can work seamlessly with PDF files, right inside [Microsoft 365](https://acrobat.adobe.com/us/en/business/integrations/microsoft-office-365.html).
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="createfromword.md">
@@ -39,6 +39,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     </div>
     <em>Streamline document workflows with SharePoint and Acrobat DC</em>
     <br>
+  </td>  
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF collaboration in Microsoft Teams" src="../assets/MicrosoftTeams.png" />

@@ -36,6 +36,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     </div>
     <em>Go beyond the basics with specific tasks and automation</em>
     <br>
+  </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
       <img alt="Administer" src="assets/AS_Title_Administer.png" />
@@ -67,6 +68,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     </div>
     <em>Explore real-world use cases and recipes redefining what's possible with e-signatures</em>
     <br>
+  </td>  
   <td>
     <a href="develop/develop-overview.md">
       <img alt="Develop" src="assets/AS_Title_Develop.png" />
@@ -98,6 +100,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     </div>
     <em>Send, track, and get real-time updates on your mobile device</em>
     <br>
+  </td>  
   <td>
    <img alt="Spacer" src="assets/Whitespacer.png" />
     <div>

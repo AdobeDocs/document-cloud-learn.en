@@ -15,7 +15,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 ## Sending
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
     <a href="quick-tour.md">
@@ -52,7 +52,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 ## Signing
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
@@ -116,7 +116,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 ## Managing
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="manage-and-track.md">

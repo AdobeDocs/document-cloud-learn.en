@@ -10,6 +10,6 @@ thumbnail: 29764t1.jpg
 
 # Filling and signing in Outlook
 
-Steamline your document workflows by filling out and signing a form directly within Microsoft Outlook.
+In this video tutorial, you'll learn how to streamline your document workflows by filling out and signing a form directly within Microsoft Outlook.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29764t1?hidetitle=true)

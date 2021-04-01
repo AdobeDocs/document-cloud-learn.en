@@ -68,6 +68,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     </div>
     <em>Add comments to a PDF file and then share it with others</em>
     <br>
+  </td>  
   <td>
     <a href="edit-pdf.md">
       <img alt="Edit a PDF in Acrobat DC" src="../assets/Edit.jpg" />
@@ -99,6 +100,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     </div>
     <em>Turn a document created in other application into a fillable PDF form</em>
     <br>
+  </td>  
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Scan & OCR" src="../assets/Scan.jpg" />
