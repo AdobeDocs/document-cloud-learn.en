@@ -1,5 +1,5 @@
 ---
-cloud: document-cloud
+cloud: Document Cloud
 solution-title: Document Cloud
 solution-hub-url: https://helpx.adobe.com/support/document-cloud.html
 getting-started-title: Getting Started
