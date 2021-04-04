@@ -5,8 +5,8 @@ role: Business Practitioner, Administrator
 product: Adobe Sign
 level: Beginner, Intermediate, Advanced
 thumbnail: KT-6846.jpg
+exl-id: 72762750-5764-4541-aedd-94230b56936b
 ---
-
 # Adobe Sign Learning Hub
 
 ![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
@@ -108,4 +108,3 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
   </td>
 </tr>
 </table>
-

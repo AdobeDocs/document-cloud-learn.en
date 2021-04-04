@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 17346.jpg
+exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
 ---
-
 # Managing document templates
 
 In this video tutorial, you'll learn how to make changes to an existing template or delete a template in your library.

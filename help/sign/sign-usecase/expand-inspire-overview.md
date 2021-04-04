@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Adobe Sign
 level: Intermediate
 thumbnail: KT-6851.jpg
+exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
 ---
-
 # Expand and inspire overview
 
 ![Sign Expanc Image](../assets/Hero-Expand.png)

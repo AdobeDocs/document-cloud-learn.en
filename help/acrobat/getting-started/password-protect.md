@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Beginner
 thumbnail: 35497.jpg
+exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
 ---
-
 # Protect a PDF file with a password
 
 In this video tutorial, you'll learn how to add a password to your PDF to protect others from opening or editing the file.

@@ -7,8 +7,8 @@ solution: Adobe Sign, Marketo, Document Cloud
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7248.jpg
+exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
 ---
-
 # Send reminders using Adobe Sign for Salesforce and Marketo Configuration Guide
 
 Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time. This integration uses Adobe Sign for Salesforce, Marketo, and the Marketo and Salesforce sync.
@@ -188,4 +188,3 @@ Because the campaign filter **Days Unsigned** was used, you can use a scheduled 
 1. Set the **Schedule** to Daily, choose a start day and time, and an end date for the campaign if necessary.
 
     ![Schedule Settings](assets/scheduleSettings.png)
-

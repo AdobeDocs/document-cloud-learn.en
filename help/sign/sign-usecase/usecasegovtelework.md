@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33808.jpg
+exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
 ---
-
 # Telework agreement
 
 Efficiently collect signatures from all your employees on telework agreements, policy updates, and more.

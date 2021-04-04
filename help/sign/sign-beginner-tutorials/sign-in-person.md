@@ -7,8 +7,8 @@ solution: Document Cloud
 level: Beginner
 topic: Mobile
 thumbnail: 17362.jpg
+exl-id: 0b45fb6b-170e-4842-8627-dd9f0bc7b25d
 ---
-
 # Getting a signature in person
 
 In this video tutorial, you'll learn how to get someone else's signature in person using the Adobe Sign mobile app.

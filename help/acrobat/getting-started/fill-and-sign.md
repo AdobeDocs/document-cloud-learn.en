@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Beginner
 thumbnail: 35495.jpg
+exl-id: 3ec14eda-755e-425d-bdd7-e3c1cac8f7af
 ---
-
 # Fill and sign a PDF form
 
 In this video tutorial, you'll learn how to quickly and easily fill and sign a PDF form. No messy printing or scanning is necessary.

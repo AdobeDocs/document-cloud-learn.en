@@ -6,8 +6,8 @@ product: Acrobat DC
 level: Beginner
 topic: Integrations
 thumbnail: 331277.jpg
+exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
 ---
-
 # PDF collaboration in Microsoft Teams
 
 Adobe Acrobat for Teams allows users to collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving Microsoft Teams. This integration includes:

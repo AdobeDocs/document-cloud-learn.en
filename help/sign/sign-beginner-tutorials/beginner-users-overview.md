@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Adobe Sign
 level: Beginner
 thumbnail: KT-6847.jpg
+exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 ---
-
 # Getting started overview
 
 ![Sign Getting Started Image](../assets/Hero-GettingStarted.png)

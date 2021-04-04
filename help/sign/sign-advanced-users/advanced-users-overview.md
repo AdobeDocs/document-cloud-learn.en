@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
+exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 ---
-
 # Advanced tasks overview
 
 ![Sign Advanced Image](../assets/Hero-Advanced.png)

@@ -5,8 +5,8 @@ role: Administrator
 product: Acrobat DC
 level: Intermediate
 thumbnail: KT-6862.jpg
+exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
 ---
-
 # Deploy overview
 
 ![Acrobat Deployment Image](../assets/Hero-Deploy.png)

@@ -6,8 +6,8 @@ product: Acrobat DC
 level: Advanced
 topic: Accessibility
 thumbnail: 34291.jpg
+exl-id: 5b205e7c-d41f-452d-9a54-208a25d3fa5e
 ---
-
 # Making PDFs Accessible (complete 14:11)
 
 Learn about the optimal workflow for creating accessible PDF files. First, you'll learn why accessibility is so important, followed by how to work with PDFs created from Microsoft Word, then finish with Accessibility tools in Acrobat Pro DC.

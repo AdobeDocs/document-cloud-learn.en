@@ -6,8 +6,8 @@ product: Acrobat DC
 level: Beginner
 topic: Integrations
 thumbnail: 331855.jpg
+exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
 ---
-
 # Work with your SharePoint files
 
 Streamline document workflows with SharePoint and Acrobat DC using the [Adobe Document Cloud PDF Experience for Office 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Securely convert Microsoft 365 files to PDFs, combine documents into one file, comment, and rearrange pages — right from SharePoint online.

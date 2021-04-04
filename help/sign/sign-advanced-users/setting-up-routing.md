@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 17347.jpg
+exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
 ---
-
 # Setting up routing order
 
 In this tutorial, you'll learn how to setup the routing order for multiple signers. Send a document in sequence, in parallel, or a combination of the two.

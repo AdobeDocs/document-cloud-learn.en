@@ -7,8 +7,8 @@ solution: Document Cloud
 level: Intermediate
 topic: Administration
 thumbnail: 40186.jpg
+exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
 ---
-
 # Advanced account sharing
 
 In this video tutorial, you'll learn how to setup advanced account sharing. This allows admins and users to delegate their send, modify, and view permissions.

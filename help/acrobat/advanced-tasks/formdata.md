@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Advanced
 thumbnail: KT-6828.jpg
+exl-id: d1284027-7df6-4242-9756-e0d401156498
 ---
-
 # Working with form data
 
 If you have a set of completed forms and need to compile the data, you can use Acrobat DC to merge the responses into a single spreadsheet.

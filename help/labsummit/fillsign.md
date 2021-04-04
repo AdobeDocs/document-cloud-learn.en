@@ -2,8 +2,8 @@
 title: Fill and Sign any form on desktop or mobile
 description: Fill, sign, and send forms fast from your desktop, browser, or mobile app
 solution: Document Cloud
+exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
 ---
-
 # Fill and Sign any form on desktop or mobile
 
 Fill, sign, and send forms fast from your desktop, browser, or mobile app. Adobe Sensei recognizes and saves commonly used data for use in a PDF form. Create a signature by drawing, importing a scan, or typing your name then securely apply it to a document.
@@ -58,5 +58,3 @@ Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 * Tap to enter text or checkmarks in the form fields. And for speed, use custom autofill entries.
 
 * Create your signature using your finger or stylus. Then, apply it to the form or add your initials wherever needed.
-
-

@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Beginner, Intermediate, Advanced
 thumbnail: KT-6864.jpg
+exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
 ---
-
 # Adobe Acrobat Learning Hub
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)

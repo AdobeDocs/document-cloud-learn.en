@@ -7,8 +7,8 @@ solution: Adobe Sign, Marketo, Document Cloud
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7249.jpg
+exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
 ---
-
 # Send notifications using Adobe Sign for Microsoft Dynamics 365 and Marketo
 
 Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way using Adobe Sign for Microsoft Dynamics 365 and Marketo. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. This walkthrough uses [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), but there are other Marketo SMS solutions available.
@@ -129,4 +129,4 @@ Retrieve these parameters from your account, now open your Marketo instance.
 
     ![Call Webhook](assets/callWebhook.png)
 
-1. Your SMS notice campaign for leads who are added to an agreement is now set up. 
+1. Your SMS notice campaign for leads who are added to an agreement is now set up.

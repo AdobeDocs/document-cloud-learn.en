@@ -7,8 +7,8 @@ solution: Adobe Sign, Marketo, Document Cloud
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7250.jpg
+exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 ---
-
 # Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo
 
 Learn how to send an email reminder when an agreement remains unsigned after a period of time using Adobe Sign for Microsoft Dynamics 365 and Marketo. 
@@ -170,4 +170,3 @@ Because the campaign filter **Days Until Expires** was used, you can use a sched
 1. Set the **Schedule** to Daily. Choose a start day and time and end date for the campaign if necessary.
 
     ![Schedule Settings](assets/scheduleSettings.png)
-

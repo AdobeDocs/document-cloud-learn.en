@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33979.jpg
+exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
 ---
-
 # Policy agreements
 
 Efficiently collect signatures from all your employees on Policy Agreements, policy updates, and more.

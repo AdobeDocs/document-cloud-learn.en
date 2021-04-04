@@ -6,8 +6,8 @@ product: Acrobat DC
 level: Advanced
 topic: Accessibility
 thumbnail: KT-6817.jpg
+exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
 ---
-
 # Making PDF ballots more Accessible
 
 PDF ballots that are available electronically need to be accessible to and usable by all voters. This Webinar will cover some key areas of PDF accessibility necessary to allow users of assistive technologies, such as screen readers, to read and complete their ballots.

@@ -4,8 +4,8 @@ description: The Adobe Sign Innovation Series are 30-minute sessions packed with
 role: Business Practitioner
 product: Adobe Sign
 level: Intermediate
+exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
 ---
-
 # Adobe Sign Innovation series
 
 ![innovation series Banner](../assets/Innovation_rebrand.png) 
@@ -116,16 +116,3 @@ Date: 12-05-2019
 [Watch Session](https://event.on24.com/wcc/r/2106668/C709085AFD1B9352DF93445F0FB5D3A6)
 
 Date: 11-01-2019
-
-
-
-
-
-
-
-
-
-
-
-
-

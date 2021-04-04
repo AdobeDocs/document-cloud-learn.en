@@ -6,8 +6,8 @@ product: Adobe Sign
 level: Intermediate
 topic: Integrations
 thumbnail: KT-6850.jpg
+exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 ---
-
 # Integrate overview
 
 ![Sign Integrate Image](../assets/Hero-Integrate.png)

@@ -6,8 +6,8 @@ product: Adobe Sign
 level: Intermediate
 topic: Mobile
 thumbnail: KT-6854.jpg
+exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 ---
-
 # Mobile overview
 
 ![Sign Mobile Image](assets/Hero-Mobile.png)

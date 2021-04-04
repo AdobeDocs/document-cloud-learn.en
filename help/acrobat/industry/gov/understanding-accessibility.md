@@ -6,8 +6,8 @@ product: Acrobat DC
 level: Advanced
 topic: Accessibility
 thumbnail: 34540.jpg
+exl-id: 97661a3a-4d9b-4d2c-886f-0b96934a8c5a
 ---
-
 # Making PDFs Accessible--Understanding Accessibility
 
 In the first video tutorial in the Making PDFs Accessible series, you learn what it means to make a PDF accessible for people with disabilities.

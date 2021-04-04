@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Advanced
 thumbnail: KT-6857.jpg
+exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
 ---
-
 # Advanced tasks overview
 
 ![Acrobat Getting Started Image](../assets/Hero-AdvancedTasks.png)
@@ -76,4 +76,3 @@ Go beyond the basics, with these advanced tools in Acrobat DC. Learn how to crea
   </td>
 </tr>
 </table>
-

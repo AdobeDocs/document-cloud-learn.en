@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Advanced
 thumbnail: KT-6804.jpg
+exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
 ---
-
 # Redact & Sanitize
 
 Learn to use the Redact tool to permanently remove private or sensitive information from your PDF. Use the Sanitize tool to remove information that is not visible in the file, such as comments, metadata, or hidden layers.

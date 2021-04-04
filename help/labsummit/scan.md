@@ -2,8 +2,8 @@
 title: Go Digital with Adobe Scan
 description: Learn some tricks and tips for using Adobe Document Cloud
 solution: Document Cloud
+exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
 ---
-
 # Go Digital with Adobe Scan
 
 De-clutter, organize, or share! There’s no need to keep piles of paper on your desk or stuff receipts in your wallet. The Adobe Scan mobile app scans paper documents directly into PDFs, and automatically recognizes text.

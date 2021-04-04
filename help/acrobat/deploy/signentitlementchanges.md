@@ -5,8 +5,8 @@ role: Administrator
 product: Acrobat DC
 level: Intermediate
 thumbnail: KT-7269.jpg
+exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 ---
-
 # Important Acrobat DC product updates for ETLA customers
 
 Adobe Sign Individual (also known as Adobe Sign Pro) will be deprovisioned from all Acrobat DC entitlements included in ETLA (Enterprise Term License Agreement) offers only beginning August 2020 and will continue through November 20, 2020. Adobe Sign Individual does not provide enterprise-grade functionality and should be replaced with Adobe Sign Enterprise for enterprise customers. This includes Acrobat DC licensed as a stand-alone app and Acrobat DC licensed as part of Creative Cloud for enterprise – All Apps.

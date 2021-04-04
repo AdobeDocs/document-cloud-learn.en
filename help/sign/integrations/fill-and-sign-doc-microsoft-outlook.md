@@ -6,8 +6,8 @@ product: Adobe Sign
 level: Intermediate
 topic: Integrations
 thumbnail: 29764t1.jpg
+exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763
 ---
-
 # Filling and signing in Outlook
 
 In this video tutorial, you'll learn how to streamline your document workflows by filling out and signing a form directly within Microsoft Outlook.

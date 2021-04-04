@@ -6,8 +6,9 @@ product: Adobe Sign
 solution: Document Cloud
 level: Experienced
 thumbnail: KT-6402.jpg
+exl-id: 3a54925d-b713-487b-92b7-ec7160513696
+exl-id: c981c640-e50a-4952-ac39-2f90d6d0cf08
 ---
-
 # Adobe Sign Text Tagging
 
 In this recorded webinar (no registration necessary), you'll learn how to build Adobe Sign form fields with text tagging using Adobe Acrobat DC. Text tagging significantly reduces the time it takes to build and revise documents with many form fields. Individuals sending documents don't need to place individual fields on every document they send out—-another significant time saver. Other benefits include form field validation (accurate and error free data collection) and professional form design consistency. Feel free to send us your questions during the webinar through the Q&A pod.

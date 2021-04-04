@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17343.jpg
+exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
 ---
-
 # Modifying a document already sent for signature
 
 In this video tutorial, you'll learn how to modify a document that's already been sent out for signature — like when a document is sent by mistake.

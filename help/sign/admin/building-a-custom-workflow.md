@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Experienced
 thumbnail: 33656.jpg
+exl-id: b892b278-cf83-461d-a548-57237b85b297
 ---
-
 # Building a custom workflow
 
 In this video tutorial, you'll learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.

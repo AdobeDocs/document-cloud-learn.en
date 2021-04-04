@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33980.jpg
+exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
 ---
-
 # Contracts and requisition forms
 
 Quickly replace paper processing with compliant digital workflows, complete with audit reports.

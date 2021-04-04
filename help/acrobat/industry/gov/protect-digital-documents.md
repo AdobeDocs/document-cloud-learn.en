@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Beginner
 thumbnail: 34510.jpg
+exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
 ---
-
 # 5 Tips for Working Anywhere with Acrobat DC--Protect Digital Documents
 
 Add a password to your PDF to prevent copying, editing, or printing.

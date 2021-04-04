@@ -6,8 +6,8 @@ product: Adobe Sign
 level: Intermediate
 topic: Administration
 thumbnail: KT-6849.jpg
+exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 ---
-
 # Administrators overview
 
 ![Sign Administrators Image](../assets/Hero-Admin.png)

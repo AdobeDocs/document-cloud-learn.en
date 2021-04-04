@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17341.jpg
+exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
 ---
-
 # Managing and tracking documents
 
 In this video tutorial, you'll learn how to manage and track documents that you sent out for signature in Adobe Sign.

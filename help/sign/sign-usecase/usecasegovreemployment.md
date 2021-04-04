@@ -6,8 +6,8 @@ product: Adobe Sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33809.jpg
+exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
 ---
-
 # Reemployment assistance
 
 Help citizens get the help they need without standing in line with all-digital application forms that can go live in days.

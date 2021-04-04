@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Beginner
 thumbnail: KT-6856.jpg
+exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 ---
-
 # Getting started overview
 
 ![Acrobat Getting Started Image](../assets/Hero-GettingStarted.png)

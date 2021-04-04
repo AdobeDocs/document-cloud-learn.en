@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Beginner
 thumbnail: KT-6831.jpg
+exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
 ---
-
 # Create fillable forms
 
 Turn a scanned paper form or document created in InDesign, Microsoft Word or Excel, or other application into a fillable PDF form.

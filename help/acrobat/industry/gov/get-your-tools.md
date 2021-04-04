@@ -5,8 +5,8 @@ role: Business Practitioner
 product: Acrobat DC
 level: Beginner
 thumbnail: 34290.jpg
+exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
 ---
-
 # 5 Tips for Working Anywhere with Acrobat DC--Get Your Tools 
 
 The first step to start working from anywhere is to get your Acrobat DC tools and companion mobile apps.

@@ -6,8 +6,8 @@ product: Acrobat DC
 level: Advanced
 topics: Accessibility
 thumbnail: KT-6829.jpg
+exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
 ---
-
 # Preparing Accessible PDF files
 
 Learn how to check the accessibility of your existing PDF files. The **Full Check/Accessibility Check** tool verifies whether the document conforms to accessibility standards, such as PDF/UA and WCAG 2.0. The **Accessibility Report** summarizes the findings of the accessibility check.

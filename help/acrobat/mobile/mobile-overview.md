@@ -6,8 +6,8 @@ product: Acrobat DC
 level: Intermediate
 topic: mobile
 thumbnail: KT-6863.jpg
+exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
 ---
-
 # Mobile overview
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)

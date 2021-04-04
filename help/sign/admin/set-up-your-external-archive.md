@@ -5,8 +5,8 @@ role: Administrator
 product: Adobe Sign
 level: Beginner
 team: DC Product Marketing Retention and Engagement
+exl-id: 8669881a-b69b-4455-912d-b3551207a696
 ---
-
 # Setting up an external archive
 
 Learn how to create an external archive for backup copies of agreements that have been sent. You can archive copies of signed agreements to any email address or to Box and Evernote. A copy of the Signed and Filed email is sent to either the email address you provide or to the service you set up.
