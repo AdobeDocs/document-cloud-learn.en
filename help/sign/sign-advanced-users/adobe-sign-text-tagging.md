@@ -6,8 +6,7 @@ product: Adobe Sign
 solution: Document Cloud
 level: Experienced
 thumbnail: KT-6402.jpg
-exl-id: 3a54925d-b713-487b-92b7-ec7160513696
-exl-id: c981c640-e50a-4952-ac39-2f90d6d0cf08
+exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
 ---
 # Adobe Sign Text Tagging
 

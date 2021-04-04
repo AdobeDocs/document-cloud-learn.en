@@ -6,8 +6,7 @@ product: Adobe Sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 38037.jpg
-exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4
-exl-id: 1930bc23-bfba-4113-b19a-76634667bda3
+exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda3
 ---
 # Creating a document template
 
