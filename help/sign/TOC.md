@@ -26,7 +26,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Signing with a Stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
   + Managing {#getting-started-managing}
     + [Managing and Tracking Documents](sign-beginner-tutorials/manage-and-track.md)
-    + [Creating a Document Template](/help/sign/sign-advanced-users/create-a-template.html)
+    + [Creating a Document Template](/help/sign/sign-advanced-users/create-a-template.md)
     + [Modifying a Document Already Sent for Signature](sign-beginner-tutorials/modify-in-flight.md)
 + Advanced Tasks {#advanced-tasks}
   + [Overview](sign-advanced-users/advanced-users-overview.md)
