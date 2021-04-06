@@ -26,7 +26,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Signing with a Stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
   + Managing {#getting-started-managing}
     + [Managing and Tracking Documents](sign-beginner-tutorials/manage-and-track.md)
-    + [Creating a Document Template](sign-advanced-users/create-a-template.md)
+    + [Creating a Document Template](/help/sign/sign-advanced-users/create-a-template.md)
     + [Modifying a Document Already Sent for Signature](sign-beginner-tutorials/modify-in-flight.md)
 + Advanced Tasks {#advanced-tasks}
   + [Overview](sign-advanced-users/advanced-users-overview.md)
@@ -34,9 +34,9 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Setting up Routing Order](sign-advanced-users/setting-up-routing.md)
     + [Delegating to Someone Else](sign-advanced-users/delegate-signature.md)
     + [Adding an Approver](sign-advanced-users/add-an-approver.md)
-    + [Collecting Signatures in Bulk](sign-advanced-users/megasign.md)
-    + [Setting up a Web Form](sign-advanced-users/webform.md)
-    + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
+    + [Collecting Signatures in Bulk](/help/sign/sign-advanced-users/megasign.md)
+    + [Setting up a Web Form](/help/sign/sign-advanced-users/webform.md)
+    + [Adobe Sign Text Tagging](/help/sign/sign-advanced-users/adobe-sign-text-tagging.md)
   + Managing {#advanced-tasks-managing}
     + [Managing Document Templates](sign-advanced-users/edit-a-template.md)
 + Administer {#admin-set-up}
