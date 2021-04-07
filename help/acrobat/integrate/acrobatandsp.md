@@ -1,5 +1,5 @@
 ---
-title: Work with your SharePoint files
+title: Work with your SharePoint Files
 description: Streamline document workflows with SharePoint and Acrobat DC using the Adobe Document Cloud PDF Experience for Office 365
 role: Business Practitioner
 product: Acrobat DC

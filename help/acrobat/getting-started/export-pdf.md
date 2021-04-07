@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
 ---
-# Export a PDF to Microsoft Office Formats
+# Export a PDF to Microsoft Office formats
 
 In this video tutorial, you'll learn how to export your PDF files to editable formats--like Microsoft Word, PowerPoint, and Excel. This will allow you to make significant revisions and updates to your documents.
 

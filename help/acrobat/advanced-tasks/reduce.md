@@ -1,5 +1,5 @@
 ---
-title: Reduce file size & optimize
+title: Reduce File Size & Optimize
 description: Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving
 role: Business Practitioner
 product: Acrobat DC

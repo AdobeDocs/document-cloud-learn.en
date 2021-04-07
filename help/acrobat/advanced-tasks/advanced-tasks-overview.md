@@ -39,10 +39,10 @@ Go beyond the basics, with these advanced tools in Acrobat DC. Learn how to crea
   </td>  
   <td>
     <a href="reduce.md">
-      <img alt="Reduce File Size & Optimize" src="../assets/Reduce.jpg" />
+      <img alt="Reduce file size & optimize" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>Reduce File Size & Optimize</strong></a>
+    <a href="reduce.md"><strong>Reduce file size & optimize</strong></a>
     </div>
     <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
     <br>
