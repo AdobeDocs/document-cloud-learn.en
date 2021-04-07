@@ -19,7 +19,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
 <tr>
   <td>
     <a href="getting-started/getting-started-overview.md">
-      <img alt="Getting started" src="assets/acrobat_title_getting_started.png" />
+      <img alt="Getting Started" src="assets/acrobat_title_getting_started.png" />
     </a>
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>Getting started</strong></a>
