@@ -39,7 +39,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
       <img alt="Gather High-Volume Documents using GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>Gather High-Volume Documents using GigaSign</strong></a>
+    <a href="gigasign.md"><strong>Gather high-volume documents using GigaSign</strong></a>
     <br>
     <em>Send, collect, and track documents for signature to thousands of people at the same time</em>
   </td>

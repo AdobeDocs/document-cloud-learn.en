@@ -29,7 +29,7 @@ Learn how you can transform your organization's e-signing experiences by explori
       <img alt="Use case recipes" src="../assets/Expand_RecipeR.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Use Case Recipes</strong></a>
+    <a href="recipes.md"><strong>Use Case recipes</strong></a>
     <br>
     <em>Download the resources you need to quickly deploy various e-signature workflows on your own</em>
   </td>

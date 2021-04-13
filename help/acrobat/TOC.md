@@ -12,7 +12,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 # Acrobat Learning Hub {#acrobat-learning}
 
 + [Overview](overview.md)
-+ Getting Started {#getting-started}
++ Getting started {#getting-started}
   + [Overview](getting-started/getting-started-overview.md)
   + [Get to know the Acrobat DC interface](getting-started/get-to-know-the-acrobat-dc-interface.md)
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
@@ -26,7 +26,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
   + [Organize pages](getting-started/organize.md)
   + [Protect a PDF file with a password](getting-started/password-protect.md)
   + [Fill and sign a PDF form](getting-started/fill-and-sign.md)
-+ Advanced Tasks {#advanced-tasks}
++ Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
   + [Action Wizard](advanced-tasks/action.md)
   + [Redact & Sanitize](advanced-tasks/redact.md)

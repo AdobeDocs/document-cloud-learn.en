@@ -30,7 +30,7 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
       <img alt="Best Practices" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html"><strong>Best Practices</strong></a>
+    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html"><strong>Best practices</strong></a>
     <br>
     <em>Review valuable insights and knowledge gained by our Customer Success Manager's work with our customers in deploying Adobe Sign</em>
   </td>  
