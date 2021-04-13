@@ -23,7 +23,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
       <img alt="Setting up Routing Order" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Setting up Routing Order</strong></a>
+    <a href="setting-up-routing.md"><strong>Setting up routing order</strong></a>
     </div>
     <br>
     <em>Setup the routing order for multiple signers</em>
@@ -33,7 +33,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
       <img alt="Delegating to Someone Else" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Delegating to Someone Else</strong></a>
+    <a href="delegate-signature.md"><strong>Delegating to someone else</strong></a>
     </div>
     <br>
     <em>Use the delegator role to send a document to an intermediary who can then route the document for signature</em>
@@ -52,20 +52,20 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="Collecting Signatures in Bulk" src="../assets/Megasign.png" />
+      <img alt="Collecting signatures in bulk" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>Collecting Signatures in Bulk</strong></a>
+    <a href="megasign.md"><strong>Collecting signatures in bulk</strong></a>
     </div>
     <br>
     <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
   </td>
   <td>
     <a href="webform.md">
-      <img alt="Setting Up a Web Form" src="../assets/Webform.png" />
+      <img alt="Setting up a Web Form" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Setting Up a Web Form</strong></a>
+    <a href="webform.md"><strong>Setting up a Web Form</strong></a>
     </div>
     <br>
     <em>Create a document that can be signed electronically directly on your website</em>
@@ -88,10 +88,10 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 <tr>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Managing Document Templates" src="../assets/ManageTemplate.png" />
+      <img alt="Managing document templates" src="../assets/ManageTemplate.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>Managing Document Templates</strong></a>
+    <a href="edit-a-template.md"><strong>Managing document templates</strong></a>
     </div>
     <br>
     <em>Edit or delete a template from your library</em>

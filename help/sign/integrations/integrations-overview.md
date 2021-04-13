@@ -23,10 +23,10 @@ You can use Adobe Sign inside other applications your organization already uses,
 <tr>
   <td>
     <a href="fill-and-sign-doc-microsoft-outlook.md">
-      <img alt="Filling and Signing in Microsoft Outlook" src="../assets/MS-FillSign.png" />
+      <img alt="Filling and signing in Microsoft Outlook" src="../assets/MS-FillSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Filling and Signing in Microsoft Outlook</strong></a>
+    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Filling and signing in Microsoft Outlook</strong></a>
     </div>
     <br>
     <em>Fill out and sign a form directly within Microsoft Outlook</em>
@@ -88,7 +88,7 @@ You can use Adobe Sign inside other applications your organization already uses,
       <img alt="Creating a Document Template in Adobe Sign for Salesforce" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Creating a Document Template in Adobe Sign for Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Creating a document template in Adobe Sign for Salesforce</strong></a>
     </div>
     <br>
     <em>Create a reusable document template to provide speed and consistency</em>
@@ -98,7 +98,7 @@ You can use Adobe Sign inside other applications your organization already uses,
       <img alt="Setting up Data Mapping" src="../assets/SF-DataMapping.png" />
     </a>
     <div>
-    <a href="set-up-data-mapping.md"><strong>Setting up Data Mapping</strong></a>
+    <a href="set-up-data-mapping.md"><strong>Setting up data mapping</strong></a>
     </div>
     <br>
     <em>Pull data back into Salesforce after an agreement has been signed</em>
@@ -108,7 +108,7 @@ You can use Adobe Sign inside other applications your organization already uses,
       <img alt="Setting up Merge Mapping" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Setting up Merge Mapping</strong></a>
+    <a href="set-up-merging-map.md"><strong>Setting up merge mapping</strong></a>
     </div>
     <br>
     <em>Merge data from Salesforce directly into an agreement</em>
@@ -117,10 +117,10 @@ You can use Adobe Sign inside other applications your organization already uses,
 <tr>
   <td>
     <a href="create-a-custom-button.md">
-      <img alt="Creating a Custom Button" src="../assets/SF-Button.png" />
+      <img alt="Creating a custom button" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="create-a-custom-button.md"><strong>Creating a Custom Button</strong></a>
+    <a href="create-a-custom-button.md"><strong>Creating a custom button</strong></a>
     </div>
     <br>
     <em>Create a custom button that starts the sending process and auto populates an agreement inside Salesforce</em>

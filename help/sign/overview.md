@@ -19,20 +19,20 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
 <tr>
   <td>
     <a href="sign-beginner-tutorials/beginner-users-overview.md">
-      <img alt="Getting Started" src="assets/AS_Title_Getting-Started.png" />
+      <img alt="Getting started" src="assets/AS_Title_Getting-Started.png" />
     </a>
     <div>
-    <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Getting Started</strong></a>
+    <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Getting started</strong></a>
     </div>
     <em>Get up-to-speed on how to send, sign, and track documents</em>
     <br>
   </td>
   <td>
     <a href="sign-advanced-users/advanced-users-overview.md">
-      <img alt="Advanced Tasks" src="assets/AS_Title_Advanced.png" />
+      <img alt="Advanced tasks" src="assets/AS_Title_Advanced.png" />
     </a>
     <div>
-    <a href="sign-advanced-users/advanced-users-overview.md"><strong>Advanced Tasks</strong></a>
+    <a href="sign-advanced-users/advanced-users-overview.md"><strong>Advanced tasks</strong></a>
     </div>
     <em>Go beyond the basics with specific tasks and automation</em>
     <br>
@@ -64,7 +64,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
       <img alt="Expand and Inspire" src="assets/AS_Title_Inspire.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Expand and Inspire</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Expand and inspire</strong></a>
     </div>
     <em>Explore real-world use cases and recipes redefining what's possible with e-signatures</em>
     <br>
