@@ -26,7 +26,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Signing with a stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
   + Managing {#getting-started-managing}
     + [Managing and tracking documents](sign-beginner-tutorials/manage-and-track.md)
-    + [Creating a document template](/help/sign/sign-advanced-users/create-a-template.md)
+    + [Creating a document template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
     + [Modifying a document already sent for signature](sign-beginner-tutorials/modify-in-flight.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](sign-advanced-users/advanced-users-overview.md)
@@ -34,9 +34,9 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Setting up routing order](sign-advanced-users/setting-up-routing.md)
     + [Delegating to someone else](sign-advanced-users/delegate-signature.md)
     + [Adding an Approver](sign-advanced-users/add-an-approver.md)
-    + [Collecting signatures in bulk](/help/sign/sign-advanced-users/megasign.md)
-    + [Setting up a Web Form](/help/sign/sign-advanced-users/webform.md)
-    + [Adobe Sign Text Tagging](/help/sign/sign-advanced-users/adobe-sign-text-tagging.md)
+    + [Collecting signatures in bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+    + [Setting up a Web Form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/webform.html)
+    + [Adobe Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
   + Managing {#advanced-tasks-managing}
     + [Managing document templates](sign-advanced-users/edit-a-template.md)
 + Administer {#admin-set-up}
