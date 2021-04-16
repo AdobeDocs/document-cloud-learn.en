@@ -2,7 +2,7 @@
 title: Comment on PDFs in Acrobat DC
 description: Learn how to add comments and then share a PDF for review with others
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner
 thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c

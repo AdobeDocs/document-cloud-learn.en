@@ -1,9 +1,9 @@
 ---
 title: Configure Adobe Sign for Workday
 description: Learn how to configure Adobe Sign to work directly within Workday to seamlessly manage all your HR paperwork
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
-topic: Integrations
+topic-revisit: Integrations
 thumbnail: 39372.jpg
 exl-id: c94a7756-1fae-4f17-aab4-ea1437b68645
 ---

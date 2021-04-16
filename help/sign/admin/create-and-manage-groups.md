@@ -2,7 +2,7 @@
 title: Creating and Managing Groups
 description: Learn how to create groups, add users to groups, and edit group settings
 role: Administrator
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 17355.jpg

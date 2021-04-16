@@ -2,7 +2,7 @@
 title: Setting up Shared Events and Alerts
 description: Learn about shared events and alert settings in Adobe Sign
 role: Business Practitioner, Administrator
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
 thumbnail: 17359.jpg
 exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb

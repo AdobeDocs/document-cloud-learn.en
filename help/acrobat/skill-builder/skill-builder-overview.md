@@ -2,7 +2,7 @@
 title: Acrobat DC Skill Builders
 description: Get up-to-speed on Acrobat DC with these interactive skill builders
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76

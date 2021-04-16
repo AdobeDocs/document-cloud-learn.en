@@ -2,7 +2,7 @@
 title: Advanced Tasks Overview
 description: Learn how to send a document out for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg

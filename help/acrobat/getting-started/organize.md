@@ -2,7 +2,7 @@
 title: Organize Pages
 description: Add, replace, extract, rotate, delete, and move pages in your PDF
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146

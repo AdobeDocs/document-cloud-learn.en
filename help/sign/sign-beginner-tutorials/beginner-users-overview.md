@@ -2,7 +2,7 @@
 title: Getting Started overview
 description: Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607

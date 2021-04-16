@@ -2,10 +2,10 @@
 title: Create a custom button in Adobe Sign for Salesforce
 description: Learn how to create a custom button that starts the sending process and auto populates an agreement
 role: Administrator
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Intermediate
-topic: Integrations
+topic-revisit: Integrations
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
 ---

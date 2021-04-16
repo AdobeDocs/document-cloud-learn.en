@@ -2,9 +2,9 @@
 title: Setting up Merge Mapping
 description: Learn how to merge data from Salesforce directly into an agreement
 role: Administrator
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
-topic: Integrations
+topic-revisit: Integrations
 thumbnail: 17350.jpg
 exl-id: 47f3b483-106e-48d9-b554-ad9a87e51a7e
 ---

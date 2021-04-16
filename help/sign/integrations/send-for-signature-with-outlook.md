@@ -2,9 +2,9 @@
 title: Sending in Outlook
 description: Send an agreement for signature direclty within Microsoft Outlook
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
-topic: Integrations
+topic-revisit: Integrations
 thumbnail: 29765t1.jpg
 exl-id: 06d8e6c5-6dbf-4d6c-bf49-b620da707b3c
 ---

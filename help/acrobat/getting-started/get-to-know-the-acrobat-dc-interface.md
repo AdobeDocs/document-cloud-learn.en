@@ -2,7 +2,7 @@
 title: Get to Know the Acrobat DC Interface
 description: Learn how Acrobat DC makes it easy to access files and tools across desktop, web, and mobile
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner
 thumbnail: 23590.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4

@@ -2,7 +2,7 @@
 title: Combine Files into a Single PDF
 description: Combine many different types of files such as PDF, Word, Excel, PowerPoint, or JPEG into a single PDF
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62

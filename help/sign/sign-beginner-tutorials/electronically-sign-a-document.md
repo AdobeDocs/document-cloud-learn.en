@@ -2,7 +2,7 @@
 title: Electronically Signing a Document
 description: Learn how easy it is to sign a document that has been sent to you with Adobe Sign
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17360.jpg

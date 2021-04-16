@@ -2,7 +2,7 @@
 title: Quick Tour of Adobe Sign
 description: Take a quick tour of Adobe Sign to get up and running
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 41205.jpg

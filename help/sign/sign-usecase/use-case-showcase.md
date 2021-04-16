@@ -2,7 +2,7 @@
 title: Use Case Showcase
 description: The Use Case Showcase is a monthly livestream session that introduces you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Intermediate
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1

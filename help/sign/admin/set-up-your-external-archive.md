@@ -2,7 +2,7 @@
 title: Setting up an External Archive
 description: Learn how to create an external archive for backup copies of agreements that have been sent
 role: Administrator
-product: Adobe Sign
+product: adobe sign
 level: Beginner
 team: DC Product Marketing Retention and Engagement
 exl-id: 8669881a-b69b-4455-912d-b3551207a696

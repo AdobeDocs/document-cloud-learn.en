@@ -2,7 +2,7 @@
 title: Delegating to Someone Else
 description: Use the delegator role to send a document to an intermediary who can then route the document for signature
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 17366.jpg

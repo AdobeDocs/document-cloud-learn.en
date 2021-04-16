@@ -2,7 +2,7 @@
 title: 5 Tips for Working Anywhere with Acrobat DC--Work with Forms and Signatures
 description: Learn how to stay digital when filling out forms
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8

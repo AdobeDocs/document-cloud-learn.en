@@ -2,9 +2,9 @@
 title: Making PDFs Accessible--Understanding Accessibility
 description: Learn what it means to make a PDF accessible for people with disabilities
 role: Business Practitioner
-product: Acrobat DC
-level: Advanced
-topic: Accessibility
+product: adobe acrobat
+level: Experienced
+topic-revisit: Accessibility
 thumbnail: 34540.jpg
 exl-id: 97661a3a-4d9b-4d2c-886f-0b96934a8c5a
 ---

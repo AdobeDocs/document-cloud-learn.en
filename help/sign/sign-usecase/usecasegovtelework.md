@@ -2,7 +2,7 @@
 title: Telework Agreement
 description: Efficiently collect signatures from all your employees on telework agreements, policy updates, and more
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33808.jpg

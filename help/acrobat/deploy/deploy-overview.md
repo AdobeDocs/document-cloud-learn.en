@@ -2,7 +2,7 @@
 title: Deploy Overview
 description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers
 role: Administrator
-product: Acrobat DC
+product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b

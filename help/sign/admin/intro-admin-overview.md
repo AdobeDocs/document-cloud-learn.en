@@ -2,9 +2,9 @@
 title: Administrators Overview
 description: Learn the fundamentals of adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts
 role: Administrator
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
-topic: Administration
+topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 ---

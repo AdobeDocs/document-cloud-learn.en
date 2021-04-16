@@ -2,9 +2,9 @@
 title: Making PDFs Accessible--Authoring in Microsoft Word
 description: Authoring accessible documents in Microsoft Word
 role: Business Practitioner
-product: Acrobat DC
-level: Advanced
-topic: Accessibility
+product: adobe acrobat
+level: Experienced
+topic-revisit: Accessibility
 thumbnail: 34513.jpg
 exl-id: 6e1f2471-085f-4510-8f59-0f635367aa98
 ---

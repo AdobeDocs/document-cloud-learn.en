@@ -2,9 +2,9 @@
 title: Develop Overview
 description: Learn how to use Adobe Sign APIs to create custom applications for your teams, partners and customers
 role: Developer
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
-topic: Integrations
+topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 ---

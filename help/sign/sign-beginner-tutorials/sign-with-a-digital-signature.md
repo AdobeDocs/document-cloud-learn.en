@@ -2,7 +2,7 @@
 title: Sign a Document Using a Digital Signature
 description: Learn how to sign a document with a cloud-based digital signature
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 19638.jpg

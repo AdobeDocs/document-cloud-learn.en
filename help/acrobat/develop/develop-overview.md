@@ -2,7 +2,7 @@
 title: Develop Overview
 description: Develop software that integrates with Acrobat and Adobe Reader using JavaScript, Plug-ins, or IAC
 role: Developer
-product: Acrobat DC
+product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29

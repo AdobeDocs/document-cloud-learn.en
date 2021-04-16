@@ -2,9 +2,9 @@
 title: Filling and Signing in Outlook
 description: Fill out and sign a form directly within Microsoft Outlook
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
-topic: Integrations
+topic-revisit: Integrations
 thumbnail: 29764t1.jpg
 exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763
 ---

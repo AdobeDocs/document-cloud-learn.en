@@ -2,7 +2,7 @@
 title: Expand and Inspire Overview
 description: See how you can transform customer and employee e-signing experiences through these inspirational use cases and ideas
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
 thumbnail: KT-6851.jpg
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a

@@ -2,7 +2,7 @@
 title: Filling and Signing a Document
 description: Learn how to fill in forms and add your electronic signature to documents
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 33660.jpg

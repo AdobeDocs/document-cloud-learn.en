@@ -2,7 +2,7 @@
 title: Adobe Sign Innovation Series
 description: The Adobe Sign Innovation Series are 30-minute sessions packed with content that you want to know about
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
 ---

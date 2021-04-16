@@ -2,7 +2,7 @@
 title: 5 Tips for Working Anywhere with Acrobat DC
 description: 5 tips for government employees working anywhere with Acrobat DC
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner
 thumbnail: 34200.jpg
 exl-id: 7486a89c-2c60-42a6-8ab2-2878c42f9eda

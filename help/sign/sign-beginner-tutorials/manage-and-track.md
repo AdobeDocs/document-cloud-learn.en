@@ -2,7 +2,7 @@
 title: Managing and Tracking Documents
 description: Learn how to manage and track agreements that you've sent for signature
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17341.jpg

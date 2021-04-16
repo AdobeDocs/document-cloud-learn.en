@@ -2,7 +2,7 @@
 title: Industry Overview
 description: See how you can transform customer and employee experiences by exploring industry use cases and inspirational ideas
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff

@@ -2,9 +2,9 @@
 title: Integrate Overview
 description: Learn how to add Adobe Sign to your existing systems, processes, and applications
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
-topic: Integrations
+topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 ---

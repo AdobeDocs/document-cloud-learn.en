@@ -2,7 +2,7 @@
 title: Adding an Approver
 description: Learn how to add an approver role to your contract approval process
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 17367.jpg

@@ -2,10 +2,10 @@
 title: Send notifications using Adobe Sign for Salesforce and Marketo
 description: Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way
 role: Administrator
-product: Adobe Sign
+product: adobe sign
 solution: Adobe Sign, Marketo, Document Cloud
 level: Intermediate
-topic: Integrations
+topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
 ---

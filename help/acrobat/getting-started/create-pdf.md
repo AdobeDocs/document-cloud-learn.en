@@ -2,7 +2,7 @@
 title: Create PDFs in Acrobat DC
 description: Create PDFs from all different types of documents
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81

@@ -2,7 +2,7 @@
 title: Sharing Account Access
 description: Learn how to set up view-only access to transactions in another user's account
 role: Business Practitioner, Administrator
-product: Adobe Sign
+product: adobe sign
 level: Intermediate
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546

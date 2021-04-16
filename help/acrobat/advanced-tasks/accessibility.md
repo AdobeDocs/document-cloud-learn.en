@@ -2,8 +2,8 @@
 title: Preparing Accessible PDF Files
 description: Use Adobe Acrobat Pro DC to check the accessibility of your existing PDF files
 role: Business Practitioner
-product: Acrobat DC
-level: Advanced
+product: adobe acrobat
+level: Experienced
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193

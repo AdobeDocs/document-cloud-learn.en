@@ -2,9 +2,9 @@
 title: Making PDFs Accessible--Finishing in Acrobat
 description: Finish making Accessible documents in Acrobat DC
 role: Business Practitioner
-product: Acrobat DC
-level: Advanced
-topic: Accessibility
+product: adobe acrobat
+level: Experienced
+topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
 ---

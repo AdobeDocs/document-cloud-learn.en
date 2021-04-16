@@ -2,7 +2,7 @@
 title: Contracts and Requisition Forms
 description: Quickly replace paper processing with compliant digital workflows, complete with audit reports
 role: Business Practitioner
-product: Adobe Sign
+product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33980.jpg

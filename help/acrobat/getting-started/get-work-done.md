@@ -2,7 +2,7 @@
 title: Get Work Done Webinars
 description: Join our on-demand webinars to build your Acrobat DC skills
 role: Business Practitioner
-product: Acrobat DC
+product: adobe acrobat
 level: Beginner
 team: DC Product Marketing Retention and Engagement
 ---
