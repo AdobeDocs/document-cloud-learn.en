@@ -3,7 +3,7 @@ title: Adobe Sign Learning Hub
 description: A collection of tutorials, webinars, and use cases designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign
 role: Business Practitioner, Administrator
 product: adobe sign
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
 ---
