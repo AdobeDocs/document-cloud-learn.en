@@ -2,9 +2,6 @@
 title: Document Automation with Adobe Sign for Microsoft Power Platform
 description: Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code
 role: Business Practitioner, Administrator
-type: Tutorial
-product: Adobe Sign
-solution: Document Cloud
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg  
@@ -45,7 +42,7 @@ Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for 
       <img alt="Automated document assembly with Adobe PDF Tools" src="assets/documentautomation/AutomationPart4_thumb.jpg" />
    </a>
     <div>
-    <a href="documentautomation.md#part4><strong>Automated document assembly with Adobe PDF Tools</strong></a>
+    <a href="documentautomation.md#part4"><strong>Automated document assembly with Adobe PDF Tools</strong></a>
     </div>
   </td>
 </tr>
@@ -96,7 +93,7 @@ In this tutorial, you'll use a Power Automate Flow template to set up an automat
    ![Screenshot of Save an Adobe Sign completed agreement to SharePoint library action](assets/documentautomation/automation_2.png)
 
 1. Review the screen and configure any needed connections. Enable the Adobe Sign connection.
-1. Click the blue **+** symbol.
+1. Click the blue `+` symbol.
 
    ![Screenshot of Adobe Sign and SharePoint flow connection](assets/documentautomation/automation_3.png)
 
@@ -301,6 +298,7 @@ Keep the window with the credentials open. You will need to enter them into Micr
    ![Screenshot of where to click Continue](assets/documentautomation/automation_33.png)
 
 Now you can see a view of the workflow, and you'll need to configure it for your environment.
+
 1. Select Site Address field and choose which SharePoint site you are using under the trigger called **When a file is created in a folder**.
 
    ![Screenshot of selecting When a file is created in a folder trigger](assets/documentautomation/automation_34.png)
@@ -310,6 +308,7 @@ Now you can see a view of the workflow, and you'll need to configure it for your
    ![Screenshot of selecting Old Contracts folder](assets/documentautomation/automation_35.png)
 
 Scroll down to the bottom of the flow to edit the **Create file** action. 
+
 1. Edit **Site Address** to your site address.
 1. Specify the location of the Processed Contracts folder in the Folder Path.
 1. Click on **Save** in the top right corner.
@@ -333,6 +332,7 @@ In addition, SharePoint indexes the document, allowing you to search the content
 ## Automated document assembly with Adobe PDF Tools {#part4}
 
 In this Tutorial, you'll learn how to merge many documents together based on information provided while selecting and starting a flow from Microsoft SharePoint. In this scenario, the flow will:
+
 * Ask for information to choose what to include in a package for a customer.
 * Based on the information provided, it merges many documents together. These documents include a cover page and optional whitepapers.
 * The merged document is saved to SharePoint.
@@ -372,9 +372,10 @@ In the Templates folder, there is a Covers folder that includes cover page desig
 1. Select **Create as new** under Setup.
 1. Set the name of the flow under Resource Name.
 1. Click **Save**.
-Repeat this for the other Related resources and select your connection.
 
-   ![](assets/documentautomation/automation_43.png)
+   Repeat this for the other Related resources and select your connection.
+
+   ![Screenshot of saving the file](assets/documentautomation/automation_43.png)
 
 1. Click **Import** after you have made all your connections.
 
@@ -424,6 +425,7 @@ Now that the flow is created, do the following:
 
 1. Expand **Whitepaper 1: Get file content using path**.
 1. Edit the Site Address to your specified SharePoint site.
+
 Repeat the same steps for **Condition: Add Whitepaper 2**.
 
 ### Set Create File
@@ -459,6 +461,7 @@ Navigate to the Generate Docs folder. You should now see your generated PDF file
 ### Adding Protect and other actions to flow
 
 Now that you have successfully created a flow, you are going to edit your flow to encrypt the PDF document with a password. This also walks through how you can utilize other actions.
+
 1. Navigate back to the end of your flow. 
 1. Click on the **+** symbol between **Merge PDFs** and **Create file**.
 
@@ -475,6 +478,7 @@ Now that you have successfully created a flow, you are going to edit your flow t
     ![Screenshot of dynamic content](assets/documentautomation/automation_56.png)
 
 In the trigger, there is a Password field that is part of the initiation form. We can use that here. 
+
 1. Search for **Password field** using Dynamic content, and place it in the Password field.
 
    ![Screenshot of searching for password](assets/documentautomation/automation_57.png)
