@@ -66,6 +66,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
     + [Sending in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
     + [Tracking in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
     + [Sending documents for signature in Microsoft Teams](integrations/adobe-sign-teams-mortgage.md)
+    + [Document automation with Adobe Sign for Microsoft Power Platform](integrations/documentautomation.md)
   + Salesforce {#salesforce}
     + [Creating a document template](integrations/create-an-agreement-template.md)
     + [Setting up data mapping](integrations/set-up-data-mapping.md)
