@@ -1,7 +1,7 @@
 ---
 title: Document Automation with Adobe Sign for Microsoft Power Platform
 description: Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code
-role: Business Practitioner, Administrator
+role: Business Practitioner, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg  
@@ -58,9 +58,12 @@ Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for 
 ### Applications
 
 Adobe
+
 * Adobe Sign
-* Adobe PDF Tools 
+* Adobe PDF Tools
+
 Microsoft 
+
 * Microsoft 365 E3
 * Microsoft SharePoint Online
 * Microsoft Power Automate
@@ -69,13 +72,13 @@ Microsoft
 
 Download the resources from: https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial
 
-#### Exercises 1 and 2
+### Exercises 1 and 2
 
 * Adobe Sign account with access to the API. A developer account or an Enterprise account.
 * SharePoint site accessible by Power Automate that you have edit permissions to. Full admin access is recommended.
 * Sample document for the Signature approval request and signing.
 
-#### Exercises 3 and 4
+### Exercises 3 and 4
 
 Download materials here: https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial
 
@@ -101,15 +104,17 @@ In this tutorial, you'll use a Power Automate Flow template to set up an automat
 
    ![Screenshot of Adobe Sign sign in screen](assets/documentautomation/automation_4.png)
 
-Wait a moment for Adobe to check your account.
+   Wait a moment for Adobe to check your account.
 
    >[!NOTE]
    >
    >This check will route you to the appropriate login if you are using an Adobe ID or our corporate SSO.
 
 1. Complete login.
-1. Click **Continue** to go to the Flow editing screen. 
-Edit the following:
+1. Click **Continue** to go to the Flow editing screen.
+
+   Edit the following:
+
 1. Name the trigger.
 
    ![Screenshot of naming the trigger](assets/documentautomation/automation_5.png)
@@ -146,14 +151,16 @@ In this tutorial, we build off the first tutorial with a more robust Flow and te
 
    ![Screenshot of selecting Request manager approval for a selected file](assets/documentautomation/automation_10.png)
 
-Review the connections and add any you are missing.
+   Review the connections and add any you are missing.
 
->[!NOTE]
->
->If this is the first flow you are doing with approvals, they will be fully configured when the flow runs.
+   >[!NOTE]
+   >
+   >If this is the first flow you are doing with approvals, they will be fully configured when the flow runs.
 
-1. Click **Continue** to go to the flow editing screen. 
+1. Click **Continue** to go to the flow editing screen.
+
 This flow has a lot of pre-configured steps including error checking and nested conditional steps.
+
 1. Configure **For a selected file** as follows:
    **Site Address:** Your SharePoint site
    **Library Name:** Your Documents repository
@@ -171,7 +178,7 @@ This flow has a lot of pre-configured steps including error checking and nested 
 
    ![Screenshot of If yes configuration](assets/documentautomation/automation_12.png)
 
-Add the steps to send for signature here.
+   Add the steps to send for signature here.
 
 1. Click **Add an action** in the **If yes** box (not the bottom most one).
 
@@ -197,19 +204,20 @@ Add the steps to send for signature here.
 
    ![Screenshot of Upload a document and get a document ID screen](assets/documentautomation/automation_17.png)
 
-1. Add a single apostrophe, then click back to **Dynamic Content**, delete your apostrophe, select **File Content** and then click **OK**.  
-Make sure there are no additional apostrophes and it looks like the sample to the right.
+1. Add a single apostrophe, then click back to **Dynamic Content**, delete your apostrophe, select **File Content** and then click **OK**.
+
+   Make sure there are no additional apostrophes and it looks like the sample to the right.
 
     ![Screenshot of what the Dynamic Content screen should look like](assets/documentautomation/automation_18.png)
 
-Add another Adobe Sign action.
+   Add another Adobe Sign action.
 
 1. Search for “create” in the Adobe Sign search area. 
 1. Select **Create and agreement from an uploaded document and send for signature**.
 
    ![Screenshot of searching for create](assets/documentautomation/automation_19.png)
 
-Fill out the required information:
+   Fill out the required information:
 
 1. Choose **Name** from the dynamic variable assistant in **Agreement Name**. 
 1. Choose **Document ID** from the dynamic variable assistant in **Document ID**.
@@ -229,12 +237,14 @@ Go to your SharePoint site’s document repository to test it out.
 
    ![Screenshot of selecting the Automate menu and flow](assets/documentautomation/automation_21.png)
 
-Validate the connections (first run of flow only).
+   Validate the connections (first run of flow only).
+
 1. Start the flow.
 1. Enter a nice message to the approver in **Message**.
 1. Enter email for the document Signer in **Signer Email**.
 1. Click **Run flow**.
-The configured approver for the user starting the flow will get an approval request. You can approve through email or through the Power Automate Action Items menu. 
+
+   The configured approver for the user starting the flow will get an approval request. You can approve through email or through the Power Automate Action Items menu. 
 Once approved, sign your document. Depending on your user and if they are logged into Sign, you may need to open the signing windows in a private browser window.
 
    ![Screenshot of opening in private browser window](assets/documentautomation/automation_22.png)
@@ -277,7 +287,7 @@ These folders are now referenced as part of your Power Automate flow.
 
    ![Screenshot of Get Started button](assets/documentautomation/automation_28.png)
 
-Sign in with your Adobe ID.
+   Sign in with your Adobe ID.
 
    ![Screenshot of the Sign in screen](assets/documentautomation/automation_29.png)
 
@@ -285,7 +295,7 @@ Sign in with your Adobe ID.
 
    ![Screenshot of the Create Credentials screen](assets/documentautomation/automation_30.png)
 
-Keep the window with the credentials open. You will need to enter them into Microsoft Power Automate.
+   Keep the window with the credentials open. You will need to enter them into Microsoft Power Automate.
 
    ![Screenshot of the browser tab to keep open](assets/documentautomation/automation_31.png)
 
@@ -297,7 +307,7 @@ Keep the window with the credentials open. You will need to enter them into Micr
 
    ![Screenshot of where to click Continue](assets/documentautomation/automation_33.png)
 
-Now you can see a view of the workflow, and you'll need to configure it for your environment.
+   Now you can see a view of the workflow, and you'll need to configure it for your environment.
 
 1. Select Site Address field and choose which SharePoint site you are using under the trigger called **When a file is created in a folder**.
 
@@ -307,7 +317,7 @@ Now you can see a view of the workflow, and you'll need to configure it for your
 
    ![Screenshot of selecting Old Contracts folder](assets/documentautomation/automation_35.png)
 
-Scroll down to the bottom of the flow to edit the **Create file** action. 
+   Scroll down to the bottom of the flow to edit the **Create file** action. 
 
 1. Edit **Site Address** to your site address.
 1. Specify the location of the Processed Contracts folder in the Folder Path.
@@ -475,9 +485,9 @@ Now that you have successfully created a flow, you are going to edit your flow t
 1. Select **Protect PDF from Viewing**.
 1. Use Dynamic Content to set the File Name field to **PDF File Name from Merge PDF**.
 
-    ![Screenshot of dynamic content](assets/documentautomation/automation_56.png)
+   ![Screenshot of dynamic content](assets/documentautomation/automation_56.png)
 
-In the trigger, there is a Password field that is part of the initiation form. We can use that here. 
+   In the trigger, there is a Password field that is part of the initiation form. We can use that here. 
 
 1. Search for **Password field** using Dynamic content, and place it in the Password field.
 
@@ -511,7 +521,7 @@ In the trigger, there is a Password field that is part of the initiation form. W
    ![Screenshot of selected files and Run flow button](assets/documentautomation/automation_61.png)
 
 1. Navigate to the Generate Docs folder.
-You should see your generated PDF file.
+   You should see your generated PDF file.
 
    ![Screenshot of generated PDF in SharePoint directory](assets/documentautomation/automation_62.png)
 
