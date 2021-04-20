@@ -131,9 +131,14 @@ You can use Adobe Sign inside other applications your organization already uses,
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="documentautomation.md">
+      <img alt="Document automation with Adobe Sign for Microsoft Power Platform" src="../assets/SF-Button.png" />
+    </a>
     <div>
+    <a href="documentautomation.md"><strong>Document automation with Adobe Sign for Microsoft Power Platform</strong></a>
+    </div>
     <br>
+    <em>Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps</em>
   </td>
 </tr>
 </table>
