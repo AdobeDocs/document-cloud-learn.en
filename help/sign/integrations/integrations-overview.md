@@ -68,6 +68,9 @@ You can use Adobe Sign inside other applications your organization already uses,
       <img alt="Sending Documents for Signature in Microsoft Teams" src="../assets/teamsmortgage.png" />
     </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Sending Documents for Signature in Microsoft Teams</strong></a>
+    </div>
+    <br>
     <em>Send documents for signature directly within Microsoft Teams</em>
     <br>
   </td>
