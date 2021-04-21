@@ -18,7 +18,7 @@ Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for 
         <img alt="Part 1: Store signed agreement in SharePoint with Adobe Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Part 1:Store signed agreement in SharePoint with Adobe Sign</strong></a>
+    <a href="documentautomation.md#part1"><strong>Part 1: Store signed agreement in SharePoint with Adobe Sign</strong></a>
     </div>
   </td>
   <td>
@@ -188,9 +188,7 @@ In part two, we build off the first part with a more robust Flow and test both F
 
    ![Screenshot of what the Dynamic Content screen should look like](assets/documentautomation/automation_18.png)
 
-   Add another Adobe Sign action.
-
-1. Search for “create” in the Adobe Sign search area. 
+1. Search for “create” in the Adobe Sign search area to add another Adobe Sign action.
 1. Select **Create and agreement from an uploaded document and send for signature**.
 
    ![Screenshot of searching for create](assets/documentautomation/automation_19.png)
@@ -206,9 +204,9 @@ In part two, we build off the first part with a more robust Flow and test both F
 
 1. **Save** the Flow.
 
-Go to your SharePoint site’s document repository to test it out.
-
 ### Test the flow
+
+Go to your SharePoint site’s document repository to test it out.
 
 1. Select the document and choose **Automate** and the **Flow** you just created.
 
@@ -230,16 +228,16 @@ Complete the signing, and then look back in your SharePoint folder.
 
 ## Part 3: Automated document OCR with Adobe PDF Tools {#part3}
 
-![Screenshot of PDF document in browser](assets/documentautomation/automation_24.png)
-
 In part three, you'll learn how to automate OCR in PDFs when they are imported into Microsoft SharePoint. This addresses an issue that occurs with scanned PDF documents that are not searchable in SharePoint.
+
+![Screenshot of PDF document in browser](assets/documentautomation/automation_24.png)
 
 ### Setup a folder in SharePoint
 
 Go to Microsoft SharePoint where you would like to store documents.
 
-1. Click on **+ New** to create a new folder called “Processed Contracts.”
-1. Click on **+ New** to create a new folder called “Old Contracts.”
+1. Click **+ New** to create a new folder called “Processed Contracts.”
+1. Click **+ New** to create a new folder called “Old Contracts.”
 
    ![Screenshot of new folders](assets/documentautomation/automation_25.png)
 
@@ -248,7 +246,7 @@ These folders are now referenced as part of your Power Automate flow.
 ### Create a flow from a template
 
 1. Log in to https://flow.microsoft.com.
-1. Click on **Templates** in the sidebar.
+1. Click **Templates** in the sidebar.
 
    ![Screenshot of selecting templates](assets/documentautomation/automation_26.png)
 
@@ -297,8 +295,8 @@ These folders are now referenced as part of your Power Automate flow.
    Change **Site Address** to your site address.
    Specify the location of the Processed Contracts folder in the Folder Path.
 
-1. Click on **Save** in the top right corner.
-1. Click on **Test**. 
+1. Click **Save** in the top right corner.
+1. Click **Test**. 
 1. Select **Manually**.
 1. Click **Test**.
 
@@ -337,7 +335,7 @@ In the Templates folder, there is a Covers folder that includes cover page desig
 ### Import the flow into Microsoft Power Automate
 
 1. Log in to Microsoft Power Automate (https://flow.microsoft.com).
-1. Click on **My Flows**.
+1. Click **My Flows**.
 
    ![Screenshot of where to select My Flows](assets/documentautomation/automation_39.png)
 
@@ -410,7 +408,7 @@ Now that the flow is created, do the following:
    ![Screenshot of expanded Add Whitepaper condition](assets/documentautomation/automation_48.png)
 
 1. Expand **Whitepaper 1: Get file content using path**.
-1. Edit the Site Address to your specified SharePoint site.
+   Edit the Site Address to your specified SharePoint site.
 
 Repeat the same steps for **Condition: Add Whitepaper 2**.
 
@@ -436,7 +434,7 @@ Repeat the same steps for **Condition: Add Whitepaper 2**.
    ![Screenshot of Selecting the Continue button](assets/documentautomation/automation_51.png)
 
 1. Choose your Cover and the whitepapers you want to append.
-1. Click on **Run flow**.
+1. Click **Run flow**.
 
    ![Screenshot of Run flow button](assets/documentautomation/automation_52.png)
 
@@ -449,7 +447,7 @@ Navigate to the Generate Docs folder. You should now see your generated PDF file
 Now that you have successfully created a flow, you are going to edit your flow to encrypt the PDF document with a password. This also walks through how you can utilize other actions.
 
 1. Navigate back to the end of your flow. 
-1. Click on the **+** symbol between **Merge PDFs** and **Create file**.
+1. Click the **+** symbol between **Merge PDFs** and **Create file**.
 
    ![Screenshot of where to select + symbol](assets/documentautomation/automation_54.png)
 
