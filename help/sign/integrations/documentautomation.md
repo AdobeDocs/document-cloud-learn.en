@@ -9,40 +9,40 @@ kt: 7488
 ---
 # Document automation with Adobe Sign for Microsoft Power Platform
 
-Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code.
+Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code. There are four parts to this hands-on tutorial outlined in the links below:
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="Store signed agreement in SharePoint with Adobe Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="Part 1: Store signed agreement in SharePoint with Adobe Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Store signed agreement in SharePoint with Adobe Sign</strong></a>
+    <a href="documentautomation.md#part1"><strong>Part 1:Store signed agreement in SharePoint with Adobe Sign</strong></a>
     </div>
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Automated approval process to get e-signature with Adobe Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Part 2: Automated approval process to get e-signature with Adobe Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>Automated approval process to get e-signature with Adobe Sign</strong></a>
+    <a href="documentautomation.md#part2"><strong>Part 2: Automated approval process to get e-signature with Adobe Sign</strong></a>
     </div>
   </td>
   <td>
    <a href="documentautomation.md#part3">
-      <img alt="Automated document OCR with Adobe PDF Tools" src="assets/documentautomation/AutomationPart3_thumb.jpg" />
+      <img alt="Part 3: Automated document OCR with Adobe PDF Tools" src="assets/documentautomation/AutomationPart3_thumb.jpg" />
    </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Automated document OCR with Adobe PDF Tools</strong></a>
+    <a href="documentautomation.md#part1"><strong>Part 3: Automated document OCR with Adobe PDF Tools</strong></a>
     </div>
   </td>
   <td>
    <a href="documentautomation.md#part4">
-      <img alt="Automated document assembly with Adobe PDF Tools" src="assets/documentautomation/AutomationPart4_thumb.jpg" />
+      <img alt="Part 4: Automated document assembly with Adobe PDF Tools" src="assets/documentautomation/AutomationPart4_thumb.jpg" />
    </a>
     <div>
-    <a href="documentautomation.md#part4"><strong>Automated document assembly with Adobe PDF Tools</strong></a>
+    <a href="documentautomation.md#part4"><strong>Part 4: Automated document assembly with Adobe PDF Tools</strong></a>
     </div>
   </td>
 </tr>
@@ -55,36 +55,19 @@ Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for 
 * Microsoft 365 account with access to SharePoint and Power Automate (Basic for Adobe Sign, Premium for Adobe PDF Tools)
 * Adobe Sign for enterprise or Adobe Sign developer account
 
-### Applications
-
-Adobe
-
-* Adobe Sign
-* Adobe PDF Tools
-
-Microsoft 
-
-* Microsoft 365 E3
-* Microsoft SharePoint Online
-* Microsoft Power Automate
-
-### Resources
-
-Download the resources from: https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial
-
-### Exercises 1 and 2
+**Exercises 1 and 2**
 
 * Adobe Sign account with access to the API. A developer account or an Enterprise account.
 * SharePoint site accessible by Power Automate that you have edit permissions to. Full admin access is recommended.
 * Sample document for the Signature approval request and signing.
 
-### Exercises 3 and 4
+**Exercises 3 and 4**
 
-Download materials here: https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial
+Download materials [here](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## Store signed agreement in SharePoint with Adobe Sign {#part1}
+## Part 1: Store signed agreement in SharePoint with Adobe Sign {#part1}
 
-In this tutorial, you'll use a Power Automate Flow template to set up an automated workflow that will save all signed agreements to your SharePoint Site.
+In part one, you'll use a Power Automate Flow template to set up an automated workflow that will save all signed agreements to your SharePoint Site.
 
 1. Navigate to Power Automate.
 1. Search for Adobe Sign.
@@ -112,9 +95,6 @@ In this tutorial, you'll use a Power Automate Flow template to set up an automat
 
 1. Complete login.
 1. Click **Continue** to go to the Flow editing screen.
-
-   Edit the following:
-
 1. Name the trigger.
 
    ![Screenshot of naming the trigger](assets/documentautomation/automation_5.png)
@@ -136,11 +116,11 @@ In this tutorial, you'll use a Power Automate Flow template to set up an automat
 
    ![Screenshot of the flow overview screen](assets/documentautomation/automation_8.png)
 
-You will test this flow in part 2.
+You will test this flow in the next part.
 
-## Automated approval process to get e-signature with Adobe Sign {#part2}
+## Part 2: Automated approval process to get e-signature with Adobe Sign {#part2}
 
-In this tutorial, we build off the first tutorial with a more robust Flow and test both Flows to see them in action.
+In part two, we build off the first part with a more robust Flow and test both Flows to see them in action.
 
 1. Select **Templates** on the left side from the Power Automate interface.
 
@@ -159,7 +139,7 @@ In this tutorial, we build off the first tutorial with a more robust Flow and te
 
 1. Click **Continue** to go to the flow editing screen.
 
-This flow has a lot of pre-configured steps including error checking and nested conditional steps.
+   This flow has a lot of pre-configured steps including error checking and nested conditional steps.
 
 1. Configure **For a selected file** as follows:
    **Site Address:** Your SharePoint site
@@ -178,9 +158,7 @@ This flow has a lot of pre-configured steps including error checking and nested 
 
    ![Screenshot of If yes configuration](assets/documentautomation/automation_12.png)
 
-   Add the steps to send for signature here.
-
-1. Click **Add an action** in the **If yes** box (not the bottom most one).
+1. Click **Add an action** in the **If yes** box (not the bottom most one) to add the steps to send for signature.
 
    ![Screenshot of adding an action in the If yes box](assets/documentautomation/automation_13.png)
 
@@ -206,9 +184,9 @@ This flow has a lot of pre-configured steps including error checking and nested 
 
 1. Add a single apostrophe, then click back to **Dynamic Content**, delete your apostrophe, select **File Content** and then click **OK**.
 
-   Make sure there are no additional apostrophes and it looks like the sample to the right.
+   Make sure there are no additional apostrophes and it looks like the sample below.
 
-    ![Screenshot of what the Dynamic Content screen should look like](assets/documentautomation/automation_18.png)
+   ![Screenshot of what the Dynamic Content screen should look like](assets/documentautomation/automation_18.png)
 
    Add another Adobe Sign action.
 
@@ -217,13 +195,12 @@ This flow has a lot of pre-configured steps including error checking and nested 
 
    ![Screenshot of searching for create](assets/documentautomation/automation_19.png)
 
-   Fill out the required information:
-
-1. Choose **Name** from the dynamic variable assistant in **Agreement Name**. 
-1. Choose **Document ID** from the dynamic variable assistant in **Document ID**.
-1. Choose **Signer Email** from the dynamic variable assistant in **Participant Email**.
-1. Enter “1” in **Participant Order**.
-1. Choose **Signer** from dropdown in **Participant Role**.
+1. Configure the required information:
+   Choose **Name** from the dynamic variable assistant in **Agreement Name**. 
+   Choose **Document ID** from the dynamic variable assistant in **Document ID**.
+   Choose **Signer Email** from the dynamic variable assistant in **Participant Email**.
+   Enter “1” in **Participant Order**.
+   Choose **Signer** from dropdown in **Participant Role**.
 
    ![Screenshot of the required information](assets/documentautomation/automation_20.png)
 
@@ -237,27 +214,25 @@ Go to your SharePoint site’s document repository to test it out.
 
    ![Screenshot of selecting the Automate menu and flow](assets/documentautomation/automation_21.png)
 
-   Validate the connections (first run of flow only).
-
-1. Start the flow.
+1. Start the flow to validate the connections (first run of flow only).
 1. Enter a nice message to the approver in **Message**.
 1. Enter email for the document Signer in **Signer Email**.
 1. Click **Run flow**.
 
-   The configured approver for the user starting the flow will get an approval request. You can approve through email or through the Power Automate Action Items menu. 
+The configured approver for the user starting the flow will get an approval request. You can approve through email or through the Power Automate Action Items menu. 
 Once approved, sign your document. Depending on your user and if they are logged into Sign, you may need to open the signing windows in a private browser window.
 
-   ![Screenshot of opening in private browser window](assets/documentautomation/automation_22.png)
+![Screenshot of opening in private browser window](assets/documentautomation/automation_22.png)
 
 Complete the signing, and then look back in your SharePoint folder.
 
-   ![Screenshot of SharePoint folder](assets/documentautomation/automation_23.png)
+![Screenshot of SharePoint folder](assets/documentautomation/automation_23.png)
 
-## Automated document OCR with Adobe PDF Tools {#part3}
+## Part 3: Automated document OCR with Adobe PDF Tools {#part3}
 
 ![Screenshot of PDF document in browser](assets/documentautomation/automation_24.png)
 
-In this tutorial, you'll learn how to automate OCR in PDFs when they are imported into Microsoft SharePoint. This addresses an issue that occurs with scanned PDF documents that are not searchable in SharePoint.
+In part three, you'll learn how to automate OCR in PDFs when they are imported into Microsoft SharePoint. This addresses an issue that occurs with scanned PDF documents that are not searchable in SharePoint.
 
 ### Setup a folder in SharePoint
 
@@ -287,7 +262,7 @@ These folders are now referenced as part of your Power Automate flow.
 
    ![Screenshot of Get Started button](assets/documentautomation/automation_28.png)
 
-   Sign in with your Adobe ID.
+1. Sign in with your Adobe ID.
 
    ![Screenshot of the Sign in screen](assets/documentautomation/automation_29.png)
 
@@ -317,10 +292,11 @@ These folders are now referenced as part of your Power Automate flow.
 
    ![Screenshot of selecting Old Contracts folder](assets/documentautomation/automation_35.png)
 
-   Scroll down to the bottom of the flow to edit the **Create file** action. 
+1. Edit the **Create file** action at the bottom of the flow:
 
-1. Edit **Site Address** to your site address.
-1. Specify the location of the Processed Contracts folder in the Folder Path.
+   Change **Site Address** to your site address.
+   Specify the location of the Processed Contracts folder in the Folder Path.
+
 1. Click on **Save** in the top right corner.
 1. Click on **Test**. 
 1. Select **Manually**.
@@ -339,9 +315,9 @@ These folders are now referenced as part of your Power Automate flow.
 Now if you navigate to the Processed Contracts folder, you can see your PDFs available after the flow is given a few moments to run. If you open the PDFs, you can see that the text is selectable.
 In addition, SharePoint indexes the document, allowing you to search the content of your documents from the search bar in SharePoint.
 
-## Automated document assembly with Adobe PDF Tools {#part4}
+## Part 4: Automated document assembly with Adobe PDF Tools {#part4}
 
-In this Tutorial, you'll learn how to merge many documents together based on information provided while selecting and starting a flow from Microsoft SharePoint. In this scenario, the flow will:
+In part four, you'll learn how to merge many documents together based on information provided while selecting and starting a flow from Microsoft SharePoint. In this scenario, the flow will:
 
 * Ask for information to choose what to include in a package for a customer.
 * Based on the information provided, it merges many documents together. These documents include a cover page and optional whitepapers.
