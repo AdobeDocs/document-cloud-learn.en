@@ -171,7 +171,7 @@ In part two, we build off the first part with a more robust Flow and test both F
    ![Screenshot of the Get file content configuration](assets/documentautomation/automation_15.png)
 
    **Site Address:** Your SharePoint site.
-   **File Identifier:** Search for “identifier,” and choose Identifier from the Get file properties step.
+   **File Identifier:** Search for “identifier,” and choose Identifier from the **Get file properties** step.
 1. Search for “Adobe” and choose **Adobe Sign** to add another action.
 
    ![Screenshot of search menu](assets/documentautomation/automation_16.png)
@@ -372,8 +372,9 @@ Now that the flow is created, do the following:
    ![Screenshot of where to select edit](assets/documentautomation/automation_44.png)
 
 1. Select the trigger **For a selected file**.
-1. Add your SharePoint site in the Site Address.
-1. Add your Library in Library.
+
+   Add your SharePoint site in the Site Address.
+   Add your Library in Library.
 
    ![Screenshot of completed trigger](assets/documentautomation/automation_45.png)
 
@@ -387,18 +388,20 @@ Now that the flow is created, do the following:
 1. Click **Cover** action, which expands the Scope.
 1. Expand **Cover: Get File Content**.
 
+   Set Site Address to your SharePoint site.
+
    ![Screenshot of expanded Cover](assets/documentautomation/automation_46.png)
 
-1. Set Site Address to your SharePoint site.
+
 
 ### Set Selected File
 
 1. Expand the **Selected File** scope action.
 
-   ![Screenshot of expanded Selected File action](assets/documentautomation/automation_47.png)
+   Change the Site Address and Library Name to your SharePoint site and Library respectively under **Get file properties**.
+   Change the Site Address to your SharePoint site under **Get file content**.
 
-1. Change the Site Address and Library Name to your SharePoint site and Library respectively under **Get file properties**.
-1. Change the Site Address to your SharePoint site under **Get file content**.
+   ![Screenshot of expanded Selected File action](assets/documentautomation/automation_47.png)
 
 ### Set Whitepapers
 
@@ -415,7 +418,9 @@ Repeat the same steps for **Condition: Add Whitepaper 2**.
 ### Set Create File
 
 1. Expand **Create File**.
-1. Edit Site Address and Folder Path to the SharePoint site and path where the Generated Docs folder is located.
+
+   Edit Site Address and Folder Path to the SharePoint site and path where the Generated Docs folder is located.
+
 1. Click **Save**.
 
 ### Test your flow
@@ -495,13 +500,9 @@ Now that you have successfully created a flow, you are going to edit your flow t
    ![Screenshot of selected files and Run flow button](assets/documentautomation/automation_61.png)
 
 1. Navigate to the Generate Docs folder.
-   You should see your generated PDF file.
+   You should see your generated PDF file. Open the PDF file and it prompts you to enter your PDF password.
 
    ![Screenshot of generated PDF in SharePoint directory](assets/documentautomation/automation_62.png)
-
-Open the PDF file and it prompts you to enter your PDF password.
-
-
 
 
 
