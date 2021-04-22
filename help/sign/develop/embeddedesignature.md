@@ -15,7 +15,7 @@ Learn how to use Adobe Sign APIs to embed e-signature and document experiences i
 <tr>
   <td>
     <a href="embeddedesignature.md#part1">
-        <img alt="Part 1: Store signed agreement in SharePoint with Adobe Sign" src="assets/embeddedesignature/EmbedPart1_thumb.jpg" />
+        <img alt="Part 1: Store signed agreement in SharePoint with Adobe Sign" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
     <a href="embeddedesignature.md#part1"><strong>Part 1: Store signed agreement in SharePoint with Adobe Sign</strong></a>
@@ -23,7 +23,7 @@ Learn how to use Adobe Sign APIs to embed e-signature and document experiences i
   </td>
   <td>
     <a href="embeddedesignature.md#part2">
-        <img alt="Part 2: Low/No Code — the power of web forms" src="assets/embeddedesignature/EmbedPart2_thumb.jpg" />
+        <img alt="Part 2: Low/No Code — the power of web forms" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
     </a>
     <div>
     <a href="embeddedesignature.md#part2"><strong>Part 2: Low/No Code — the power of web forms</strong></a>
@@ -31,7 +31,7 @@ Learn how to use Adobe Sign APIs to embed e-signature and document experiences i
   </td>
   <td>
    <a href="embeddedesignature.md#part3">
-      <img alt="Part 3: Send agreement with a form, merge data" src="assets/embeddedesignature/EmbedPart3_thumb.jpg" />
+      <img alt="Part 3: Send agreement with a form, merge data" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
    </a>
     <div>
     <a href="embeddedesignature.md#part3"><strong>Part 3: Send agreement with a form and merge data</strong></a>
@@ -39,7 +39,7 @@ Learn how to use Adobe Sign APIs to embed e-signature and document experiences i
   </td>
   <td>
    <a href="embeddedesignature.md#part4">
-      <img alt="Part 4: Embed signing experience, redirects, and more" src="assets/embeddedesignature/EmbedPart4_thumb.jpg" />
+      <img alt="Part 4: Embed signing experience, redirects, and more" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
    </a>
     <div>
     <a href="embeddedesignature.md#part4"><strong>Part 4: Embed signing experience, redirects, and more</strong></a>

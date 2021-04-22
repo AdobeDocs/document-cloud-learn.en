@@ -47,7 +47,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 <tr>
   <td>
     <a href="embeddedesignature.md">
-      <img alt="Create embedded e-Signature and document experiences" src="assets/embeddedesignature/EmbedPart1.png" />
+      <img alt="Create embedded e-Signature and document experiences" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
     <a href="embeddedesignature.md"><strong>Create embedded e-Signature and document experiences</strong></a>
