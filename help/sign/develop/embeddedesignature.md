@@ -4,8 +4,8 @@ description: Learn how to use Adobe Sign APIs to embed e-signature and document 
 role: Business Practitioner, Developer
 level: Intermediate
 topic: Developer
-thumbnail:
-kt:
+thumbnail: KT-7489.jpg
+kt: 7489
 ---
 # Create embedded e-signature and document experiences
 
@@ -68,16 +68,16 @@ In part 2, you'll explore the low/no-code option when using webforms. It’s alw
 1. Access Adobe Sign with your developer account.
 1. Click **Publish a web form** on the home page.
 
-   ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_1.png)
+   ![Screenshot Adobe Sign home page](assets/embeddedesignature/embed_1.png)
 
 1. Create your agreement.
 
-   ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_2.png)
+   ![Screenshot of how to create a web form](assets/embeddedesignature/embed_2.png)
 
 1. Embed your agreement on a flat HTML page.
 1. Experiment with dynamically adding query parameters.
 
-   ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_3.png)
+   ![Screenshot of adding query parameters](assets/embeddedesignature/embed_3.png)
 
 ## Part 3: Send agreement with a form and merge data {#part3}
 
@@ -85,19 +85,19 @@ In part 3, you'll dynamically create agreements.
 
 First, you'll need to establish access. With Adobe Sign, there are two ways to connect via API. OAuth Tokens & Integration Keys. Unless you have a very specific reason to use OAuth with your application, you will want to explore Integration Keys first.
 
-1. Select **API Information** under the **Account** tab in Adobe Sign.
+1. Select **Integration Key** on the **API Information** menu under the **Account** tab in Adobe Sign.
 
-   ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_4.png)
+   ![Screenshot of where to find the integration key](assets/embeddedesignature/embed_4.png)
 
 Now that you have access and can interact with the API, see what you can do with the API.
 
-1. Navigate to http://adobesign.com/public/docs/restapi/v6.
+1. Navigate to the [Adobe Sign REST API Version 6 Methods](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_5.png)
+   ![Screenshot of navigating Adobe Sign REST API Version 6 Methods](assets/embeddedesignature/embed_5.png)
 
 1. Use the token as a “bearer” value.
 
-   ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_6.png)
+   ![Screenshot of bearer value](assets/embeddedesignature/embed_6.png)
 
 To send your first agreement it's best to understand how to use the API. 
 
@@ -107,21 +107,21 @@ To send your first agreement it's best to understand how to use the API.
   >
   >JSON-based request calls have a “Model” and “Minimal Model Schema” option. This gives specs and a minimum payload set. 
 
-  ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_7.png)
+  ![Screenshot of creating a Transient Doc](assets/embeddedesignature/embed_7.png)
 
 After sending an agreement for the first time, you’re ready to add the logic. It’s always a good idea to establish some helpers to minimize repetition. Here are some examples:
 
 **Validation**
 
-![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_8.png)
+![Screenshot of validation logic](assets/embeddedesignature/embed_8.png)
 
 **Headers/Auth**
   
-![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_9.png)
+![Screenshot of headers/auth logic](assets/embeddedesignature/embed_9.png)
 
 **Base URI**
 
-![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_10.png)
+![Screenshot of Base URI logic](assets/embeddedesignature/embed_10.png)
 
 Be aware of where Transient docs land within the grand scheme of the Sign ecosystem.
 Transient -> Agreement
@@ -132,7 +132,7 @@ This example uses a template as our document source. This is usually the best ro
 
 The code is fairly straightforward; it uses a library document (template) for the document source. The first and second signers are dynamically assigned. The `IN_PROCESS` state means that the document is being sent immediately. Also, `mergeFieldInfo` is leveraged to dynamically fill fields.
 
-![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_11.png)
+![Screenshot of code to dynamically add signatures](assets/embeddedesignature/embed_11.png)
 
 ## Part 4: Embed signing experience, redirects, and more {#part4}
 
@@ -140,21 +140,21 @@ In many scenarios, you may want to allow the triggering participant to immediate
 
 If you don't want the first sending email to trigger, an easy way is to manage the behavior is with a modification to the API call.
 
-![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_12.png)
+![Screenshot of code to not trigger sending email](assets/embeddedesignature/embed_12.png)
 
 Here's how to control the post-signing redirect:
 
-![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_13.png)
+![Screenshot of code to control post-signing redirect](assets/embeddedesignature/embed_13.png)
 
 After updating the agreement creation process, the final step is generating the signing URL. This call is also pretty straightforward and generates a URL that a signer may use to access their part of the signing process.
 
-![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_14.png)
+![Screenshot of code to generate a signer URL](assets/embeddedesignature/embed_14.png)
 
 >[!NOTE]
 >
 >Note that the agreement creation call is technically asynchronous. This means a 'POST' agreement call can be made, but the agreement isn’t ready yet. The best practice is to establish a retry loop. Use a retry or whatever is the best practice for your environment.
 
-![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_15.png)
+![Screenshot saying it's best practice to establish a retry loop](assets/embeddedesignature/embed_15.png)
 
 When everything is put together, the solution is pretty straightforward. You’re making an agreement and then generating a signing URL for the signer to click on and begin the signing ritual.
 
