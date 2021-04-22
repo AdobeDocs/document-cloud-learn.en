@@ -79,7 +79,7 @@ In part 2, you'll explore the low/no-code option when using webforms. It’s alw
 
    ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_3.png)
 
-## Part 3: Send agreement with a form and merge data {part#3}
+## Part 3: Send agreement with a form and merge data {#part3}
 
 In part 3, you'll dynamically create agreements.
 
@@ -103,7 +103,7 @@ To send your first agreement it's best to understand how to use the API.
 
 1. Create a Transient Doc and send it. 
 
-  >!NOTE
+  >[!NOTE]
   >
   >JSON-based request calls have a “Model” and “Minimal Model Schema” option. This gives specs and a minimum payload set. 
 
