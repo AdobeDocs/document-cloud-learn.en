@@ -15,10 +15,10 @@ Learn how to use Adobe Sign APIs to embed e-signature and document experiences i
 <tr>
   <td>
     <a href="embeddedesignature.md#part1">
-        <img alt="Part 1: Store signed agreement in SharePoint with Adobe Sign" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
+        <img alt="What you'll need" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md#part1"><strong>Part 1: Store signed agreement in SharePoint with Adobe Sign</strong></a>
+    <a href="embeddedesignature.md#part1"><strong>Part 1: What you'll need</strong></a>
     </div>
   </td>
   <td>
@@ -48,7 +48,7 @@ Learn how to use Adobe Sign APIs to embed e-signature and document experiences i
 </tr>
 </table>
 
-## What you will need {#part1}
+## Part 1: What you'll need {#part1}
 
 In part 1, you'll learn how to get started with everything you need for parts 2–4. Let's begin with getting API credentials.
 
