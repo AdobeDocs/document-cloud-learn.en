@@ -34,7 +34,7 @@ Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for 
       <img alt="Part 3: Automated document OCR with Adobe PDF Tools" src="assets/documentautomation/AutomationPart3_thumb.jpg" />
    </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Part 3: Automated document OCR with Adobe PDF Tools</strong></a>
+    <a href="documentautomation.md#part3"><strong>Part 3: Automated document OCR with Adobe PDF Tools</strong></a>
     </div>
   </td>
   <td>

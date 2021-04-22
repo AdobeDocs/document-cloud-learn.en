@@ -44,4 +44,25 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
     <em>Send, collect, and track documents for signature to thousands of people at the same time</em>
   </td>
 </tr>
+<tr>
+  <td>
+    <a href="embeddedesignature.md">
+      <img alt="Create embedded e-Signature and document experiences" src="assets/embeddedesignature/EmbedPart1.png" />
+    </a>
+    <div>
+    <a href="embeddedesignature.md"><strong>Create embedded e-Signature and document experiences</strong></a>
+    <br>
+    <em>Learn how to use Adobe Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems</em>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
