@@ -4,8 +4,8 @@ description: Learn how to use Adobe Sign APIs to embed e-signature and document 
 role: Business Practitioner, Developer
 level: Intermediate
 topic: Developer
-thumbnail:
-kt:
+thumbnail: KT-7489.jpg
+kt: 7489
 ---
 # Create embedded e-signature and document experiences
 
