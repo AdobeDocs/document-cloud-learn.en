@@ -20,7 +20,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Setting up Routing Order" src="../assets/Routing.png">
+      <img alt="Setting up routing order" src="../assets/Routing.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>Setting up routing order</strong></a>
@@ -30,7 +30,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Delegating to Someone Else" src="../assets/Delegating.png" />
+      <img alt="Delegating to someone else" src="../assets/Delegating.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Delegating to someone else</strong></a>

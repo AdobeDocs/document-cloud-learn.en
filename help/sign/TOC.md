@@ -101,7 +101,7 @@ tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
   + Custom APIs {#custom}
-    + [GigaSign](develop/gigasign.md)
+    + [Gather high-volume documents using GigaSign](develop/gigasign.md)
     + [Create embedded e-signature and document experiences](develop/embeddedesignature.md)
 + Deploy  {#deploy}
   + [Overview](deploy-overview.md)

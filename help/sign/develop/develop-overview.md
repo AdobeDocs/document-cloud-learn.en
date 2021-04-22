@@ -36,7 +36,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
   </td>  
   <td>
     <a href="gigasign.md">
-      <img alt="Gather High-Volume Documents using GigaSign" src="../assets/gigasign.jpg" />
+      <img alt="Gather high-volume documents using GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
     <a href="gigasign.md"><strong>Gather high-volume documents using GigaSign</strong></a>
@@ -47,10 +47,10 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 <tr>
   <td>
     <a href="embeddedesignature.md">
-      <img alt="Create embedded e-Signature and document experiences" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
+      <img alt="Create embedded e-signature and document experiences" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md"><strong>Create embedded e-Signature and document experiences</strong></a>
+    <a href="embeddedesignature.md"><strong>Create embedded e-signature and document experiences</strong></a>
     <br>
     <em>Learn how to use Adobe Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems</em>
   </td>

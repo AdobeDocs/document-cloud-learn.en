@@ -130,7 +130,7 @@ Transient -> Widget -> Agreement
 
 This example uses a template as our document source. This is usually the best route, unless you have a solid reason to dynamically generate documents for signature (e.g., legacy code or document generation).
 
-The code is fairly straightforward; it uses a library document (template) for the document source. The first and second signers are dynamically assigned. The 'IN_PROCESS' state means that the document is being sent immediately. Also, 'mergeFieldInfo' is leveraged to dynamically fill fields.
+The code is fairly straightforward; it uses a library document (template) for the document source. The first and second signers are dynamically assigned. The `IN_PROCESS` state means that the document is being sent immediately. Also, `mergeFieldInfo` is leveraged to dynamically fill fields.
 
 ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_11.png)
 
@@ -138,7 +138,7 @@ The code is fairly straightforward; it uses a library document (template) for th
 
 In many scenarios, you may want to allow the triggering participant to immediately sign an agreement. This is useful for customer-facing applications and kiosks.
 
-In this scenario, you probably don't want the first sending email to trigger. An easy way is to manage the behavior is with a modification to the API call.
+If you don't want the first sending email to trigger, an easy way is to manage the behavior is with a modification to the API call.
 
 ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_12.png)
 
@@ -158,7 +158,7 @@ After updating the agreement creation process, the final step is generating the 
 
 When everything is put together, the solution is pretty straightforward. You’re making an agreement and then generating a signing URL for the signer to click on and begin the signing ritual.
 
-**Additional topics:**
+### Additional topics
 
 * [JS Events](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook Events
@@ -166,14 +166,15 @@ When everything is put together, the solution is pretty straightforward. You’r
   * [Webhooks in Adobe Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [Reactivate Request Emails (with events)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [Replace Timeout with a Retry](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
+<br>&nbsp;
 * Custom Reminders
   * With the initial creation
 
-  ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_16.png)
+    ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_16.png)
 
   * Or add one [in-flight](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
 
-### Additional Resources
+## Additional Resources
 
 http://bit.ly/Summit21-T126
 

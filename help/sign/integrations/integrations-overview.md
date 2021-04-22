@@ -55,20 +55,20 @@ You can use Adobe Sign inside other applications your organization already uses,
 <tr>
   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
-      <img alt="Tracking SharePoint Online" src="../assets/MS-TrackSP.png" />
+      <img alt="Tracking in SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
     <div>
-    <a href="track-an-agreement-with-sharepoint-online.md"><strong>Tracking SharePoint Online</strong></a>
+    <a href="track-an-agreement-with-sharepoint-online.md"><strong>Tracking in SharePoint Online</strong></a>
     </div>
     <br>
     <em>Track the progress of an agreement directly within Microsoft Sharepoint</em>
   </td>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Sending Documents for Signature in Microsoft Teams" src="../assets/teamsmortgage.png" />
+      <img alt="Sending documents for signature in Microsoft Teams" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Sending Documents for Signature in Microsoft Teams</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Sending documents for signature in Microsoft Teams</strong></a>
     </div>
     <br>
     <em>Send documents for signature directly within Microsoft Teams</em>
@@ -93,7 +93,7 @@ You can use Adobe Sign inside other applications your organization already uses,
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Creating a Document Template in Adobe Sign for Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Creating a document template in Adobe Sign for Salesforce" src="../assets/SF-Template.png" />
     </a>
     <div>
     <a href="create-an-agreement-template.md"><strong>Creating a document template in Adobe Sign for Salesforce</strong></a>
@@ -103,7 +103,7 @@ You can use Adobe Sign inside other applications your organization already uses,
   </td>
   <td>
     <a href="set-up-data-mapping.md">
-      <img alt="Setting up Data Mapping" src="../assets/SF-DataMapping.png" />
+      <img alt="Setting up data mapping" src="../assets/SF-DataMapping.png" />
     </a>
     <div>
     <a href="set-up-data-mapping.md"><strong>Setting up data mapping</strong></a>
@@ -113,7 +113,7 @@ You can use Adobe Sign inside other applications your organization already uses,
   </td>
   <td>
     <a href="set-up-merging-map.md">
-      <img alt="Setting up Merge Mapping" src="../assets/SF-MergeMapping.png" />
+      <img alt="Setting up merge mapping" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
     <a href="set-up-merging-map.md"><strong>Setting up merge mapping</strong></a>
@@ -194,7 +194,7 @@ You can use Adobe Sign inside other applications your organization already uses,
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketovideo tutorial</strong></a>
     </div>
-    <em>In this video tutorial, you'll learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time</em>
+    <em>Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time</em>
     <br>
   </td>
   <td>
