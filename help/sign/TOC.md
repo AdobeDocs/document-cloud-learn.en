@@ -7,9 +7,10 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
+breadcrumb-title: Adobe Sign Tutorials
 ---
 
-# Adobe Sign Tutorials {#sign-tutorials}
+# Adobe Sign Tutorials {#sign-learning-hub}
 
 + [Overview](overview.md)
 + Getting started {#getting-started}
