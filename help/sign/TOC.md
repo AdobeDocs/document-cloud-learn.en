@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Sign Learning Hub
+user-guide-title: Adobe Sign Tutorials
 solution: Document Cloud, Adobe Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -9,7 +9,7 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 ---
 
-# Adobe Sign Learning Hub {#sign-learning-hub}
+# Adobe Sign Tutorials {#sign-tutorials}
 
 + [Overview](overview.md)
 + Getting started {#getting-started}
