@@ -1,5 +1,5 @@
 ---
-title: Adobe Acrobat
+title: Tutorials
 description: A collection of tutorials, webinars, and use cases for Adobe Acrobat DC
 role: Business Practitioner
 product: adobe acrobat
