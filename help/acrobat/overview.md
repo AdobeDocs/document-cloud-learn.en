@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
 ---
-# Adobe Acrobat
+# Adobe Acrobat tutorials
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
