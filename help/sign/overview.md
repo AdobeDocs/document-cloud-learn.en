@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
 ---
-# Adobe Sign Tutorials
+# Adobe Sign tutorials
 
 ![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
 
