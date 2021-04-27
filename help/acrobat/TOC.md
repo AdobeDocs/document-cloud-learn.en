@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat Learning Hub
+user-guide-title: Acrobat Tutorials
 solution: Document Cloud, Acrobat DC
 solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -7,9 +7,10 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
+breadcrumb-title: Acrobat Tutorials
 ---
 
-# Acrobat Learning Hub {#acrobat-learning}
+# Acrobat Tutorials {#acrobat-learning}
 
 + [Overview](overview.md)
 + Getting started {#getting-started}
