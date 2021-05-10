@@ -17,7 +17,7 @@ Turn a scanned paper form or document created in InDesign, Microsoft Word, Excel
 
 1. Select an existing document to use as your form (for example, a Word, Excel, InDesign, or PDF file). 
 
-    If Form Field Auto Detection is ON, Acrobat will automatically detect form fields in the PDF. 
+    If Form Field Auto Detection is ON, Acrobat automatically detects form fields in the PDF. 
 
 1. Click **[!UICONTROL Start]** to create the form.
 
