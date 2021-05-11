@@ -10,7 +10,7 @@ exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
 ---
 # Gather high-volume documents using GigaSign
 
-Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. It is designed for high-volume communications with your employees and customers--supporting up to 2,500 recipients with each bulk send. GigaSign leverages the Adobe Sign API to provide the same functionality as MegaSign, but includes additional support for multiple signers, recipient groups, recipient roles, agreement names, carbon copy and more. 
+Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. It is designed for high-volume communications with your employees and customers--supporting up to 2,500 recipients with each bulk send. GigaSign uses the Adobe Sign API to provide the same functionality as MegaSign, and includes support for multiple signers, recipient groups, recipient roles, agreement names, carbon copy, and more. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
 
@@ -34,7 +34,7 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 1. Create a key with the scopes needed (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read).
 
-1. Double click the key you just created and copy the FULL text (it goes off screen to the right so make sure you get it all).
+1. Double click the key you created and copy the FULL text (it goes off screen to the right so make sure you get it all).
 
 1. Open GigaSign.
 

@@ -10,6 +10,6 @@ exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
 ---
 # Setting up routing order
 
-In this video tutorial, you'll learn how to setup the routing order for multiple signers. Send a document in sequence, in parallel, or a combination of the two.
+In this video tutorial, you'll learn how to set up the routing order for multiple signers. Send a document in sequence, in parallel, or a combination of the two.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)
