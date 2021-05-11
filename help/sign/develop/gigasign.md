@@ -24,22 +24,24 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 ## Basic setup instructions
 
-1. Go to your adobe sign account -> top of screen click “Group” or “Account” whichever you see
+1. Log in to your Adobe Sign account.
 
-2. In the search field on the left side of the screen type in “Access tokens”
+1. Click [!UICONTROL Group] or [!UICONTROL Account] whichever you see at the top.
 
-3. On the right side press the “+” icon
+1. Type “Access tokens” in the search field on the left side of the screen.
 
-4. Create a key with the scopes needed (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read)
+1. Press the “+” icon on the right side.
 
-5. Double Click the key you just created and copy the FULL text (it goes off screen to the right so make sure you get it all)
+1. Create a key with the scopes needed (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read).
 
-6. Open GigaSign
+1. Double click the key you just created and copy the FULL text (it goes off screen to the right so make sure you get it all).
 
-7. Press the Settings icon (top right)
+1. Open GigaSign.
 
-8. Paste integration key in the first line
+1. Press the [!UICONTROL Settings] icon at the top right.
 
-9. Enter email address of the account used to create that key in the second line
+1. Paste the integration key in the first line.
 
-10. Press submit
+1. Enter the email address of the account used to create that key in the second line.
+
+1. Press submit.

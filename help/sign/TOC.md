@@ -47,7 +47,7 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Setting up shared events and alerts](admin/set-up-shared-events-and-alert.md)
     + [Adding users](admin/add-users-to-your-account.md)
     + [Creating and managing groups](admin/create-and-manage-groups.md)
-    + [Setting up an external rrchive](admin/set-up-your-external-archive.md)
+    + [Setting up an external archive](admin/set-up-your-external-archive.md)
     + [Creating a template](sign-advanced-users/create-a-template.md)
     + [Creating a report](admin/create-a-report.md)
     + [Setting up a Web Form](sign-advanced-users/webform.md)

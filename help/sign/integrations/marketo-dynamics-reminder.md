@@ -15,9 +15,13 @@ Learn how to send an email reminder when an agreement remains unsigned after a p
 
 ## Prerequisites 
 
-1. Install the Marketo and Microsoft Dynamics sync. Information about Microsoft Dynamics sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
+1. Install the Marketo and Microsoft Dynamics sync. 
 
-1. Install [Adobe Sign for Microsoft Dynamics 365](https://appsource.microsoft.com/en-us/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86). Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+    Information about Microsoft Dynamics sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
+
+1. Install [Adobe Sign for Microsoft Dynamics 365](https://appsource.microsoft.com/en-us/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+
+    Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Find the custom object
 

@@ -15,9 +15,13 @@ Learn how to send a text message, email, or push notification to let the signer 
 
 ## Prerequisites
 
-1. Install the Marketo and Microsoft Dynamics sync. Information about Microsoft Dynamics sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
+1. Install the Marketo and Microsoft Dynamics sync.
 
-1. Install Adobe Sign for Microsoft Dynamics 365. Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+    Information about Microsoft Dynamics sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
+
+1. Install Adobe Sign for Microsoft Dynamics 365.
+
+    Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Find the custom object
 

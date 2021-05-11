@@ -10,7 +10,7 @@ exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05
 ---
 # Collect signatures in bulk
 
-In this video tutorial, you'll learn how to collect hundreds of signatures in just a few short steps. In this example, everyone gets their own liability waiver to sign, and you can track the progress of each individual waiver--so you know exactly who or who hasn’t signed. Each online signature you capture is safe, secure, and legally valid.
+In this video tutorial, you'll learn how to collect hundreds of signatures in just a few short steps. In this use case, everyone gets their own liability waiver to sign, and you can track the progress of each individual waiver--so you know exactly who or who hasn’t signed. Each online signature you capture is safe, secure, and legally valid.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37839?hidetitle=true)
 
