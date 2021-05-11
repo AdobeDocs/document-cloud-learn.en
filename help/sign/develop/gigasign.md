@@ -10,7 +10,7 @@ exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
 ---
 # Gather high-volume documents using GigaSign
 
-Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. It is designed for high-volume communications with your employees and customers--supporting up to 2,500 recipients with each bulk send. GigaSign leverages the Adobe Sign API to provide the same functionality as MegaSign, but includes additional support for multiple signers, recipient groups, recipient roles, agreement names, carbon copy and more. 
+Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. It is designed for high-volume communications with your employees and customers--supporting up to 2,500 recipients with each bulk send. GigaSign uses the Adobe Sign API to provide the same functionality as MegaSign, and includes support for multiple signers, recipient groups, recipient roles, agreement names, carbon copy, and more. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
 
@@ -24,22 +24,24 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 ## Basic setup instructions
 
-1. Go to your adobe sign account -> top of screen click “Group” or “Account” whichever you see
+1. Log in to your Adobe Sign account.
 
-2. In the search field on the left side of the screen type in “Access tokens”
+1. Click [!UICONTROL Group] or [!UICONTROL Account] whichever you see at the top.
 
-3. On the right side press the “+” icon
+1. Type “Access tokens” in the search field on the left side of the screen.
 
-4. Create a key with the scopes needed (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read)
+1. Press the “+” icon on the right side.
 
-5. Double Click the key you just created and copy the FULL text (it goes off screen to the right so make sure you get it all)
+1. Create a key with the scopes needed (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read).
 
-6. Open GigaSign
+1. Double click the key you created and copy the FULL text (it goes off screen to the right so make sure you get it all).
 
-7. Press the Settings icon (top right)
+1. Open GigaSign.
 
-8. Paste integration key in the first line
+1. Press the [!UICONTROL Settings] icon at the top right.
 
-9. Enter email address of the account used to create that key in the second line
+1. Paste the integration key in the first line.
 
-10. Press submit
+1. Enter the email address of the account used to create that key in the second line.
+
+1. Press submit.

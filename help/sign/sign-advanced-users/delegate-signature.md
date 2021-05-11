@@ -10,6 +10,6 @@ exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
 ---
 # Delegating to someone else
 
-In this tutorial, you'll learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
+In this video tutorial, you'll learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
