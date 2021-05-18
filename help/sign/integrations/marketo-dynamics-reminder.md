@@ -11,25 +11,25 @@ exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 ---
 # Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo
 
-Learn how to send an email reminder when an agreement remains unsigned after a period of time using Adobe Sign for Microsoft Dynamics 365 and Marketo. 
+Learn how to send an email reminder when an agreement remains unsigned after a period of time. This integration uses Adobe Sign, Adobe Sign for Microsoft Dynamics, Marketo, and the Marketo Microsoft Dynamics Sync. 
 
 ## Prerequisites 
 
-1. Install the Marketo and Microsoft Dynamics sync. 
+1. Install the Marketo Microsoft Dynamics Sync. 
 
-    Information about Microsoft Dynamics sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
+    Information and the latest plugin for Microsoft Dynamics Sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
 
-1. Install [Adobe Sign for Microsoft Dynamics 365](https://appsource.microsoft.com/en-us/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. Install [Adobe Sign for Microsoft Dynamics](https://appsource.microsoft.com/en-us/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
     Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Find the custom object
 
-Once the Marketo - Dynamics Sync and Adobe Sign for Dynamics configurations are complete, two new options will appear for Dynamics in the Marketo Admin Terminal.
+Once the Marketo Microsoft Dynamics Sync and Adobe Sign for Dynamics configurations are complete, two new options appear in the Marketo Admin Terminal.
 
 ![Admin](assets/adminTerminal.png)
 
-1. Click on **Dynamics Entities Sync**. Sync must be disabled before syncing custom entities. Click **Sync Schema** if this is your first time. Otherwise, click **Refresh Schema**.
+1. Click **Dynamics Entities Sync**. Sync must be disabled before syncing custom entities. Click **Sync Schema** if this is your first time. Otherwise, click **Refresh Schema**.
 
     ![Refresh](assets/refreshSchema.png)
 

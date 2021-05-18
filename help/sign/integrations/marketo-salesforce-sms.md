@@ -11,17 +11,21 @@ exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
 ---
 # Send notifications using Adobe Sign for Salesforce and Marketo
 
-Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way using Adobe Sign for Salesforce and Marketo. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. This walkthrough uses [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), but there are other Marketo SMS solutions available.
+Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way using Adobe Sign, Adobe Sign for Salesforce, Marketo, and the Marketo Salesforce Sync. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. This walkthrough uses [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), but other Marketo SMS solutions are available.
 
 ## Prerequisites
 
-1. Install the Marketo and Salesforce sync. Information about Salesforce sync installation is available [here.](https://docs.marketo.com/display/public/DOCS/Salesforce+Sync)
+1. Install the Marketo Salesforce Sync. 
+    
+    Information and the latest plugin for Salesforce Sync is available [here.](https://docs.marketo.com/display/public/DOCS/Salesforce+Sync)
 
-1. Install Adobe Sign for Salesforce. Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+1. Install Adobe Sign for Salesforce. 
+
+    Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Find the custom object
 
-Once the Marketo - Salesforce Sync and Adobe Sign for Salesforce configurations are complete, several new options for Salesforce will appear in the Marketo Admin Terminal.
+Once the Marketo Salesforce Sync and Adobe Sign for Salesforce configurations are complete, several new options appear in the Marketo Admin Terminal.
 
 ![Admin](assets/adminTab.png)
 

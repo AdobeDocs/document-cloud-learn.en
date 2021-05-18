@@ -11,13 +11,13 @@ exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 ---
 # Send reminders using Adobe Sign for Salesforce and Marketo video tutorial
 
-In this video tutorial, you'll learn how to send an email reminder from Marketo for unsigned agreements. This integration uses Adobe Sign for Salesforce, Marketo, and the Marketo and Salesforce sync.
+In this video tutorial, you'll learn how to send an email reminder from Marketo for unsigned agreements. This integration uses Adobe Sign, Adobe Sign for Salesforce, Marketo, and the Marketo Salesforce Sync.
 
 ## Prerequisites
 
-1. Install the Marketo and Salesforce sync.
+1. Install the Marketo Salesforce Sync.
     
-    Information about Salesforce sync installation is available [here.](https://docs.marketo.com/display/public/DOCS/Salesforce+Sync)
+    Information and the latest plugin for Salesforce Sync is available [here.](https://docs.marketo.com/display/public/DOCS/Salesforce+Sync)
 
 1. Install Adobe Sign for Salesforce. 
 
