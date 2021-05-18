@@ -11,25 +11,25 @@ exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
 ---
 # Send notifications using Adobe Sign for Microsoft Dynamics 365 and Marketo
 
-Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way using Adobe Sign for Microsoft Dynamics 365 and Marketo. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. This walkthrough uses [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), but there are other Marketo SMS solutions available.
+Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way using Adobe Sign, Adpbe Sign for Microsoft Dynamic, Marketo, and the Marketo Microsoft Dynamics Sync. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. This walkthrough uses [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), but other Marketo SMS solutions are available.
 
 ## Prerequisites
 
-1. Install the Marketo and Microsoft Dynamics sync.
+1. Install the Marketo Microsoft Dynamics Sync.
 
-    Information about Microsoft Dynamics sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
+   Information and the latest plugin for Microsoft Dynamics Sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
 
-1. Install Adobe Sign for Microsoft Dynamics 365.
+1. Install Adobe Sign for Microsoft Dynamics.
 
     Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Find the custom object
 
-Once the Marketo - Dynamics Sync and Adobe Sign for Dynamics configurations are complete, two new options will appear for Dynamics in the Marketo Admin Terminal.
+Once the Marketo Microsoft Dynamics Sync and Adobe Sign for Dynamics configurations are complete, two new options appear in the Marketo Admin Terminal.
 
 ![Admin](assets/adminTerminal.png)
 
-1. Click on **Dynamics Entities Sync**. Sync must be disabled before syncing custom entities. Click **Sync Schema** if this is your first time. Otherwise, click **Refresh Schema**.
+1. Click **Dynamics Entities Sync**. Sync must be disabled before syncing custom entities. Click **Sync Schema** if this is your first time. Otherwise, click **Refresh Schema**.
 
     ![Refresh](assets/refreshSchema.png)
 

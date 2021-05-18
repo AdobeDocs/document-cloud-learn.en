@@ -11,17 +11,21 @@ exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
 ---
 # Send reminders using Adobe Sign for Salesforce and Marketo Configuration Guide
 
-Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time. This integration uses Adobe Sign for Salesforce, Marketo, and the Marketo and Salesforce sync.
+Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time. This integration uses Adobe Sign, Adobe Sign for Salesforce, Marketo, and the Marketo and Salesforce Sync.
 
 ## Prerequisites
 
-1. Install the Marketo and Salesforce sync. Information about Salesforce sync installation is available [here.](https://docs.marketo.com/display/public/DOCS/Salesforce+Sync)
+1. Install the Marketo Salesforce Sync. 
 
-1. Install Adobe Sign for Salesforce. Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Information and the latest plugin for Salesforce Sync is available [here.](https://docs.marketo.com/display/public/DOCS/Salesforce+Sync)
+
+1. Install Adobe Sign for Salesforce. 
+
+    Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Find the custom object
 
-If the Marketo - Salesforce Sync and Adobe Sign for Salesforce configurations are complete,  several new options will appear for Salesforce in the Marketo Admin Terminal.
+When the Marketo Salesforce Sync and Adobe Sign for Salesforce configurations are complete, several new options appear in the Marketo Admin Terminal.
 
 ![Admin](assets/adminTab.png)
 
