@@ -1,6 +1,6 @@
 ---
 title: Adobe Acrobat for Google Drive
-description: Adobe Acrobat for Google gives you access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app
+description: Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app
 role: Business Practitioner
 product: adobe acrobat
 level: Beginner
@@ -10,6 +10,6 @@ kt: 7992
 ---
 # Adobe Acrobat for Google Drive
 
-Adobe Acrobat for Google gives you access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app.
+Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?hidetitle=true)

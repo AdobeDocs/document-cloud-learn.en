@@ -41,7 +41,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Create PDF from Microsoft Word](integrate/createfromword.md)
   + [Microsoft Teams](integrate/acrobatandteams.md)
   + [Work with your SharePoint files](integrate/acrobatandsp.md)
-  + [Adobe Acrobat for Google Drive](integrate/acrobatgoogle.md)
+  + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
 + Industry {#by-industry}
   + [Overview](industry/industry-overview.md)
   + Government {#gov}
