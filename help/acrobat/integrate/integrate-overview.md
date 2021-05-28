@@ -55,7 +55,32 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
 
 ## Google Drive
 
-Learn how to be more productive with time-saving PDF and e-signature tools that integrate seamlessly with [Google Drive](https://acrobat.adobe.com/us/en/business/integrations/google-drive.html).
+Learn how to get more done in less time with essential PDF and e-signature tools inside Google Drive.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobatandgoogle.md">
+      <img alt="Adobe Acrobat for Google Drive" src="../assets/acrobatgoogle.jpg" />
+    </a>
+    <div>
+    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat for Google Drive</strong></a>
+    </div>
+    <em>Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Box
 
