@@ -15,17 +15,19 @@ If you have a set of completed forms and need to compile the data, you can use A
 
     ![Form Data Step 1](../assets/FormData_1.png)
 
-1. Open one for the form files in Acrobat DC and select **Prepare Form** from the Tools center or pane.
+1. Open one for the form files in Acrobat DC and select **[!UICONTROL Prepare Form]** from the Tools center or pane.
 
     ![Form Data Step 2](../assets/FormData_2.png)
 
-1. In the right pane, select **More, Merge Data Files into Spreadsheet**.
+1. In the right pane, select **[!UICONTROL More, Merge Data Files into Spreadsheet]**.
 
     ![Form Data Step 3](../assets/FormData_3.png)
 
-1. Select the folder you created with the form responses and Acrobat will extract the data from each and create a spreadsheet of all the data.
+1. Select the folder you created with the form responses.
 
     ![Form Data Step 4](../assets/FormData_4.png)
+
+    Acrobat extract the data from each and create a spreadsheet of all the data.
 
 Click to download a *PDF of the Working with form data* tutorial.
 

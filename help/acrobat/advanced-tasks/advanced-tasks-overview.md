@@ -11,7 +11,7 @@ exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
 
 ![Acrobat Getting Started Image](../assets/Hero-AdvancedTasks.png)
 
-Go beyond the basics, with these advanced tools in Acrobat DC. Learn how to create an Action to repeat mundane tasks, remove sensitive information, reduce and optimize large files, quickly gather form data, or create univerally Accessible PDF files.
+Go beyond the basics with these advanced tools in Acrobat DC. Learn how to create an Action to repeat mundane tasks, remove sensitive information, reduce and optimize large files, quickly gather form data, or create universally Accessible PDF files.
 
 ## Acrobat tutorials
 
