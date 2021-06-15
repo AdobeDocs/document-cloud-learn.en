@@ -10,6 +10,6 @@ kt: 7992
 ---
 # Adobe Acrobat for Google Drive
 
-Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app.
+In this video, learn how to get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?hidetitle=true)
