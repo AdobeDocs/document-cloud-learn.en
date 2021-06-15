@@ -118,7 +118,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders.
       <img alt="Optimize Your PDFs" src="../assets/sb_optimize.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/paperpdf/"><strong>Optimize Your PDFs</strong></a>
+    <a href="https://doccloud.adobeconnect.com/optimizepdfs/"><strong>Optimize Your PDFs</strong></a>
     </div>
     <em>Prepare PDFs for distribution</em>
     <br>
