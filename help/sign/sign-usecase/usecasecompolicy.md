@@ -10,7 +10,7 @@ exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
 ---
 # Policy agreements
 
-Efficiently collect signatures from all your employees on Policy Agreements, policy updates, and more.
+Efficiently collect signatures from all your employees on Policy Agreements, policy updates, and more. Learn how to create an online web form that can be completed **and** signed without printing or mailing anything.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
 
