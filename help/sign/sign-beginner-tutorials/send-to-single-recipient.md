@@ -1,6 +1,6 @@
 ---
 title: Sending to a Single Recipient
-description: Jump in and learn how easy it is to send a document out for signature
+description: Jump in and learn how easy it is to send out a document for signature
 role: Business Practitioner
 product: adobe sign
 solution: Document Cloud

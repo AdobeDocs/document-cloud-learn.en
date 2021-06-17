@@ -1,6 +1,6 @@
 ---
 title: Liquid Mode in Adobe Sign
-description: Learn how Liquid Mode improves the mobile signing experience.
+description: Learn how Liquid Mode improves the mobile signing experience
 role: Business Practitioner
 product: adobe sign
 level: Beginner

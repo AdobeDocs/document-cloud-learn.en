@@ -1,6 +1,6 @@
 ---
 title: Sending in Outlook
-description: Send an agreement for signature direclty within Microsoft Outlook
+description: Send an agreement for signature directly within Microsoft Outlook
 role: Business Practitioner
 product: adobe sign
 level: Intermediate
@@ -10,6 +10,6 @@ exl-id: 06d8e6c5-6dbf-4d6c-bf49-b620da707b3c
 ---
 # Sending in Outlook
 
-In this video tutorial, learn how to steamline document workflows by sending a document for signature directly within Microsoft Outlook.
+In this video tutorial, learn how to streamline document workflows by sending a document for signature directly within Microsoft Outlook.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29765t1?hidetitle=true)
