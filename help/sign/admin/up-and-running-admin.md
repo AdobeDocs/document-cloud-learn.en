@@ -9,6 +9,6 @@ exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
 ---
 # Up & running for Adobe Sign administrators
 
-In this video tutorial, you'll learn about the 7 key areas that administrators should focus on to get up & running quickly in Adobe Sign.
+In this video tutorial, learn the 7 key areas that administrators should focus on to get up & running quickly in Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)

@@ -11,6 +11,6 @@ exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
 ---
 # Adding users
 
-In this video tutorial, you'll learn how to add users individually or in bulk to your Adobe Sign account.
+In this video tutorial, learn how to add users individually or in bulk to your Adobe Sign account.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)

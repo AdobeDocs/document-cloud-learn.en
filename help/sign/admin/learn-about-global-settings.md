@@ -10,6 +10,6 @@ exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
 ---
 # Global settings
 
-In this video tutorial, you'll learn how to edit settings globally for your entire organization or for specific groups.
+In this video tutorial, learn how to edit settings globally for your entire organization or for specific groups.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17358?hidetitle=true)

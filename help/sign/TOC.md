@@ -104,7 +104,9 @@ breadcrumb-title: Adobe Sign Tutorials
   + Custom APIs {#custom}
     + [Gather high-volume documents using GigaSign](develop/gigasign.md)
     + [Create embedded e-signature and document experiences](develop/embeddedesignature.md)
-+ Deploy  {#deploy}
++ Deploy {#deploy}
   + [Overview](deploy-overview.md)
 + Mobile {#mobile}
-  + [Overview](mobile-overview.md)
+  + [Overview](mobile/mobile-overview.md)
+  + Mobile tutorials {#mobile-tutorials}
+    + [Liquid Mode in Adobe Sign](mobile/liquidmode.md)
