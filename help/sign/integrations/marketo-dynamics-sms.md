@@ -85,9 +85,9 @@ First ensure you have an active [!DNL Twilio] account and purchased the SMS feat
 
 Setting up the Marketo - [!DNL Twilio] SMS webhook requires three [!DNL Twilio] parameters from your account.
 
-- Account SID
-- Account Token
-- Twilio Phone Number
+* Account SID
+* Account Token
+* Twilio Phone Number
 
 Retrieve these parameters from your account, now open your Marketo instance.
 
