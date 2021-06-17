@@ -26,7 +26,7 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 1. Log in to your Adobe Sign account.
 
-1. Click [!UICONTROL Group] or [!UICONTROL Account] whichever you see at the top.
+1. Click **[!UICONTROL Group]** or **[!UICONTROL Account]**, whichever you see at the top.
 
 1. Type “Access tokens” in the search field on the left side of the screen.
 
@@ -38,10 +38,10 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 1. Open GigaSign.
 
-1. Press the [!UICONTROL Settings] icon at the top right.
+1. Click the **[!UICONTROL Settings]** icon at the top right.
 
 1. Paste the integration key in the first line.
 
 1. Enter the email address of the account used to create that key in the second line.
 
-1. Press submit.
+1. Click **[!UICONTROL Submit]**.

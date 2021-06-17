@@ -8,7 +8,7 @@ exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
 
 De-clutter, organize, or share! There’s no need to keep piles of paper on your desk or stuff receipts in your wallet. The Adobe Scan mobile app scans paper documents directly into PDFs, and automatically recognizes text.
 
-In this exercise, you will upload contents from a business card directly into your contacts. Scan and store a receipt.
+In this exercise, you upload contents from a business card directly into your contacts. Scan and store a receipt.
 
 Collect a business card, receipt, or some other paper item that you'd like to work with.
 
@@ -23,9 +23,9 @@ Collect a business card, receipt, or some other paper item that you'd like to wo
 ![b card image](assets/scanbcard.png)
 
 
-**Step 4:** Once scanning is complete, make the adjustments needed to ensure your card is within the bounding box.
+**Step 4:** Once scanning is complete, make the adjustments to ensure that your card is within the bounding box.
 
-**Step 5:** Tap "Save PDF" at the upper right-hand corner. Then, tap "Save Contact".
+**Step 5:** Tap **[!UICONTROL Save PDF]** at the upper right-hand corner. Then, tap **[!UICONTROL Save Contact]**.
 
 
 ![save b card mage](assets/savecontact.jpg)
@@ -36,7 +36,7 @@ Collect a business card, receipt, or some other paper item that you'd like to wo
 
 ## Scan and store a receipt
 
-The Adobe Scan app can also be useful to scan and store a receipt you'll need at a later time (e.g. an expense report or other reimbursement).
+The Adobe Scan app can also be useful to scan and store a receipt you'll need later (for example, an expense report or other reimbursement).
 
 **Step 1:** With the Adobe Scan app open, take a photo of the receipt you’d like to store.
 
@@ -47,7 +47,7 @@ The Adobe Scan app can also be useful to scan and store a receipt you'll need at
 
 ![b card image](assets/receiptoutput.jpg)
 
-**Step 3:** Tap "Save PDF" at the upper-right hand corner to store the reciept in your phone.
+**Step 3:** Tap **[!UICONTROL Save PDF]** at the upper-right hand corner to store the receipt in your phone.
 
 
 ## Recap:

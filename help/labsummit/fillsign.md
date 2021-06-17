@@ -12,9 +12,9 @@ In this exercise, you will import, fill, sign, and send a from using your mobile
 
 Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 
-**Step 1:** Download the Adobe Fill & Sign app from the Apple App store or Google Play.
+**Step 1:** Download the [!DNL Adobe Fill & Sign] app from the [!DNL Apple App] store or [!DNL Google Play].
 
-**Step 2:** Open the app, tap "Select a form to fill out".
+**Step 2:** Open the app, tap **[!UICONTROL Select a form to fill out]**.
 
 ![Uploaddoc image](assets/mobilescan.jpg)
 
@@ -22,20 +22,20 @@ Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 
 ![Step 2F image](assets/Step2F.jpg)
 
-**Step 4:** Use the white button to take a picture, and then tap "Use Photo". Tap "Done" in the upper right corner.
+**Step 4:** Use the white button to take a picture, and then tap **[!UICONTROL Use Photo]**. Tap **[!UICONTROL Done]** in the upper right corner.
 
-**Step 5:** At the bottom of the app, tap the "Crop" tool and use the guides to crop the image. Tap "Done" when finished.
+**Step 5:** At the bottom of the app, tap the **[!UICONTROL Crop]** tool and use the guides to crop the image. Tap **[!UICONTROL Done]** when finished.
 
 ![local doc image](assets/localdoc.jpg)
 
-**Step 6:** Use the “Magic Wand” tool to clean the image if necessary. Tap “Done” when finished.
+**Step 6:** Use the Magic Wand tool to clean the image if necessary. Tap **[!UICONTROL Done]** when finished.
 
 **Step 7:** Tap anywhere on the page to create a field and add the necessary information to your doc. Select the ellipse to view more options.
 
 ![Fill image](assets/fill.jpg)
 
 
-**Step 8:** Tap the “Signature” button at the bottom of the app to add your signature. 
+**Step 8:** Tap the **[!UICONTROL Signature]** button at the bottom of the app to add your signature. 
 
 ![Create Signature Image](assets/createsign.jpg)
 
@@ -43,7 +43,7 @@ Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 
 ![Signature Image](assets/sign.jpg)
 
-**Step 10:** Tap the Profile button at the bottom of the app to get pre-filled values such as your name and date. You just need to fill in this information once, and then you can use it on all future forms you complete with the Fill & Sign app.
+**Step 10:** Tap the **[!UICONTROL Profile]** button at the bottom of the app to get pre-filled values such as your name and date. You just need to fill in this information once, and then you can use it on all future forms you complete with the Fill & Sign app.
 
 ![filled](assets/filled.jpg)
 

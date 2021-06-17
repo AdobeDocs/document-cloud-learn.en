@@ -12,7 +12,7 @@ exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 
 ![Acrobat Integrate Image](../assets/Hero-Integrate.png)
 
-Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps.
+Integrate Acrobat with [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive], and [!DNL Microsoft] apps.
 
 ## Microsoft
 
