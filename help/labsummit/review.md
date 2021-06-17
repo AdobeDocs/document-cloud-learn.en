@@ -8,7 +8,7 @@ exl-id: 541f7a4d-d893-4768-9c91-638548845378
 
 Use the Adobe Document Cloud review service to easily share PDF files for review from Acrobat DC desktop application, the Document Cloud web, or Acrobat Reader mobile app. When reviewers click the URL in the email invitation from their computer, they can easily provide their feedback in a browser without having to sign in or install any additional software.
 
-In this exercise, we will review how to,
+In this exercise, we review how to,
 
 * Send personalized invitations for commenting
 * Send an anonymous or public link in an email
@@ -17,13 +17,13 @@ Here are the [demo files](assets/01_Review.zip) for this exercise.
 
 ## Send personalized invitations for commenting
 
-**Step 1:** Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
+**Step 1:** Open the `localFoodTruckmenu_start.pdf` file in Adobe Acrobat.
 
 ![Step 1 image](assets/Step1.png)
 
- **Step 2:** Click on “Send for Comments” in the right-hand panel or the "Share This File With Others" ![commentsicon](assets/sendforcommentsicon.png)  icon at the top right corner. 
+ **Step 2:** Click on **[!UICONTROL Send for Comments]** in the right-hand panel or the **[!UICONTROL Share This File With Others]** ![commentsicon](assets/sendforcommentsicon.png)  icon at the top-right corner. 
 
-**Step 3:** Enter the email addresses of the recipients. You have the option of entering a message to the recipients and/or adding a deadline for review.
+**Step 3:** Enter the email addresses of the recipients. You can enter a message to the recipients or add a deadline for review.
 
 ![Step 2C image](assets/Step2C.png)
 
@@ -33,23 +33,21 @@ You will receive an email notice once recipients have viewed your file.
 
 ## Reviewer Experience
 
-The reviewers receive an email invitation with a link to the review PDF. When they click the link or the Review button in the invitation, the PDF opens in a web browser. They can use the commenting tools to add comments to the PDF. They can also use Acrobat Reader DC or Acrobat DC desktop applications to add comments. 
+The reviewers receive an email invitation with a link to the review PDF. When they click the link or the **[!UICONTROL Review]** button in the invitation, the PDF opens in a web browser. They can use the commenting tools to add comments to the PDF. They can also use Acrobat Reader DC or Acrobat DC desktop applications to add comments. 
 
 ## Send an anonymous or public link in an email
 
-**Step 1:** Open the localFoodTruckmenu_start.pdf file in Adobe Acrobat.
+**Step 1:** Open the `localFoodTruckmenu_start.pdf` file in Adobe Acrobat.
 
-**Step 2:** Click the "Share A Link" icon ![linkicon](assets/sendlinkicon.png). The shared link is generated instantly; you won’t have to wait for the file to be uploaded to the cloud. By default, the "Allow Comments" switch is turned on. 
+**Step 2:** Click **[!UICONTROL Share A Link]** ![linkicon](assets/sendlinkicon.png). The shared link is generated instantly; you won’t have to wait for the file to be uploaded to the cloud. By default, the [!UICONTROL Allow Comments] switch is on. 
 
 ![Step 2L image](assets/Step2L.png)
 
-**Step 3:** Click "Copy Link" and share the link with the recipients.
-
-
+**Step 3:** Click **[!UICONTROL Copy Link]** and share the link with the recipients.
 
 ## Making Comments
 
-**Step 1:** Select the “Comment” button on the right-hand panel.
+**Step 1:** Click the **[!UICONTROL Comment]** on the right-hand panel.
 
 ![Click comment](assets/Cselect.jpg)
 
@@ -57,7 +55,7 @@ The reviewers receive an email invitation with a link to the review PDF. When th
 
 ![comment ui](assets/commentsui.png)
 
-Your comments will auto-save and be viewable to others.
+Your comments are auto-saved and viewable to others.
 
 ## Import PDF Comments to InDesign
 
@@ -67,17 +65,17 @@ InDesign CC 2019 allows you to import comments directly from PDF files. You can 
 
 **Step 2:** Open your InDesign file.
 
-**Step 3:** Select “File” from the top menu. 
+**Step 3:** Click **[!UICONTROL File]** from the top menu. 
 
 ![PDF Comments in Indd](assets/inddpdf.png)
 
-**Step 4:** Select “Import PDF Comments” from the dropdown.
+**Step 4:** Click **[!UICONTROL Import PDF Comments]** from the dropdown.
 
 **Step 5:** Open the PDF that contains the comments. 
 
 ![PDF Comments in Indd](assets/inddpdfshown.png)
 
-Comments will appear in the UI.
+Comments appear in the UI.
 
 ## Recap:
 

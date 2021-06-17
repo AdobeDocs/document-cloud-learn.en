@@ -15,11 +15,11 @@ Learn how to create an external archive for backup copies of agreements that hav
 
 1. Log in as the account admin.
 
-1. Click [!UICONTROL Account Settings] > [!UICONTROL External Archive] under the [!UICONTROL Account] tab.
+1. Click **[!UICONTROL Account Settings]** > **[!UICONTROL External Archive]** under the [!UICONTROL Account] tab.
 
    ![archive via email](../assets/archiveemail1.png) 
 
-1. Enter the archive email address and click [!UICONTROL Save Changes].
+1. Enter the archive email address and click **[!UICONTROL Save Changes]**.
 
    ![archive via email](../assets/archiveemail2.png) 
 
@@ -27,7 +27,7 @@ Learn how to create an external archive for backup copies of agreements that hav
 
 1. Log in as the account admin.
 
-1. Click [!UICONTROL Account Settings] > [!UICONTROL External Archive] under the [!UICONTROL Account] tab.
+1. Click **[!UICONTROL Account Settings]** > **[!UICONTROL External Archive]** under the [!UICONTROL Account] tab.
 
 1. Select the [!UICONTROL click here] link to the right of the Box logo.
 
@@ -41,9 +41,9 @@ Learn how to create an external archive for backup copies of agreements that hav
 
 1. Log in as the account admin.
 
-1. Click [!UICONTROL Account Settings] > [!UICONTROL External Archive] under the [!UICONTROL Account] tab.
+1. Click **[!UICONTROL Account Settings]** > **[!UICONTROL External Archive]** under the [!UICONTROL Account] tab.
 
-1. Select the [!UICONTROL click here] link to the right of the Evernote logo.
+1. Select the **[!UICONTROL click here]** link to the right of the Evernote logo.
 
    ![archive via Evernote](../assets/archiveevernote1.png)
 
