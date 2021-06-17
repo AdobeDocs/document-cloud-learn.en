@@ -10,6 +10,6 @@ exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
 ---
 # Modifying a document already sent for signature
 
-In this video tutorial, you'll learn how to modify a document that's already been sent out for signature — like when a document is sent by mistake.
+In this video tutorial, learn how to modify a document that's already been sent out for signature — like when a document is sent by mistake.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17343?hidetitle=true)
