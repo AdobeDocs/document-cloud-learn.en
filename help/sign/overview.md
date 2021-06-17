@@ -92,11 +92,11 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     <br>
   </td>
   <td>
-    <a href="mobile-overview.md">
+    <a href="mobile/mobile-overview.md">
       <img alt="Mobile" src="assets/AS_Title_Mobile.png" />
     </a>
     <div>
-    <a href="mobile-overview.md"><strong>Mobile</strong></a>
+    <a href="mobile/mobile-overview.md"><strong>Mobile</strong></a>
     </div>
     <em>Send, track, and get real-time updates on your mobile device</em>
     <br>
