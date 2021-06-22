@@ -4,8 +4,9 @@ description: Learn how to activate and use the Adobe Sign and Adobe PDF Tools co
 role: Business Practitioner, Developer
 level: Intermediate
 topic: Integrations
-thumbnail: KT-7488.jpg  
+thumbnail: KT-7488.jpg
 kt: 7488
+exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 ---
 # Document automation with Adobe Sign for Microsoft Power Platform
 
@@ -503,49 +504,3 @@ Now that you have successfully created a flow, you are going to edit your flow t
    You should see your generated PDF file. Open the PDF file and it prompts you to enter your PDF password.
 
    ![Screenshot of generated PDF in SharePoint directory](assets/documentautomation/automation_62.png)
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

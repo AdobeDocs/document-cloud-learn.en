@@ -6,6 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-8086.jpg
 kt: 8086
+exl-id: e7680e55-d95d-413a-bb2b-2ee6416b7b99
 ---
 # Liquid Mode in Adobe Sign
 

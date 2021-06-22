@@ -6,6 +6,7 @@ level: Intermediate
 topic: Developer
 thumbnail: KT-7489.jpg
 kt: 7489
+exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 ---
 # Create embedded e-signature and document experiences
 
@@ -184,64 +185,3 @@ Includes:
 * Sample Code
 * Visual Studio Code
 * Python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
