@@ -61,12 +61,12 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Expand and Inspire" src="assets/AS_Title_Inspire.png" />
+      <img alt="Industry and department" src="assets/AS_Title_Industry.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Expand and inspire</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industry and department</strong></a>
     </div>
-    <em>Explore real-world use cases and recipes redefining what's possible with e-signatures</em>
+    <em>Explore real-world industry and department use cases and recipes redefining what's possible with e-signatures</em>
     <br>
   </td>  
   <td>
