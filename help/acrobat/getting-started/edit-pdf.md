@@ -1,7 +1,7 @@
 ---
 title: Edit a PDF in Acrobat DC
 description: Learn how to edit text and images in PDF files
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg

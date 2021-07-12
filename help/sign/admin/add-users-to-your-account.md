@@ -1,7 +1,7 @@
 ---
 title: Adding Users
 description: Learn how to add users individually or in bulk to your Adobe Sign account
-role: Administrator
+role: Admin
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

@@ -1,7 +1,7 @@
 ---
 title: Fill and Sign a PDF Form
 description: Learn how to quickly and easily fill and sign a PDF form
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35495.jpg

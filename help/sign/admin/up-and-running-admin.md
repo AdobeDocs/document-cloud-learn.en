@@ -1,7 +1,7 @@
 ---
 title: Up & running for Adobe Sign administrators
 description: Overview of seven key areas for administrators to get up & running quickly in Adobe Sign
-role: Administrator
+role: Admin
 product: adobe sign
 level: Intermediate
 thumbnail: 33657.jpg

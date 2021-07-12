@@ -1,7 +1,7 @@
 ---
 title: Organize Pages
 description: Add, replace, extract, rotate, delete, and move pages in your PDF
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg

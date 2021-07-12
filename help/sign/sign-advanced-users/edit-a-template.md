@@ -1,7 +1,7 @@
 ---
 title: Managing Document Templates
 description: Edit or delete a template from your library
-role: Business Practitioner, Administrator
+role: User, Admin
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

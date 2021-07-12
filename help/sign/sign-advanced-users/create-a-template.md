@@ -1,7 +1,7 @@
 ---
 title: Creating a Document Template
 description: Create a reusable document template to provide speed and consistency
-role: Business Practitioner, Administrator
+role: User, Admin
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

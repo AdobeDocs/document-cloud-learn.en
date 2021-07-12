@@ -1,7 +1,7 @@
 ---
 title: Where do PDFs come from?
 description: Understand where PDFs come from and their uses
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 17096.jpg

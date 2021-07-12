@@ -1,7 +1,7 @@
 ---
 title: Sending in SharePoint Online
 description: Send a document for signature directly within Sharepoint Online
-role: Business Practitioner
+role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations

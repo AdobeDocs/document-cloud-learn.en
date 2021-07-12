@@ -1,7 +1,7 @@
 ---
 title: Liquid Mode in Adobe Sign
 description: Learn how Liquid Mode improves the mobile signing experience
-role: Business Practitioner
+role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-8086.jpg

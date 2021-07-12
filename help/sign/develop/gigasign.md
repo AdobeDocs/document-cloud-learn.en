@@ -1,7 +1,7 @@
 ---
 title: Gather High-Volume Documents using GigaSign
 description: Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time
-role: Business Practitioner, Administrator
+role: User, Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations

@@ -1,7 +1,7 @@
 ---
 title: 5 Tips for Working Anywhere with Acrobat DC--Get Your Tools
 description: Learn how to get your Acrobat DC tools and companion mobile apps to work from anywhere
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 34290.jpg

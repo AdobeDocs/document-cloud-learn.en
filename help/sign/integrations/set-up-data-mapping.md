@@ -1,7 +1,7 @@
 ---
 title: Setting up Data Mapping
 description: Learn how to set up a data mapping for Adobe Sign in Salesforce
-role: Administrator
+role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations

@@ -1,7 +1,7 @@
 ---
 title: Modifying a Document Already Sent for Signature
 description: Learn how to modify the workflow for a document that's already in progress
-role: Business Practitioner
+role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner

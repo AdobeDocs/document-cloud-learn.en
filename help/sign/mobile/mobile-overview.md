@@ -1,7 +1,7 @@
 ---
 title: Mobile Overview
 description: Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device
-role: Business Practitioner
+role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Mobile

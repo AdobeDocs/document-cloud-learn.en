@@ -1,7 +1,7 @@
 ---
 title: Tracking in SharePoint Online
 description: Track the progress of an agreement directly within Microsoft Sharepoint
-role: Business Practitioner
+role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations

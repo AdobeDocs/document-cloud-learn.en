@@ -1,7 +1,7 @@
 ---
 title: Policy Agreements
 description: Efficiently collect signatures from all your employees on policy agreements, updates, and more
-role: Business Practitioner
+role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

@@ -1,7 +1,7 @@
 ---
 title: Adobe Sign Text Tagging
 description: Learn how to build Adobe Sign form fields by text tagging using Adobe Acrobat DC
-role: Business Practitioner, Administrator
+role: User, Admin
 product: adobe sign
 solution: Document Cloud
 level: Experienced

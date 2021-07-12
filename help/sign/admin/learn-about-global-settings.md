@@ -1,7 +1,7 @@
 ---
 title: Global Settings
 description: Learn how to edit settings globally for your entire organization or for specific groups
-role: Administrator
+role: Admin
 product: adobe sign
 level: Intermediate, Experienced
 topic-revisit: Administration

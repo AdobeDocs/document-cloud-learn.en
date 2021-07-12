@@ -1,7 +1,7 @@
 ---
 title: Sending in Outlook
 description: Send an agreement for signature directly within Microsoft Outlook
-role: Business Practitioner
+role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations

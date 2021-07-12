@@ -1,7 +1,7 @@
 ---
 title: Integrate Overview
 description: Learn how to add Adobe Sign to your existing systems, processes, and applications
-role: Business Practitioner
+role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations

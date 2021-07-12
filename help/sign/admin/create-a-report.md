@@ -1,7 +1,7 @@
 ---
 title: Creating a Report
 description: Learn how to run, save, and schedule reports in Adobe Sign
-role: Business Practitioner, Administrator
+role: User, Admin
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

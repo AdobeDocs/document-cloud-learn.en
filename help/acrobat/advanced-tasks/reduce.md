@@ -1,7 +1,7 @@
 ---
 title: Reduce File Size & Optimize
 description: Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg

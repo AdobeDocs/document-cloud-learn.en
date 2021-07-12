@@ -1,7 +1,7 @@
 ---
 title: Mobile Overview
 description: Create, fill, and sign PDFs on your mobile device
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Intermediate
 topic-revisit: mobile

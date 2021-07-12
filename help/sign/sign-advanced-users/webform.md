@@ -1,7 +1,7 @@
 ---
 title: Set up a Web Form
 description: Learn how to create a document that can be signed electronically directly on your website
-role: Business Practitioner, Administrator
+role: User, Admin
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

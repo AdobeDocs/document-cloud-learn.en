@@ -1,7 +1,7 @@
 ---
 title: Paycheck Protection
 description: See how you can use Adobe Sign to convert the Payment Protection Program form into an online interactive form
-role: Business Practitioner
+role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

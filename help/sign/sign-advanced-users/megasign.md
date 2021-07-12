@@ -1,7 +1,7 @@
 ---
 title: Collect Signatures in Bulk
 description: Learn how to collect hundreds of signatures at once for any document in just a few short steps
-role: Business Practitioner, Administrator
+role: User, Admin
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

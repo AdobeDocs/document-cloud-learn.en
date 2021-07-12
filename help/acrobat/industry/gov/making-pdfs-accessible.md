@@ -1,7 +1,7 @@
 ---
 title: Making PDFs Accessible
 description: Learn about the optimal workflow for creating accessible PDF files
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility

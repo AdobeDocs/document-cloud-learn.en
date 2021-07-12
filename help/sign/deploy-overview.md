@@ -1,7 +1,7 @@
 ---
 title: Deploy Overview
 description: Best practice articles and valuable insight on deploying Adobe Sign
-role: Administrator
+role: Admin
 product: adobe sign
 solution: Document Cloud
 level: Intermediate

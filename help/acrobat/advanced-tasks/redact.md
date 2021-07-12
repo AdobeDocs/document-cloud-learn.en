@@ -1,7 +1,7 @@
 ---
 title: Redact & Sanitize
 description: Learn to use the Redact tool to permanently remove private or sensitive information from your PDF
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6804.jpg

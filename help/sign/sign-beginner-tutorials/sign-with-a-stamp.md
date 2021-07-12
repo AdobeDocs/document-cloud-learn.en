@@ -1,7 +1,7 @@
 ---
 title: Sign with a Stamp
 description: Learn how to use stamps to mark a document approved or completed
-role: Business Practitioner
+role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner

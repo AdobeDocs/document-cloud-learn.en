@@ -1,7 +1,7 @@
 ---
 title: Setting up Merge Mapping
 description: Learn how to merge data from Salesforce directly into an agreement
-role: Administrator
+role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations

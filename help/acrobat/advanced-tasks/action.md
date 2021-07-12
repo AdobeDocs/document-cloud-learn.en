@@ -1,7 +1,7 @@
 ---
 title: Action Wizard
 description: Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files
-role: Business Practitioner
+role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
