@@ -81,11 +81,11 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Send reminders using Adobe Sign for Salesforce and Marketo configuration guide](integrations/marketo-salesforce-reminder.md)
     + [Send notifications using Adobe Sign for Microsoft Dynamics and Marketo](integrations/marketo-dynamics-sms.md)
     + [Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo](integrations/marketo-dynamics-reminder.md)
-+ Expand and inspire {#expand}
++ Industry and department {#expand}
   + [Overview](sign-usecase/expand-inspire-overview.md)
-  + Use Case {#use-case}
-    + [Showcase](sign-usecase/use-case-showcase.md)
-  + Recipes {#recipes}
+  + Skill Builder {#innovation}
+    + [Webinars](sign-usecase/innovation-series.md)
+  + Use Case recipes {#recipes}
     + [Overview](sign-usecase/recipes.md)
     + Government {#gov}
       + [Business grants and loans](sign-usecase/usecasegovgrants.md)
@@ -97,8 +97,8 @@ breadcrumb-title: Adobe Sign Tutorials
     + Commercial {#com}
       + [Contracts and requisition forms](sign-usecase/usecasecomcontracts.md)
       + [Policy agreements](sign-usecase/usecasecompolicy.md)
-  + Innovation Series {#innovation}
-    + [Webinars](sign-usecase/innovation-series.md)
+  + Use Case showcase {#use-case}
+    + [Showcase](sign-usecase/use-case-showcase.md)
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
   + Custom APIs {#custom}
