@@ -9,7 +9,7 @@ exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
 ---
 # Industry and department overview
 
-![Sign Expanc Image](../assets/Hero-Expand.png)
+![Adobe Sign Industry Image](../assets/Hero-Industry.png)
 
 Learn how you can transform your organization's e-signing experiences by exploring these real-world industry and department use cases, recipes, and webinars.
 

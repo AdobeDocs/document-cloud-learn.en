@@ -11,7 +11,7 @@ exl-id: 72762750-5764-4541-aedd-94230b56936b
 
 ![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
 
-Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€™s needs with integrations, APIs, advanced authentication, additional admin features, and more. Here you'll find a wide range of learning experiences designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign.
+Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€™s needs with integrations, APIs, advanced authentication, additional admin features, and more. Here you can find a wide range of learning experiences designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign.
 
 ## Learning paths
 
@@ -44,7 +44,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     <div>
     <a href="admin/intro-admin-overview.md"><strong>Administer</strong></a>
     </div>
-    <em>Basic to advanced set up tips for your organization</em>
+    <em>Basic to advanced set-up tips for your organization</em>
     <br>
   </td>
 </tr>
@@ -61,12 +61,12 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Expand and Inspire" src="assets/AS_Title_Inspire.png" />
+      <img alt="Industry and department" src="assets/AS_Title_Industry.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Expand and inspire</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industry and department</strong></a>
     </div>
-    <em>Explore real-world use cases and recipes redefining what's possible with e-signatures</em>
+    <em>Explore real-world industry and department use cases and recipes redefining what's possible with e-signatures</em>
     <br>
   </td>  
   <td>
