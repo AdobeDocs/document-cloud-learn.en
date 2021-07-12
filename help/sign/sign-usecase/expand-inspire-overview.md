@@ -31,7 +31,7 @@ Learn how you can transform your organization's e-signing experiences by explori
     <div>
     <a href="use-case-showcase.md"><strong>Use Case Showcase</strong></a>
     <br>
-    <em>Watch our live or recorded sessions introducing you to new Adobe Sign use cases and trends</em>
+    <em>Watch live or recorded sessions introducing you to new Adobe Sign use cases and trends</em>
   </td>
   <td>
     <a href="recipes.md">

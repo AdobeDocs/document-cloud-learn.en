@@ -11,7 +11,7 @@ exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
 
 ![use case banner](../assets/UCSC_Rebrand.png)
 
-The Use Case Showcase is a livestream session introducing you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them. Each month a new topic will be highlighted.
+The Use Case Showcase is a livestream session introducing you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them. Each month a new topic is highlighted.
 
 Below are recordings of the latest sessions:
 
@@ -31,17 +31,15 @@ AbbVie’s strategy is to deliver innovative medicines and to make a remarkable 
 
 What does the future of car shopping look like? For Swedish automaker Volvo Cars, they're making changes to their business model that will influence customer expectations for the next generation of car buyers. Central to their process is the ability to provide a top-quality customer experience to match their premium offerings. 
 
-Join us for a behind-the-scenes conversation with Volvo Cars, where we'll discuss how they've taken big ideas and turned them into realities - and how other companies can learn from their transformation experiences.
+Join us for a behind-the-scenes conversation with Volvo Cars, discussing how they've taken big ideas and turned them into realities - and how other companies can learn from their transformation experiences.
 
 ### 5 Ways Government Agencies Will Transform in 2021
 
 [Watch on-demand](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/)
 
-How can Adobe Sign help governmental agencies better serve their constituents? Citizens and employees alike now expect more engaging online experiences. And to go digital, government processes must meet strict security, privacy, and compliance requirements.
+How can Adobe Sign help governmental agencies better serve their constituents? Citizens and employees alike now expect more engaging online experiences. And to go digital, government processes must meet strict security, privacy, and compliance requirements. When the pandemic hit, government agencies had to ramp up their digital transformation efforts to continue to meet the needs of their constituents and maintain operational continuity.
 
-When the pandemic hit, government agencies had to ramp up their digital transformation efforts to continue to meet the needs of their constituents and maintain operational continuity.
-
-Join us for the Adobe Sign Use Case Showcase to hear from government experts about the challenges federal, state, and local agencies have faced and how they will continue to innovate to keep government running.
+Join us for the Adobe Sign Use Case Showcase to hear from government experts about the challenges federal, state, and local agencies have faced and how they continue to innovate to keep government running.
 
 ## 2020 sessions by industry
 
@@ -51,7 +49,7 @@ Join us for the Adobe Sign Use Case Showcase to hear from government experts abo
 
 Date: 12-03-2020
 
-Focus: Our expert panelists will cover best practices and a variety of government-specific use cases to show you how Adobe Sign can help your team save time, money, and resources while staying compliant and secure.
+Focus: Our expert panelists cover best practices and a variety of government-specific use cases to show you how Adobe Sign can help your team save time, money, and resources while staying compliant and secure.
 
 ### Legal
 
@@ -67,7 +65,7 @@ Focus: Our panelists discuss how legal departments are managing the shift to ful
 
 Date: 09-24-2020
 
-Focus: Adobe experts will highlight best practices for successful digital transformation in procurement, and the discussion will cover industry trends and requirements for delivering excellent user experiences.
+Focus: Adobe experts highlight best practices for successful digital transformation in procurement, and the discussion covers industry trends and requirements for delivering excellent user experiences.
 
 ### Procurement & Logistics
 
@@ -125,6 +123,7 @@ Date: 03-26-2020
 Focus: How Adobe Sign works for healthcare.
 
 Topics:
+
 * Growing Use of Telehealth
 * Digital Transformation: Infrastructure and Scaling
 
