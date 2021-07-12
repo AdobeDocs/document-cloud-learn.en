@@ -29,7 +29,7 @@ Learn how you can transform your organization's e-signing experiences by explori
       <img alt="Use Case Showcase" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Use Case Showcase</strong></a>
+    <a href="use-case-showcase.md"><strong>Use Case showcase</strong></a>
     <br>
     <em>Watch live or recorded sessions introducing you to new Adobe Sign use cases and trends</em>
   </td>
