@@ -36,6 +36,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Preparing Accessible PDF files](advanced-tasks/accessibility.md)
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
+  + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integrate {#integrations}
   + [Overview](integrate/integrate-overview.md)
   + [Create PDF from Microsoft Word](integrate/createfromword.md)
