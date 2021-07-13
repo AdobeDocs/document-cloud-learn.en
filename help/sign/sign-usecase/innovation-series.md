@@ -12,11 +12,9 @@ exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
 
 Adobe Sign Skill Builders are 30-minute sessions designed to put your e-signatures to work—without adding any extra work to your day. Each month a new topic is highlighted.
 
-## Easy Automation with Adobe Sign for Microsoft Power Automate
+## [Easy Automation with Adobe Sign for Microsoft Power Automate](https://sign-skillbuilder-july.joinus.adobeevents.com/)
 
-[Register](https://sign-skillbuilder-july.joinus.adobeevents.com/)
-
-Date: July 22, 2021
+**Date: July 22, 2021**
 
 Learn how to take manual processes out of your e-signature workflows. The Adobe Sign connector for Microsoft Power Automate makes it easy to set up simple or complex automation for your Adobe Sign agreements. You can automatically route signed documents to SharePoint; add custom info to an agreement name; map web form fields to CSV data; and much more. This session will introduce you to what's possible with Adobe Sign for Microsoft Power Automate.
 
@@ -26,7 +24,7 @@ Learn how to take manual processes out of your e-signature workflows. The Adobe 
 
 Date: June 17, 2021
 
-See what's new in Adobe Sign. The latest updates include must-have features, including:
+See what's new in the Adobe Sign 12.2 release. The latest updates include:
 
 * Support for multi-signer web forms
 * The ability to assign users to multiple groups
