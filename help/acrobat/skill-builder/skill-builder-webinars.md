@@ -6,7 +6,7 @@ level: Intermediate
 ---
 # Adobe Acrobat Skill Builder webinars
 
-![Acrobat Skill Builder Image](../assets/Hero-SkillBuilders.png)
+![Acrobat Skill Builder Image](../assets/sbacrobatwebinars.png)
 
 Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDf workflows to the next level. Each month a new topic is highlighted.
 
