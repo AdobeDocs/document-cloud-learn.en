@@ -18,11 +18,11 @@ Get up-to-speed on Acrobat DC with these interactive skill builders. Or, join a 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="https://doccloud.adobeconnect.com/paperpdf/">
+    <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank">
       <img alt="Paper to PDF" src="../assets/sb_papertopdf.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/paperpdf/"><strong>Go From Paper to PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank"><strong>Go From Paper to PDF</strong></a>
     </div>
     <em>Digitally transform any paper document to PDF</em>
     <br>
