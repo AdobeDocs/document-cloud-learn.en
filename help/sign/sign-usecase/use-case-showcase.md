@@ -1,19 +1,21 @@
 ---
 title: Use Case Showcase
-description: The Use Case Showcase is a livestream session introducing you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them
+description: The Use Case Showcase is a livestream session introducing you to new Adobe Sign use cases, trends, and showing how your organization can implement and benefit from them
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
+thumbnail: KT-8198.jpg
+kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
 ---
-# Use Case Showcase 
+# Use Case showcase 
 
 ![use case banner](../assets/UCSC_Rebrand.png)
 
-The Use Case Showcase is a livestream session introducing you to new Adobe Sign use cases, trends, and shows you how your organization can implement and benefit from them. Each month a new topic is highlighted.
+The Use Case Showcase is a livestream session introducing you to new Adobe Sign use cases, trends, and showing how your organization can implement and benefit from them. Each month a new topic is highlighted.
 
-Below are recordings of the latest sessions:
+Below are recordings or registration links for the latest sessions:
 
 ## 2021 sessions
 

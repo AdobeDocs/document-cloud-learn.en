@@ -6,6 +6,8 @@ product: adobe sign
 solution: Document Cloud
 level: Intermediate
 team: DC Product Marketing Retention and Engagement
+thumbnail: 8200.jpg
+kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
 ---
 # Use case recipes
