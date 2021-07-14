@@ -114,7 +114,7 @@ Get up-to-speed on Acrobat DC with these interactive skill builders. Or, join a 
 </tr>
 <tr>
   <td>
-    <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank">
+    <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="Optimize Your PDFs" src="../assets/sb_optimize.png" />
     </a>
     <div>
