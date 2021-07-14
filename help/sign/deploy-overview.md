@@ -17,29 +17,29 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html">
+    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html"target="_blank">
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html"><strong>Managing Adobe Sign on the Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html"target="_blank"><strong>Managing Adobe Sign on the Admin Console</strong></a>
     <br>
     <em>Learn how to manage Adobe Sign users and licenses on Adobe’s enterprise platform the Adobe Admin Console</em>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html">
+    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html"target="_blank">
       <img alt="Best Practices" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html"><strong>Best practices</strong></a>
+    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html"target="_blank"><strong>Best practices</strong></a>
     <br>
     <em>Review valuable insights and knowledge gained by our Customer Success Manager's work with our customers in deploying Adobe Sign</em>
   </td>  
   <td>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html">
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
       <img alt="Adobe Trust Center" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html"><strong>Adobe Trust Center</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     <br>
     <em>Learn about our ongoing efforts in security, legality, and standards for Adobe Sign</em>
   </td>

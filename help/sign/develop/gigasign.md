@@ -18,9 +18,9 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 [Download GigaSign Zip File](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Java 1.8 download link (only if needed)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
+[Java 1.8 download link (only if needed)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[IP Addresses to white list (only if needed)](https://helpx.adobe.com/sign/system-requirements.html#IPs)
+[IP Addresses to white list (only if needed)](https://helpx.adobe.com/sign/system-requirements.html#IPs){target="_blank"}
 
 ## Basic setup instructions
 

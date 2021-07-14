@@ -17,20 +17,20 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html">
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
       <img alt="Start" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html"><strong>Getting started</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Getting started</strong></a>
     <br>
     <em>Create your developer account now to get started</em>
   </td>
   <td>
-    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html">
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
       <img alt="Learn" src="../assets/Develop_Learn.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html"><strong>Learn what you can do</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Learn what you can do</strong></a>
     <br>
     <em>Learn how you can incorporate the functionality of Adobe Sign into any external application</em>
   </td>  

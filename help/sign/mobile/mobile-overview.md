@@ -27,19 +27,19 @@ Send documents for signature, track e-signing progress, and get real-time update
     <br>
   </td>
   <td>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8">
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank">
       <img alt="Download for iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8"><strong>Download Adobe Sign Mobile app for iOS</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download Adobe Sign Mobile app for iOS</strong></a>
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en" target="_blank">
       <img alt="Download for Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en"><strong>Download Adobe Sign Mobile app for Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en" target="_blank"><strong>Download Adobe Sign Mobile app for Android</strong></a>
     <br>
   </td>
 </tr>
