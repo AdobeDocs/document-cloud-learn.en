@@ -6,11 +6,13 @@ product: adobe sign
 solution: Document Cloud
 level: Intermediate
 team: DC Product Marketing Retention and Engagement
+thumbnail: 8200.jpg
+kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
 ---
 # Use case recipes
 
-Speed up your organization's digital workflows with these government and commercial e-signature examples. Click to view a PDF with resouces and details on how to set up these specific e-signature use cases.
+Speed up your organization's digital workflows with these government and commercial e-signature examples. Click to view a PDF with resources and details on how to set up these specific e-signature use cases.
 
 ## Government use cases
 

@@ -3,7 +3,7 @@ title: Create Embedded e-Signature and Document Experiences
 description: Learn how to use Adobe Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems
 role: User, Developer
 level: Intermediate
-topic: Developer
+topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
