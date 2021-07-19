@@ -33,20 +33,20 @@ You can use Adobe Sign inside other applications your organization already uses,
   </td>
   <td>
     <a href="send-for-signature-with-outlook.md">
-      <img alt="Sending in Outlook" src="../assets/MS-SendOutlook.png" />
+      <img alt="Send for signature in Outlook" src="../assets/MS-SendOutlook.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-outlook.md"><strong>Sending in Outlook</strong></a>
+    <a href="send-for-signature-with-outlook.md"><strong>Send for signature in Outlook</strong></a>
     </div>
     <br>
     <em>Send a document for signature directly within Microsoft Outlook</em>
   </td>
   <td>
     <a href="send-for-signature-with-sharepoint-online.md">
-      <img alt="Sending in SharePoint Online" src="../assets/Sending-in-SP.png" />
+      <img alt="Send for signature in SharePoint Online" src="../assets/Sending-in-SP.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-sharepoint-online.md"><strong>Sending in SharePoint Online</strong></a>
+    <a href="send-for-signature-with-sharepoint-online.md"><strong>Send for signature in SharePoint Online</strong></a>
     </div>
     <em>Send a document for signature directly within Sharepoint Online</em>
     <br>
