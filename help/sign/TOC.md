@@ -63,8 +63,8 @@ breadcrumb-title: Adobe Sign Tutorials
   + [Overview](integrations/integrations-overview.md)
   + Microsoft {#microsoft}
     + [Filling and signing in Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
-    + [Sending in Outlook](integrations/send-for-signature-with-outlook.md)
-    + [Sending in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
+    + [Send for signature in Outlook](integrations/send-for-signature-with-outlook.md)
+    + [Send for signature in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
     + [Tracking in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
     + [Sending documents for signature in Microsoft Teams](integrations/adobe-sign-teams-mortgage.md)
     + [Document automation with Adobe Sign for Microsoft Power Platform](integrations/documentautomation.md)
