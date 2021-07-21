@@ -38,3 +38,7 @@ The file is now a searchable, editable PDF file.
 Click to download a PDF of the *Scan & OCR* tutorial.    
 
 [![Download Scan & OCR tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
+
+>[!TIP]
+>
+>To OCR multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
