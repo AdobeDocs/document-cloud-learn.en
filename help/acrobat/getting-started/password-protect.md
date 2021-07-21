@@ -11,4 +11,8 @@ exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
 
 In this video tutorial, learn how to add a password to your PDF to protect others from opening or editing the file.
 
+>[!TIP]
+>
+>To password protect multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
+
 >[!VIDEO](https://video.tv.adobe.com/v/35497?hidetitle=true)

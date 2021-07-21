@@ -44,3 +44,7 @@ Reduce large files and optimize your PDFs without compromising quality for shari
 Click to download a PDF of the *Reduce file size & optimize* tutorial.    
 
 [![Download Reduce file size & optimize tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).
+
+>[!TIP]
+>
+>To optimize multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
