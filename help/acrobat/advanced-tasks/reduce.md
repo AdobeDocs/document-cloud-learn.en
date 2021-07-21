@@ -21,7 +21,7 @@ Reduce large files and optimize your PDFs without compromising quality for shari
 
 1. Select **[!UICONTROL Reduce File Size]** and chose whether you want to reduce a single file or multiple files.
 
-    The file will be reduced to the smallest size possible while retaining the documents quality.
+    The file is reduced to the smallest size possible while retaining the documents quality.
 
     ![Reduce Step 2](../assets/Reduce_2.png)
 
@@ -33,7 +33,7 @@ Reduce large files and optimize your PDFs without compromising quality for shari
 
  You change any settings in the **[!UICONTROL PDF Optimizer]** dialog box, the **Settings** menu automatically switches to **Custom**.
 
-1. From the **Make Compatible With** menu, choose **Retain Existing** to keep the current PDF version, or choose an Acrobat version. Select the check box next to a panel (for example, Images, Fonts, Transparency), and then select options in that panel. To prevent all of the options in a panel from executing during optimization, deselect the check box for that panel.
+1. From the **Make Compatible With** menu, choose **Retain Existing** to keep the current PDF version, or choose an Acrobat version. Select the check box next to a panel (for example, Images, Fonts, Transparency), and then select options in that panel. To prevent all options in a panel from executing during optimization, deselect the check box for that panel.
 
     ![Reduce Step 5](../assets/Reduce_5.png)
 
