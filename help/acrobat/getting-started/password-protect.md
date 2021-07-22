@@ -15,4 +15,6 @@ In this video tutorial, learn how to add a password to your PDF to protect other
 >
 >To password protect multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/35497?hidetitle=true)
