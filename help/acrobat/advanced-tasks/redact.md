@@ -57,6 +57,10 @@ Learn to use the Redact tool to permanently remove private or sensitive informat
 
     ![Sanitize Step 2](../assets/Redact_7.png)
 
+>[!TIP]
+>
+>To speed up the redaction process, check out the [Action Wizard](../advanced-tasks/action.md).
+
 Click to download a PDF of the *Redact & Sanitize* tutorial.
 
 [![Download Redact & Sanitize tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCRedact.pdf).
