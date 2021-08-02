@@ -12,6 +12,11 @@ exl-id: b892b278-cf83-461d-a548-57237b85b297
 
 In this video tutorial, learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.
 
+Check out these additional real-world use cases:
+
+* [Government Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) use case.
+* [Commercial Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) use case.
+
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
 >[!TIP]

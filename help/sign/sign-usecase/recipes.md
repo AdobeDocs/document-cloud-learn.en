@@ -20,7 +20,7 @@ Speed up your organization's digital workflows with these government and commerc
 <tr>
   <td>
     <a href="usecasegovgrants.md">
-      <img alt="Business Grants and Loans" src="../assets/UC_WebformsR.png" />
+      <img alt="Business Grants and Loans" src="../assets/UC_Business.png" />
     </a>
     <div>
     <a href="usecasegovgrants.md"><strong>Business Grants and Loans</strong></a>
@@ -89,7 +89,7 @@ Speed up your organization's digital workflows with these government and commerc
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="Contracts and Requisition Forms" src="../assets/UC_WebformsR.png" />
+      <img alt="Contracts and Requisition Forms" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
     <a href="usecasecomcontracts.md"><strong>Contracts and Requisition Forms</strong></a>
@@ -99,7 +99,7 @@ Speed up your organization's digital workflows with these government and commerc
   </td> 
   <td>
     <a href="usecasecompolicy.md">
-      <img alt="Policy Agreements" src="../assets/UC_MegasignR.png" />
+      <img alt="Policy Agreements" src="../assets/UC_Policy.png" />
     </a>
     <div>
     <a href="usecasecompolicy.md"><strong>Policy Agreements</strong></a>
