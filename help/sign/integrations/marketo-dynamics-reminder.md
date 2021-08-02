@@ -196,3 +196,7 @@ Because the campaign filter **Days Until Expires** was used, you can use a sched
 1. Set the **Schedule** to _Daily_. Choose a start day and time and end date for the campaign if necessary.
 
     ![Schedule Settings](assets/scheduleSettings.png)
+
+>[!TIP]
+>
+>This tutorial is part of the course [Accelerate sales cycles with Adobe Sign for Microsoft Dynamics and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!

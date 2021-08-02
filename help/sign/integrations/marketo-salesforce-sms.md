@@ -142,3 +142,7 @@ Retrieve these parameters from your account, now open up your Marketo instance.
     ![Call Webhook](assets/callWebhook.png)
 
 1. Your SMS notice campaign for leads who are added to an agreement is now set up.
+
+>[!TIP]
+>
+>This tutorial is part of the course [Accelerate sales cycles with Adobe Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!

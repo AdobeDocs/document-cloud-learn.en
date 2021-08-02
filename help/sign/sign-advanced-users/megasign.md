@@ -15,3 +15,7 @@ In this video tutorial, learn how to collect hundreds of signatures in just a fe
 >[!VIDEO](https://video.tv.adobe.com/v/37839?hidetitle=true)
 
 [Download sample CSV file in ZIP format](../assets/megasign_merge_sample.zip)
+
+>[!TIP]
+>
+>This video is part of the [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) and [Getting Started with Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) courses that are available for free on Experience League!

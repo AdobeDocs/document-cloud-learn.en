@@ -13,3 +13,8 @@ exl-id: a914d230-da29-4278-9189-77e3a2486ae8
 Take a quick video tour of the Adobe Sign workspace to get up and running.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Getting Started with Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) that is available for free on Experience League!
+

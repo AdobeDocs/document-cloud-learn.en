@@ -15,3 +15,7 @@ In this recorded webinar (no registration necessary), learn how to build Adobe S
 [![Watch Session](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 [Watch Adobe Sign Text Tagging recorded webinar](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+
+>[!TIP]
+>
+>This video is part of the [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) and [Advanced Tasks for Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) courses that are available for free on Experience League!that is available for free on Experience League!

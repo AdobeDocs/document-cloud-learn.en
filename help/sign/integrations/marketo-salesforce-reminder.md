@@ -192,3 +192,7 @@ Because the campaign filter **Days Unsigned** was used, you can use a scheduled 
 1. Set the **Schedule** to Daily, choose a start day and time, and an end date for the campaign if necessary.
 
     ![Schedule Settings](assets/scheduleSettings.png)
+
+>[!TIP]
+>
+>This tutorial is part of the course [Accelerate sales cycles with Adobe Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!
