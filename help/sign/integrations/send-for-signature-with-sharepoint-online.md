@@ -13,3 +13,7 @@ exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
 In this video tutorial, learn how to streamline document workflows by sending a document for signature directly within Sharepoint Online.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Using Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) that is available for free on Experience League!

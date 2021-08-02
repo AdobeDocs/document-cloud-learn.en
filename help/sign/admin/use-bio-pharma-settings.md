@@ -12,3 +12,7 @@ exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
 In this video tutorial, learn about Bio-pharma settings that allow you to configure Adobe Sign to meet FDA 21 CFR Part 11 requirements.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Advanced Tasks for Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) that is available for free on Experience League!

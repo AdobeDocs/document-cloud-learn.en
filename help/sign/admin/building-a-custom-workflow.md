@@ -13,3 +13,7 @@ exl-id: b892b278-cf83-461d-a548-57237b85b297
 In this video tutorial, learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Getting Started with Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) that is available for free on Experience League!

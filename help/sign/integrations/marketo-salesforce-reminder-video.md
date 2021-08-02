@@ -24,3 +24,8 @@ In this video tutorial, learn how to send an email reminder from Marketo for uns
     Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Accelerate sales cycles with Adobe Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!
+
