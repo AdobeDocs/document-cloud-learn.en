@@ -10,7 +10,7 @@ tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
 ---
 
-# Acrobat Tutorials {#acrobat-learning}
+# Acrobat tutorials {#acrobat-learning}
 
 + [Overview](overview.md)
 + Getting started {#getting-started}
@@ -34,6 +34,13 @@ breadcrumb-title: Acrobat Tutorials
   + [Reduce file size & optimize](advanced-tasks/reduce.md)
   + [Working with form data](advanced-tasks/formdata.md)
   + [Preparing Accessible PDF files](advanced-tasks/accessibility.md)
++ 60-second Acrobat {#60-second}
+  + [Overview](60-second/60-second-overview.md)
+  + [Combine files into one PDF](60-second/combine-to-one-pdf.md)
+  + [Edit PDF with Acrobat Web](60-second/edit.md)
+  + [Search multiple PDF files at once](60-second/search.md)
+  + [Create a PDF of photos in an instant](60-second/photo.md)
+  + [Convert a PPT file to PDF on your phone](60-second/phone.md)
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
   + [Webinars](skill-builder/skill-builder-webinars.md)
