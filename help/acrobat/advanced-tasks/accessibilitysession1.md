@@ -13,5 +13,5 @@ In this session learn what it means to make a PDF accessible, how to set up Acro
 
 Click [here](../assets/accessibiitysession1.zip) to download a zip file of the hands-on files for this session.
 
->[!VIDEO](https://youtu.be/DaadHIWHgzU)
+>[!VIDEO](https://www.youtube.com/embed/DaadHIWHgzU)
 
