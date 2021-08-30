@@ -34,6 +34,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Reduce file size & optimize](advanced-tasks/reduce.md)
   + [Working with form data](advanced-tasks/formdata.md)
   + [Preparing Accessible PDF files](advanced-tasks/accessibility.md)
+  + [Acrobat Accessibiity series](advanced-tasks/accessibility-series.md)
 + 60-second Acrobat {#60-second}
   + [Overview](60-second/60-second-overview.md)
   + [Combine files into one PDF](60-second/combine-to-one-pdf.md)

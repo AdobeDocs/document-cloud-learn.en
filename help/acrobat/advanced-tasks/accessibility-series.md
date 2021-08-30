@@ -1,0 +1,81 @@
+---
+title: Acrobat Accessibility Series
+description: Six-session on-demand Accessibility series
+role: User
+product: adobe acrobat
+level: experienced
+thumbnail: KT-8364.jpg
+kt: 8364
+---
+# Acrobat Accessibility series
+
+![Acrobat Accessibility series Image](../assets/Hero_Accessibility.png)
+
+In this six-part on-demand webinar series, go from the basics of Accessiblity to a deep-dive of tagging your PDF files. Each session includes practice files to follow along.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="accessibilitysession1.md">
+      <img alt="Introduction to PDF Accessibility" src="../assets/Accessibilitysession1_1280.png" />
+    </a>
+    <div>
+    <a href="accessibilitysession1.md"><strong>Introduction to PDF Accessibility</strong></a>
+    </div>
+    <em>In this on-demand session learn what it means to make a PDF accessible, how to set up Acrobat Pro DC to work on PDFs for accessibility, and the conversion process from a source document to a PDF</em>
+    <br>
+  </td>
+  <td>
+    <a href="accessibilitysession2.md">
+      <img alt="Remediating an inaccessible PDF" src="../assets/Accessibilitysession2_1280.png" />
+    </a>
+    <div>
+    <a href="accessibilitysession2.md"><strong>Remediating an inaccessible PDF</strong></a>
+    </div>
+    <em>In this on-demand session learn the workflow to convert a Word document and fixing some basic tagging issues using the Acrobat Pro DC tools shown in the introduction webinar</em>
+    <br>
+  </td>  
+  <td>
+    <a href="accessibilitysession3.md">
+      <img alt="Advanced PDF Accessibility, Complex Tables" src="../assets/Accessibilitysession3_1280.png" />
+    </a>
+    <div>
+    <a href="accessibilitysession3.md"><strong>Advanced PDF Accessibility, complex tables</strong></a>
+    </div>
+    <em>This on-demand session addresses one of the more common and challenging issues in remediating a PDF for accessibility--complex tables</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="accessibilitysession4.md">
+      <img alt="Advanced PDF Accessibility, Scanned Documents & Complex Lists" src="../assets/Accessibilitysession4_1280.png" />
+    </a>
+    <div>
+    <a href="accessibilitysession4.md"><strong>Advanced PDF Accessibility, scanned documents & complex lists</strong></a>
+    </div>
+    <em>This on-demand session addresses the more complex issues people frequently run into such as scanned documents and complex lists</em>
+    <br>
+  </td>
+  <td>
+    <a href="accessibilitysession5.md">
+      <img alt="Accessible PDF Forms – Adding Form Fields to a Tagged PDF" src="../assets/Accessibilitysession5_1280.png" />
+    </a>
+    <div>
+    <a href="accessibilitysession5.md"><strong>Accessible PDF forms – Adding form fields to a tagged PDF</strong></a>
+    </div>
+    <em>This on-demand session focuses on adding form fields to a previously tagged PDF</em>
+    <br>
+  </td>  
+  <td>
+    <a href="accessibilitysession6.md">
+      <img alt="Accessible PDF forms – Adding form fields to an untagged PDF" src="../assets/Accessibilitysession6_1280.png" />
+    </a>
+    <div>
+    <a href="accessibilitysession6.md"><strong>Accessible PDF forms – Adding form Fields to an untagged PDF</strong></a>
+    </div>
+    <em>This on-demand session goes deeper into creating manual form fields and additional form field properties</em>
+    <br>
+  </td> 
+</tr>
+</table>
