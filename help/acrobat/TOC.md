@@ -34,6 +34,14 @@ breadcrumb-title: Acrobat Tutorials
   + [Reduce file size & optimize](advanced-tasks/reduce.md)
   + [Working with form data](advanced-tasks/formdata.md)
   + [Preparing Accessible PDF files](advanced-tasks/accessibility.md)
+  + Acrobat Accessibility series {#accessibility-series}
+     + [Overview](advanced-tasks/accessibility-series.md)
+     + [Introduction to PDF Accessibility](advanced-tasks/accessibilitysession1.md)
+     + [Remediating an inaccessible PDF](advanced-tasks/accessibilitysession2.md)
+     + [Complex tables](advanced-tasks/accessibilitysession3.md)
+     + [Scanned documents & complex lists](advanced-tasks/accessibilitysession4.md)
+     + [Adding form fields to a tagged PDF](advanced-tasks/accessibilitysession5.md)
+     + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
 + 60-second Acrobat {#60-second}
   + [Overview](60-second/60-second-overview.md)
   + [Combine files into one PDF](60-second/combine-to-one-pdf.md)
