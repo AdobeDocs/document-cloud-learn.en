@@ -15,4 +15,4 @@ Click [here](../assets/accessibilitysession4.zip) to download a zip file of the 
 
 Select the image to view the video in a separate browser tab.
 
-[![Session 4 Video](../assets/accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target="_blank"}
+[![Session 4 Video](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target="_blank"}

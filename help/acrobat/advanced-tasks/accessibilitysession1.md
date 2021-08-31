@@ -15,5 +15,5 @@ Click [here](../assets/accessibilitysession1.zip) to download a zip folder of th
 
 Select the image to view the video in a separate browser tab.
 
-[![Session 1 Video](../assets/accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}
+[![Session 1 Video](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}
 
