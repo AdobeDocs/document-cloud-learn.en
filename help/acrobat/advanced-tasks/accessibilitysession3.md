@@ -11,7 +11,7 @@ kt: 8610
 
 This on-demand session addresses one of the more common and challenging issues in remediating a PDF for accessibility--complex tables.
 
-Click [here](../assets/accessibiitysession3.zip) to download a zip file of the hands-on files for this session.
+Click [here](../assets/accessibilitysession3.zip) to download a zip file of the hands-on files for this session.
 
 Select the image to view the video in a separate browser tab.
 

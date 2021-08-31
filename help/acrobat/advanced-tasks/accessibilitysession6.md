@@ -11,7 +11,7 @@ kt: 8613
 
 This on-demand session goes deeper into creating manual form fields and additional form field properties.
 
-Click [here](../assets/accessibiitysession6.zip) to download a zip file of the hands-on files for this session.
+Click [here](../assets/accessibilitysession6.zip) to download a zip file of the hands-on files for this session.
 
 Select the image to view the video in a separate browser tab.
 

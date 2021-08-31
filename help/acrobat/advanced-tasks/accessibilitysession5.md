@@ -11,7 +11,7 @@ kt: 8612
 
 This on-demand session focuses on adding form fields to a previously tagged PDF.
 
-Click [here](../assets/accessibiitysession5.zip) to download a zip file of the hands-on files for this session.
+Click [here](../assets/accessibilitysession5.zip) to download a zip file of the hands-on files for this session.
 
 Select the image to view the video in a separate browser tab.
 

@@ -11,7 +11,7 @@ kt: 8611
 
 This on-demand session addresses the more complex issues people frequently run into such as scanned documents and complex lists.
 
-Click [here](../assets/accessibiitysession4.zip) to download a zip file of the hands-on files for this session.
+Click [here](../assets/accessibilitysession4.zip) to download a zip file of the hands-on files for this session.
 
 Select the image to view the video in a separate browser tab.
 

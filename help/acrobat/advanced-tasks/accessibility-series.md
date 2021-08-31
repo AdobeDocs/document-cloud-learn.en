@@ -11,7 +11,7 @@ kt: 8364
 
 ![Acrobat Accessibility series Image](../assets/Hero_Accessibility.png)
 
-In this six-part on-demand webinar series, go from the basics of Accessiblity to a deep-dive of tagging your PDF files. Each session includes practice files to follow along.
+In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files. Each session includes practice files to follow along.
 
 <table style="table-layout:fixed">
 <tr>
