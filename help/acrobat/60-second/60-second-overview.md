@@ -6,8 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
+exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
 ---
-
 # 60-second Acrobat overview
 
 ![60-second Acrobat Image](../assets/Hero-60sec.png)

@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-8613.jpg
 kt: 8613
+exl-id: 73e0e348-126b-440b-a90e-061911781b76
 ---
 # Adding form fields to an untagged PDF
 

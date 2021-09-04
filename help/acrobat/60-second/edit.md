@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8573.jpg
 KT: 8573
+exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
 ---
 # Edit PDF with Acrobat Web
 

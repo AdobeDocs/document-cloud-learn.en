@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-8364.jpg
 kt: 8364
+exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
 ---
 # Acrobat Accessibility series
 

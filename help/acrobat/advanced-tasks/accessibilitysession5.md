@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-8612.jpg
 kt: 8612
+exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
 ---
 # Adding form fields to a tagged PDF
 

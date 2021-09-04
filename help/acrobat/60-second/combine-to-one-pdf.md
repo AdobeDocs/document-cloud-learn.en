@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8571.jpg
 KT: 8571
+exl-id: b467cfe3-c031-4df9-acd5-646949644774
 ---
 # Combine files into one PDF
 

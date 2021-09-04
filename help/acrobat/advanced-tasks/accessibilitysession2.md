@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-8609.jpg
 kt: 8609
+exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
 ---
 # Remediating an inaccessible PDF
 

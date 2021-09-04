@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 kt: 8606
+exl-id: 3765673b-15fd-4071-bb31-e589feffa471
 ---
 # Introduction to PDF Accessibility
 
@@ -16,4 +17,3 @@ Click [here](../assets/accessibilitysession1.zip) to download a zip folder of th
 Select the image to view the video in a separate browser tab.
 
 [![Session 1 Video](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}
-
