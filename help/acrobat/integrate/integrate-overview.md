@@ -54,12 +54,12 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
 <tr>
   <td>
     <a href="outlook.md">
-      <img alt="Learn to deliver information in a more professional and secure manner inside of Outlook" src="../assets/Outlook.jpg" />
+      <img alt="Convert email messages and attachments to PDF in Outlook" src="../assets/Outlook.jpg" />
     </a>
     <div>
-    <a href="outlook.md"><strong>Learn how to deliver information in a more professional and secure manner inside of Outlook</strong></a>
+    <a href="outlook.md"><strong>Convert email messages and attachments to PDF in Outlook</strong></a>
     </div>
-    <em></em>
+    <em>Learn how to deliver information in a more professional and secure manner inside of Outlook</em>
     <br>
   </td>
   <td>
