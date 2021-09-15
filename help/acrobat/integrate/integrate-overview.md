@@ -16,7 +16,7 @@ Integrate Acrobat with [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL On
 
 ## Microsoft
 
-Learn how everyone on your team can work seamlessly with PDF files, right inside [Microsoft 365](https://acrobat.adobe.com/us/en/business/integrations/microsoft-office-365.html).
+Learn how everyone on your team can work seamlessly with PDF files, right inside [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -48,6 +48,28 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <a href="acrobatandteams.md"><strong>PDF collaboration in Microsoft Teams</strong></a>
     </div>
     <em>Collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving Microsoft Teams</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="outlook.md">
+      <img alt="Learn to deliver information in a more professional and secure manner inside of Outlook" src="../assets/Outlook.jpg" />
+    </a>
+    <div>
+    <a href="outlook.md"><strong>Learn how to deliver information in a more professional and secure manner inside of Outlook</strong></a>
+    </div>
+    <em></em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -84,8 +106,8 @@ Learn how to get more done in less time with essential PDF and e-signature tools
 
 ## Box
 
-Learn how Acrobat DC and [Box](https://acrobat.adobe.com/us/en/business/integrations/box.html){target="_blank"} make it simpler for everyone in your organization to keep business moving.
+Learn how Acrobat DC and [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} make it simpler for everyone in your organization to keep business moving.
 
 ## Dropbox 
 
-Learn how easy it is to access and work with PDFs stored in [Dropbox](https://acrobat.adobe.com/us/en/business/integrations/dropbox.html){target="_blank"}.
+Learn how easy it is to access and work with PDFs stored in [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target="_blank"}.
