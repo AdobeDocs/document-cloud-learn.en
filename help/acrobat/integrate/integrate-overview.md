@@ -92,12 +92,12 @@ Learn how to get more done in less time with essential PDF and e-signature tools
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
