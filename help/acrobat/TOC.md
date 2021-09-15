@@ -58,6 +58,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Microsoft Teams](integrate/acrobatandteams.md)
   + [Work with your SharePoint files](integrate/acrobatandsp.md)
   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
+  + [Convert email messages and attachments to PDF in Outlook](integrate/outlook.md)
 + Industry {#by-industry}
   + [Overview](industry/industry-overview.md)
   + Government {#gov}

@@ -51,6 +51,28 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <br>
   </td>
 </tr>
+<tr>
+  <td>
+    <a href="outlook.md">
+      <img alt="Learn to deliver information in a more professional and secure manner inside of Outlook" src="../assets/Outlook.jpg" />
+    </a>
+    <div>
+    <a href="outlook.md"><strong>Learn how to deliver information in a more professional and secure manner inside of Outlook</strong></a>
+    </div>
+    <em></em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Google Drive
