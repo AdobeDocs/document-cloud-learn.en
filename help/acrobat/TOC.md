@@ -49,6 +49,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Search multiple PDF files at once](60-second/search.md)
   + [Create a PDF of photos in an instant](60-second/photo.md)
   + [Convert a PPT file to PDF on your phone](60-second/phone.md)
+  + [Load PDF comments into InDesign](60-second/indesign.md)
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
   + [Webinars](skill-builder/skill-builder-webinars.md)

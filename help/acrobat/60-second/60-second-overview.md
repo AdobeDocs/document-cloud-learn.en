@@ -70,10 +70,15 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Learn how to convert an email PowerPoint attachment to PDF on your phone</em>
     <br>
   </td>  
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="indesign.md">
+      <img alt="Load PDF comments into InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
     <div>
+    <a href="indesign.md"><strong>Load PDF comments into InDesign</strong></a>
+    </div>
+    <em>Learn how to load PDF comments back into InDesign after an Acrobat shared review</em>
     <br>
-  </td>
+  </td>  
 </tr>
 </table>
