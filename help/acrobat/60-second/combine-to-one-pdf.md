@@ -1,5 +1,5 @@
 ---
-title: Combine files into one PDF
+title: Combine Files into one PDF
 description: Quickly create a document by combining several different types of files into a single PDF
 role: User
 product: adobe acrobat
