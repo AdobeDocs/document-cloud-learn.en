@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8816.jpg
 KT: 8816
+exl-id: 8d9d0fa8-db0f-48be-b19e-b2b758648d3b
 ---
 # Load PDF comments into InDesign
 
