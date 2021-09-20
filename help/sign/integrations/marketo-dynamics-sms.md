@@ -17,7 +17,7 @@ Learn how to send a text message, email, or push notification to let the signer 
 
 1. Install the Marketo Microsoft Dynamics Sync.
 
-   Information and the latest plugin for Microsoft Dynamics Sync is available [here.](https://docs.marketo.com/display/public/DOCS/Microsoft+Dynamics+Sync)
+   Information and the latest plugin for Microsoft Dynamics Sync is available [here.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Install Adobe Sign for Microsoft Dynamics.
 
