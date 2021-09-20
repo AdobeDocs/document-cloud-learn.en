@@ -17,7 +17,7 @@ In this video tutorial, learn how to send an email reminder from Marketo for uns
 
 1. Install the Marketo Salesforce Sync.
     
-    Information and the latest plugin for Salesforce Sync is available [here.](https://docs.marketo.com/display/public/DOCS/Salesforce+Sync)
+    Information and the latest plugin for Salesforce Sync is available [here.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Install Adobe Sign for Salesforce. 
 
