@@ -81,7 +81,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <a href="intesi-sign.md"><strong>Signing using Intesi Group</strong></a>
     </div>
     <br>
-    <em>Learn how to use your Intesi Group digital ID</em>
+    <em>Learn how to use your Intesi Group digital ID with Adobe Sign</em>
   </td>
 </tr>
 </table>
