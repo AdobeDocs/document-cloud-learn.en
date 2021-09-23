@@ -59,6 +59,15 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Advanced account sharing](admin/advanced-account-sharing.md)
     + [Use Bio-Pharma settings](admin/use-bio-pharma-settings.md)
     + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
++ Digital ID {#digital-id}
+  + [Overview](digitalid/digitalid-overview.md)
+  + Digidentity {#digidentity}
+    + [Get a digital ID from Digidentity](digitalid/digidentity-reg.md)
+    + [Signing using Digidentity](digitalid/digidentity-sign.md)
+  + Intesi Group {#intesi}
+    + [Get a digital ID from Intesi Group (Advanced)](digitalid/intesi-advanced.md)
+    + [Get a digital ID from Intesi Group (Qualified)](digitalid/intesi-qualified.md)
+    + [Signing using Intesi Group](digitalid/intesi-sign.md)
 + Integrate {#integrations}
   + [Overview](integrations/integrations-overview.md)
   + Microsoft {#microsoft}
