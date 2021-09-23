@@ -50,6 +50,16 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
 </tr>
 <tr>
   <td>
+    <a href="digitalid/digitalid-overview.md">
+      <img alt="Digital ID" src="assets/AS_Title_DigitalID.png" />
+    </a>
+    <div>
+    <a href="digitalid/digitalid-overview.md"><strong>Digital ID</strong></a>
+    </div>
+    <em>Learn how to use digital IDs from around the world with Adobe Sign</em>
+    <br>
+  </td>
+  <td>
     <a href="integrations/integrations-overview.md">
       <img alt="Integrate" src="assets/AS_Title_Integrate.png" />
     </a>
@@ -68,7 +78,9 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     </div>
     <em>Explore real-world industry and department use cases and recipes redefining what's possible with e-signatures</em>
     <br>
-  </td>  
+  </td>
+</tr>
+<tr>
   <td>
     <a href="develop/develop-overview.md">
       <img alt="Develop" src="assets/AS_Title_Develop.png" />
@@ -79,9 +91,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     <em>Get development resources on Adobe Sign I/O</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="deploy-overview.md">
       <img alt="Deploy" src="assets/AS_Title_Deploy.png" />
     </a>
@@ -101,10 +111,5 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     <em>Send, track, and get real-time updates on your mobile device</em>
     <br>
   </td>  
-  <td>
-   <img alt="Spacer" src="assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>

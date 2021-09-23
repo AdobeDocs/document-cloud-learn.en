@@ -24,8 +24,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="quick-tour.md"><strong>Quick tour of Adobe Sign</strong></a>
     </div>
-    <br>
     <em>Take a quick tour of the Adobe Sign interface to get up and running</em>
+    <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
@@ -34,8 +34,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="send-to-single-recipient.md"><strong>Sending to a single recipient</strong></a>
     </div>
-    <br>
     <em>Jump in and learn how easy it is send a document out for signature</em>
+    <br>
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
@@ -44,8 +44,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Sending to multiple recipients</strong></a>
     </div>
-    <br>
     <em>Send a document for e-signature to more than one person in exactly the order you want</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -61,8 +61,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>
     </div>
-    <br>
     <em>Learn how easy it is to sign a document that has been sent to you with Adobe Sign</em>
+    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
@@ -71,8 +71,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="fill-and-sign.md"><strong>Filling and signing a document</strong></a>
     </div>
-    <br>
     <em>Fill in forms and add your electronic signature to documents</em>
+    <br>
   </td>
   <td>
     <a href="sign-in-person.md">
@@ -81,8 +81,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="sign-in-person.md"><strong>Getting a signature in person</strong></a>
     </div>
-    <br>
     <em>Get someone else's signature in person using the Adobe Sign mobile app</em>
+    <br>
   </td>
 </tr>
 <tr>
@@ -93,8 +93,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>What's a digital signature</strong></a>
     </div>
-    <br>
     <em>Learn about certificate-based digital signatures</em>
+    <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
@@ -103,8 +103,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signing using a stamp</strong></a>
     </div>
-    <br>
     <em>Use stamps to mark a document approved or completed</em>
+     <br>
   </td> 
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -125,8 +125,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="manage-and-track.md"><strong>Managing and tracking documents</strong></a>
     </div>
-    <br>
     <em>Manage and track agreements that you've sent for signature</em>
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -135,8 +135,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creating a document template</strong></a>
     </div>
-    <br>
     <em>Create a reusable document template to provide speed and consistency for your organization</em>
+    <br>
   </td>
   <td>
     <a href="modify-in-flight.md">

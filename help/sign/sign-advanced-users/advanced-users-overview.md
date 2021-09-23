@@ -25,8 +25,8 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="setting-up-routing.md"><strong>Setting up routing order</strong></a>
     </div>
-    <br>
     <em>Setup the routing order for multiple signers</em>
+    <br>
   </td>
   <td>
     <a href="delegate-signature.md">
@@ -35,8 +35,8 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="delegate-signature.md"><strong>Delegating to someone else</strong></a>
     </div>
-    <br>
     <em>Use the delegator role to send a document to an intermediary who can then route the document for signature</em>
+    <br>
   </td>
   <td>
     <a href="add-an-approver.md">
@@ -45,8 +45,8 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="add-an-approver.md"><strong>Adding an Approver</strong></a>
     </div>
-    <br>
     <em>Add an approver role to your contract approval process</em>
+    <br>
   </td>
 </tr>
 <tr>
@@ -57,8 +57,8 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="megasign.md"><strong>Collecting signatures in bulk</strong></a>
     </div>
-    <br>
     <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
+    <br>
   </td>
   <td>
     <a href="webform.md">
@@ -67,8 +67,8 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="webform.md"><strong>Setting up a Web Form</strong></a>
     </div>
-    <br>
     <em>Create a document that can be signed electronically directly on your website</em>
+    <br>
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
@@ -77,8 +77,8 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
     </div>
-    <br>
     <em>Build Adobe Sign form fields by text tagging using Adobe Acrobat DC</em>
+    <br>
   </td> 
 </table>
 
@@ -93,8 +93,8 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="edit-a-template.md"><strong>Managing document templates</strong></a>
     </div>
-    <br>
     <em>Edit or delete a template from your library</em>
+    <br>
   </td>  
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

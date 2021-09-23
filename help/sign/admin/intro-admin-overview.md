@@ -25,8 +25,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="up-and-running-admin.md"><strong>Up and running for Admins</strong></a>
     </div>
-    <br>
     <em>Overview of 7 key areas for administrators to get up & running quickly in Adobe Sign</em>
+    <br>
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
@@ -35,8 +35,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Setting up shared events and alerts</strong></a>
     </div>
-    <br>
     <em>Configure event and alert settings for your organization</em>
+    <br>
   </td>
   <td>
     <a href="add-users-to-your-account.md">
@@ -45,8 +45,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="add-users-to-your-account.md"><strong>Adding users</strong></a>
     </div>
-    <br>
     <em>Add users individually or in bulk to your Adobe Sign account</em>
+    <br>
   </td>
 </tr>
 <tr>
@@ -57,8 +57,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="create-and-manage-groups.md"><strong>Creating and managing groups</strong></a>
     </div>
-    <br>
     <em>Create groups, add users to groups, and edit group settings</em>
+    <br>
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
@@ -67,8 +67,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="set-up-your-external-archive.md"><strong>Setting up an external archive</strong></a>
     </div>
-    <br>
     <em>Create an external archive for backup copies of agreements that have been sent</em>
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -77,8 +77,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creating a document template</strong></a>
     </div>
-    <br>
     <em>Create a reusable document template for speed and consistency</em>
+    <br>
   </td>
 </tr>
 <tr>
@@ -89,8 +89,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="create-a-report.md"><strong>Creating a report</strong></a>
     </div>
-    <br>
     <em>Create and schedule reports to gain visibiity into your organization's use of Adobe Sign</em>
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
@@ -99,8 +99,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="../sign-advanced-users/webform.md"><strong>Set Up a Web Form</strong></a>
     </div>
-    <br>
     <em>Create a document that can be signed electronically directly on your website</em>
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
@@ -109,8 +109,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="../sign-advanced-users/megasign.md"><strong>Collect signatures in bulk</strong></a>
     </div>
-    <br>
     <em>Collect hundreds of signatures at once for any document</em>
+    <br>
   </td>
 </tr>
 <tr>
@@ -121,8 +121,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="building-a-custom-workflow.md"><strong>Setting up a workflow</strong></a>
     </div>
-    <br>
     <em>Automate document workflows to quickly get electronic signatures and data</em>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -148,8 +148,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="learn-about-global-settings.md"><strong>Global settings</strong></a>
     </div>
-    <br>
     <em>Edit product settings globally for your entire organization or for specific groups</em>
+    <br>
   </td>
   <td>
     <a href="share-account-access.md">
@@ -158,8 +158,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="share-account-access.md"><strong>Sharing account access</strong></a>
     </div>
-    <br>
     <em>Set up view-only access to transactions in another user's account</em>
+    <br>
   </td>
   <td>
     <a href="advanced-account-sharing.md">
@@ -168,8 +168,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="advanced-account-sharing.md"><strong>Advanced account sharing</strong></a>
     </div>
-    <br>
     <em>Set up account sharing to allow admins and users to delegate their send, modify, and view permissions</em>
+    <br>
   </td>
 </tr>
 <tr>
@@ -180,8 +180,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Using Bio-Pharma settings</strong></a>
     </div>
-    <br>
     <em>Set up Bio-pharma settings that allow you to meet FDA 21 CFR Part 11 requirements</em>
+    <br>
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
@@ -190,8 +190,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
     <div>
-    <br>
     <em>Build Adobe Sign form fields by text tagging using Adobe Acrobat DC</em>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
