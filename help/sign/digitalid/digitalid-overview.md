@@ -1,6 +1,6 @@
 ---
 title: Digital ID Overview
-description: 
+description: Learn how to use digital IDs from around the world with Adobe Sign
 role: User
 product: adobe sign
 level: Beginner
@@ -23,7 +23,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 <tr>
  <td>
     <a href="digidentity-reg.md">
-      <img alt="Get a digital ID from Digidentity" src="assets/Digidentityreg_1280.jpg" />
+      <img alt="Get a digital ID from Digidentity" src="assets/Digidentityreg_1280.png" />
     </a>
     <div>
     <a href="digidentity-reg.md"><strong>Get a digital ID from Digidentity</strong></a>
