@@ -28,8 +28,8 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="digidentity-reg.md"><strong>Get a digital ID from Digidentity</strong></a>
     </div>
-    <br>
     <em>Learn how to obtain a digital signing certificate from Digidentity</em>
+    <br>
   </td>
   <td>
     <a href="digidentity-sign.md">
@@ -38,8 +38,8 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="digidentity-sign.md"><strong>Signing using Digidentity</strong></a>
     </div>
-    <br>
     <em>Learn how to use your Digidentity digital ID with Adobe Sign</em>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -60,8 +60,8 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="intesi-advanced.md"><strong>Get a digital ID from Intesi Group (Advanced)</strong></a>
     </div>
-    <br>
     <em>Learn how to obtain an Advanced digital signing certificate from Intesi Group</em>
+    <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
@@ -70,8 +70,8 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="intesi-qualified.md"><strong>Get a digital ID from Intesi Group (Qualified)</strong></a>
     </div>
-    <br>
     <em>Learn how to obtain a Qualified digital signing certificate from Intesi Group</em>
+    <br>
   </td>
   <td>
     <a href="intesi-sign.md">
@@ -80,8 +80,8 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="intesi-sign.md"><strong>Signing using Intesi Group</strong></a>
     </div>
-    <br>
     <em>Learn how to use your Intesi Group digital ID with Adobe Sign</em>
+    <br>
   </td>
 </tr>
 </table>

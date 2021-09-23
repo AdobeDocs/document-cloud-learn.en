@@ -22,8 +22,8 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
     </a>
     <div>
     <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Managing Adobe Sign on the Admin Console</strong></a>
-    <br>
     <em>Learn how to manage Adobe Sign users and licenses on Adobe’s enterprise platform the Adobe Admin Console</em>
+    <br>
   </td>
   <td>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank">
@@ -31,8 +31,8 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
     </a>
     <div>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best practices</strong></a>
-    <br>
     <em>Review valuable insights and knowledge gained by our Customer Success Manager's work with our customers in deploying Adobe Sign</em>
+    <br>
   </td>  
   <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
@@ -40,8 +40,8 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
     </a>
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
-    <br>
     <em>Learn about our ongoing efforts in security, legality, and standards for Adobe Sign</em>
+    <br>
   </td>
 </tr>
 <tr>
@@ -51,8 +51,8 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
     </a>
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign Essentials Study Guide</strong></a>
-    <br>
     <em>Adobe Sign Study Guide for the Adobe Sign Essentials Assessment (AD3-D104)</em>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="assets/Grayspacer.png" />

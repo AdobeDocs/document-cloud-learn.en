@@ -22,8 +22,8 @@ Learn how you can transform your organization's e-signing experiences by explori
     </a>
     <div>
     <a href="innovation-series.md"><strong>Skill Builder</strong></a>
-    <br>
     <em>Join us for a 30-minute Skill Builder to learn how to put your e-signatures to work—without adding any extra work to your day</em>
+    <br>
   </td>
   <td>
     <a href="recipes.md">
@@ -31,8 +31,8 @@ Learn how you can transform your organization's e-signing experiences by explori
     </a>
     <div>
     <a href="recipes.md"><strong>Use Case recipes</strong></a>
-    <br>
     <em>Download the resources you need to quickly deploy various e-signature department workflows on your own</em>
+    <br>
   </td>
   <td>
     <a href="use-case-showcase.md">
@@ -40,8 +40,8 @@ Learn how you can transform your organization's e-signing experiences by explori
     </a>
     <div>
     <a href="use-case-showcase.md"><strong>Use Case showcase</strong></a>
-    <br>
     <em>Watch live or recorded sessions introducing you to new Adobe Sign use cases and trends</em>
+    <br>
   </td>
 </tr>
 </table>
