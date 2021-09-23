@@ -54,11 +54,11 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="digitalid-advanced.md">
+    <a href="intesi-advanced.md">
       <img alt="Get a digital ID from Intesi Group (Advanced)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="digitalid-advanced.md"><strong>Get a digital ID from Intesi Group (Advanced)</strong></a>
+    <a href="intesi-advanced.md"><strong>Get a digital ID from Intesi Group (Advanced)</strong></a>
     </div>
     <br>
     <em>Learn how to obtain an Advanced digital signing certificate from Intesi Group</em>
@@ -74,11 +74,11 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <em>Learn how to obtain a Qualified digital signing certificate from Intesi Group</em>
   </td>
   <td>
-    <a href="intesi-signing.md">
+    <a href="intesi-sign.md">
       <img alt="Signing using Intesi Group" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-signing.md"><strong>Signing using Intesi Group</strong></a>
+    <a href="intesi-sign.md"><strong>Signing using Intesi Group</strong></a>
     </div>
     <br>
     <em>Learn how to use your Intesi Group digital ID</em>
