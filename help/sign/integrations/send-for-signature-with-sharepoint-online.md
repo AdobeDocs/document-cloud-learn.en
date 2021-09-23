@@ -10,7 +10,7 @@ exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
 ---
 # Send for signature in SharePoint Online
 
-In this video tutorial, learn how to streamline document workflows by sending a document for signature directly within Sharepoint Online.
+Learn how to streamline document workflows by sending a document for signature directly within Sharepoint Online.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
 

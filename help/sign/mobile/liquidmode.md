@@ -10,6 +10,6 @@ exl-id: e7680e55-d95d-413a-bb2b-2ee6416b7b99
 ---
 # Liquid Mode in Adobe Sign
 
-In this video tutorial, learn how Liquid Mode improves the mobile signing experience. It reduces pinching and zooming to easily focus on fillable fields.
+Learn how Liquid Mode improves the mobile signing experience. It reduces pinching and zooming to easily focus on fillable fields.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?hidetitle=true)
