@@ -23,7 +23,7 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Electronically signing a document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and signing a document](sign-beginner-tutorials/fill-and-sign.md)
     + [Getting a signature in person](sign-beginner-tutorials/sign-in-person.md)
-    + [Signing using a digital signature](sign-beginner-tutorials/sign-with-a-digital-signature.md)
+    + [What's a digital signature?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
     + [Signing with a stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
   + Managing {#getting-started-managing}
     + [Managing and tracking documents](sign-beginner-tutorials/manage-and-track.md)

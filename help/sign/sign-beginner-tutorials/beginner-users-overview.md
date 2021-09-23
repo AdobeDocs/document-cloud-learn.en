@@ -88,13 +88,13 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Signing using a digital signature" src="../assets/Digital-Signature.png" />
+      <img alt="What's a digital signature" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>Signing using a digital signature</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>What's a digital signature</strong></a>
     </div>
     <br>
-    <em>Sign a document with a cloud-based digital signature — based on digital certificates by trusted third parties</em>
+    <em>Learn about certificate-based digital signatures</em>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
