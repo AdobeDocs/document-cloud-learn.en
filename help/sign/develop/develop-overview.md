@@ -22,6 +22,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Getting started</strong></a>
+    </div>
     <em>Create your developer account now to get started</em>
     <br>
   </td>
@@ -31,6 +32,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Learn what you can do</strong></a>
+    </div>
     <em>Learn how you can incorporate the functionality of Adobe Sign into any external application</em>
     <br>
   </td>  
@@ -40,6 +42,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
     </a>
     <div>
     <a href="gigasign.md"><strong>Gather high-volume documents using GigaSign</strong></a>
+    </div>
     <em>Send, collect, and track documents for signature to thousands of people at the same time</em>
     <br>
   </td>
@@ -51,6 +54,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
     </a>
     <div>
     <a href="embeddedesignature.md"><strong>Create embedded e-signature and document experiences</strong></a>
+    </div>
     <em>Learn how to use Adobe Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems</em>
     <br>
   </td>
