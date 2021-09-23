@@ -1,6 +1,6 @@
 ---
 title: Signing using Intesi Group
-description: Learn how to use your Intesi Group digital ID
+description: Learn how to use your Intesi Group digital ID with Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
