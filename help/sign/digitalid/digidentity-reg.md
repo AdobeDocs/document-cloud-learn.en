@@ -14,6 +14,8 @@ Learn how to obtain a digital signing certificate from Digidentity. Once registe
 
 >[!VIDEO](https://video.tv.adobe.com/v/337067?hidetitle=true)
 
-Select the image below to learn how to use your Digidentity digital ID in Adobe Sign.
+<br>&nbsp;
 
-[![image](assets/Digidentitysign_400.jpg)](digidentity-sign.md)
+**Select the image below to learn how to use your Digidentity digital ID in Adobe Sign.**
+
+[![image](assets/Digidentitysign_400.png)](digidentity-sign.md)

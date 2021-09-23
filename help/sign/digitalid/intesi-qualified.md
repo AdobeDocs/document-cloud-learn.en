@@ -14,6 +14,8 @@ Learn how to obtain a qualified digital signing certificate from Intesi Group. O
 
 >[!VIDEO](https://video.tv.adobe.com/v/337064?hidetitle=true)
 
-Select the image below to learn how to use your Qualified Intesi Group digital ID in Adobe Sign.
+<br>&nbsp;
 
-[![image](assets/IntesiSign_400.jpg)](intesi-sign.md)
+**Select the image below to learn how to use your Qualified Intesi Group digital ID in Adobe Sign.**
+
+[![image](assets/IntesiSign_400.png)](intesi-sign.md)
