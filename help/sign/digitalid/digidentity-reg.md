@@ -7,6 +7,7 @@ solution: Document Cloud
 level: Beginner
 thumbnail: KT-8669.jpg
 kt: 8669
+exl-id: 783bfbee-6bf2-4953-a3ac-2d398f528106
 ---
 # Get a digital ID from Digidentity
 

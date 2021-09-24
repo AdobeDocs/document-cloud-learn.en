@@ -7,6 +7,7 @@ solution: Document Cloud
 level: Beginner
 thumbnail: KT-8702.jpg
 kt: 8702
+exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
 ---
 # Get a digital ID from Intesi Group (Advanced)
 

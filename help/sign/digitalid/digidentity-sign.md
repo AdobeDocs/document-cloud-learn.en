@@ -7,6 +7,7 @@ solution: Document Cloud
 level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
+exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
 ---
 # Signing using Digidentity
 

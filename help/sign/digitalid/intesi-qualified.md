@@ -7,6 +7,7 @@ solution: Document Cloud
 level: Beginner
 thumbnail: KT-8704.jpg
 kt: 8704
+exl-id: aea17112-0a06-4ea6-8a44-9f4ba5eebc29
 ---
 # Get a digital ID from Intesi Group (Qualified)
 
