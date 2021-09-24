@@ -17,28 +17,28 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 >
 >Before you can use a digital ID with a cloud signature, please check with your organization’s administrator to confirm that the provider’s solution is enabled in Adobe Sign.
 
-## Digidentity
+## [!DNL Digidentity]
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="digidentity-reg.md">
-      <img alt="Get a digital ID from Digidentity" src="assets/Digidentityreg_1280.png" />
+      <img alt="Get a digital ID from [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>Get a digital ID from Digidentity</strong></a>
+    <a href="digidentity-reg.md"><strong>Get a digital ID from [!DNL Digidentity]</strong></a>
     </div>
-    <em>Learn how to obtain a digital signing certificate from Digidentity</em>
+    <em>Learn how to obtain a digital signing certificate from [!DNL Digidentity]</em>
     <br>
   </td>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="Signing using Digidentity" src="assets/Digidentitysign_1280.png" />
+      <img alt="Signing using [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>Signing using Digidentity</strong></a>
+    <a href="digidentity-sign.md"><strong>Signing using [!DNL Digidentity]</strong></a>
     </div>
-    <em>Learn how to use your Digidentity digital ID with Adobe Sign</em>
+    <em>Learn how to use your [!DNL Digidentity] digital ID with Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -49,7 +49,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 </tr>
 </table>
 
-## Intesi Group
+## [!DNL Intesi Group]
 
 <table style="table-layout:fixed">
 <tr>
@@ -58,19 +58,19 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
       <img alt="Get a digital ID from Intesi Group (Advanced)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>Get a digital ID from Intesi Group (Advanced)</strong></a>
+    <a href="intesi-advanced.md"><strong>Get a digital ID from [!DNL Intesi Group] (Advanced)</strong></a>
     </div>
-    <em>Learn how to obtain an Advanced digital signing certificate from Intesi Group</em>
+    <em>Learn how to obtain an Advanced digital signing certificate from [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="Get a digital ID from Intesi Group (Qualified)" src="assets/IntesiQualified_1280.png" />
+      <img alt="Get a digital ID from [!DNL Intesi Group] (Qualified)" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>Get a digital ID from Intesi Group (Qualified)</strong></a>
+    <a href="intesi-qualified.md"><strong>Get a digital ID from [!DNL Intesi Group] (Qualified)</strong></a>
     </div>
-    <em>Learn how to obtain a Qualified digital signing certificate from Intesi Group</em>
+    <em>Learn how to obtain a Qualified digital signing certificate from [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -78,9 +78,9 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
       <img alt="Signing using Intesi Group" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>Signing using Intesi Group</strong></a>
+    <a href="intesi-sign.md"><strong>Signing using [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Learn how to use your Intesi Group digital ID with Adobe Sign</em>
+    <em>Learn how to use your [!DNL Intesi Group] digital ID with Adobe Sign</em>
     <br>
   </td>
 </tr>
