@@ -29,6 +29,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Fill and sign a PDF form](getting-started/fill-and-sign.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
+  + [Detect differences between two PDFs](advanced-tasks/compare.md)
   + [Action Wizard](advanced-tasks/action.md)
   + [Redact & Sanitize](advanced-tasks/redact.md)
   + [Reduce file size & optimize](advanced-tasks/reduce.md)

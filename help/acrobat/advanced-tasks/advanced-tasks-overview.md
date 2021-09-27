@@ -18,6 +18,16 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="Detect differences between two PDFs" src="../assets/Compare_1280.png" />
+    </a>
+    <div>
+    <a href="compare.md"><strong>Detect differences between two PDFs</strong></a>
+    </div>
+    <em>Quickly and accurately detect the differences between two PDF files to improve document review workflows</em>
+    <br>
+  </td>
+  <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
     </a>
@@ -37,6 +47,8 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <em>Permanently remove private or sensitive information from your PDF</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="reduce.md">
       <img alt="Reduce file size & optimize" src="../assets/Reduce.jpg" />
@@ -47,8 +59,6 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -68,7 +78,9 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     </div>
     <em>Create universally accessible PDF files</em>
     <br>
-  </td>  
+  </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Preparing Accessible PDF Files" src="../assets/Accessibilityseries_1280.png" />
@@ -78,6 +90,16 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     </div>
     <em>In this six-part on-demand webinar series, go from the basics of Accessiblity to a deep-dive of tagging your PDF files</em>
     <br>
-  </td> 
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
