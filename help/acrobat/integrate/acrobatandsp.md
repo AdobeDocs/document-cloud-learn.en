@@ -1,6 +1,6 @@
 ---
-title: Work with your [!DNLSharePoint] Files
-description: Streamline document workflows with SharePoint and Acrobat DC using the Adobe Document Cloud PDF Experience for Office 365
+title: Work with your [!DNL SharePoint] Files
+description: Streamline document workflows with [!DNL SharePoint] and Acrobat DC using the Adobe Document Cloud PDF Experience for [!DNL Office 365]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -10,7 +10,7 @@ exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
 ---
 # Work with your [!DNL SharePoint] files
 
-Streamline document workflows with [!DNLSharePoint] and Acrobat DC using the [Adobe Document Cloud PDF Experience for Office 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Securely convert [!DNL Microsoft 365] files to PDFs, combine documents into one file, comment, and rearrange pages — right from [!DNL SharePoint] online.
+Streamline document workflows with [!DNL SharePoint] and Acrobat DC using the [Adobe Document Cloud PDF Experience for Office 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Securely convert [!DNL Microsoft 365] files to PDFs, combine documents into one file, comment, and rearrange pages — right from [!DNL SharePoint] online.
 
 >[!NOTE]
 >
