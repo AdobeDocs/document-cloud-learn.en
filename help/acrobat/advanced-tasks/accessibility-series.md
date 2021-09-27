@@ -41,7 +41,7 @@ In this six-part on-demand webinar series, go from the basics of Accessibility t
       <img alt="Complex tables" src="../assets/Accessibilitysession3_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession3.md"><strong>complex tables</strong></a>
+    <a href="accessibilitysession3.md"><strong>Complex tables</strong></a>
     </div>
     <em>This on-demand session addresses one of the more common and challenging issues in remediating a PDF for accessibility--complex tables</em>
     <br>
