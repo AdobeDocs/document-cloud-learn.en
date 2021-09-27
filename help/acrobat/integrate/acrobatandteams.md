@@ -1,5 +1,5 @@
 ---
-title: PDF Collaboration in Microsoft Teams
+title: PDF Collaboration in [!DNL Microsoft Teams]
 description: Adobe Acrobat for Teams allows users to collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving Microsoft Teams
 role: User
 product: adobe acrobat

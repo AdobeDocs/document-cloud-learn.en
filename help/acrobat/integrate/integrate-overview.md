@@ -42,12 +42,12 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
   </td>  
   <td>
     <a href="acrobatandteams.md">
-      <img alt="PDF collaboration in Microsoft Teams" src="../assets/MicrosoftTeams.png" />
+      <img alt="PDF collaboration in [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
     </a>
     <div>
-    <a href="acrobatandteams.md"><strong>PDF collaboration in Microsoft Teams</strong></a>
+    <a href="acrobatandteams.md"><strong>PDF collaboration in [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving Microsoft Teams</em>
+    <em>Collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>

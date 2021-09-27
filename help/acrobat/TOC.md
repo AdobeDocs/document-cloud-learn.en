@@ -56,7 +56,7 @@ breadcrumb-title: Acrobat Tutorials
 + Integrate {#integrations}
   + [Overview](integrate/integrate-overview.md)
   + [Create PDF from Microsoft Word](integrate/createfromword.md)
-  + [Microsoft Teams](integrate/acrobatandteams.md)
+  + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
   + [Work with your SharePoint files](integrate/acrobatandsp.md)
   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
   + [Convert email messages and attachments to PDF in Outlook](integrate/outlook.md)
