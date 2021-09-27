@@ -25,19 +25,19 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
       <img alt="Create PDF files from Microsoft Word" src="../assets/CreateWord.png" />
     </a>
     <div>
-    <a href="createfromword.md"><strong>Create PDF files from Microsoft Word</strong></a>
+    <a href="createfromword.md"><strong>Create PDF files from [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Create rich, robust PDF files with hyperlinked table of contents and cross-references, bookmarks, and even attachments directly from Microsoft Word</em>
+    <em>Create rich, robust PDF files with hyperlinked table of contents and cross-references, bookmarks, and even attachments directly from [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
     <a href="acrobatandsp.md">
-      <img alt="Work with your SharePoint files" src="../assets/SharePoint.png" />
+      <img alt="Work with your [!DNL SharePoint] files" src="../assets/SharePoint.png" />
     </a>
     <div>
-    <a href="acrobatandsp.md"><strong>Work with your SharePoint files</strong></a>
+    <a href="acrobatandsp.md"><strong>Work with your [!DNL SharePoint] files</strong></a>
     </div>
-    <em>Streamline document workflows with SharePoint and Acrobat DC</em>
+    <em>Streamline document workflows with [!DNL SharePoint] and Acrobat DC</em>
     <br>
   </td>  
   <td>
@@ -57,9 +57,9 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
       <img alt="Convert email messages and attachments to PDF in Outlook" src="../assets/Outlook.jpg" />
     </a>
     <div>
-    <a href="outlook.md"><strong>Convert email messages and attachments to PDF in Outlook</strong></a>
+    <a href="outlook.md"><strong>Convert email messages and attachments to PDF in [!DNL Outlook]</strong></a>
     </div>
-    <em>Learn how to deliver information in a more professional and secure manner inside of Outlook</em>
+    <em>Learn how to deliver information in a more professional and secure manner inside of [!DNL Outlook]</em>
     <br>
   </td>
   <td>
@@ -77,7 +77,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
 
 ## Google Drive
 
-Learn how to get more done in less time with essential PDF and e-signature tools inside Google Drive.
+Learn how to get more done in less time with essential PDF and e-signature tools inside [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -86,9 +86,9 @@ Learn how to get more done in less time with essential PDF and e-signature tools
       <img alt="Adobe Acrobat for Google Drive" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat for Google Drive</strong></a>
+    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat for [!DNL Google Drive]</strong></a>
     </div>
-    <em>Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app</em>
+    <em>Get access to time-saving PDF tools and e-signature workflows directly inside the [!DNL Google Drive] app</em>
     <br>
   </td>
   <td>
