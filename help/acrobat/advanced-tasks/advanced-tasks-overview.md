@@ -97,7 +97,7 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Whitepacer.png" />
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
