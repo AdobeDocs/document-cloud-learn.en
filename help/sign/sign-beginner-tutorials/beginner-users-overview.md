@@ -51,7 +51,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Getting started with Adobe Sign for new senders" src="../assets/New-sender_1280.png" />
+      <img alt="Getting started with Adobe Sign for new senders" src="../assets/Newsender_1280.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>Getting started with Adobe Sign for new senders</strong></a>
