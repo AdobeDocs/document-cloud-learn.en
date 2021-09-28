@@ -63,8 +63,13 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="edge.md">
+      <img alt="Create PDF content while browsing with [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+    </a>
     <div>
+    <a href="edge.md"><strong>Create PDF content while browsing with [!DNL Microsoft Edge]</strong></a>
+    </div>
+    <em>Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]</em>
     <br>
   </td>
   <td>
