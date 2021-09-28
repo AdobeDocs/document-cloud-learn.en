@@ -19,6 +19,7 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Quick tour of Adobe Sign](sign-beginner-tutorials/quick-tour.md)
     + [Sending to a single recipient](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Sending to multiple recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
+    + [Getting started with Adobe Sign for new senders](sign-beginner-tutorials/new-sender.md)
   + Signing {#getting-started-signing}
     + [Electronically signing a document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and signing a document](sign-beginner-tutorials/fill-and-sign.md)

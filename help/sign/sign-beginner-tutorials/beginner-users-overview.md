@@ -48,6 +48,28 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <br>
   </td>
 </tr>
+<tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Getting started with Adobe Sign for new senders" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Getting started with Adobe Sign for new senders</strong></a>
+    </div>
+    <em>This comprehensive tutorial is a great place to start for new senders in Adobe Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Signing
