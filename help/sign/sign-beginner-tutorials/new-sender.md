@@ -7,6 +7,7 @@ solution: Document Cloud
 level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
+exl-id: d4309ad3-003a-4415-9845-8919006c7567
 ---
 # Getting started with Adobe Sign for new senders
 
