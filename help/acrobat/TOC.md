@@ -61,6 +61,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Work with your SharePoint files](integrate/acrobatandsp.md)
   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
   + [Convert email messages and attachments to PDF in Outlook](integrate/outlook.md)
+  + [Create PDF content while browsing with Microsoft Edge](integrate/edge.md)
 + Industry {#by-industry}
   + [Overview](industry/industry-overview.md)
   + Government {#gov}
