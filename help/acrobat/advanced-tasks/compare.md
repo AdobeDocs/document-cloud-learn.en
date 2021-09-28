@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-8496.jpg
 kt: 8496
+exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
 ---
 # Detect differences between two PDFs
 
