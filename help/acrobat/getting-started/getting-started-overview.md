@@ -28,13 +28,13 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Work anywhere with Acrobat web" src="../assets/Acrobatweb_1280.jpg" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
+    <a href="acrobatweb.md"><strong>Work anywhere with Acrobat web</strong></a>
     </div>
-    <em>Understand where PDFs come from and their uses</em>
+    <em>Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser</em>
     <br>
   </td>
   <td>
@@ -141,6 +141,28 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <a href="fill-and-sign.md"><strong>Fill and sign a PDF form</strong></a>
     </div>
     <em>Quickly fill in and sign a PDF form</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
+    </div>
+    <em>Understand where PDFs come from and their uses</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
