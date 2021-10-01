@@ -16,7 +16,7 @@ breadcrumb-title: Acrobat Tutorials
 + Getting started {#getting-started}
   + [Overview](getting-started/getting-started-overview.md)
   + [Get to know the Acrobat DC interface](getting-started/get-to-know-the-acrobat-dc-interface.md)
-  + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
+  + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)
   + [Combine files to PDF](getting-started/combine-to-pdf.md)
   + [Create PDF files](getting-started/create-pdf.md)
   + [Comment on PDF files in Acrobat DC](getting-started/comment-on-pdf-files.md)
@@ -27,6 +27,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Organize pages](getting-started/organize.md)
   + [Protect a PDF file with a password](getting-started/password-protect.md)
   + [Fill and sign a PDF form](getting-started/fill-and-sign.md)
+  + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
   + [Detect differences between two PDFs](advanced-tasks/compare.md)
