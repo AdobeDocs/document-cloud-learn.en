@@ -29,7 +29,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Work anywhere with Acrobat web" src="../assets/Acrobatweb_1280.jpg" />
+      <img alt="Work anywhere with Acrobat web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
     <a href="acrobatweb.md"><strong>Work anywhere with Acrobat web</strong></a>
