@@ -47,7 +47,7 @@ breadcrumb-title: Acrobat Tutorials
 + 60-second Acrobat {#60-second}
   + [Overview](60-second/60-second-overview.md)
   + [Combine files into one PDF](60-second/combine-to-one-pdf.md)
-  + [Edit PDF with Acrobat Web](60-second/edit.md)
+  + [Edit PDF with Acrobat web](60-second/edit.md)
   + [Search multiple PDF files at once](60-second/search.md)
   + [Create a PDF of photos in an instant](60-second/photo.md)
   + [Convert a PPT file to PDF on your phone](60-second/phone.md)
@@ -59,7 +59,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Overview](integrate/integrate-overview.md)
   + [Create PDF from [!DNL Microsoft Word]](integrate/createfromword.md)
   + [Create PDFs in [!DNL Office] for the web](integrate/createofficeweb.md)
-  + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+  + [PDF collaboration in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
   + [Work with your SharePoint files](integrate/acrobatandsp.md)
   + [Convert email messages and attachments to PDF in Outlook](integrate/outlook.md)
   + [Create PDF content while browsing with Microsoft Edge](integrate/edge.md)
