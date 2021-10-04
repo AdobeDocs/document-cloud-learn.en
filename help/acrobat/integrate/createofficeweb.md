@@ -12,4 +12,8 @@ kt: 8497
 
 Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] for web apps. This add-on requires a subscription to Acrobat DC for teams or Acrobat DC for enterprise subscription.
 
+>[!NOTE]
+>
+>Adobe Acrobat for [!DNL Microsoft 365] includes free features (such as viewing and searching within PDFs) available to all users. Other features (such as creating and combining PDFs) require a paid Acrobat DC for teams or Acrobat DC for enterprise subscription.
+
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
