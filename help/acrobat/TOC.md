@@ -58,7 +58,7 @@ breadcrumb-title: Acrobat Tutorials
 + Integrate {#integrations}
   + [Overview](integrate/integrate-overview.md)
   + [Create PDF from [!DNL Microsoft Word]](integrate/createfromword.md)
-  + [Create PDFs in [!DNL Office] for the web]integrate/createofficeweb.md)
+  + [Create PDFs in [!DNL Office] for the web](integrate/createofficeweb.md)
   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
   + [Work with your SharePoint files](integrate/acrobatandsp.md)
   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
