@@ -61,9 +61,9 @@ breadcrumb-title: Acrobat Tutorials
   + [Create PDFs in [!DNL Office] for the web](integrate/createofficeweb.md)
   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
   + [Work with your SharePoint files](integrate/acrobatandsp.md)
-  + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
   + [Convert email messages and attachments to PDF in Outlook](integrate/outlook.md)
   + [Create PDF content while browsing with Microsoft Edge](integrate/edge.md)
+  + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
 + Industry {#by-industry}
   + [Overview](industry/industry-overview.md)
   + Government {#gov}
