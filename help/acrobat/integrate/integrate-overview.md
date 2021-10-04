@@ -31,6 +31,16 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="Create PDFs in [!DNL Office] for the web" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>Create PDFs in [!DNL Office] for the web</strong></a>
+    </div>
+    <em>Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] for web apps</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="Work with your [!DNL SharePoint] files" src="../assets/SharePoint.png" />
     </a>
@@ -40,6 +50,8 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <em>Streamline document workflows with [!DNL SharePoint] and Acrobat DC</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF collaboration in [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -50,8 +62,6 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <em>Collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving [!DNL Microsoft Teams]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="Convert email messages and attachments to PDF in Outlook" src="../assets/Outlook.jpg" />
@@ -70,11 +80,6 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <a href="edge.md"><strong>Create PDF content while browsing with [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
