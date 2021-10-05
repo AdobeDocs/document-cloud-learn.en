@@ -38,6 +38,18 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <br>
   </td>
   <td>
+    <a href="collaborate.md">
+      <img alt="Collaborate in real time" src="../assets/Collaborate_1280.png" />
+    </a>
+    <div>
+     <a href="collaborate.md"><strong>Collaborate in real time</strong></a>
+    </div>
+    <em>Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files to PDF" src="../assets/Combine.jpg" />
     </a>
@@ -47,8 +59,6 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Combine many different types of files into a single PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="Create PDF files" src="../assets/Create.jpg" />
@@ -69,6 +79,8 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Add comments to a PDF file and then share it with others</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="Edit a PDF in Acrobat DC" src="../assets/Edit.jpg" />
@@ -79,9 +91,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Edit text and images in PDF files</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="export-pdf.md">
       <img alt="Export a PDF to editable formats" src="../assets/Export.jpg" />
     </a>
@@ -100,7 +110,9 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     </div>
     <em>Turn a document created in other application into a fillable PDF form</em>
     <br>
-  </td>  
+  </td>
+</tr>
+<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Scan & OCR" src="../assets/Scan.jpg" />
@@ -111,8 +123,6 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="organize.md">
       <img alt="Organize Pages" src="../assets/Organize.jpg" />
@@ -133,6 +143,8 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Add a password to your PDF to protect others from opening or editing the file</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Fill and sign a PDF form" src="../assets/FillSign.jpg" />
@@ -143,9 +155,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Quickly fill in and sign a PDF form</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -153,11 +163,6 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
     </div>
     <em>Understand where PDFs come from and their uses</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
