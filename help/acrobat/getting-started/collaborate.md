@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8255.jpg
 kt: 8255
+exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
 ---
 # Collaborate in real time
 
