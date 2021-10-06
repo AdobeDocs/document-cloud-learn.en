@@ -167,8 +167,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="modify-in-flight.md"><strong>Modifying a document already sent for signature</strong></a>
     </div>
-    <br>
     <em>Modify the workflow for a document that's already in progress</em>
+    <br>
   </td>
 </tr>
 </table>
