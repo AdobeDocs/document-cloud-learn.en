@@ -18,3 +18,7 @@ Learn how to export your PDF files to editable formats--like Microsoft Word, Pow
  <br>&nbsp;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35494?hidetitle=true)
+
+>[!TIP]
+>
+>Learn all about how to work with [Acrobat and Microsoft 365](../integrate/integrate-overview.md).

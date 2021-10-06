@@ -38,6 +38,18 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <br>
   </td>
   <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Work with Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Work with Microsoft 365</strong></a>
+    </div>
+    <em>Increase productivity and business document workflows with Acrobat and Microsoft 365</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="collaborate.md">
       <img alt="Collaborate in real time" src="../assets/Collaborate_1280.png" />
     </a>
@@ -47,8 +59,6 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files to PDF" src="../assets/Combine.jpg" />
@@ -69,6 +79,8 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Create PDFs from all different kinds of documents</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Comment on PDF files in Acrobat DC" src="../assets/Comment.jpg" />
@@ -78,9 +90,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     </div>
     <em>Add comments to a PDF file and then share it with others</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="edit-pdf.md">
       <img alt="Edit a PDF in Acrobat DC" src="../assets/Edit.jpg" />
@@ -101,6 +111,8 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Learn how to export your PDF files to editable formats</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="Create fillable forms" src="../assets/Form.jpg" />
@@ -111,8 +123,6 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Turn a document created in other application into a fillable PDF form</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Scan & OCR" src="../assets/Scan.jpg" />
@@ -133,6 +143,8 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Add, replace, extract, rotate, delete, and move pages in your PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="password-protect.md">
       <img alt="Protect a PDF file with a password" src="../assets/Protect.jpg" />
@@ -143,8 +155,6 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Add a password to your PDF to protect others from opening or editing the file</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Fill and sign a PDF form" src="../assets/FillSign.jpg" />
@@ -155,7 +165,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <em>Quickly fill in and sign a PDF form</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -163,11 +173,6 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
     </div>
     <em>Understand where PDFs come from and their uses</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
