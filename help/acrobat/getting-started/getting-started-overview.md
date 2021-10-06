@@ -44,7 +44,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>Work with Microsoft 365</strong></a>
     </div>
-    <em>Increase productivity and business document workflows with Acrobat and Microsoft 365</em>
+    <em>Increase productivity and business document workflows with Acrobat and [!DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>
