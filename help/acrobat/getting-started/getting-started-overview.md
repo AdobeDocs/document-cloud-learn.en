@@ -74,7 +74,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
       <img alt="Create PDF files" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>Create PDF files</strong></a>
+    <a href="create-pdf.md"><strong>Create a PDF</strong></a>
     </div>
     <em>Create PDFs from all different kinds of documents</em>
     <br>
@@ -86,7 +86,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
       <img alt="Comment on PDF files in Acrobat DC" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Comment on PDF files in Acrobat DC</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>Comment on a PDF</strong></a>
     </div>
     <em>Add comments to a PDF file and then share it with others</em>
     <br>
@@ -96,7 +96,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
       <img alt="Edit a PDF in Acrobat DC" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Edit a PDF in Acrobat DC</strong></a>
+    <a href="edit-pdf.md"><strong>Edit a PDF</strong></a>
     </div>
     <em>Edit text and images in PDF files</em>
     <br>
@@ -160,7 +160,7 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
       <img alt="Fill and sign a PDF form" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill and sign a PDF form</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>Quickly fill in and sign a PDF form</em>
     <br>
