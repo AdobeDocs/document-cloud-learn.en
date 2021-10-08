@@ -1,5 +1,5 @@
 ---
-title: Fill and Sign a PDF Form
+title: Fill and Sign PDF Forms
 description: Learn how to quickly and easily fill and sign a PDF form
 role: User
 product: adobe acrobat
@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: 35495.jpg
 exl-id: 3ec14eda-755e-425d-bdd7-e3c1cac8f7af
 ---
-# Fill and sign a PDF form
+# Fill and sign PDF forms
 
 Learn how to quickly and easily fill and sign a PDF form. No messy printing or scanning is necessary.
 
