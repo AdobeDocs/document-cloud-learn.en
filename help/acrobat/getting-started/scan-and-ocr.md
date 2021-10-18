@@ -9,13 +9,13 @@ exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 ---
 # Scan & OCR
 
-Convert scans or images of documents into searchable, editable PDF files, and adjust the quality of the resulting file in Acrobat DC.
+Convert scans or images of documents into searchable, editable PDF files, and adjust the quality of the resulting file.
 
 >[!TIP]
 >
 >To OCR multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
 
-1. Select **[!UICONTROL Scan & OCR]** from the [!UICONTROL Tools] center.
+1. Select **[!UICONTROL Scan & OCR]** from the [!UICONTROL Tools] center or right-hand pane.
 
     ![Scan Step 1](../assets/Scan_1.png)
 
@@ -27,7 +27,7 @@ Convert scans or images of documents into searchable, editable PDF files, and ad
 
 1. Choose **[!UICONTROL Scanned Document]** or **[!UICONTROL Camera Image]** to enhance the document. 
 
-1. Click **[!UICONTROL Enhance]** to clean up the image.
+1. Select **[!UICONTROL Enhance]** to clean up the image.
 
     ![Scan Step 3](../assets/Scan_3.png)
 
