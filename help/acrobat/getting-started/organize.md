@@ -21,7 +21,7 @@ Use **[!UICONTROL Organize Pages]** in Acrobat DC to add, replace, extract, rota
 
     ![Organize Step 2](../assets/Organize_2.png)
 
-1. Select **[!UICONTROL Extract]** in the toolbar, to create a new PDF from one or more pages. 
+1. Select **[!UICONTROL Extract]** in the toolbar, to create a PDF from one or more pages. 
 
 1. Select the page or pages, then select **[!UICONTROL Extract]**. 
 
