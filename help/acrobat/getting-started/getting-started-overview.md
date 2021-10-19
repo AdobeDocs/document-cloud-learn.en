@@ -19,10 +19,10 @@ Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-ste
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Get to Know the Acrobat DC Interface" src="../assets/Interface.jpg" />
+      <img alt="Workspace basics" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Get to know the Acrobat DC interface</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
     </div>
     <em>See how the Adobe Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile</em>
     <br>
