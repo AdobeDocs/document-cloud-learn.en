@@ -22,11 +22,11 @@ Create, fill, and sign PDFs on your mobile device.
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="productivity.md">
+    <a href="../getting-started/productivity.md">
       <img alt="Productivity on the go" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="productivity.md"><strong>Productivity on the go</strong></a>
+     <a href="../getting-started/productivity.md"><strong>Productivity on the go</strong></a>
     </div>
     <em>Do more right from your tablet or mobile phone with the Acrobat Reader mobile app</em>
     <br>
