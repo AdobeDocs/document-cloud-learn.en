@@ -15,6 +15,35 @@ exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
 
 Create, fill, and sign PDFs on your mobile device.
 
+## Acrobat Reader mobile app tutorials
+
+## Acrobat tutorials
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="productivity.md">
+      <img alt="Productivity on the go" src="../assets/Productivity_1280.png" />
+    </a>
+    <div>
+     <a href="productivity.md"><strong>Productivity on the go</strong></a>
+    </div>
+    <em>Do more right from your tablet or mobile phone with the Acrobat Reader mobile app</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 Download [Adobe Acrobat Reader mobile app](https://acrobat.adobe.com/us/en/mobile/acrobat-reader.html){target="_blank"} the free global standard for reliably viewing, annotating, and signing PDFs.
 
 [Acrobat Reader for iOS mobile guide](https://www.adobe.com/go/v_acrobatios_en){target="_blank"}

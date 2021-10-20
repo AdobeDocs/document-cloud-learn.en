@@ -38,13 +38,13 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <br>
   </td>
   <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Work with Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    <a href="productivity.md">
+      <img alt="Productivity on the go" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Work with Microsoft 365</strong></a>
+     <a href="productivity.md"><strong>Productivity on the go</strong></a>
     </div>
-    <em>Increase productivity and business document workflows with Acrobat and [!DNL Microsoft 365]</em>
+    <em>Do more right from your tablet or mobile phone with the Acrobat Reader mobile app</em>
     <br>
   </td>
 </tr>
