@@ -69,7 +69,7 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Get a digital ID from Intesi Group (Advanced)](digitalid/intesi-advanced.md)
     + [Get a digital ID from Intesi Group (Qualified)](digitalid/intesi-qualified.md)
     + [Signing using Intesi Group](digitalid/intesi-sign.md)
-+ Integrate {#integrations}
++ Integrations {#integrations}
   + [Overview](integrations/integrations-overview.md)
   + Microsoft {#microsoft}
     + [Filling and signing in Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
@@ -91,7 +91,7 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Send reminders using Adobe Sign for Salesforce and Marketo configuration guide](integrations/marketo-salesforce-reminder.md)
     + [Send notifications using Adobe Sign for Microsoft Dynamics and Marketo](integrations/marketo-dynamics-sms.md)
     + [Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo](integrations/marketo-dynamics-reminder.md)
-+ Industry and department {#expand}
++ Industries and departments {#expand}
   + [Overview](sign-usecase/expand-inspire-overview.md)
   + Skill Builder {#innovation}
     + [Webinars](sign-usecase/innovation-series.md)
