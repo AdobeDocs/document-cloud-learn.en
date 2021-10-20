@@ -1,5 +1,5 @@
 ---
-title: Integrate Overview
+title: Integrations Overview
 description: Learn how to add Adobe Sign to your existing systems, processes, and applications
 role: User
 product: adobe sign
@@ -8,7 +8,7 @@ topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 ---
-# Integrate overview
+# Integrations overview
 
 ![Sign Integrate Image](../assets/Hero-Integrate.png)
 

@@ -1,5 +1,5 @@
 ---
-title: Industry and Department Overview
+title: Industries and Departments Overview
 description: See how you can transform customer and employee e-signing experiences through these real-world industry and department use cases, recipes, and webinars
 role: User
 product: adobe sign
@@ -8,7 +8,7 @@ thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
 ---
-# Industry and department overview
+# Industries and departments overview
 
 ![Adobe Sign Industry Image](../assets/Hero-Industry.png)
 
