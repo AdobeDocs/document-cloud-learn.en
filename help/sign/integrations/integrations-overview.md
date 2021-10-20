@@ -15,7 +15,7 @@ exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 You can use Adobe Sign inside other applications your organization already uses, such as Microsoft, Salesforce, Workday, and Marketo to name a few. Learn how you can simplify your e-signature workflows in these integration guides and tutorials. 
 
 >[!NOTE]
-> If you're having trouble accessing any of these features, check with your organization's administrator to ensure the integration is enabled.
+> If you're having trouble accessing any of these features, check with your organization's administrator to ensure that the integration is enabled.
 
 ## Microsoft integrations tutorials
 
