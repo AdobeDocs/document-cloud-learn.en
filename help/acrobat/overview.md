@@ -51,20 +51,20 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
 <tr>
   <td>
     <a href="integrate/integrate-overview.md">
-      <img alt="Integrate" src="assets/acrobat_title_integrate.png" />
+      <img alt="Integrations" src="assets/acrobat_title_integrate.png" />
     </a>
     <div>
-    <a href="integrate/integrate-overview.md"><strong>Integrate</strong></a>
+    <a href="integrate/integrate-overview.md"><strong>Integrations</strong></a>
     </div>
     <em>Add Acrobat to your existing business systems, processes, and applications</em>
     <br>
   </td>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="Industry" src="assets/acrobat_title_industry.png" />
+      <img alt="Industries and departments" src="assets/acrobat_title_industry.png" />
     </a>
     <div>
-    <a href="industry/industry-overview.md"><strong>Industry</strong></a>
+    <a href="industry/industry-overview.md"><strong>Industries and departments</strong></a>
     </div>
     <em>Explore how real-world business go 100% digital</em>
     <br>
