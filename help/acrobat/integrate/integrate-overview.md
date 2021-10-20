@@ -1,5 +1,5 @@
 ---
-title: Integrate Overview
+title: Integrations Overview
 description: Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps
 role: User
 product: adobe acrobat
@@ -8,7 +8,7 @@ topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 ---
-# Integrate overview
+# Integrations overview
 
 ![Acrobat Integrate Image](../assets/Hero-Integrate.png)
 
