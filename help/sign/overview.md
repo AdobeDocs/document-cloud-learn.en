@@ -61,20 +61,20 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
   </td>
   <td>
     <a href="integrations/integrations-overview.md">
-      <img alt="Integrate" src="assets/AS_Title_Integrate.png" />
+      <img alt="Integrations" src="assets/AS_Title_Integrate.png" />
     </a>
     <div>
-    <a href="integrations/integrations-overview.md"><strong>Integrate</strong></a>
+    <a href="integrations/integrations-overview.md"><strong>Integrations</strong></a>
     </div>
     <em>Add Adobe Sign directly inside other applications your organization already uses</em>
     <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Industry and department" src="assets/AS_Title_Industry.png" />
+      <img alt="Industries and departments" src="assets/AS_Title_Industry.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industry and department</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industries and departments</strong></a>
     </div>
     <em>Explore real-world industry and department use cases and recipes redefining what's possible with e-signatures</em>
     <br>

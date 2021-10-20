@@ -1,5 +1,5 @@
 ---
-title: Send for signature in Outlook
+title: Send for Signature in Outlook
 description: Send an agreement for signature directly within Microsoft Outlook
 role: User
 product: adobe sign
