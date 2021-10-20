@@ -17,6 +17,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Overview](getting-started/getting-started-overview.md)
   + [Workspace basis](getting-started/get-to-know-the-acrobat-dc-interface.md)
   + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)
+  + [Productivity on the go](getting-started/productivity.md)
   + [Work with [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
   + [Collaborate in real time](getting-started/collaborate.md)
   + [Combine Files to PDF](getting-started/combine-to-pdf.md)
@@ -28,7 +29,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Scan & OCR](getting-started/scan-and-ocr.md)
   + [Organize Pages](getting-started/organize.md)
   + [Protect a PDF file with a password](getting-started/password-protect.md)
-  + [Fill and sign PDF forms](getting-started/fill-and-sign.md)
+  + [Fill & Sign PDF forms](getting-started/fill-and-sign.md)
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
@@ -57,7 +58,7 @@ breadcrumb-title: Acrobat Tutorials
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
   + [Webinars](skill-builder/skill-builder-webinars.md)
-+ Integrate {#integrations}
++ Integrations {#integrations}
   + [Overview](integrate/integrate-overview.md)
   + [Create PDF from [!DNL Microsoft Word]](integrate/createfromword.md)
   + [Create PDFs in [!DNL Office] for the web](integrate/createofficeweb.md)
@@ -66,7 +67,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Convert email messages and attachments to PDF in Outlook](integrate/outlook.md)
   + [Create PDF content while browsing with Microsoft Edge](integrate/edge.md)
   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
-+ Industry {#by-industry}
++ Industries and departments {#by-industry}
   + [Overview](industry/industry-overview.md)
   + Government {#gov}
     + [Overview](industry/gov/gov-overview.md)
