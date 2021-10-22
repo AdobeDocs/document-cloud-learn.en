@@ -18,17 +18,17 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
-      <img alt="Start" src="../assets/Develop_Getting-Started.png" />
+      <img alt="Create a developer account" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Getting started</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Create a developer account</strong></a>
     </div>
-    <em>Create your developer account now to get started</em>
+    <em>Learn how to get started with a developer account</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="Learn" src="../assets/Develop_Learn.png" />
+      <img alt="Learn what you can do" src="../assets/Develop_Learn.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Learn what you can do</strong></a>
