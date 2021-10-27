@@ -70,7 +70,19 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Learn how to convert an email PowerPoint attachment to PDF on your phone</em>
     <br>
   </td>  
- <td>
+  <td>
+    <a href="sign.md">
+      <img alt="Electronically sign a paper document" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>Electronically sign a paper document</strong></a>
+    </div>
+    <em>Learn to use Adobe Scan to sign a printed form</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
     <a href="indesign.md">
       <img alt="Load PDF comments into InDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
@@ -79,10 +91,8 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     </div>
     <em>Learn how to load PDF comments back into InDesign after an Acrobat shared review</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="editphoto.md">
       <img alt="Edit a photo in your PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -101,8 +111,10 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     </div>
     <em>Learn to make advanced edits to a graphic in your PDF using Illustrator</em>
     <br>
-  </td>  
- <td>
+  </td> 
+</tr>
+<tr>
+  <td>
     <a href="organize.md">
       <img alt="Organize pages in a snap" src="../assets/60sec_Organize_1280.jpg" />
     </a>
@@ -110,6 +122,16 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <a href="organize.md"><strong>Organize pages in a snap</strong></a>
     </div>
     <em>Learn to use the Organize Pages tool to get a bird’s eye view of your PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>  
 </tr>
