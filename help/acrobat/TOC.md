@@ -55,6 +55,9 @@ breadcrumb-title: Acrobat Tutorials
   + [Create a PDF of photos in an instant](60-second/photo.md)
   + [Convert a PPT file to PDF on your phone](60-second/phone.md)
   + [Load PDF comments into InDesign](60-second/indesign.md)
+  + [Edit a photo in your PDF](60-second/editphoto.md)
+  + [Edit a graphic in your PDF](60-second/editgraphic.md)
+  + [Organize pages in a snap](60-second/organize.md)
 + Skill Builders {#skill-builders}
   + [Overview](skill-builder/skill-builder-overview.md)
   + [Webinars](skill-builder/skill-builder-webinars.md)

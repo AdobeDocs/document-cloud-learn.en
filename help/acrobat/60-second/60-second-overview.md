@@ -81,4 +81,36 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <br>
   </td>  
 </tr>
+<tr>
+  <td>
+    <a href="editphoto.md">
+      <img alt="Edit a photo in your PDF" src="../assets/60sec_Editphoto_1280.jpg" />
+    </a>
+    <div>
+    <a href="editphoto.md"><strong>Edit a photo in your PDF</strong></a>
+    </div>
+    <em>Learn to make advanced edits to a photo in your PDF using Photoshop</em>
+    <br>
+  </td>
+  <td>
+    <a href="editgraphic.md">
+      <img alt="Edit a graphic in your PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
+    </a>
+    <div>
+    <a href="editgraphic.md"><strong>Edit a graphic in your PDF</strong></a>
+    </div>
+    <em>Learn to make advanced edits to a graphic in your PDF using Illustrator</em>
+    <br>
+  </td>  
+ <td>
+    <a href="organize.md">
+      <img alt="Organize pages in a snap" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>Organize pages in a snap</strong></a>
+    </div>
+    <em>Learn to use the Organize Pages tool to get a bird’s eye view of your PDF</em>
+    <br>
+  </td>  
+</tr>
 </table>
