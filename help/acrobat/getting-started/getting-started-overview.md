@@ -184,7 +184,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="signatures.md"><strong>Get signatures</strong></a>
     </div>
-    <em>Keep business moving by collecting legally-binding e-signatures from others — from anywhere</em>
+    <em>Keep business moving by collecting legally binding e-signatures from others — from anywhere</em>
     <br>
   </td>
   <td>
