@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
 ---
-# Get Signatures
+# Get signatures
 
 Keep business moving by collecting legally binding e-signatures from others — from anywhere.
 
