@@ -178,6 +178,16 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 </tr>
 <tr>
   <td>
+    <a href="signatures.md">
+      <img alt="Get signatures" src="../assets/Signatures_1280.png" />
+    </a>
+    <div>
+    <a href="signatures.md"><strong>Get signatures</strong></a>
+    </div>
+    <em>Keep business moving by collecting legally binding e-signatures from others — from anywhere</em>
+    <br>
+  </td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -185,11 +195,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
     </div>
     <em>Understand where PDFs come from and their uses</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>

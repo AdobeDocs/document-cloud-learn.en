@@ -18,6 +18,33 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 >
 >Before you can use a digital ID with a cloud signature, please check with your organization’s administrator to confirm that the provider’s solution is enabled in Adobe Sign.
 
+## [!DNL Aadhaar]
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+    <a href="aadhaar-sign.md">
+      <img alt="Signing using [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
+    </a>
+    <div>
+    <a href="aadhaar-sign.md"><strong>Signing using [!DNL Aadhaar]</strong></a>
+    </div>
+    <em>Learn how to use your [!DNL Aadhaar] digital ID with Adobe Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## [!DNL Digidentity]
 
 <table style="table-layout:fixed">

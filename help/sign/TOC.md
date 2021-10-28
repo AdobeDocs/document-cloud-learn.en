@@ -62,6 +62,8 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
 + Digital ID {#digital-id}
   + [Overview](digitalid/digitalid-overview.md)
+  + Aadhaar {#aadhaar}
+    + [Signing using Aadhaar](digitalid/aadhaar-sign.md)
   + Digidentity {#digidentity}
     + [Get a digital ID from Digidentity](digitalid/digidentity-reg.md)
     + [Signing using Digidentity](digitalid/digidentity-sign.md)
