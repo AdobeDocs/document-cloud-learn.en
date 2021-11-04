@@ -71,7 +71,7 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Check PDF accessibility" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Check PDF accessibility" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
     <div>
     <a href="accessibility.md"><strong>Check PDF accessibility</strong></a>
