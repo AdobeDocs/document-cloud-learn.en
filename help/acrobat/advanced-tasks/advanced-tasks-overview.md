@@ -34,7 +34,7 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple</em>
+    <em>Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files</em>
     <br>
   </td>
   <td>
