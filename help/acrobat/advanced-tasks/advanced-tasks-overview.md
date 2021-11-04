@@ -88,7 +88,7 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
-    <em>In this six-part on-demand webinar series, go from the basics of Accessiblity to a deep-dive of tagging your PDF files</em>
+    <em>In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files</em>
     <br>
   </td>
   <td>
