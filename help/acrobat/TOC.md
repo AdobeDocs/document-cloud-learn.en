@@ -39,7 +39,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Redact & Sanitize](advanced-tasks/redact.md)
   + [Reduce file size & optimize](advanced-tasks/reduce.md)
   + [Working with form data](advanced-tasks/formdata.md)
-  + [Preparing Accessible PDF files](advanced-tasks/accessibility.md)
+  + [Check PDF accessibility](advanced-tasks/accessibility.md)
   + Acrobat Accessibility series {#accessibility-series}
      + [Overview](advanced-tasks/accessibility-series.md)
      + [Introduction to PDF Accessibility](advanced-tasks/accessibilitysession1.md)

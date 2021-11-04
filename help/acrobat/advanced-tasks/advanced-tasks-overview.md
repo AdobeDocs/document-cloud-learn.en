@@ -71,12 +71,12 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Preparing Accessible PDF Files" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Check PDF accessibility" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Preparing Accessible PDF files</strong></a>
+    <a href="accessibility.md"><strong>Check PDF accessibility</strong></a>
     </div>
-    <em>Create universally accessible PDF files</em>
+    <em>Learn how to check if your PDF is universally accessible to people with disabilities</em>
     <br>
   </td>
 </tr>
@@ -88,7 +88,7 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
-    <em>In this six-part on-demand webinar series, go from the basics of Accessiblity to a deep-dive of tagging your PDF files</em>
+    <em>In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files</em>
     <br>
   </td>
   <td>
