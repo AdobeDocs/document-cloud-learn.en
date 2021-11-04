@@ -30,6 +30,6 @@ If you have a set of completed forms and need to compile the data, you can use A
     ![Form Data Step 4](../assets/FormData_4.png)
 
 
-Click the PDF icon to download the *Working with form data* tutorial.
+Select the PDF icon to download the *Working with form data* tutorial.
 
 [![Download Working with form data tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf).
