@@ -188,6 +188,16 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <br>
   </td>
   <td>
+    <a href="track.md">
+      <img alt="Track your documents" src="../assets/Track_1280.png" />
+    </a>
+    <div>
+    <a href="track.md"><strong>Track your documents</strong></a>
+    </div>
+    <em>Always know which files are waiting on signatures and which have been signed</em>
+    <br>
+  </td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -195,11 +205,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
     </div>
     <em>Understand where PDFs come from and their uses</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>

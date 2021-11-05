@@ -31,6 +31,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Protect a PDF file with a password](getting-started/password-protect.md)
   + [Fill & Sign PDF forms](getting-started/fill-and-sign.md)
   + [Get signatures](getting-started/signatures.md)
+  + [Track your documents](getting-started/track.md)
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
