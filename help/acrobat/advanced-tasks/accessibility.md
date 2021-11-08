@@ -10,7 +10,7 @@ exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
 ---
 # Check PDF accessibility
 
-Learn how to check if your PDF is universally accessible to people with disabilities. This includes access by people who are mobility impaired, blind, low vision, deaf, hard of hearing, or who have cognitive impairments.
+Learn how to check if your PDF is universally accessible to people with disabilities, including people who are mobility impaired, blind, low vision, deaf, hard of hearing, or who have cognitive impairments.
 
 >[!NOTE]
 >
