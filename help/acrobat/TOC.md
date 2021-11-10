@@ -97,3 +97,4 @@ breadcrumb-title: Acrobat Tutorials
   + [Important Acrobat DC product updates for ETLA customers](deploy/signentitlementchanges.md)
 + Mobile {#mobile}
   + [Overview](mobile/mobile-overview.md)
+  + [Productivity on the go](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)

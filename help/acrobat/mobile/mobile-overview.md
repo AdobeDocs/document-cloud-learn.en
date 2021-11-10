@@ -17,8 +17,6 @@ Create, fill, and sign PDFs on your mobile device.
 
 ## Acrobat Reader mobile app tutorials
 
-## Acrobat tutorials
-
 <table style="table-layout:fixed">
 <tr>
   <td>
