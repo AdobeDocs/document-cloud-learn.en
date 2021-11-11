@@ -21,7 +21,7 @@ Learn the basics of working with PDF forms: How to add form fields to any PDF to
 Date: February 24, 2022
 Join this session to learn about making your PDFs interactive with videos, hyperlinks, buttons, bookmarks, and more.
 
-* **[Productivity, wherever you are]((https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target="_blank"}**)
+* **[Productivity, wherever you are](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target="_blank"}**
 Date: January 27, 2022
 This session will teach you how to access your favorite Acrobat tools from any web browser or from your mobile device. Acrobat on the Web gives you the ability to work from anywhere you are, and the Acrobat mobile app extends your productivity to on-the-go contexts.
 
