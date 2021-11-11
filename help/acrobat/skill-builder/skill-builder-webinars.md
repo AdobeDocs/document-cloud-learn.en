@@ -13,11 +13,11 @@ Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDf wo
 
 ## Monthly sessions
 
-* **[PDF Forms 101]((https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target="_blank"}**)
+* **[PDF Forms 101](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target="_blank"}**
 Date: March 24, 2022
 Learn the basics of working with PDF forms: How to add form fields to any PDF to collect information from others, and how to complete and sign a form yourself.
 
-* **[Add interactivity to your PDFs]((https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target="_blank"}**)
+* **[Add interactivity to your PDFs](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target="_blank"}**
 Date: February 24, 2022
 Join this session to learn about making your PDFs interactive with videos, hyperlinks, buttons, bookmarks, and more.
 
@@ -25,7 +25,7 @@ Join this session to learn about making your PDFs interactive with videos, hyper
 Date: January 27, 2022
 This session will teach you how to access your favorite Acrobat tools from any web browser or from your mobile device. Acrobat on the Web gives you the ability to work from anywhere you are, and the Acrobat mobile app extends your productivity to on-the-go contexts.
 
-* **[Work with PDFs in your Microsoft apps]((https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target="_blank"}**)
+* **[Work with PDFs in your Microsoft apps](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target="_blank"}**
 Date: December 16, 2021
 Learn how you can add PDF workflows to the Microsoft apps you use every day, including Teams, Outlook, SharePoint, and Word, Powerpoint, & Excel.
 
