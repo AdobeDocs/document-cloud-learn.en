@@ -142,12 +142,12 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Managing and tracking documents" src="../assets/Managing.png" />
+      <img alt="Manage & track your agreements" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Managing and tracking documents</strong></a>
+    <a href="manage-and-track.md"><strong>Manage & track your agreements</strong></a>
     </div>
-    <em>Manage and track agreements that you've sent for signature</em>
+    <em>Learn how to manage and track agreements sent for signature</em>
     <br>
   </td>
   <td>
