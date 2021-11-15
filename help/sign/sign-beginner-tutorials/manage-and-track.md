@@ -1,6 +1,6 @@
 ---
-title: Managing and Tracking Documents
-description: Learn how to manage and track agreements that you've sent for signature
+title: Manage & Track your Agreements
+description: Learn how to manage and track agreements sent for signature in Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -8,11 +8,11 @@ level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
 ---
-# Managing and tracking documents
+# Manage & track your agreements
 
-Learn how to manage and track documents that you sent out for signature in Adobe Sign.
+Learn how to manage and track documents sent for signature in Adobe Sign. Get real-time status updates and notifications on every document you work with.
 
->[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
 >[!TIP]
 >

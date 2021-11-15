@@ -27,7 +27,7 @@ breadcrumb-title: Adobe Sign Tutorials
     + [What's a digital signature?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
     + [Signing with a stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
   + Managing {#getting-started-managing}
-    + [Managing and tracking documents](sign-beginner-tutorials/manage-and-track.md)
+    + [Manage & track your agreements](sign-beginner-tutorials/manage-and-track.md)
     + [Creating a document template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
     + [Modifying a document already sent for signature](sign-beginner-tutorials/modify-in-flight.md)
 + Advanced tasks {#advanced-tasks}
