@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
-thumbnail: kt-8497.jpg
+thumbnail: KT-8497.jpg
 kt: 8497
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
 ---
