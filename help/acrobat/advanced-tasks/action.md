@@ -38,3 +38,7 @@ Now you can run the custom action any time you need to perform those specific se
 Select the PDF icon to download the *Action Wizard* tutorial.
 
 [![Download Action Wizard tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
+
+>[!TIP]
+>
+>This video is part of the course [Work smarter with Acrobat DC and Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!
