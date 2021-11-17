@@ -17,3 +17,7 @@ Streamline document workflows with [!DNL SharePoint] and Acrobat DC using the [A
 >Adobe Acrobat for [!DNL SharePoint], [!DNL OneDrive], and [!DNL Office 365] includes free features (such as viewing and searching within PDFs) available to all users. Some features (such as creating and combining PDFs) require a paid Acrobat DC for teams or Acrobat DC for enterprise subscription.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Work smarter with Acrobat DC and !DNL Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!

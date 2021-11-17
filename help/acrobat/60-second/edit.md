@@ -13,3 +13,7 @@ exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
 In this 60-second video tutorial, learn how to make simple edits to text and images without even downloading the PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336362?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Work smarter with Acrobat DC and !DNL Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!

@@ -19,3 +19,7 @@ Adobe Acrobat for Teams allows users to collaborate and work with colleagues by 
 * Secure collaboration – collaborate securely with trusted members and retain the ability to store document versions in [!DNL Microsoft SharePoint] or [!DNL OneDrive]
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Work smarter with Acrobat DC and !DNL Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!
