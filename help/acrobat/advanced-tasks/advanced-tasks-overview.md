@@ -18,6 +18,16 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="enhance.md">
+      <img alt="Enhance your PDF" src="../assets/Enhance_1280.png" />
+    </a>
+    <div>
+    <a href="enhance.md"><strong>Enhance your PDF</strong></a>
+    </div>
+    <em>Transform your PDF by adding graphic embellishments and automatic numbering</em>
+    <br>
+  </td>
+  <td>
     <a href="compare.md">
       <img alt="Detect differences between two PDFs" src="../assets/Compare_1280.png" />
     </a>
@@ -36,7 +46,9 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     </div>
     <em>Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files</em>
     <br>
-  </td>
+  </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="Redact & Sanitize" src="../assets/Redact.jpg" />
@@ -46,9 +58,7 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     </div>
     <em>Permanently remove private or sensitive information from your PDF</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="reduce.md">
       <img alt="Reduce file size & optimize" src="../assets/Reduce.jpg" />
@@ -69,6 +79,8 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <em>Compile form data into a single spreadsheet</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility.md">
       <img alt="Check PDF accessibility" src="../assets/Checkingaccessible_1280.jpg" />
@@ -79,8 +91,6 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <em>Learn how to check if your PDF is universally accessible to people with disabilities</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Preparing Accessible PDF Files" src="../assets/Accessibilityseries_1280.png" />
@@ -89,11 +99,6 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
     <em>In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
