@@ -24,7 +24,7 @@ Go beyond the basics with these advanced tools in Acrobat DC. Learn how to creat
     <div>
     <a href="enhance.md"><strong>Enhance your PDF</strong></a>
     </div>
-    <em>Transform your PDF by adding graphic embellishments and automatic numbering</em>
+    <em>Transform your PDF by adding graphic enhancements and automatic numbering</em>
     <br>
   </td>
   <td>
