@@ -1,6 +1,6 @@
 ---
 title: Enhance your PDF
-description: Learn how to transform your PDF by adding graphic embellishments and automatic numbering
+description: Learn how to transform your PDF by adding graphic enhancements and automatic numbering
 role: User
 product: adobe acrobat
 level: Intermediate
@@ -9,13 +9,14 @@ kt: 9343
 ---
 # Enhance your PDF
 
-Learn how to transform your PDF by adding graphic embellishments and automatic numbering.
+In this hands-on tutorial, learn how to transform your PDF by adding graphic enhancements and automatic numbering.
 
 <br>&nbsp;
 
 ## What you’ll need
 
-[![Get files](../assets/Getfiles.png)](../assets/Enhance.zip)   Samples files to practice with (ZIP, 342 KB)
+[![Get files](../assets/Getfiles.png)](../assets/Enhance.zip)
+Samples files to practice with (ZIP, 342 KB)
 
 <br>&nbsp;
 
