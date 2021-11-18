@@ -11,14 +11,10 @@ kt: 9343
 
 In this hands-on tutorial, learn how to transform your PDF by adding graphic enhancements and automatic numbering.
 
-<br>&nbsp;
-
-## What you’ll need
-
-[![Get files](../assets/Getfiles.png)](../assets/Enhance.zip)
-Samples files to practice with (ZIP, 342 KB)
-
-<br>&nbsp;
+>[!TIP]
+>
+>[![Get files](../assets/Getfiles.png)](../assets/Enhance.zip)
+> Download these samples files to practice with (ZIP, 342 KB)
 
 ## Learn to add background graphics
 
@@ -33,7 +29,7 @@ Adding backgrounds allow you to add visual elements to your PDF without going ba
 1. Open *Altura Technology Employee Handbook.pdf* from the sample files.
 1. Select **Edit PDF** in the right-hand pane. 
 1. Select **More > Background > Add**.
-1. Select **Page Range Options…** and choose 2 to 26 under the **Pages from:** option, then select **OK**.
+1. Select **Page Range Options…**, and choose 2 to 26 under the **Pages from** option, then select **OK**.
 1. Under the Source option choose **File** and select **Browse** to add the *Background Graphic.pdf* sample file.
 1. Select **OK** to add the background graphic.
 
