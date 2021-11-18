@@ -11,13 +11,13 @@ kt: 9343
 
 Learn how to transform your PDF by adding graphic embellishments and automatic numbering.
 
-&nbsp
+<br>&nbsp;
 
 ## What you’ll need
 
 [![Get files](../assets/Getfiles.png)](../assets/Enhance.zip)   Samples files to practice with (ZIP, 342 KB)
 
-&nbsp
+<br>&nbsp;
 
 ## Learn to add background graphics
 
