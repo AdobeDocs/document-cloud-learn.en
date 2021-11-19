@@ -31,8 +31,9 @@ Adding backgrounds allow you to add visual elements to your PDF without going ba
 1. Open *Altura Technology Employee Handbook.pdf* from the sample files.
 1. Select **Edit PDF** in the right-hand pane. 
 1. Select **More > Background > Add**.
-1. Select **Page Range Options…**, and choose 2 to 26 under the **Pages from** option, then select **OK**.
-1. Under the Source option choose **File** and select **Browse** to add the *Background Graphic.pdf* sample file.
+1. Select **Page Range Options…**.
+    Enter 2 to 26 in the **Pages from** section, then select **OK**.
+1. Under the Source section, choose **File** and select **Browse** to add the *Background Graphic.pdf* sample file.
 1. Select **OK** to add the background graphic.
 
 ## Learn to add a new footer
@@ -46,13 +47,17 @@ Use the Edit tool to add a new footer to your PDF.
 Adding new headers or footers allow you to build uniform PDF files for an improved viewing experience.
 
 1. Select **Header & Footer > Add > Add New**.
-1. In the **Preview Page** box select 2.
-1. Under **Name** select Calibri Bold, under **Size** select 12, and choose a white color in the Font section.
+1. Enter 2 in the **Preview Page** box.
+1. In the Font section, select Calibri Bold in the **Name** dropdown.
+    Select 12 in the **Size** dropdown, and choose a white color.
 1. Type Altura Technology Confidential in the **Left Footer Text** box.
 1. Select **Insert Page Number** in the **Center Footer Text** box.
 1. Type Revision 3.0 in the **Right Footer Text** box.
-1. Select **Page Number and Date Format** and choose 2 under **Start Page Number** and select **OK**.
-1. Select **Page Range Options…** and choose 2 to 26 under the **Pages from:** option and select **OK**.
-1. Choose 0.7 in the **Bottom** box of the Margin section.
-1. Select **Save Settings**, type Revision 3.0 in the box and select **OK**.
+1. Select **Page Number and Date Format**.
+    Enter 2 under **Start Page Number** and select **OK**.
+1. Select **Page Range Options…**.
+    Enter 2 to 26 under the **Pages from:** section, then select **OK**.
+1. Enter 0.7 in the **Bottom** box of the Margin section.
+1. Select **Save Settings**.
+    Type Revision 3.0 in the box and select **OK**.
 1. Select **OK** to apply the new footer to the PDF.
