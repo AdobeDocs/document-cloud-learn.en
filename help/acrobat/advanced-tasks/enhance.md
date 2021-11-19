@@ -14,9 +14,9 @@ In this hands-on tutorial, learn how to transform your PDF by adding graphic enh
 
 >[!TIP]
 >
->Download these samples files to practice with (ZIP, 342 KB)
+>[Download these samples files](../assets/Enhance.zip) to practice with (ZIP, 342 KB)
 
-[![Get files](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![Get files](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## Learn to add background graphics
 
