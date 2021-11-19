@@ -12,7 +12,10 @@ exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 
 In this hands-on tutorial, learn how to transform your PDF by adding graphic enhancements and automatic numbering.
 
-[![Get files](../assets/Getfiles.svg)](../assets/Enhance.zip)   Download these samples files to practice with (ZIP, 342 KB)
+## What you'll need
+
+[![Get files](../assets/Getfiles.svg)](../assets/Enhance.zip)
+Download these samples files to practice with (ZIP, 342 KB)
 
  <br>&nbsp;
 
