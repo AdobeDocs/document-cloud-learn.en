@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 ---
 # Enhance your PDF
 
@@ -55,5 +56,3 @@ Adding new headers or footers allow you to build uniform PDF files for an improv
 1. Choose 0.7 in the **Bottom** box of the Margin section.
 1. Select **Save Settings**, type Revision 3.0 in the box and select **OK**.
 1. Select **OK** to apply the new footer to the PDF.
-
-
