@@ -12,12 +12,14 @@ exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 
 In this hands-on tutorial, learn how to transform your PDF by adding graphic enhancements and automatic numbering.
 
+<br>&nbsp;
+
 ## What you'll need
 
 [![Get files](../assets/Getfiles.svg)](../assets/Enhance.zip)
-Download these samples files to practice with (ZIP, 342 KB)
+Samples files to practice with (ZIP, 342 KB)
 
- <br>&nbsp;
+<br>&nbsp;
 
 ## Learn to add background graphics
 
@@ -25,7 +27,7 @@ Use the Edit tool to add background graphics to your PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
- <br>&nbsp;
+<br>&nbsp;
 
 **What you learned: To add background graphics to your PDF using the Edit tool.**
 
