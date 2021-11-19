@@ -12,17 +12,24 @@ exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 
 In this hands-on tutorial, learn how to transform your PDF by adding graphic enhancements and automatic numbering.
 
->[!TIP]
->
->[Download these samples files](../assets/Enhance.zip) to practice with (ZIP, 342 KB)
-
-[![Get files](../assets/Getfiles.svg)](../assets/Enhance.zip)
+<table style="table-layout:auto">
+<tr>
+  <td>
+   <img alt="Get files" src="../assets/Getfiles.svg" />
+  </td>
+  <td>
+    Download these samples files to practice with (ZIP, 342 KB)
+  </td>
+</tr>
+</table>
 
 ## Learn to add background graphics
 
 Use the Edit tool to add background graphics to your PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+
+ <br>&nbsp;
 
 **What you learned: To add background graphics to your PDF using the Edit tool.**
 
@@ -41,6 +48,8 @@ Adding backgrounds allow you to add visual elements to your PDF without going ba
 Use the Edit tool to add a new footer to your PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+
+ <br>&nbsp;
 
 **What you learned: To add a new footer to your PDF.**
 
