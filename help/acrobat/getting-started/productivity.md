@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9155.jpg
 kt: 9155
+exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
 ---
 # Productivity on the go
 

@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
+exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
 ---
 # Get signatures
 

@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8256.jpg
 kt: 8256
+exl-id: 2a86c55a-cb15-4ccb-9a8d-54df1164310f
 ---
 # Track your documents
 

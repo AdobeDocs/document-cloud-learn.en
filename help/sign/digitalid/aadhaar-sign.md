@@ -7,6 +7,7 @@ solution: Document Cloud
 level: Beginner
 thumbnail: KT-9298.jpg
 kt: 9298
+exl-id: f899c636-5041-4037-bc73-5fd272d2c24b
 ---
 # Signing using [!DNL Aadhaar]
 
