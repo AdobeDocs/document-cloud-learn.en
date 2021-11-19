@@ -12,16 +12,9 @@ exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 
 In this hands-on tutorial, learn how to transform your PDF by adding graphic enhancements and automatic numbering.
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="Get files" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    Download these samples files to practice with (ZIP, 342 KB)
-  </td>
-</tr>
-</table>
+[![Get files](../assets/Getfiles.svg)](../assets/Enhance.zip)   Download these samples files to practice with (ZIP, 342 KB)
+
+ <br>&nbsp;
 
 ## Learn to add background graphics
 
@@ -59,14 +52,14 @@ Adding new headers or footers allow you to build uniform PDF files for an improv
 1. Enter 2 in the **Preview Page** box.
 1. In the Font section, select Calibri Bold in the **Name** dropdown.
     Select 12 in the **Size** dropdown, and choose a white color.
-1. Type Altura Technology Confidential in the **Left Footer Text** box.
+1. Type *Altura Technology Confidential* in the **Left Footer Text** box.
 1. Select **Insert Page Number** in the **Center Footer Text** box.
-1. Type Revision 3.0 in the **Right Footer Text** box.
+1. Type *Revision 3.0* in the **Right Footer Text** box.
 1. Select **Page Number and Date Format**.
     Enter 2 under **Start Page Number** and select **OK**.
 1. Select **Page Range Options…**.
     Enter 2 to 26 under the **Pages from:** section, then select **OK**.
 1. Enter 0.7 in the **Bottom** box of the Margin section.
 1. Select **Save Settings**.
-    Type Revision 3.0 in the box and select **OK**.
+    Type *Revision 3.0* in the box and select **OK**.
 1. Select **OK** to apply the new footer to the PDF.
