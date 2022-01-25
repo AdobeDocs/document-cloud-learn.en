@@ -15,7 +15,7 @@ Develop software that integrates with Acrobat and Adobe Reader using JavaScript,
 
 ## Acrobat SDK
 
-The [Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target="_blank"} is a set of tools that help you develop software that interacts with Acrobat technology. 
+The [Acrobat SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target="_blank"} is a set of tools that help you develop software that interacts with Acrobat technology. 
 
 ## Adobe Document Services APIs
 

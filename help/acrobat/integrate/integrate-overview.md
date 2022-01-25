@@ -47,7 +47,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <div>
     <a href="acrobatandsp.md"><strong>Work with your [!DNL SharePoint] files</strong></a>
     </div>
-    <em>Streamline document workflows with [!DNL SharePoint] and Acrobat DC</em>
+    <em>Streamline document workflows with [!DNL SharePoint] and Acrobat</em>
     <br>
   </td>  
 </tr>

@@ -14,7 +14,7 @@ Never make the mistake of working with the wrong version of a file. Quickly and 
 
 >[!NOTE]
 >
->Available in Acrobat Pro DC only.
+>Available in Acrobat Pro only.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?hidetitle=true)
 

@@ -1,18 +1,18 @@
 ---
-title: Acrobat DC for government
-description: Explore our Acrobat DC tutorials specifically designed for federal, state, and local government
+title: Acrobat for government
+description: Explore our Acrobat tutorials specifically designed for federal, state, and local government
 role: User
 product: adobe acrobat
 level: Beginner
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
 ---
-# Acrobat DC for government
+# Acrobat for government
 
 Quickly respond to urgent federal, state, and local government challenges with this curated collection of quick start recipes and learning videos.
 
 The 5 Tips tutorial is the complete set of tips. If you want to review a specific workflow, simply bypass the full video by selecting the tip that you're most interested in learning about.
 
-[5 Tips for Working Anywhere with Acrobat DC for Government (Complete 15:12)](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
+[5 Tips for Working Anywhere with Acrobat for Government (Complete 15:12)](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
 1. [Get Your Tools (2:59)](get-your-tools.md)
 1. [Collaborate on Documents (2:03)](collaborate-on-documents.md)
 1. [Protect Digital Documents (1:23)](protect-digital-documents.md)

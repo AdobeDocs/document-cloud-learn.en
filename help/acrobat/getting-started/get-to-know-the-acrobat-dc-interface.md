@@ -1,6 +1,6 @@
 ---
 title: Workspace basics
-description: Learn how Acrobat DC makes it easy to access files and tools across desktop, web, and mobile
+description: Learn how Acrobat makes it easy to access files and tools across desktop, web, and mobile
 role: User
 product: adobe acrobat
 level: Beginner
@@ -9,6 +9,6 @@ exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
 ---
 # Workspace basics
 
-Learn how the Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile devices with a consistent workspace experience.
+Learn how the Acrobat interface makes it easy to access files and tools across desktop, web, and mobile devices with a consistent workspace experience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
