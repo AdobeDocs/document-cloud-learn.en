@@ -29,7 +29,7 @@ Use the Edit tool to add background graphics to your PDF.
 
 <br>&nbsp;
 
-**What you learned: To add background graphics to your PDF using the Edit tool.**
+## What you learned: To add background graphics to your PDF
 
 Adding backgrounds allow you to add visual elements to your PDF without going back to the original source file or application.
 
@@ -49,7 +49,7 @@ Use the Edit tool to add a new footer to your PDF.
 
  <br>&nbsp;
 
-**What you learned: To add a new footer to your PDF.**
+## What you learned: To add a new footer to your PDF
 
 Adding new headers or footers allow you to build uniform PDF files for an improved viewing experience.
 

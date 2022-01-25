@@ -77,7 +77,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
     </div>
-    <em>Build Adobe Sign form fields by text tagging using Adobe Acrobat DC</em>
+    <em>Build Adobe Sign form fields by text tagging using Adobe Acrobat</em>
     <br>
   </td> 
 </table>

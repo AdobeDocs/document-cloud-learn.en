@@ -1,6 +1,6 @@
 ---
 title: Tutorials
-description: A collection of tutorials, webinars, and use cases for Adobe Acrobat DC
+description: A collection of tutorials, webinars, and use cases for Adobe Acrobat
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate, Experienced

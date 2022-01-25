@@ -6,7 +6,7 @@ exl-id: 541f7a4d-d893-4768-9c91-638548845378
 ---
 # Share PDF files and review online
 
-Use the Adobe Document Cloud review service to easily share PDF files for review from Acrobat DC desktop application, the Document Cloud web, or Acrobat Reader mobile app. When reviewers click the URL in the email invitation from their computer, they can easily provide their feedback in a browser without having to sign in or install any additional software.
+Use the Adobe Document Cloud review service to easily share PDF files for review from Acrobat desktop application, the Document Cloud web, or Acrobat Reader mobile app. When reviewers click the URL in the email invitation from their computer, they can easily provide their feedback in a browser without having to sign in or install any additional software.
 
 In this exercise, we review how to,
 

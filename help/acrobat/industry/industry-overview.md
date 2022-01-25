@@ -15,6 +15,6 @@ Learn how you can transform customer and employee experiences by exploring indus
 
 ## Government
 
-Explore our Acrobat DC tutorials specifically designed for federal, state, and local government.
+Explore our Acrobat tutorials specifically designed for federal, state, and local government.
 
 * [Acrobat Tutorials for Government Overview](gov/gov-overview.md)

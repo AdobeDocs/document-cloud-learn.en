@@ -190,7 +190,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
     <div>
-    <em>Build Adobe Sign form fields by text tagging using Adobe Acrobat DC</em>
+    <em>Build Adobe Sign form fields by text tagging using Adobe Acrobat</em>
     <br>
   </td>
   <td>
