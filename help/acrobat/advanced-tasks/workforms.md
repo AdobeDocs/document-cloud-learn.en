@@ -28,6 +28,8 @@ Use the Prepare Form tool to automatically add form fields to an existing PDF.
 >
 >Turn on single key accelerators in your Preferences under the General category.
 
+ <br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
 <br>&nbsp;
@@ -83,6 +85,8 @@ Comb properties are used to evenly spread text across the width of a text field.
 
 ## Learn to set properties for multiple fields at once, tab order, and to secure a form
 
+ <br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
  <br>&nbsp;
@@ -98,13 +102,13 @@ To set properties for multiple fields at once, tab order, and to secure a form. 
 
 Setting the tab order ensures that the form filler can easy move from field to field while filling out a form.
 
-1. Type Shift + N to reveal the tab order.
+1. Type *Shift + N* to reveal the tab order.
 1. Move the *HQ Location* field under the *Number of employees* field in the right-hand pane.
 1. Move the *Project Start* and *Project End* fields under the *EMAIL ADDRESS* field in the right-hand pane.
 
 Securing a form ensures that the fields or content of the document cannot be modified.
 
-1. Type Ctrl + D (Cmd + D on the Mac) to bring up the **Document Properties** dialog.
+1. Type *Ctrl + D (Cmd + D on the Mac)* to bring up the **Document Properties** dialog.
 1. Select the **Security** tab.
 1. Select **Password Security** under the **Security Method:** dropdown.
 1. Check **Restrict editing and printing of the document. A password will be required to change these permission settings.**
