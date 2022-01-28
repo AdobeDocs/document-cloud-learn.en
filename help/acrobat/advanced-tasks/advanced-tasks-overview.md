@@ -37,7 +37,16 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Transform your PDF by adding graphic enhancements and automatic numbering</em>
     <br>
   </td>
-  <td>  
+   <td>
+    <a href="compare.md">
+      <img alt="Detect Differences Between two PDFs" src="../assets/Compare_1280.png" />
+    </a>
+    <div>
+    <a href="compare.md"><strong>Detect differences between two PDFs</strong></a>
+    </div>
+    <em>Quickly and accurately detect the differences between two PDF files</em>
+    <br>
+  </td>
 </tr>
 <tr>
   <td>
