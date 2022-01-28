@@ -14,7 +14,7 @@ In this hands-on tutorial, learn how to transform your PDF by adding graphic enh
 
 <br>&nbsp;
 
-## What you'll need
+## What you need
 
 [![Get files](../assets/Getfiles.svg)](../assets/Enhance.zip)
 Samples files to practice with (ZIP, 342 KB)
