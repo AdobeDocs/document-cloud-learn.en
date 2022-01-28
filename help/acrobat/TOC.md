@@ -35,6 +35,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
+  + [Work with form fields](advanced-tasks/workforms.md)
   + [Enhance your PDF](advanced-tasks/enhance.md)
   + [Detect differences between two PDFs](advanced-tasks/compare.md)
   + [Action Wizard](advanced-tasks/action.md)
