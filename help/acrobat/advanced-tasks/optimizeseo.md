@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 ---
 # Optimize PDFs for SEO (Search Engine Optimization)
 
