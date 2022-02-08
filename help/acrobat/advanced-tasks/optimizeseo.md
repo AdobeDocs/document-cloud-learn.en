@@ -40,16 +40,16 @@ PDF files have a title and meta description just like a web page. Add key **[!UI
 
 ## Tag your PDF
 
->[!NOTE] Available in Acrobat Pro only.
+>[!NOTE] 
 >
->
+>Available in Acrobat Pro only.
 
 Tagging content in your PDF not only makes your file [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) to those with disabilities—it also improves SEO. Tag a PDF as follows:
 
 1.  Select **[!UICONTROL Accessibility]** in the **[!UICONTROL Tools]** center.
-1.  Select **[!UICONTORL Autotag Document]** in the right-hand pane.
+1.  Select **[!UICONTROL Autotag Document]** in the right-hand pane.
 1.  Follow the hints for repair in the left-hand pane **[!UICONTROL Recognition Report]**.
-1.  Run **[!UICONTOL Set Alternate Text]** if necessary.
+1.  Run **[!UICONTROL Set Alternate Text]** if necessary.
 1.  Use keywords to describe the image in the **[!UICONTROL Alternate Text]**.
     
     ![Screenshot of setting Alternate text in PDF](../assets/optimizeseo3.png)
@@ -73,7 +73,7 @@ The filename becomes part of the URL when a PDF is posted on the web. A good bes
 The last step is to protect your PDF to prevent unauthorized changes. Secure a PDF as follows:
 
 1.  Open **[!UICONTROL Document Properties]** (*Ctrl + D* on Windows or *Cmd + D* on Mac) and select the **[!UICONTROL Security]** tab.
-1.  Check **[!UICONTRL Printing editing and printing of the document. A password will be required in order to change these settings.]**
+1.  Check **[!UICONTROL Printing editing and printing of the document. A password will be required in order to change these settings.]**
 1.  Under **[!UICONTROL Changes Allowed:]** select **[!UICONTROL None]**.
 1.  Check **[!UICONTROL Enable text access for screen reader devices for the visually impaired.]**
 1.  Enter and confirm a strong password.
