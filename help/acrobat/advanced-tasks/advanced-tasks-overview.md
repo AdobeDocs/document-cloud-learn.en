@@ -19,10 +19,10 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 <tr>
   <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDFs for SEO" src="../assets/seo_1280.png" />
+      <img alt="Optimize PDFs for SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
     <div>
-    <a href="optimizeseo.md"><strong>Optimize PDFs for SEO</strong></a>
+    <a href="optimizeseo.md"><strong>Optimize PDFs for SEO (Search Engine Optimization)</strong></a>
     </div>
     <em>Optimize a PDF for improved discoverability and search engine ranking on the web</em>
     <br>
