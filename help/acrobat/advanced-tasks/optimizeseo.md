@@ -67,7 +67,7 @@ This step reduces the file size and enables **Fast Web View** in the PDF. **Fast
 
 ## Create a keyword filename
 
-The filename becomes part of the URL when a PDF is posted on the web. A good best practice is to match your keyword-optimized title with the filename. To be search-friendly—use lowercase, no punctuation or hashes, and avoid stop words (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). If you use separate words, add hyphens or underscores between the words.
+The filename becomes part of the URL when a PDF is posted on the web. A good practice is to match your keyword-optimized title with the filename. To be search-friendly—use lowercase, no punctuation or hashes, and avoid stop words (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). If you use separate words, add hyphens or underscores between the words.
 
 ## Secure your PDF
 
