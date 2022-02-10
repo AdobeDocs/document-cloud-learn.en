@@ -80,7 +80,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Overview](industry/industry-overview.md)
   + Government {#gov}
     + [Overview](industry/gov/gov-overview.md)
-    + 5 Tips for Working Anywhere with Acrobat DC {#tips}
+    + 5 Tips for Working Anywhere with Acrobat {#tips}
       + [5 Tips for working anywhere with Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
       + [Tip #1 – Get your tools](industry/gov/get-your-tools.md)
       + [Tip #2 – Collaborate on documents](industry/gov/collaborate-on-documents.md)
