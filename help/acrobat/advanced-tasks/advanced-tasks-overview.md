@@ -103,12 +103,12 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
   </td>
    <td>
     <a href="accessibility.md">
-      <img alt="Check PDF accessibility" src="../assets/Checkingaccessible_1280.jpg" />
+      <img alt="Check PDF Accessibility" src="../assets/Checkaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Check PDF accessibility</strong></a>
+    <a href="accessibility.md"><strong>Check PDF Accessibility</strong></a>
     </div>
-    <em>Learn how to check if your PDF is universally accessible to people with disabilities</em>
+    <em>Check if your PDF is universally accessible to people with disabilities</em>
     <br>
   </td>
 </tr>
