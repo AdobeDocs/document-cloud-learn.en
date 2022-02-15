@@ -13,7 +13,7 @@ Reduce large files and optimize your PDFs without compromising quality for shari
 
 >[!NOTE]
 >
->Available in Acrobat Pro DC only.
+>Available in Acrobat Pro only.
 
 1. Select **[!UICONTROL Optimize PDF]** from the [!UICONTROL Tools] center or right-hand pane.
 
