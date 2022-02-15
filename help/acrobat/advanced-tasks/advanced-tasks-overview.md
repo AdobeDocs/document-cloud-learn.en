@@ -18,6 +18,16 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="advancedforms.md">
+      <img alt="Advanced form fields" src="../assets/Advancedforms_1280.png" />
+    </a>
+    <div>
+    <a href="advancedforms.md"><strong>Advanced form fields</strong></a>
+    </div>
+    <em>Learn advanced techniques for buiding professional PDF forms</em>
+    <br>
+  </td>
+  <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDFs for SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
@@ -37,6 +47,8 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Add various types of form fields, set form field properties, and add security to create high-quality professional forms</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="enhance.md">
       <img alt="Enhance your PDF" src="../assets/Enhance_1280.png" />
@@ -47,8 +59,6 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Transform your PDF by adding graphic enhancements and automatic numbering</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="compare.md">
       <img alt="Detect Differences Between two PDFs" src="../assets/Compare_1280.png" />
@@ -69,6 +79,8 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="Redact & Sanitize" src="../assets/Redact.jpg" />
@@ -79,9 +91,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Permanently remove private or sensitive information from your PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="reduce.md">
       <img alt="Reduce file size & optimize" src="../assets/Reduce.jpg" />
     </a>
@@ -101,7 +111,9 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Compile form data into a single spreadsheet</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="accessibility.md">
       <img alt="Check PDF Accessibility" src="../assets/Checkaccessible_1280.jpg" />
     </a>
@@ -111,9 +123,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Check if your PDF is universally accessible to people with disabilities</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="accessibility-series.md">
       <img alt="Preparing Accessible PDF Files" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -121,11 +131,6 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
     <em>In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>

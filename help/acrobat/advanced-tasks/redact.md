@@ -13,7 +13,7 @@ Learn to use the Redact tool to permanently remove private or sensitive informat
 
 >[!NOTE]
 >
->Available in Acrobat Pro DC only.
+>Available in Acrobat Pro only.
 
 ## Redact text & images
 

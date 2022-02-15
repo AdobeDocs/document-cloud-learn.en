@@ -13,7 +13,7 @@ Save time and keystrokes by using an Action to automatically apply a set of comm
 
 >[!NOTE]
 >
->Available in Acrobat Pro DC only.
+>Available in Acrobat Pro only.
 
 1. Select **[!UICONTROL Action Wizard]** from the [!UICONTROL Tools] center or right-hand pane.
 
