@@ -55,6 +55,12 @@ breadcrumb-title: Acrobat Tutorials
      + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
 + 60-second Acrobat {#60-second}
   + [Overview](60-second/60-second-overview.md)
+  + [Create more efficient PDF files in a snap](60-second/optimize.md)
+  + [Protect your PDF files with a password](60-second/protect.md)
+  + [Convert Word to PDF including form fields](60-second/wordform.md)
+  + [Let Acrobat help you make Accessible PDFs](60-second/accessible.md)
+  + [Export PDF to Word from your phone](60-second/exportwordphone.md)
+  + [Recognize text in a scanned PDF file](60-second/textrecognition.md)
   + [Combine files into one PDF](60-second/combine-to-one-pdf.md)
   + [Edit PDF with Acrobat web](60-second/edit.md)
   + [Search multiple PDF files at once](60-second/search.md)

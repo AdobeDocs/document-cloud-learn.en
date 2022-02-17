@@ -1,6 +1,6 @@
 ---
 title: 60-Second Acrobat Overview
-description: 60-Second Acrobat gives you bite-sized tutorials to help you learn a new trick in Acrobat DC in one minute or less
+description: 60-Second Acrobat gives you bite-sized tutorials to help you learn a new trick in Acrobat in one minute or less
 role: User
 product: adobe acrobat
 level: Beginner
@@ -12,11 +12,75 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
 
 ![60-second Acrobat Image](../assets/Hero-60sec.png)
 
-60-Second Acrobat gives you bite-sized tutorials to help you learn a new trick in Acrobat DC in one minute or less. These task-based tips help you pick up new skills for working with PDF files by unlocking some of Acrobat’s hidden gems. You can watch one to get a quick answer, or watch five to boost your document productivity – and still have time to enjoy your coffee break.
+60-Second Acrobat gives you bite-sized tutorials to help you learn a new trick in Acrobat in one minute or less. These task-based tips help you pick up new skills for working with PDF files by unlocking some of Acrobat’s hidden gems. You can watch one to get a quick answer, or watch five to boost your document productivity – and still have time to enjoy your coffee break.
 
 ## 60-second Acrobat tutorials
 
 <table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="optimize.md">
+      <img alt="Create more efficient PDF files in a snap" src="../assets/60sec_Optimize_1280.jpg" />
+    </a>
+    <div>
+    <a href="optimize.md"><strong>Create more efficient PDF files in a snap</strong></a>
+    </div>
+    <em>Use the Optimize PDF tool to significantly reduce the size of your PDF files</em>
+    <br>
+  </td>
+  <td>
+    <a href="protect.md">
+      <img alt="Protect your PDF files with a password" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>Protect your PDF files with a password</strong></a>
+    </div>
+    <em>Protect a PDF so that a password is required either to open or edit the PDF</em>
+    <br>
+  </td>
+  <td>
+    <a href="wordform.md">
+      <img alt="Convert Word to PDF including form fields" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>Convert Word to PDF including form fields</strong></a>
+    </div>
+    <em>Convert Word files and forms to PDF and automatically build form fields</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="Let Acrobat help you make Accessible PDFs" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>Let Acrobat help you make Accessible PDFs</strong></a>
+    </div>
+    <em>Check to see if a PDF is Accessible</em>
+    <br>
+  </td>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="Export PDF to Word from your phone" src="../assets/60sec_Exportphone_1280.jpg" />
+    </a>
+    <div>
+    <a href="exportwordphone.md"><strong>Export PDF to Word from your phone</strong></a>
+    </div>
+    <em>Convert a PDF file to a fully editable Microsoft Word document with the Acrobat mobile app</em>
+    <br>
+  </td>
+  <td>
+    <a href="textrecognition.md">
+      <img alt="Recognize text in a scanned PDF file" src="../assets/60sec_Textrecognition_1280.jpg" />
+    </a>
+    <div>
+     <a href="textrecognition.md"><strong>Recognize text in a scanned PDF file</strong></a>
+    </div>
+    <em>Convert a scanned PDF so that you can search for text in the PDF</em>
+    <br>
+  </td>
+</tr>
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">
