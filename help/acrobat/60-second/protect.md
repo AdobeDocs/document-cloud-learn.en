@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9752.jpg
 KT: 9752
+exl-id: ae31afe3-e2e4-4e1c-8eb4-13dcc7cc9e05
 ---
 # Protect your PDF files with a password
 

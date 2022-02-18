@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9749.jpg
 KT: 9749
+exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
 ---
 # Let Acrobat help you make accessible PDFs
 

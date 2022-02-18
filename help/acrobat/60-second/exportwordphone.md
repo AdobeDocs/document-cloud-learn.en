@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9753.jpg
 KT: 9753
+exl-id: 8ab6c2ba-8cc0-460d-9f31-c406ddb8f0b3
 ---
 # Export PDF to Word from your phone
 
