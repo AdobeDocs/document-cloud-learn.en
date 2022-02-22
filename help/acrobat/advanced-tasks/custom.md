@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9672.jpg
 kt: 9672
+exl-id: 0cbe419b-d1fd-4737-9f79-0f99b4f38df3
 ---
 # Custom Commands and Tools
 
