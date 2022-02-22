@@ -24,7 +24,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <div>
     <a href="custom.md"><strong>Custom Commands and Tools</strong></a>
     </div>
-    <em>Improve document workflow productivity by using custom commands and toolsets</em>
+    <em>Improve document workflow productivity by using custom commands and tools</em>
     <br>
   </td>
   <td>

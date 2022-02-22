@@ -1,6 +1,6 @@
 ---
 title: Custom Commands and Tools
-description: Learn how to improve document workflow productivity by using custom commands and toolsets
+description: Learn how to improve document workflow productivity by using custom commands and tools
 role: User
 product: adobe acrobat
 level: Intermediate
@@ -9,7 +9,7 @@ kt: 9672
 ---
 # Custom Commands and Tools
 
-Learn how to improve document workflow productivity by using custom commands and toolsets. Then, share your new commands and tools with co-workers to help improve organizational efficiency.
+Learn how to improve document workflow productivity by using custom commands and tools. Then, share your new commands and tools with co-workers to help improve organizational efficiency.
 
 >[!NOTE]
 >
