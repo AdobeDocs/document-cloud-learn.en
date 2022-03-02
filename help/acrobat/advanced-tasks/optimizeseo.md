@@ -15,7 +15,9 @@ Learn how to optimize a PDF for improved discoverability and search engine ranki
 
 Create PDF content that is different from the information your web pages. 
 
-+++PDF content should be unique and structured as follows:
++++View details on how to create unique content
+
+PDF content should be unique and structured as follows:
 
 *   Use a single main heading/title beginning with a keyword
 *   Use keyword subheadings organized in a hierarchical structure
@@ -36,7 +38,9 @@ Create PDF content that is different from the information your web pages.
 
 PDF files have a title and meta description just like a web page. 
 
-+++Add key **[!UICONTROL Document Properties]** as follows:
++++View details on how to add Document Properties
+
+Add key **[!UICONTROL Document Properties]** as follows:
 
 1. Select **[!UICONTROL File > Properties]** or use the keyboard shortcut *Ctrl + D* on Windows or *Cmd + D* on Mac and select the **[!UICONTROL Description]** tab.
 1.  Enter a keyword-optimized title in the **[!UICONTROL Title:]** field.
@@ -59,7 +63,9 @@ PDF files have a title and meta description just like a web page.
 
 Tagging content in your PDF not only makes your file [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) to those with disabilities—it also improves SEO. 
 
-+++Tag a PDF as follows:
++++View details on how to tag a PDF
+
+Tag a PDF as follows:
 
 1.  Select **[!UICONTROL Accessibility]** in the **[!UICONTROL Tools]** center.
 1.  Select **[!UICONTROL Autotag Document]** in the right-hand pane.
@@ -77,7 +83,9 @@ Tagging content in your PDF not only makes your file [Accessible](https://experi
 
 Optimize the experience of interacting with your PDF by preparing it for web viewing and reducing the file size. 
 
-+++Prepare your PDF for the web as follows:
++++View details on how to prepare your PDF for the web
+
+Prepare your PDF for the web as follows:
 
 To prepare your PDF for the web, select **[!UICONTROL File > Save as Other > Reduced Size PDF]**.
 
@@ -97,7 +105,9 @@ This step reduces the file size and enables **Fast Web View** in the PDF. **Fast
 
 ## Create a keyword filename
 
-+++Create a keyword filename as follows:
++++View details on how to create a keyword filename
+
+Create a keyword filename as follows:
 
 The filename becomes part of the URL when a PDF is posted on the web. A good practice is to match your keyword-optimized title with the filename. To be search-friendly—use lowercase, no punctuation or hashes, and avoid stop words (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). If you use separate words, add hyphens or underscores between the words.
 
@@ -109,7 +119,9 @@ The filename becomes part of the URL when a PDF is posted on the web. A good pra
 
 The last step is to protect your PDF to prevent unauthorized changes. 
 
-+++Secure a PDF as follows:
++++View details on how to secure your PDF
+
+Secure a PDF as follows:
 
 1.  Open **[!UICONTROL Document Properties]** (*Ctrl + D* on Windows or *Cmd + D* on Mac) and select the **[!UICONTROL Security]** tab.
 1.  Check **[!UICONTROL Printing editing and printing of the document. A password will be required in order to change these settings.]**
