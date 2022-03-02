@@ -11,7 +11,7 @@ exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 
 Learn how to optimize a PDF for improved discoverability and search engine ranking on the web.
 
-## Create unique content
+## 1. Create unique content
 
 Create PDF content that is different from the information your web pages. 
 
@@ -34,7 +34,7 @@ PDF content should be unique and structured as follows:
 
 <br>&nbsp;
 
-## Add Document Properties
+## 2. Add Document Properties
 
 PDF files have a title and meta description just like a web page. 
 
@@ -55,7 +55,7 @@ Add key **[!UICONTROL Document Properties]** as follows:
 
 <br>&nbsp;
 
-## Tag your PDF
+## 3. Tag your PDF
 
 >[!NOTE] 
 >
@@ -79,7 +79,7 @@ Tag a PDF as follows:
 
 <br>&nbsp;
 
-## Prepare for web
+## 4. Prepare for web
 
 Optimize the experience of interacting with your PDF by preparing it for web viewing and reducing the file size. 
 
@@ -103,7 +103,7 @@ This step reduces the file size and enables **Fast Web View** in the PDF. **Fast
 
 <br>&nbsp;
 
-## Create a keyword filename
+## 5. Create a keyword filename
 
 +++View details on how to create a keyword filename
 
@@ -115,7 +115,7 @@ The filename becomes part of the URL when a PDF is posted on the web. A good pra
 
 <br>&nbsp;
 
-## Secure your PDF
+## 6. Secure your PDF
 
 The last step is to protect your PDF to prevent unauthorized changes. 
 
