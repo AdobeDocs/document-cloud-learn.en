@@ -11,7 +11,7 @@ exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 
 Learn how to optimize a PDF for improved discoverability and search engine ranking on the web.
 
-## Create unique content
++++Create unique content
 
 Create PDF content that is different from the information your web pages. PDF content should be unique and structured as follows:
 
@@ -26,7 +26,9 @@ Create PDF content that is different from the information your web pages. PDF co
 
     ![Screenshot of Liquid Mode in the Acrobat Reader mobile app](../assets/optimizeseo1.png)
 
-## Add Document Properties
++++
+
++++Add Document Properties
 
 PDF files have a title and meta description just like a web page. Add key **[!UICONTROL Document Properties]** as follows:
 
@@ -39,7 +41,9 @@ PDF files have a title and meta description just like a web page. Add key **[!UI
     
     ![Screenshot of Document Properties](../assets/optimizeseo2.png)
 
-## Tag your PDF
++++
+
++++Tag your PDF
 
 >[!NOTE] 
 >
@@ -55,7 +59,9 @@ Tagging content in your PDF not only makes your file [Accessible](https://experi
     
     ![Screenshot of setting Alternate text in PDF](../assets/optimizeseo3.png)
 
-## Prepare for web
++++
+
++++Prepare for web
 
 Optimize the experience of interacting with your PDF by preparing it for web viewing and reducing the file size. To prepare your PDF for the web, select **[!UICONTROL File > Save as Other > Reduced Size PDF]**.
 
@@ -69,11 +75,15 @@ This step reduces the file size and enables **Fast Web View** in the PDF. **Fast
 >
 >If you have Acrobat Pro, run Optimize for Web and Mobile in the Action Wizard tool. This Action converts colors to sRGB and embeds fonts for consistent display of PDFs across browsers and mobile devices.
 
-## Create a keyword filename
++++
+
++++Create a keyword filename
 
 The filename becomes part of the URL when a PDF is posted on the web. A good practice is to match your keyword-optimized title with the filename. To be search-friendly—use lowercase, no punctuation or hashes, and avoid stop words (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). If you use separate words, add hyphens or underscores between the words.
 
-## Secure your PDF
++++
+
++++Secure your PDF
 
 The last step is to protect your PDF to prevent unauthorized changes. Secure a PDF as follows:
 
@@ -85,5 +95,7 @@ The last step is to protect your PDF to prevent unauthorized changes. Secure a P
 1.  Select **[!UICONTROL OK]** and save the file.
 
     ![Screenshot of Document Properties](../assets/optimizeseo6.png)
+
++++
 
 Now your PDF is ready to be posted on the web—-with optimal keyword ranking potential and end-user interaction.
