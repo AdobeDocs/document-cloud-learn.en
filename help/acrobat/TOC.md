@@ -35,6 +35,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
+  + [Optimize scanned documents](advanced-tasks/optimizescan.md)
   + [Custom Commands and Tools](advanced-tasks/custom.md)
   + [Advanced form fields](advanced-tasks/advancedforms.md)
   + [Optimize PDFs for SEO](advanced-tasks/optimizeseo.md)
