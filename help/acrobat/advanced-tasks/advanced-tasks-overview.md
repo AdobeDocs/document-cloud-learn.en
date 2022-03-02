@@ -18,6 +18,16 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="optimizescan.md">
+      <img alt="Optimize scanned documents" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>Optimize scanned documents</strong></a>
+    </div>
+    <em>Learn how to enhance scanned documents for a better PDF viewing and searching experience</em>
+    <br>
+  </td>
+  <td>
     <a href="custom.md">
       <img alt="Custom Commands and Tools" src="../assets/Createcustom_1280.png" />
     </a>
@@ -37,6 +47,8 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Learn advanced techniques for buiding professional PDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDFs for SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
@@ -47,8 +59,6 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Optimize a PDF for improved discoverability and search engine ranking on the web</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="Work with form fields" src="../assets/Workform_1280.png" />
@@ -68,7 +78,9 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     </div>
     <em>Transform your PDF by adding graphic enhancements and automatic numbering</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="Detect Differences Between two PDFs" src="../assets/Compare_1280.png" />
@@ -78,9 +90,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     </div>
     <em>Quickly and accurately detect the differences between two PDF files</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -101,7 +111,9 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Permanently remove private or sensitive information from your PDF</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="Reduce file size & optimize" src="../assets/Reduce.jpg" />
     </a>
@@ -111,8 +123,6 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -133,6 +143,8 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Check if your PDF is universally accessible to people with disabilities</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Preparing Accessible PDF Files" src="../assets/Accessibilityseries_1280.png" />
@@ -143,5 +155,15 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files</em>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>
