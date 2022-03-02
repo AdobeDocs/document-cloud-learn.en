@@ -11,9 +11,13 @@ exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 
 Learn how to optimize a PDF for improved discoverability and search engine ranking on the web.
 
-+++Create unique content
+## Create unique content
 
-Create PDF content that is different from the information your web pages. PDF content should be unique and structured as follows:
+Create PDF content that is different from the information your web pages. 
+
++++Learn how
+
+PDF content should be unique and structured as follows:
 
 *   Use a single main heading/title beginning with a keyword
 *   Use keyword subheadings organized in a hierarchical structure
@@ -28,9 +32,13 @@ Create PDF content that is different from the information your web pages. PDF co
 
 +++
 
-+++Add Document Properties
+## Add Document Properties
 
-PDF files have a title and meta description just like a web page. Add key **[!UICONTROL Document Properties]** as follows:
+PDF files have a title and meta description just like a web page. 
+
++++Learn how
+
+Add key **[!UICONTROL Document Properties]** as follows:
 
 1. Select **[!UICONTROL File > Properties]** or use the keyboard shortcut *Ctrl + D* on Windows or *Cmd + D* on Mac and select the **[!UICONTROL Description]** tab.
 1.  Enter a keyword-optimized title in the **[!UICONTROL Title:]** field.
@@ -43,13 +51,17 @@ PDF files have a title and meta description just like a web page. Add key **[!UI
 
 +++
 
-+++Tag your PDF
+## Tag your PDF
 
 >[!NOTE] 
 >
 >Available in Acrobat Pro only.
 
-Tagging content in your PDF not only makes your file [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) to those with disabilities—it also improves SEO. Tag a PDF as follows:
+Tagging content in your PDF not only makes your file [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) to those with disabilities—it also improves SEO. 
+
++++Learn how
+
+Tag a PDF as follows:
 
 1.  Select **[!UICONTROL Accessibility]** in the **[!UICONTROL Tools]** center.
 1.  Select **[!UICONTROL Autotag Document]** in the right-hand pane.
@@ -61,9 +73,13 @@ Tagging content in your PDF not only makes your file [Accessible](https://experi
 
 +++
 
-+++Prepare for web
+## Prepare for web
 
-Optimize the experience of interacting with your PDF by preparing it for web viewing and reducing the file size. To prepare your PDF for the web, select **[!UICONTROL File > Save as Other > Reduced Size PDF]**.
+Optimize the experience of interacting with your PDF by preparing it for web viewing and reducing the file size. 
+
++++Learn how
+
+To prepare your PDF for the web, select **[!UICONTROL File > Save as Other > Reduced Size PDF]**.
 
 ![Screenshot of Document Properties](../assets/optimizeseo4.png)
 
@@ -77,15 +93,21 @@ This step reduces the file size and enables **Fast Web View** in the PDF. **Fast
 
 +++
 
-+++Create a keyword filename
+## Create a keyword filename
+
++++Learn how
 
 The filename becomes part of the URL when a PDF is posted on the web. A good practice is to match your keyword-optimized title with the filename. To be search-friendly—use lowercase, no punctuation or hashes, and avoid stop words (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). If you use separate words, add hyphens or underscores between the words.
 
 +++
 
-+++Secure your PDF
+## Secure your PDF
 
-The last step is to protect your PDF to prevent unauthorized changes. Secure a PDF as follows:
+The last step is to protect your PDF to prevent unauthorized changes. 
+
++++Learn how
+
+Secure a PDF as follows:
 
 1.  Open **[!UICONTROL Document Properties]** (*Ctrl + D* on Windows or *Cmd + D* on Mac) and select the **[!UICONTROL Security]** tab.
 1.  Check **[!UICONTROL Printing editing and printing of the document. A password will be required in order to change these settings.]**
