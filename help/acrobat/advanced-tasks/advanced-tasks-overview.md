@@ -24,7 +24,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <div>
     <a href="bookmarks.md"><strong>Adding bookmarks and hyperlinks</strong></a>
     </div>
-    <em>Learn how to enhance scanned documents for a better PDF viewing and searching experience</em>
+    <em>Learn how to add bookmarks and hyperlinks for better navigation and interaction</em>
     <br>
   </td>
   <td>
