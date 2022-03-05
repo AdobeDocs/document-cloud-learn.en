@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9344.jpg
 kt: 9344
+exl-id: cf8e8696-ddba-48e3-acba-3c69541eb483
 ---
 # Optimize scanned documents
 

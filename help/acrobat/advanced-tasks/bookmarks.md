@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9342.jpg
 kt: 9342
+exl-id: 1d3a8588-e1ee-4ee5-b968-23200d7ed011
 ---
 # Adding bookmarks and hyperlinks
 
