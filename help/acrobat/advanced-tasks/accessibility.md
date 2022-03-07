@@ -47,7 +47,3 @@ In the accessibility report window, right-click on an item to bring up the conte
 >[!NOTE]
 >
 >Some issues cannot be fixed automatically and need your manual intervention to correct the problem. In those cases, >Acrobat presents a dialog box telling you what to correct.
-
-Select the PDF icon to download the *Check PDF accessibility* tutorial.
-
-[![Download Accessibility tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).
