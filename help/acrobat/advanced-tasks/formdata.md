@@ -28,8 +28,3 @@ If you have a set of completed forms and need to compile the data, you can use A
     Acrobat extracts the data from each form and creates a spreadsheet of all the data.
 
     ![Form Data Step 4](../assets/FormData_4.png)
-
-
-Select the PDF icon to download the *Working with form data* tutorial.
-
-[![Download Working with form data tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf).

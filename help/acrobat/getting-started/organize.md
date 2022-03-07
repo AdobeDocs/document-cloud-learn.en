@@ -34,7 +34,3 @@ Use **[!UICONTROL Organize Pages]** in Acrobat to add, replace, extract, rotate,
     When splitting a PDF, you can break apart by the number of pages, file size, or top-level bookmarks.
 
     ![Scan Step 5](../assets/Organize_4.png)
-
-Click to download a PDF of the *Organize Pages* tutorial.    
-
-[![Download Organize Pages tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)

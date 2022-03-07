@@ -48,7 +48,3 @@ Reduce large files and optimize your PDFs without compromising quality for shari
 >[!TIP]
 >
 >To optimize multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
-
-Select the PDF icon to download the *Reduce file size & optimize* tutorial.    
-
-[![Download Reduce file size & optimize tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).

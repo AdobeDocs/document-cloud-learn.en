@@ -30,7 +30,3 @@ Turn a scanned paper form or document created in InDesign, Microsoft Word, Excel
 1. Select **[!UICONTROL Edit]** to continue work, or select **[!UICONTROL File]** **>** **[!UICONTROL Save As]** to save the PDF form.
 
     ![Form Step 4](../assets/Form_4.png)
-
-Select the PDF icon to download the *Create fillable forms* tutorial.    
-
-[![Download Create fillable forms tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCForms.pdf)
