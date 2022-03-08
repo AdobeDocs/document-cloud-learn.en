@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Sign Tutorials
-solution: Document Cloud, Adobe Sign
+solution: Document Cloud, Acrobat Sign, Adobe Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
