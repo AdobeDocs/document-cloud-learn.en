@@ -20,10 +20,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Up and running for Admins" src="../assets/Up-Running.png" />
+      <img alt="Up &  running for Admins" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Up and running for Admins</strong></a>
+    <a href="up-and-running-admin.md"><strong>Up &  running for Admins</strong></a>
     </div>
     <em>Overview of 7 key areas for administrators to get up & running quickly in Adobe Sign</em>
     <br>
