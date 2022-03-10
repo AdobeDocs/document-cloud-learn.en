@@ -18,11 +18,11 @@ Learn how you can transform customer and employee experiences by exploring indus
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="gov-overview.md">
+    <a href="gov/gov-overview.md">
       <img alt="Government tutorials" src="../assets/government.png" />
     </a>
     <div>
-    <a href="gov-overview.md"><strong>Government tutorials</strong></a>
+    <a href="gov/gov-overview.md"><strong>Government tutorials</strong></a>
     </div>
     <em>Explore our Acrobat tutorials specifically designed for federal, state, and local government</em>
     <br>

@@ -14,7 +14,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
 <tr>
   <td>
     <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
-      <img alt="5 Tips for Working Anywhere with Acrobat (Complete 15:12)" src="../assets/5tipscomplete.png" />
+      <img alt="5 Tips for Working Anywhere with Acrobat (Complete 15:12)" src="../../assets/5tipscomplete.png" />
     </a>
     <div>
     <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5 Tips for Working Anywhere with Acrobat (Complete 15:12)</strong></a>
@@ -24,7 +24,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>
   <td>
     <a href="get-your-tools.md">
-      <img alt="Tip 1: Get your tools" src="../assets/Tip1.png" />
+      <img alt="Tip 1: Get your tools" src="../../assets/Tip1.png" />
     </a>
     <div>
     <a href="get-your-tools.md"><strong>Tip 1: Get your tools</strong></a>
@@ -34,7 +34,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="Tip 2: Collaborate on documents" src="../assets/Tip2.png" />
+      <img alt="Tip 2: Collaborate on documents" src="../../assets/Tip2.png" />
     </a>
     <div>
     <a href="collaborate-on-documents.md"><strong>Tip 2: Collaborate on documents</strong></a>
@@ -46,7 +46,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
 <tr>
   <td>
     <a href="protect-digital-documents.md">
-      <img alt="Tip: 3Protect digital documents" src="../assets/Tip3.png" />
+      <img alt="Tip: 3Protect digital documents" src="../../assets/Tip3.png" />
     </a>
     <div>
     <a href="protect-digital-documents.md"><strong>Tip 3: Protect digital documents</strong></a>
@@ -56,7 +56,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>
   <td>
     <a href="work-with-forms-and-signatures.md">
-      <img alt="Tip 4: Work with forms and signatures" src="../assets/Tip4.jpg" />
+      <img alt="Tip 4: Work with forms and signatures" src="../../assets/Tip4.jpg" />
     </a>
     <div>
     <a href="work-with-forms-and-signatures.md"><strong>Tip 4: Work with forms and signatures</strong></a>
@@ -66,7 +66,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>
   <td>
     <a href="scan-and-edit-on-mobile.md">
-      <img alt="Tip 5: Scan and edit on mobile" src="../assets/Tip5.png" />
+      <img alt="Tip 5: Scan and edit on mobile" src="../../assets/Tip5.png" />
     </a>
     <div>
     <a href="scan-and-edit-on-mobile.md"><strong>Tip 5: Scan and edit on mobile</strong></a>
@@ -78,7 +78,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
-      <img alt="Making PDFs Accessible (Complete 14:11)" src="../assets/Accessibilitycomplete.png" />
+      <img alt="Making PDFs Accessible (Complete 14:11)" src="../../assets/Accessibilitycomplete.png" />
     </a>
     <div>
     <a href="making-pdfs-accessible.md"><strong>Making PDFs Accessible (Complete 14:11)</strong></a>
@@ -88,7 +88,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>
   <td>
     <a href="understanding-accessibility.md">
-      <img alt="Making PDFs Accessible: Understanding Accessibility" src="../assets/Accessibilityunderstanding.png" />
+      <img alt="Making PDFs Accessible: Understanding Accessibility" src="../../assets/Accessibilityunderstanding.png" />
     </a>
     <div>
     <a href="understanding-accessibility.md"><strong>Making PDFs Accessible: Understanding Accessibility</strong></a>
@@ -98,7 +98,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="Making PDFs Accessible: Authoring in Word" src="../assets/Accessibityword.png" />
+      <img alt="Making PDFs Accessible: Authoring in Word" src="../../assets/Accessibityword.png" />
     </a>
     <div>
     <a href="collaborate-on-documents.md"><strong>Making PDFs Accessible: Authoring in Word</strong></a>
@@ -110,7 +110,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
 <tr>
   <td>
     <a href="finishing-in-acrobat.md">
-      <img alt="Making PDFs Accessible: Finishing in Acrobat" src="../assets/Acessibilityacrobat.png" />
+      <img alt="Making PDFs Accessible: Finishing in Acrobat" src="../../assets/Acessibilityacrobat.png" />
     </a>
     <div>
     <a href="finishing-in-acrobat.md"><strong>Making PDFs Accessible: Finishing in Acrobat</strong></a>
@@ -120,7 +120,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>
   <td>
     <a href="making-pdf-ballots-accessible.md">
-      <img alt="Making PDF ballots more Accessible" src="../assets/Accessibleballots.png" />
+      <img alt="Making PDF ballots more Accessible" src="../../assets/Accessibleballots.png" />
     </a>
     <div>
     <a href="making-pdf-ballots-accessible.md"><strong>Making PDF ballots more Accessible</strong></a>
@@ -129,7 +129,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     <br>
   </td>  
   <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
