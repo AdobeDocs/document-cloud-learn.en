@@ -103,7 +103,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     <div>
     <a href="collaborate-on-documents.md"><strong>Making PDFs Accessible: Authoring in Word</strong></a>
     </div>
-    <em>Learn best practices for creating PDF files that are authored in [!DNLMicrosoft Word]</em>
+    <em>Learn best practices for creating PDF files that are authored in [!DNL Microsoft Word]</em>
     <br>
   </td>  
 </tr>
