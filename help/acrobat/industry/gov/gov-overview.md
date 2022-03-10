@@ -10,6 +10,8 @@ exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
 
 Explore our Acrobat tutorials specifically designed for federal, state, and local government.
 
+## 5 tips for working anywhere with Acrobat
+
 <table style="table-layout:fixed">
 <tr>
   <td>
@@ -75,6 +77,11 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     <br>
   </td>
 </tr>
+</table>
+
+## Accessibility
+
+<table>
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
