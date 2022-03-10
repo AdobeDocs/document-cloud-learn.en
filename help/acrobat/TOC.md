@@ -90,8 +90,8 @@ breadcrumb-title: Acrobat Tutorials
   + [Overview](industry/industry-overview.md)
   + Government {#gov}
     + [Overview](industry/gov/gov-overview.md)
-    + 5 Tips for Working Anywhere with Acrobat {#tips}
-      + [5 Tips for working anywhere with Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
+    + 5 tips for working anywhere with Acrobat {#tips}
+      + [5 tips for working anywhere with Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
       + [Tip #1 – Get your tools](industry/gov/get-your-tools.md)
       + [Tip #2 – Collaborate on documents](industry/gov/collaborate-on-documents.md)
       + [Tip #3 – Protect digital documents](industry/gov/protect-digital-documents.md)
@@ -102,7 +102,7 @@ breadcrumb-title: Acrobat Tutorials
       + [#1 – Understanding Accessibility](industry/gov/understanding-accessibility.md)
       + [#2 – Authoring in Word](industry/gov/authoring-in-word.md)
       + [#3 – Finishing in Acrobat](industry/gov/finishing-in-acrobat.md)
-      + [Making PDF Ballots more Accessible](industry/gov/making-pdf-ballots-accessible.md)
+      + [Making PDF ballots more Accessible](industry/gov/making-pdf-ballots-accessible.md)
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
 + Deploy {#deploy}
