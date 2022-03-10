@@ -19,7 +19,7 @@ Learn how you can transform customer and employee experiences by exploring indus
 <tr>
   <td>
     <a href="gov/gov-overview.md">
-      <img alt="Government tutorials" src="../assets/government.png" />
+      <img alt="Government tutorials" src="../assets/Government.png" />
     </a>
     <div>
     <a href="gov/gov-overview.md"><strong>Government tutorials</strong></a>

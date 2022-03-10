@@ -56,7 +56,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>
   <td>
     <a href="work-with-forms-and-signatures.md">
-      <img alt="Tip 4: Work with forms and signatures" src="../../assets/Tip4.jpg" />
+      <img alt="Tip 4: Work with forms and signatures" src="../../assets/Tip4.png" />
     </a>
     <div>
     <a href="work-with-forms-and-signatures.md"><strong>Tip 4: Work with forms and signatures</strong></a>
@@ -78,7 +78,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
-      <img alt="Making PDFs Accessible (Complete 14:11)" src="../../assets/Accessibilitycomplete.png" />
+      <img alt="Making PDFs Accessible (Complete 14:11)" src="../../assets/Accessiblecomplete.png" />
     </a>
     <div>
     <a href="making-pdfs-accessible.md"><strong>Making PDFs Accessible (Complete 14:11)</strong></a>
@@ -88,7 +88,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>
   <td>
     <a href="understanding-accessibility.md">
-      <img alt="Making PDFs Accessible: Understanding Accessibility" src="../../assets/Accessibilityunderstanding.png" />
+      <img alt="Making PDFs Accessible: Understanding Accessibility" src="../../assets/Accessibiityunderstanding.png" />
     </a>
     <div>
     <a href="understanding-accessibility.md"><strong>Making PDFs Accessible: Understanding Accessibility</strong></a>
@@ -98,7 +98,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="Making PDFs Accessible: Authoring in Word" src="../../assets/Accessibityword.png" />
+      <img alt="Making PDFs Accessible: Authoring in Word" src="../../assets/Accessibilityword.png" />
     </a>
     <div>
     <a href="collaborate-on-documents.md"><strong>Making PDFs Accessible: Authoring in Word</strong></a>
@@ -110,7 +110,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
 <tr>
   <td>
     <a href="finishing-in-acrobat.md">
-      <img alt="Making PDFs Accessible: Finishing in Acrobat" src="../../assets/Acessibilityacrobat.png" />
+      <img alt="Making PDFs Accessible: Finishing in Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
     <div>
     <a href="finishing-in-acrobat.md"><strong>Making PDFs Accessible: Finishing in Acrobat</strong></a>
