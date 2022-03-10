@@ -16,26 +16,34 @@ Adobe Sign Skill Builders are 30-minute sessions designed to put your e-signatur
 
 ## Monthly sessions
 
-* **[Easy Automation with Adobe Sign for Microsoft Power Automate](https://sign-skillbuilder-july.joinus.adobeevents.com/){target="_blank"}**
-Date: July 22, 2021
-Learn how to take manual processes out of your e-signature workflows. The Adobe Sign connector for Microsoft Power Automate makes it easy to set up simple or complex automation for your Adobe Sign agreements. You can automatically route signed documents to SharePoint; add custom info to an agreement name; map web form fields to CSV data; and much more. This session will introduce you to what's possible with Adobe Sign for Microsoft Power Automate.
+* **[Adobe Sign New Release - August 2022](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/06d8a836-4b51-426b-913e-189b23a82bd6/8b777e11-0e6d-45a8-b954-bbff5c887efc){target="_blank"}**
+Date: August 18, 2022
+Join us for our quarterly review of what's new in Adobe Sign. We'll share details on the latest additions to the product, and take live Q&A on how the updates can benefit your team.
 
-* **[12.2 release on-demand recording](https://event.on24.com/wcc/r/3163201/07B1E175783B1F37248E7AE08091D6C6){target="_blank"}**
-Date: June 17, 2021
-See what's new in the Adobe Sign 12.2 release. The latest updates include: support for multi-signer web forms, assigning users to multiple groups, liquid mode, and web forms that can be seamlessly updated without changing the URL.
+* **[Skill Builder for Admins: Create a workflow](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target="_blank"}**
+Date: July 14, 2022
+Make sure documents are signed right the first time, and every time. If you're a group or account admin, you can define pre-set workflows in Adobe Sign to automatically route documents for signature to the correct parties - then grant access to your whole Adobe Sign group so they can run the workflow for key signature processes.
 
-* **[Prepping your documents for e-signature on-demand recording](https://event.on24.com/wcc/r/3121756/E99C17996EB39D270728FC57D062F46B){target="_blank"}**
-Date: May 20, 2021
-Learn how to save time, save clicks, and reduce errors using PDF form fields and text tags.
+* **[Post a fillable, signable web form](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4499bc28-9f26-4b68-88a6-3815ebdff7cf/337fa9d6-c9d3-4bcc-b6d8-9c7580b9be40){target="_blank"}**
+Date: June 16, 2022
+Create a web form to let anyone complete and sign a form - without needing you to initiate the transaction, or even know their email address. This session will show you how you can prepare a document template that can be used for individual signature transactions as well as for posting to a unique URL for broad sharing.
 
-* **[Mega Sign & Web Forms on-demand recording](https://event.on24.com/wcc/r/3032025/7FF45B7F803724D32534FD1B0D610AD6){target="_blank"}**
-Date: April 15, 2021
-Learn how to create a web form to allow individuals to complete and sign documents online, and how to use Mega Sign to send one document to multiple people with one click.
+* **[What’s New in Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/a51b7ffa-ccf1-41f7-a82c-27bf50d8eb5d/22ee6c72-b92e-43f8-9cc6-c177c9244fea){target="_blank"}**
+Date: May 19, 2022
+Discover the latest tips and best practices to transform business workflows and get important documents signed fast.
 
-* **[Workflow Designer on-demand recording](https://event.on24.com/wcc/r/3031957/7D9B2B2431639F2D6B91449B932F6632){target="_blank"}**
-Date: March 25, 2021
-Learn how to cut down on manual tasks and reduce human error by creating automated workflows in Adobe Sign. With Workflow Designer, you can use visual design tools to automate every task in a document workflow from start to finish. Pre-set your signers on specific documents, automatically route for approval or certification, and so much more. 
+* **[What’s New in Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/479894a1-131f-411d-b4c8-f699d72413bb/30619f65-b374-40db-85d1-0854dc48af0d){target="_blank"}**
+Date: April 14, 2022
+Discover the latest tips and best practices to transform business workflows and get important documents signed fast.
 
-* **[User management & groups on-demand recording](https://event.on24.com/wcc/r/2954084/6EEDCD348E72E9C8E64F5B7E4ADB4642){target="_blank"}**
-Date: February 11, 2021
-Learn how to enable efficient, large-scale user management in Adobe Sign by creating groups to better reflect the structure of your organization. Give users access to all the assets, library templates, and workflows they need, while allowing account admins to control, manage, and report across multiple groups.
+* **[Collect Many Signatures in One Click](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/44e4b483-7d05-44b3-b7e7-b265c9b84d07/2736bed0-b416-4578-ac3f-a57491f22c26){target="_blank"}**
+Date: March 17, 2022
+Adobe Acrobat Sign's Send in Bulk feature lets you send a single document to hundreds of signers. When you need multiple individuals to sign unique copies of the same NDA, release form, enterprise-wide policy update, or any other single-signer document, you'll save time by preparing the file once and automatically collecting individual responses.
+
+* **[Prepare Your Agreements for e-Signature](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9024b058-ade1-420f-87f0-68bd5f6d527a/cf8b172f-b9df-41ef-bfce-e6d4b0c3ddf4){target="_blank"}**
+Date: February 17, 2022
+Learn about three easy ways to set up your documents for e-signature. Whether they're PDFs, Microsoft 365 files, or even a simple image file, this session will give you the tools you need to get that document signed. We'll cover three methods: - Adobe Sign's simple drag-and-drop authoring environment - Set up a PDF form in Adobe Acrobat - Use text tags for speedy document authoring.
+
+* **[Work with e-signatures in your Microsoft apps](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/2dcd80a6-6335-4756-bbc8-3505fe99594b/866c4314-dc74-473b-9859-828801814e13){target="_blank"}**
+Date: January 20, 2022
+Expand the way you use your Microsoft apps like Word, Outlook, and Sharepoint by adding Adobe Sign to your existing workflows. This session will teach you how to start streamlining document processes in common Microsoft apps so you don't need to context switch just to get a signature or check a status.
