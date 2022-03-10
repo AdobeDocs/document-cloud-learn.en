@@ -31,17 +31,17 @@ Learn how you can transform your organization's e-signing experiences by explori
       <img alt="Use case recipes" src="../assets/Expand_RecipeR.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Use Case recipes</strong></a>
+    <a href="recipes.md"><strong>Use case recipes</strong></a>
     </div>
     <em>Download the resources you need to quickly deploy various e-signature department workflows on your own</em>
     <br>
   </td>
   <td>
     <a href="use-case-showcase.md">
-      <img alt="Use Case Showcase" src="../assets/UseCaseShowcaseR.png" />
+      <img alt="Use case showcase" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Use Case showcase</strong></a>
+    <a href="use-case-showcase.md"><strong>Use case showcase</strong></a>
     </div>
     <em>Watch live or recorded sessions introducing you to new Adobe Sign use cases and trends</em>
     <br>
