@@ -24,7 +24,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
     </div>
-    <em>See how the Adobe Acrobat workspace makes it easy to access files and tools across desktop, web, and mobile</em>
+    <em>See how the Acrobat workspace makes it easy to access files and tools across desktop, web, and mobile</em>
     <br>
   </td>
   <td>
