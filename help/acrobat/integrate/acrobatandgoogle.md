@@ -1,5 +1,5 @@
 ---
-title: Adobe Acrobat for [!DNL Google Drive}
+title: Adobe Acrobat for [!DNL Google Drive]
 description: Get access to time-saving PDF tools and e-signature workflows directly inside the [!DNL Google Drive] app
 role: User
 product: adobe acrobat
