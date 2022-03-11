@@ -116,7 +116,7 @@ Learn how to get more done in less time with essential PDF and e-signature tools
 
 ## Box
 
-Learn how Acrobat DC and [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} make it simpler for everyone in your organization to keep business moving.
+Learn how Acrobat and [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} make it simpler for everyone in your organization to keep business moving.
 
 ## Dropbox 
 

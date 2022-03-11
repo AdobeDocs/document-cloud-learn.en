@@ -1,6 +1,6 @@
 ---
 title: Working With Form Data
-description: Merge form field data into a single spreadsheet in Acrobat DC
+description: Merge form field data into a single spreadsheet in Acrobat
 role: User
 product: adobe acrobat
 level: Experienced

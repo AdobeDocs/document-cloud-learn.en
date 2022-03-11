@@ -24,7 +24,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
     </div>
-    <em>See how the Adobe Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile</em>
+    <em>See how the Adobe Acrobat workspace makes it easy to access files and tools across desktop, web, and mobile</em>
     <br>
   </td>
   <td>
@@ -93,7 +93,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   </td>
  <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="Comment on PDF files in Acrobat DC" src="../assets/Comment.jpg" />
+      <img alt="Comment on a PDF" src="../assets/Comment.jpg" />
     </a>
     <div>
     <a href="comment-on-pdf-files.md"><strong>Comment on a PDF</strong></a>
@@ -103,7 +103,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   </td>
   <td>
     <a href="edit-pdf.md">
-      <img alt="Edit a PDF in Acrobat DC" src="../assets/Edit.jpg" />
+      <img alt="Edit a PDF" src="../assets/Edit.jpg" />
     </a>
     <div>
     <a href="edit-pdf.md"><strong>Edit a PDF</strong></a>
