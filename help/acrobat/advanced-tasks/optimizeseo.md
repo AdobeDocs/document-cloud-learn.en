@@ -57,10 +57,6 @@ Add key **[!UICONTROL Document Properties]** as follows:
 
 ## 3. Tag your PDF
 
->[!NOTE] 
->
->Available in Acrobat Pro only.
-
 Tagging content in your PDF not only makes your file [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) to those with disabilities—it also improves SEO. 
 
 +++View details on how to tag a PDF
@@ -76,6 +72,10 @@ Tag a PDF as follows:
     ![Screenshot of setting Alternate text in PDF](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE] 
+>
+>Available in Acrobat Pro only.
 
 <br>&nbsp;
 
