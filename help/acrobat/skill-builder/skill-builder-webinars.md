@@ -19,7 +19,7 @@ Get all the info you need on protecting your PDF content. This session will shar
 
 * **[Simple Automation with Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target="_blank"}**
 Date: July 28, 2022
-Stop repeating simple manual tasks! This session will teach you how to use Action Wizard in Acrobat DC to batch process your PDF files and perform serial, repetitive tasks automatically.
+Stop repeating simple manual tasks! This session will teach you how to use Action Wizard in Acrobat to batch process your PDF files and perform serial, repetitive tasks automatically.
 
 * **[Readability for all: Creating Accessible PDFs](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target="_blank"}**
 Date: June 23, 2022

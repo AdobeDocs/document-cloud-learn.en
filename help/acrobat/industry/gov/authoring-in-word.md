@@ -1,6 +1,6 @@
 ---
-title: Making PDFs Accessible--Authoring in Microsoft Word
-description: Authoring accessible documents in Microsoft Word
+title: Making PDFs Accessible--Authoring in [!DNL Microsoft Word]
+description: Authoring accessible documents in [!DNL Microsoft Word]
 role: User
 product: adobe acrobat
 level: Experienced
@@ -8,10 +8,12 @@ topic-revisit: Accessibility
 thumbnail: 34513.jpg
 exl-id: 6e1f2471-085f-4510-8f59-0f635367aa98
 ---
-# Making PDFs Accessible--Authoring in Microsoft Word
+# Making PDFs Accessible: Authoring in [!DNL Microsoft Word]
 
-In the second video tutorial in the Making PDFs Accessible series, you'll learn best practices for creating PDF files that are authored in Microsoft Word.
+In the second video tutorial in the Making PDFs Accessible series, learn best practices for creating PDF files that are authored in [!DNL Microsoft Word].
 
-## Part 2 - Authoring in Microsoft Word (2:51)
+## Part 2 - Authoring in [!DNL Microsoft Word] (2:51)
 
->[!VIDEO](https://video.tv.adobe.com/v/34513)
+>[!VIDEO](https://video.tv.adobe.com/v/34513?hidetitle=true)
+
+[Go to Part 3 -  Finishing in Acrobat](finishing-in-acrobat.md)

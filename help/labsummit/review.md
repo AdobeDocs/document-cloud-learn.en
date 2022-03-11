@@ -33,7 +33,7 @@ You will receive an email notice once recipients have viewed your file.
 
 ## Reviewer Experience
 
-The reviewers receive an email invitation with a link to the review PDF. When they click the link or the **[!UICONTROL Review]** button in the invitation, the PDF opens in a web browser. They can use the commenting tools to add comments to the PDF. They can also use Acrobat Reader DC or Acrobat DC desktop applications to add comments. 
+The reviewers receive an email invitation with a link to the review PDF. When they click the link or the **[!UICONTROL Review]** button in the invitation, the PDF opens in a web browser. They can use the commenting tools to add comments to the PDF. They can also use Acrobat Reader or Acrobat desktop applications to add comments. 
 
 ## Send an anonymous or public link in an email
 

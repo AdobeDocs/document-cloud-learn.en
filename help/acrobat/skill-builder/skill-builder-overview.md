@@ -1,5 +1,5 @@
 ---
-title: Acrobat DC Skill Builders
+title: Acrobat Skill Builders
 description: Get up-to-speed on Acrobat with these interactive skill builders
 role: User
 product: adobe acrobat
