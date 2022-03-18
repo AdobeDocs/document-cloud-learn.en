@@ -53,7 +53,7 @@ breadcrumb-title: Adobe Sign Tutorials
     + [Creating a report](admin/create-a-report.md)
     + [Setting up a Web Form](sign-advanced-users/webform.md)
     + [Collecting signatures in bulk](sign-advanced-users/megasign.md)
-    + [Setting up a workflow](admin/building-a-custom-workflow.md)
+    + [Building a custom workflow](admin/building-a-custom-workflow.md)
   + Advanced tasks {#advanced-tasks-admins}
     + [Global settings](admin/learn-about-global-settings.md)
     + [Sharing account access](admin/share-account-access.md)
