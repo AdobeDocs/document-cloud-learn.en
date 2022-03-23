@@ -10,8 +10,7 @@ exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
 ---
 # Government contracts and requisition forms
 
-Quickly replace paper processing with compliant digital workflows, complete with audit reports. Learn how to use Adobe Sign’s Workflow Designer tool to help
-streamline the entire process.
+Quickly replace paper processing with compliant digital workflows, complete with audit reports. Learn how to use Adobe Sign’s Workflow Designer tool to help streamline the entire process.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 

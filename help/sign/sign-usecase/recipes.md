@@ -104,12 +104,17 @@ Speed up your organization's digital workflows with these government and commerc
     <div>
     <a href="usecasecompolicy.md"><strong>Policy agreements</strong></a>
     </div>
-    <em>Efficiently collect signatures from all your employees on telework agreements, policy updates, and more</em>
+    <em>Efficiently collect signatures from all your employees on policy agreements and updates</em>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecasecomtelework.md">
+      <img alt="Telework agreement" src="../assets/UC_MegasignR.png" />
+    </a>
     <div>
+    <a href="usecasecomtelework.md"><strong>Telework agreement</strong></a>
+    </div>
+    <em>Efficiently collect signatures from all your employees on telework agreements</em>
     <br>
   </td>
 </tr>
