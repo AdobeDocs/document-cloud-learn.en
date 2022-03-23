@@ -1,18 +1,17 @@
 ---
-title: Government Telework Agreement
-description: Efficiently collect signatures from all your employees on telework agreements, policy updates, and more
+title: Commercial Telework Agreement
+description: Efficiently collect signatures from all your employees on telework agreements
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
-thumbnail: 33808.jpg
-exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
+thumbnail: 33978.jpg
 ---
-# Government telework agreement
+# Commercial telework agreement
 
 Learn how to efficiently collect signatures from all your employees on telework agreements, policy updates, and more. First you create a reusable document template that is quickly accessible from your document library. Second, you send the new document template out for signature to hundreds of employees at once using Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33808?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33978?hidetitle=true)
 
 Click to download step-by-step PDF recipe for telework agreements.
 
