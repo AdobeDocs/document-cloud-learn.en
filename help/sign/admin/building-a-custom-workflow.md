@@ -10,7 +10,7 @@ exl-id: b892b278-cf83-461d-a548-57237b85b297
 ---
 # Building a custom workflow
 
-In this video tutorial, learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.
+Learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.
 
 Check out these additional real-world use cases:
 
