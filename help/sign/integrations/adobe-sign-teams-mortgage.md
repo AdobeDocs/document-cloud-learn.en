@@ -3,7 +3,7 @@ title: Sending documents for signature in [!DNL Microsoft Teams]
 description: The Adobe Sign & [!DNL Microsoft Teams] integration enables you to send agreements for signature or check the status of existing agreements, all from within [!DNL Microsoft Teams]
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg

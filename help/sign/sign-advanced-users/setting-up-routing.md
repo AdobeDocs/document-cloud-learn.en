@@ -3,7 +3,7 @@ title: Setting up Routing Order
 description: Learn how to set up the routing order for multiple signers
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17347.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a

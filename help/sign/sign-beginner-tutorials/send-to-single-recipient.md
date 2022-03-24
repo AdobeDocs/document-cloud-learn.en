@@ -3,7 +3,7 @@ title: Sending to a Single Recipient
 description: Jump in and learn how easy it is to send out a document for signature
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939

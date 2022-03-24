@@ -3,7 +3,7 @@ title: Adobe Sign Text Tagging
 description: Learn how to build Adobe Sign form fields by text tagging using Adobe Acrobat
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08

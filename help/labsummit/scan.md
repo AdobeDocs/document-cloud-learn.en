@@ -1,7 +1,7 @@
 ---
 title: Go Digital with Adobe Scan
 description: Learn some tricks and tips for using Adobe Document Cloud
-solution: Document Cloud
+solution: Acrobat Sign
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
 ---
 # Go Digital with Adobe Scan

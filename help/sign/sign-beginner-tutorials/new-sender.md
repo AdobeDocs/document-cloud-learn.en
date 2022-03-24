@@ -3,7 +3,7 @@ title: Getting Started with Adobe Sign for New Senders
 description: This comprehensive tutorial is a great place to start for new senders in Adobe Sign
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989

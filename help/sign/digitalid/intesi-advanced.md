@@ -3,7 +3,7 @@ title: Get a Digital ID from [!DNL Intesi Group] (Advanced)
 description: Learn how to obtain an Advanced digital signing certificate from [!DNL Intesi Group]
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-8702.jpg
 kt: 8702
