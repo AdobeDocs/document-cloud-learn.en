@@ -3,7 +3,7 @@ title: Modifying a Document Already Sent for Signature
 description: Learn how to modify the workflow for a document that's already in progress
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 17343.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c

@@ -1,7 +1,7 @@
 ---
 title: Lab Overview and Introduction
 description: Learn some tricks and tips for using Adobe Document Cloud
-solution: Document Cloud
+solution: Acrobat, Acrobat Sign
 exl-id: 254bfc9f-fb19-4e4e-a91f-b08a1b3da87f
 ---
 # Lab Overview and Introduction

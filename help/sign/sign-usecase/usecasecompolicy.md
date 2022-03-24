@@ -3,7 +3,7 @@ title: Commercial Policy Agreements
 description: Efficiently collect signatures from all your employees on policy agreements, updates, and more
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578

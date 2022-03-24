@@ -3,7 +3,7 @@ title: Creating a Document Template in Adobe Sign for Salesforce
 description: Learn how to create a reusable Document Template to provide speed and consistency
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17349.jpg

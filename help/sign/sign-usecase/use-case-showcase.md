@@ -3,7 +3,7 @@ title: Use Case Showcase
 description: The Use Case Showcase is a livestream session introducing you to new Adobe Sign use cases, trends, and showing how your organization can implement and benefit from them
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198

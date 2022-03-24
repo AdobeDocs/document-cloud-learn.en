@@ -3,7 +3,7 @@ title: Getting a Signature In Person
 description: Learn how to get someone else's signature in person using the Adobe Sign mobile app
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 topic-revisit: Mobile
 thumbnail: 17362.jpg

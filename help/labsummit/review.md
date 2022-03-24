@@ -1,7 +1,7 @@
 ---
 title: Share PDF files and review online
 description: Learn some tricks and tips for using Adobe Document Cloud
-solution: Document Cloud
+solution: Acrobat
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
 ---
 # Share PDF files and review online

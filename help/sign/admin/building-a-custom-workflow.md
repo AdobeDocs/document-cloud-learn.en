@@ -3,7 +3,7 @@ title: Building a Custom Workflow
 description: Learn how to tailor and automate document workflows to quickly get electronic signatures and collect form data
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297

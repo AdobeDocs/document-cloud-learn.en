@@ -3,7 +3,7 @@ title: Get a Digital ID from [!DNL Digidentity]
 description: Learn how to obtain a digital signing certificate from [!DNL Digidentity]
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-8669.jpg
 kt: 8669
