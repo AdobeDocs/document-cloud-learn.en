@@ -25,7 +25,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="setting-up-routing.md"><strong>Setting up routing order</strong></a>
     </div>
-    <em>Setup the routing order for multiple signers</em>
+    <em>Set up the routing order for multiple signers</em>
     <br>
   </td>
   <td>
