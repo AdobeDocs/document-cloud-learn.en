@@ -3,7 +3,7 @@ title: Send notifications using Adobe Sign for Microsoft Dynamics 365 and Market
 description: Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
