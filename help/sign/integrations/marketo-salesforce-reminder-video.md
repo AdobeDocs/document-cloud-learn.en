@@ -1,5 +1,5 @@
 ---
-title: Send reminders using Adobe Sign for Salesforce and Marketo video tutorial
+title: Send reminders using Acrobat Sign for Salesforce and Marketo video tutorial
 description: In this video tutorial, you'll learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time
 role: Admin
 product: adobe sign
@@ -9,9 +9,9 @@ topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 ---
-# Send reminders using Adobe Sign for Salesforce and Marketo video tutorial
+# Send reminders using Acrobat Sign for Salesforce and Marketo video tutorial
 
-Learn how to send an email reminder from Marketo for unsigned agreements. This integration uses Adobe Sign, Adobe Sign for Salesforce, Marketo, and the Marketo Salesforce Sync.
+Learn how to send an email reminder from Marketo for unsigned agreements. This integration uses Acrobat Sign, Acrobat Sign for Salesforce, Marketo, and the Marketo Salesforce Sync.
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ Learn how to send an email reminder from Marketo for unsigned agreements. This i
     
     Information and the latest plugin for Salesforce Sync is available [here.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Install Adobe Sign for Salesforce. 
+1. Install Acrobat Sign for Salesforce. 
 
     Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -27,5 +27,5 @@ Learn how to send an email reminder from Marketo for unsigned agreements. This i
 
 >[!TIP]
 >
->This video is part of the course [Accelerate sales cycles with Adobe Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!
+>This video is part of the course [Accelerate sales cycles with Acrobat Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!
 

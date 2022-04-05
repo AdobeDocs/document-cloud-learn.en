@@ -11,12 +11,12 @@ exl-id: 783bfbee-6bf2-4953-a3ac-2d398f528106
 ---
 # Get a digital ID from [!DNL Digidentity]
 
-Learn how to obtain a digital signing certificate from [!DNL Digidentity]. Once registered and your identity is verified, [!DNL Digidentity] issues you with a digital ID that is used to apply an Adobe Sign cloud signature.
+Learn how to obtain a digital signing certificate from [!DNL Digidentity]. Once registered and your identity is verified, [!DNL Digidentity] issues you with a digital ID that is used to apply an Acrobat Sign cloud signature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337067?hidetitle=true)
 
 <br>&nbsp;
 
-**Select the image below to learn how to use your [!DNL Digidentity] digital ID in Adobe Sign.**
+**Select the image below to learn how to use your [!DNL Digidentity] digital ID in Acrobat Sign.**
 
 [![image](assets/Digidentitysign_400.png)](digidentity-sign.md)

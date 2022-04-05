@@ -3,7 +3,6 @@ title: Advanced Account Sharing
 description: Advanced account sharing allows admins and users to delegate their send, modify, and view permissions
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg

@@ -1,5 +1,5 @@
 ---
-title: Send reminders using Adobe Sign for Salesforce and Marketo Configuration Guide
+title: Send reminders using Acrobat Sign for Salesforce and Marketo Configuration Guide
 description: Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time
 role: Admin
 product: adobe sign
@@ -9,9 +9,9 @@ topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
 ---
-# Send reminders using Adobe Sign for Salesforce and Marketo Configuration Guide
+# Send reminders using Acrobat Sign for Salesforce and Marketo Configuration Guide
 
-Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time. This integration uses Adobe Sign, Adobe Sign for Salesforce, Marketo, and the Marketo and Salesforce Sync.
+Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time. This integration uses Acrobat Sign, Acrobat Sign for Salesforce, Marketo, and the Marketo and Salesforce Sync.
 
 ## Prerequisites
 
@@ -19,13 +19,13 @@ Learn how to send an email reminder from Marketo when an agreement remains unsig
 
    Information and the latest plugin for Salesforce Sync is available [here.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Install Adobe Sign for Salesforce. 
+1. Install Acrobat Sign for Salesforce. 
 
     Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Find the custom object
 
-When the Marketo Salesforce Sync and Adobe Sign for Salesforce configurations are complete, several new options appear in the Marketo Admin Terminal.
+When the Marketo Salesforce Sync and Acrobat Sign for Salesforce configurations are complete, several new options appear in the Marketo Admin Terminal.
 
 ![Admin](assets/adminTab.png)
 
@@ -195,4 +195,4 @@ Because the campaign filter **Days Unsigned** was used, you can use a scheduled 
 
 >[!TIP]
 >
->This tutorial is part of the course [Accelerate sales cycles with Adobe Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!
+>This tutorial is part of the course [Accelerate sales cycles with Acrobat Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!

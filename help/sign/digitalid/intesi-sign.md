@@ -1,6 +1,6 @@
 ---
 title: Signing using [!DNL Intesi Group]
-description: Learn how to use your [!DNL Intesi Group] digital ID with Adobe Sign
+description: Learn how to use your [!DNL Intesi Group] digital ID with Acrobat Sign
 role: User
 product: adobe sign
 solution: Acrobat Sign

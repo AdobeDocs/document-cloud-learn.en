@@ -67,7 +67,7 @@ Speed up your organization's digital workflows with these government and commerc
     <div>
     <a href="usecasegovpaycheck.md"><strong>Paycheck Protection</strong></a>
     </div>
-    <em>See how you can use Adobe Sign to convert the Payment Protection Program form into an online interactive form</em>
+    <em>See how you can use Acrobat Sign to convert the Payment Protection Program form into an online interactive form</em>
     <br>
   </td>
   <td>

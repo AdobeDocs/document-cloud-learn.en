@@ -20,4 +20,4 @@ Check out this additional real-world [Telework agreement](https://experienceleag
 
 >[!TIP]
 >
->This video is part of the [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) and [Getting Started with Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) courses that are available for free on Experience League!
+>This video is part of the [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) and [Getting Started with Acrobat Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) courses that are available for free on Experience League!
