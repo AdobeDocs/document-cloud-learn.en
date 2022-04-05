@@ -16,4 +16,4 @@ Learn how to track the progress of an agreement directly within Microsoft ShareP
 
 >[!TIP]
 >
->This video is part of the course [Using Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) that is available for free on Experience League!
+>This video is part of the course [Using Acrobat Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) that is available for free on Experience League!

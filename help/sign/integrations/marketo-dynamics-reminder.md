@@ -1,5 +1,5 @@
 ---
-title: Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo
+title: Send reminders using Acrobat Sign for Microsoft Dynamics 365 and Marketo
 description: Learn how to send an email reminder when an agreement remains unsigned after a period of time
 role: Admin
 product: adobe sign
@@ -9,9 +9,9 @@ topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 ---
-# Send reminders using Adobe Sign for Microsoft Dynamics 365 and Marketo
+# Send reminders using Acrobat Sign for Microsoft Dynamics 365 and Marketo
 
-Learn how to send an email reminder when an agreement remains unsigned after a period of time. This integration uses Adobe Sign, Adobe Sign for Microsoft Dynamics, Marketo, and the Marketo Microsoft Dynamics Sync. 
+Learn how to send an email reminder when an agreement remains unsigned after a period of time. This integration uses Acrobat Sign, Acrobat Sign for Microsoft Dynamics, Marketo, and the Marketo Microsoft Dynamics Sync. 
 
 ## Prerequisites 
 
@@ -19,13 +19,13 @@ Learn how to send an email reminder when an agreement remains unsigned after a p
 
     Information and the latest plugin for Microsoft Dynamics Sync is available [here.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Install [Adobe Sign for Microsoft Dynamics](https://appsource.microsoft.com/en-us/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. Install [Acrobat Sign for Microsoft Dynamics](https://appsource.microsoft.com/en-us/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
     Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Find the custom object
 
-Once the Marketo Microsoft Dynamics Sync and Adobe Sign for Dynamics configurations are complete, two new options appear in the Marketo Admin Terminal.
+Once the Marketo Microsoft Dynamics Sync and Acrobat Sign for Dynamics configurations are complete, two new options appear in the Marketo Admin Terminal.
 
 ![Admin](assets/adminTerminal.png)
 
@@ -199,4 +199,4 @@ Because the campaign filter **Days Until Expires** was used, you can use a sched
 
 >[!TIP]
 >
->This tutorial is part of the course [Accelerate sales cycles with Adobe Sign for Microsoft Dynamics and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!
+>This tutorial is part of the course [Accelerate sales cycles with Acrobat Sign for Microsoft Dynamics and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!

@@ -1,17 +1,17 @@
 ---
 title: Tutorials
-description: A collection of tutorials, webinars, and use cases designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign
+description: A collection of tutorials, webinars, and use cases designed to quickly bring both beginners and administrators up-to-speed on Acrobat Sign
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
 ---
-# Adobe Sign tutorials
+# Acrobat Sign tutorials
 
-![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
+![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€™s needs with integrations, APIs, advanced authentication, additional admin features, and more. Here you can find a wide range of learning experiences designed to quickly bring both beginners and administrators up-to-speed on Adobe Sign.
+Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€™s needs with integrations, APIs, advanced authentication, additional admin features, and more. Here you can find a wide range of learning experiences designed to quickly bring both beginners and administrators up-to-speed on Acrobat Sign.
 
 ## Learning paths
 
@@ -56,7 +56,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>Digital ID</strong></a>
     </div>
-    <em>Learn how to use digital IDs from around the world with Adobe Sign</em>
+    <em>Learn how to use digital IDs from around the world with Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     <div>
     <a href="integrations/integrations-overview.md"><strong>Integrations</strong></a>
     </div>
-    <em>Add Adobe Sign directly inside other applications your organization already uses</em>
+    <em>Add Acrobat Sign directly inside other applications your organization already uses</em>
     <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     <div>
     <a href="develop/develop-overview.md"><strong>Develop</strong></a>
     </div>
-    <em>Get development resources on Adobe Sign I/O</em>
+    <em>Get development resources on Acrobat Sign I/O</em>
     <br>
   </td>
    <td>
@@ -98,7 +98,7 @@ Adobe Sign, an Adobe Document Cloud solution, scales to meet your organizationâ€
     <div>
     <a href="deploy-overview.md"><strong>Deploy</strong></a>
     </div>
-    <em>Insight and best practices for deploying Adobe Sign within your organization</em>
+    <em>Insight and best practices for deploying Acrobat Sign within your organization</em>
     <br>
   </td>
   <td>

@@ -11,7 +11,7 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 
 ![Sign Getting Started Image](../assets/Hero-GettingStarted.png)
 
-Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials. Get a quick tour of Adobe Sign and then jump into sending a document to one or more people. This content is designed to ease you into e-signature workflows.
+Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials. Get a quick tour of Acrobat Sign and then jump into sending a document to one or more people. This content is designed to ease you into e-signature workflows.
 
 ## Sending
 
@@ -19,12 +19,12 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Quick tour of Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Quick tour of Acrobat Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Quick tour of Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Quick tour of Acrobat Sign</strong></a>
     </div>
-    <em>Take a quick tour of the Adobe Sign interface to get up and running</em>
+    <em>Take a quick tour of the Acrobat Sign interface to get up and running</em>
     <br>
   </td>
   <td>
@@ -51,12 +51,12 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Getting started with Adobe Sign for new senders" src="../assets/gettingstartednew.png" />
+      <img alt="Getting started with Acrobat Sign for new senders" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Getting started with Adobe Sign for new senders</strong></a>
+    <a href="new-sender.md"><strong>Getting started with Acrobat Sign for new senders</strong></a>
     </div>
-    <em>This comprehensive tutorial is a great place to start for new senders in Adobe Sign</em>
+    <em>This comprehensive tutorial is a great place to start for new senders in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>
     </div>
-    <em>Learn how easy it is to sign a document that has been sent to you with Adobe Sign</em>
+    <em>Learn how easy it is to sign a document that has been sent to you with Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -103,7 +103,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="sign-in-person.md"><strong>Getting a signature in person</strong></a>
     </div>
-    <em>Get someone else's signature in person using the Adobe Sign mobile app</em>
+    <em>Get someone else's signature in person using the Acrobat Sign mobile app</em>
     <br>
   </td>
 </tr>

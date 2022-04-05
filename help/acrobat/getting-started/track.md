@@ -14,6 +14,6 @@ Always know which files are waiting on signatures and which have been signed.
 
 >[!IMPORTANT]
 >
->You must have an Adobe Sign Enterprise entitlement in addition to your Acrobat Enterprise subscription.
+>You must have an Acrobat Sign Enterprise entitlement in addition to your Acrobat Enterprise subscription.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338492?hidetitle=true)

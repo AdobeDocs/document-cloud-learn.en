@@ -18,10 +18,10 @@ Send documents for signature, track e-signing progress, and get real-time update
 <tr>
   <td>
     <a href="liquidmode.md">
-      <img alt="Liquid Mode in Adobe Sign" src="assets/liquidmode.png" />
+      <img alt="Liquid Mode in Acrobat Sign" src="assets/liquidmode.png" />
     </a>
     <div>
-    <a href="liquidmode.md"><strong>Liquid Mode in Adobe Sign</strong></a>
+    <a href="liquidmode.md"><strong>Liquid Mode in Acrobat Sign</strong></a>
     </div>
     <em>Learn how Liquid Mode improves the mobile signing experience</em>
     <br>
@@ -31,7 +31,7 @@ Send documents for signature, track e-signing progress, and get real-time update
       <img alt="Download for iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download Adobe Sign Mobile app for iOS</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download Acrobat Sign Mobile app for iOS</strong></a>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ Send documents for signature, track e-signing progress, and get real-time update
       <img alt="Download for Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en" target="_blank"><strong>Download Adobe Sign Mobile app for Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en" target="_blank"><strong>Download Acrobat Sign Mobile app for Android</strong></a>
     <br>
   </td>
 </tr>

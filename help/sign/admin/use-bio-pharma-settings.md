@@ -1,6 +1,6 @@
 ---
 title: Using Bio-Pharma Settings
-description: Learn about the Bio-pharma settings that allow you to configure Adobe Sign to meet FDA 21 CFR Part 11 requirements
+description: Learn about the Bio-pharma settings that allow you to configure Acrobat Sign to meet FDA 21 CFR Part 11 requirements
 role: Admin
 product: adobe sign
 level: Experienced
@@ -9,7 +9,7 @@ exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
 ---
 # Using Bio-Pharma settings
 
-Learn about Bio-pharma settings that allow you to configure Adobe Sign to meet FDA 21 CFR Part 11 requirements.
+Learn about Bio-pharma settings that allow you to configure Acrobat Sign to meet FDA 21 CFR Part 11 requirements.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
 
