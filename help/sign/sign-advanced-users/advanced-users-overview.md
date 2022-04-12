@@ -20,12 +20,12 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Setting up routing order" src="../assets/Routing.png">
+      <img alt="Setting up signing order" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Setting up routing order</strong></a>
+    <a href="setting-up-routing.md"><strong>Setting up signing order</strong></a>
     </div>
-    <em>Set up the routing order for multiple signers</em>
+    <em>Set up the signing order for multiple signers</em>
     <br>
   </td>
   <td>
