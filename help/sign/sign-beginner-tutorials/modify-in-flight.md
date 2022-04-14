@@ -10,7 +10,12 @@ exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
 ---
 # Modifying a document after sending
 
-Learn how to modify a document that's already been sent out for signature--like when the wrong document is sent out by mistake.
+Learn how to modify a document that's already been sent out for signature--like when the wrong document is sent out by mistake. Modifying agreements can only be used on documents that meet the following criteria:
+
+* The document has not been signed, approved, or delegated
+* The document does not include a digital signature or written signature
+* The document has not been initiated from a custom workflow
+
 
 >[!NOTE]
 >
