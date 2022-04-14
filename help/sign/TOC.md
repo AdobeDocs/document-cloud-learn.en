@@ -20,6 +20,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Sending to a single recipient](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Sending to multiple recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
     + [Getting started with Acrobat Sign for new senders](sign-beginner-tutorials/new-sender.md)
+    + [Modifying a document after sending](sign-beginner-tutorials/modify-in-flight.md)
   + Signing {#getting-started-signing}
     + [Electronically signing a document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and signing a document](sign-beginner-tutorials/fill-and-sign.md)
@@ -29,7 +30,6 @@ breadcrumb-title: Acrobat Sign Tutorials
   + Managing {#getting-started-managing}
     + [Manage & track your agreements](sign-beginner-tutorials/manage-and-track.md)
     + [Creating a document template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-    + [Modifying a document already sent for signature](sign-beginner-tutorials/modify-in-flight.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](sign-advanced-users/advanced-users-overview.md)
   + Sending {#advanced-tasks-sending}

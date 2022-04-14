@@ -59,10 +59,15 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>This comprehensive tutorial is a great place to start for new senders in Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Modifying a document after sending" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Modifying a document after sending</strong></a>
+    </div>
     <br>
+    <em>Modify a document that's already in progress</em>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -161,14 +166,9 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Modifying a document already sent for signature" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Modifying a document already sent for signature</strong></a>
-    </div>
     <br>
-    <em>Modify the workflow for a document that's already in progress</em>
   </td>
 </tr>
 </table>
