@@ -13,7 +13,7 @@ Learn how to run, save, and schedule reports in Acrobat Sign.
 
 >[!NOTE]
 >
->Reporting is only available for business and  enterprise-level plans.
+>Reporting is only available for business- and enterprise-level plans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 

@@ -69,10 +69,15 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <br>
     <em>Modify a document that's already in progress</em>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="Replacing a signer" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>Replacing a signer</strong></a>
+    </div>
     <br>
+    <em>Learn how to change the signer of a document that's already in progress</em>
   </td>
 </tr>
 </table>
