@@ -12,7 +12,7 @@ exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
 
 Learn how to edit or delete a template in your library.
 
->[!VIDEO](https://video.tv.adobe.com/v/17346?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342567?hidetitle=true)
 
 >[!TIP]
 >
