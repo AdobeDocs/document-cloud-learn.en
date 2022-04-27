@@ -19,12 +19,12 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Quick tour of Acrobat Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Workspace basics" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Quick tour of Acrobat Sign</strong></a>
+    <a href="quick-tour.md"><strong>Workspace basics</strong></a>
     </div>
-    <em>Take a quick tour of the Acrobat Sign interface to get up and running</em>
+    <em>Take a quick tour of the Acrobat Sign workspace to get up and running</em>
     <br>
   </td>
   <td>

@@ -16,7 +16,7 @@ breadcrumb-title: Acrobat Sign Tutorials
 + Getting started {#getting-started}
   + [Overview](sign-beginner-tutorials/beginner-users-overview.md)
   + Sending {#getting-started-sending}
-    + [Quick tour of Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
+    + [Workspace basics](sign-beginner-tutorials/quick-tour.md)
     + [Sending to a single recipient](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Sending to multiple recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
     + [Getting started with Acrobat Sign for new senders](sign-beginner-tutorials/new-sender.md)
