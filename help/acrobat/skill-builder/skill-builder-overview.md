@@ -1,6 +1,6 @@
 ---
-title: Acrobat DC Skill Builders
-description: Get up-to-speed on Acrobat DC with these interactive skill builders
+title: Acrobat Skill Builders
+description: Get up-to-speed on Acrobat with these interactive skill builders
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
@@ -9,7 +9,7 @@ exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
 ---
 # Acrobat Skill Builders
 
-Get up-to-speed on Acrobat DC with these interactive skill builders. Or, join a [monthly live session](skill-builder-webinars.md).
+Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [monthly live session](skill-builder-webinars.md).
 
 ![Acrobat Skill Builder Image](../assets/Hero-SkillBuilders.png)
 

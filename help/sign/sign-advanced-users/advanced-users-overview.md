@@ -1,9 +1,9 @@
 ---
-title: Advanced Tasks Overview
+title: Sign Advanced Tasks Overview
 description: Learn how to send a document out for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
@@ -12,7 +12,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 
 ![Sign Advanced Image](../assets/Hero-Advanced.png)
 
-Learn how to send a document out for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates. These tutorials are for anyone who's already familiar with the basics of sending and requesting signatures, and wants to learn more ways Adobe Sign can work for them.
+Learn how to send a document out for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates. These tutorials are for anyone who's already familiar with the basics of sending and requesting signatures, and wants to learn more ways Acrobat Sign can work for them.
 
 ## Sending
 
@@ -20,12 +20,12 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Setting up routing order" src="../assets/Routing.png">
+      <img alt="Setting up signing order" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Setting up routing order</strong></a>
+    <a href="setting-up-routing.md"><strong>Setting up signing order</strong></a>
     </div>
-    <em>Setup the routing order for multiple signers</em>
+    <em>Set up the signing order for multiple signers</em>
     <br>
   </td>
   <td>
@@ -72,12 +72,12 @@ Learn how to send a document out for signature to 100s of recipients at once, se
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign Text Tagging" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
     </div>
-    <em>Build Adobe Sign form fields by text tagging using Adobe Acrobat DC</em>
+    <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
     <br>
   </td> 
 </table>

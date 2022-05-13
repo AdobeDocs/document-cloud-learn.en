@@ -1,14 +1,14 @@
 ---
-title: Policy Agreements
+title: Commercial Policy Agreements
 description: Efficiently collect signatures from all your employees on policy agreements, updates, and more
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
 ---
-# Policy agreements
+# Commercial policy agreements
 
 Efficiently collect signatures from all your employees on Policy Agreements, policy updates, and more. Learn how to create an online web form that can be completed **and** signed without printing or mailing anything.
 

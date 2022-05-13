@@ -13,3 +13,7 @@ exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
 Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337500?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Work smarter with Acrobat DC and Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!

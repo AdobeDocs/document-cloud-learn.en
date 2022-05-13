@@ -1,0 +1,8 @@
+<svg id="Button" xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <rect id="Placement_Area" data-name="Placement Area" width="70" height="32" fill="red" opacity="0"/>
+  <g id="Background" fill="rgba(0,0,0,0)" stroke="#505050" stroke-width="2">
+    <rect width="70" height="32" rx="16" stroke="none"/>
+    <rect x="1" y="1" width="68" height="30" rx="15" fill="none"/>
+  </g>
+  <text id="Text" transform="translate(11 20)" fill="#505050" font-size="14" font-family="AdobeClean-Bold, Adobe Clean" font-weight="700"><tspan x="0" y="0">Get files</tspan></text>
+</svg>

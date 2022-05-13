@@ -1,9 +1,9 @@
 ---
 title: Signing using [!DNL Digidentity]
-description: Learn how to use your [!DNL Digidentity] digital ID with Adobe Sign
+description: Learn how to use your [!DNL Digidentity] digital ID with Acrobat Sign
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670

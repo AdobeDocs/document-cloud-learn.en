@@ -1,6 +1,6 @@
 ---
 title: Digital ID Overview
-description: Learn how to use digital IDs from around the world with Adobe Sign
+description: Learn how to use digital IDs from around the world with Acrobat Sign
 role: User
 product: adobe sign
 level: Beginner
@@ -12,11 +12,38 @@ exl-id: 753b7016-6331-40df-9003-5acee8be752a
 
 ![Sign Digital ID Image](../assets/Hero-DigitalID.png)
 
-Similar to a passport in electronic form, a digital identity (digital ID) allows you to securely prove that you are who you say you are. And, when e-signing in Adobe Sign, using a digital ID provides a higher level of assurance that you authorized your e-signature on that specific document. The following tutorials show you how to use digital IDs from around the world with Adobe Sign.
+Similar to a passport in electronic form, a digital identity (digital ID) allows you to securely prove that you are who you say you are. And, when e-signing in Acrobat Sign, using a digital ID provides a higher level of assurance that you authorized your e-signature on that specific document. The following tutorials show you how to use digital IDs from around the world with Acrobat Sign.
 
 >[!NOTE]
 >
->Before you can use a digital ID with a cloud signature, please check with your organization’s administrator to confirm that the provider’s solution is enabled in Adobe Sign.
+>Before you can use a digital ID with a cloud signature, please check with your organization’s administrator to confirm that the provider’s solution is enabled in Acrobat Sign.
+
+## [!DNL Aadhaar]
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+    <a href="aadhaar-sign.md">
+      <img alt="Signing using [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
+    </a>
+    <div>
+    <a href="aadhaar-sign.md"><strong>Signing using [!DNL Aadhaar]</strong></a>
+    </div>
+    <em>Learn how to use your [!DNL Aadhaar] digital ID with Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## [!DNL Digidentity]
 
@@ -39,7 +66,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="digidentity-sign.md"><strong>Signing using [!DNL Digidentity]</strong></a>
     </div>
-    <em>Learn how to use your [!DNL Digidentity] digital ID with Adobe Sign</em>
+    <em>Learn how to use your [!DNL Digidentity] digital ID with Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -81,7 +108,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="intesi-sign.md"><strong>Signing using [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Learn how to use your [!DNL Intesi Group] digital ID with Adobe Sign</em>
+    <em>Learn how to use your [!DNL Intesi Group] digital ID with Acrobat Sign</em>
     <br>
   </td>
 </tr>

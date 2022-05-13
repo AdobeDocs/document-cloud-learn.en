@@ -14,6 +14,10 @@ Never make the mistake of working with the wrong version of a file. Quickly and 
 
 >[!NOTE]
 >
->Available in Acrobat Pro DC only.
+>Available in Acrobat Pro only.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Work smarter with Acrobat DC and Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!

@@ -12,7 +12,7 @@ exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 
 ![Sign Administrators Image](../assets/Hero-Admin.png)
 
-Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Adobe Sign. The Advanced Tasks cover topics that expand past the admin set up portion and move into defining global settings, account access and sharing, and text tagging.
+Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Acrobat Sign. The Advanced Tasks cover topics that expand past the admin set up portion and move into defining global settings, account access and sharing, and text tagging.
 
 ## Getting started
 
@@ -20,12 +20,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Up and running for Admins" src="../assets/Up-Running.png" />
+      <img alt="Up &  running for Admins" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Up and running for Admins</strong></a>
+    <a href="up-and-running-admin.md"><strong>Up &  running for Admins</strong></a>
     </div>
-    <em>Overview of 7 key areas for administrators to get up & running quickly in Adobe Sign</em>
+    <em>Overview of 7 key areas for administrators to get up & running quickly in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="add-users-to-your-account.md"><strong>Adding users</strong></a>
     </div>
-    <em>Add users individually or in bulk to your Adobe Sign account</em>
+    <em>Add users individually or in bulk to your Acrobat Sign account</em>
     <br>
   </td>
 </tr>
@@ -89,7 +89,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="create-a-report.md"><strong>Creating a report</strong></a>
     </div>
-    <em>Create and schedule reports to gain visibiity into your organization's use of Adobe Sign</em>
+    <em>Create and schedule reports to gain visibiity into your organization's use of Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -185,12 +185,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign Text Tagging" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
     <div>
-    <em>Build Adobe Sign form fields by text tagging using Adobe Acrobat DC</em>
+    <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
     <br>
   </td>
   <td>

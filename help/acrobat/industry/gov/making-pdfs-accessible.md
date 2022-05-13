@@ -10,10 +10,10 @@ exl-id: 5b205e7c-d41f-452d-9a54-208a25d3fa5e
 ---
 # Making PDFs Accessible (complete 14:11)
 
-Learn about the optimal workflow for creating accessible PDF files. First, you'll learn why accessibility is so important, followed by how to work with PDFs created from Microsoft Word, then finish with Accessibility tools in Acrobat Pro DC.
+Learn about the optimal workflow for creating accessible PDF files. First, learn why accessibility is so important, followed by how to work with PDFs created from [!DNL Microsoft Word], then finish with Accessibility tools in Acrobat Pro.
 
 >[!NOTE]
 >
->Available in Acrobat Pro DC only.
+>Available in Acrobat Pro only.
 
->[!VIDEO](https://video.tv.adobe.com/v/34291)
+>[!VIDEO](https://video.tv.adobe.com/v/34291?hidetitle=true)

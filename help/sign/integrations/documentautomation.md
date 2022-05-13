@@ -1,6 +1,6 @@
 ---
-title: Document Automation with Adobe Sign for Microsoft Power Platform
-description: Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code
+title: Document Automation with Acrobat Sign for Microsoft Power Platform
+description: Learn how to activate and use the Acrobat Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -8,26 +8,26 @@ thumbnail: KT-7488.jpg
 kt: 7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 ---
-# Document automation with Adobe Sign for Microsoft Power Platform
+# Document automation with Acrobat Sign for Microsoft Power Platform
 
-Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code. There are four parts to this hands-on tutorial outlined in the links below:
+Learn how to activate and use the Acrobat Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code. There are four parts to this hands-on tutorial outlined in the links below:
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="Part 1: Store signed agreement in SharePoint with Adobe Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="Part 1: Store signed agreement in SharePoint with Acrobat Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Part 1: Store signed agreement in SharePoint with Adobe Sign</strong></a>
+    <a href="documentautomation.md#part1"><strong>Part 1: Store signed agreement in SharePoint with Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Part 2: Automated approval process to get e-signature with Adobe Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Part 2: Automated approval process to get e-signature with Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>Part 2: Automated approval process to get e-signature with Adobe Sign</strong></a>
+    <a href="documentautomation.md#part2"><strong>Part 2: Automated approval process to get e-signature with Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
@@ -52,13 +52,13 @@ Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for 
 ## Prerequisites
 
 * Microsoft 365 and Power Automate familiarity
-* Adobe Sign knowledge
-* Microsoft 365 account with access to SharePoint and Power Automate (Basic for Adobe Sign, Premium for Adobe PDF Tools)
-* Adobe Sign for enterprise or Adobe Sign developer account
+* Acrobat Sign knowledge
+* Microsoft 365 account with access to SharePoint and Power Automate (Basic for Acrobat Sign, Premium for Adobe PDF Tools)
+* Acrobat Sign for enterprise or Acrobat Sign developer account
 
 **Exercises 1 and 2**
 
-* Adobe Sign account with access to the API. A developer account or an Enterprise account.
+* Acrobat Sign account with access to the API. A developer account or an Enterprise account.
 * SharePoint site accessible by Power Automate that you have edit permissions to. Full admin access is recommended.
 * Sample document for the Signature approval request and signing.
 
@@ -66,27 +66,27 @@ Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for 
 
 Download materials [here](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## Part 1: Store signed agreement in SharePoint with Adobe Sign {#part1}
+## Part 1: Store signed agreement in SharePoint with Acrobat Sign {#part1}
 
 In part one, you'll use a Power Automate Flow template to set up an automated workflow that will save all signed agreements to your SharePoint Site.
 
 1. Navigate to Power Automate.
-1. Search for Adobe Sign.
+1. Search for Acrobat Sign.
 
    ![Screenshot of navigating to Power Automate](assets/documentautomation/automation_1.png)
    
-1. Choose **Save an Adobe Sign completed agreement to SharePoint library**.
+1. Choose **Save an Acrobat Sign completed agreement to SharePoint library**.
 
-   ![Screenshot of Save an Adobe Sign completed agreement to SharePoint library action](assets/documentautomation/automation_2.png)
+   ![Screenshot of Save an Acrobat Sign completed agreement to SharePoint library action](assets/documentautomation/automation_2.png)
 
-1. Review the screen and configure any needed connections. Enable the Adobe Sign connection.
+1. Review the screen and configure any needed connections. Enable the Acrobat Sign connection.
 1. Click the blue `+` symbol.
 
-   ![Screenshot of Adobe Sign and SharePoint flow connection](assets/documentautomation/automation_3.png)
+   ![Screenshot of Acrobat Sign and SharePoint flow connection](assets/documentautomation/automation_3.png)
 
-1. Enter your Adobe Sign account email and click the password field in the new window.
+1. Enter your Acrobat Sign account email and click the password field in the new window.
 
-   ![Screenshot of Adobe Sign sign in screen](assets/documentautomation/automation_4.png)
+   ![Screenshot of Acrobat Sign sign in screen](assets/documentautomation/automation_4.png)
 
    Wait a moment for Adobe to check your account.
 
@@ -119,7 +119,7 @@ In part one, you'll use a Power Automate Flow template to set up an automated wo
 
 You will test this flow in the next part.
 
-## Part 2: Automated approval process to get e-signature with Adobe Sign {#part2}
+## Part 2: Automated approval process to get e-signature with Acrobat Sign {#part2}
 
 In part two, we build off the first part with a more robust Flow and test both Flows to see them in action.
 
@@ -173,11 +173,11 @@ In part two, we build off the first part with a more robust Flow and test both F
 
    **Site Address:** Your SharePoint site.
    **File Identifier:** Search for “identifier,” and choose Identifier from the **Get file properties** step.
-1. Search for “Adobe” and choose **Adobe Sign** to add another action.
+1. Search for “Adobe” and choose **Acrobat Sign** to add another action.
 
    ![Screenshot of search menu](assets/documentautomation/automation_16.png)
 
-1. Enter “upload” into the search box for Adobe Sign and select **Upload a document and get a document ID**.
+1. Enter “upload” into the search box for Acrobat Sign and select **Upload a document and get a document ID**.
 1. Search for the dynamic variable **Name** to get the name of the item/document selected in the trigger under **File Name**.
 1. Click **Expression** in the variable assistant under **File Content**.
 
@@ -189,7 +189,7 @@ In part two, we build off the first part with a more robust Flow and test both F
 
    ![Screenshot of what the Dynamic Content screen should look like](assets/documentautomation/automation_18.png)
 
-1. Search for “create” in the Adobe Sign search area to add another Adobe Sign action.
+1. Search for “create” in the Acrobat Sign search area to add another Acrobat Sign action.
 1. Select **Create and agreement from an uploaded document and send for signature**.
 
    ![Screenshot of searching for create](assets/documentautomation/automation_19.png)

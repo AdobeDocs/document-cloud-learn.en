@@ -1,0 +1,19 @@
+---
+title: Get Signatures
+description: Keep business moving by collecting legally binding e-signatures from others — from anywhere
+role: User
+product: adobe acrobat
+level: Beginner
+thumbnail: KT-8257.jpg
+kt: 8257
+exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
+---
+# Get signatures
+
+Keep business moving by collecting legally binding e-signatures from others — from anywhere.
+
+>[!IMPORTANT]
+>
+>You must have an Acrobat Sign Enterprise entitlement in addition to your Acrobat Enterprise subscription.
+
+>[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)

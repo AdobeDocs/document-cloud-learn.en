@@ -1,6 +1,6 @@
 ---
 title: Create Embedded e-Signature and Document Experiences
-description: Learn how to use Adobe Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems
+description: Learn how to use Acrobat Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -10,7 +10,7 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 ---
 # Create embedded e-signature and document experiences
 
-Learn how to use Adobe Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems. There are four parts to this hands-on tutorial outlined in the links below:
+Learn how to use Acrobat Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems. There are four parts to this hands-on tutorial outlined in the links below:
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,7 +53,7 @@ Learn how to use Adobe Sign APIs to embed e-signature and document experiences i
 
 In part 1, you'll learn how to get started with everything you need for parts 2–4. Let's begin with getting API credentials.
 
-* [Adobe Sign Developer Account](https://acrobat.adobe.com/us/en/sign/developer-form.html)
+* [Acrobat Sign Developer Account](https://acrobat.adobe.com/us/en/sign/developer-form.html)
 * [Starter Code](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS Code (or editor of your choice)](https://code.visualstudio.com)
 * Python 3.x 
@@ -66,10 +66,10 @@ In part 1, you'll learn how to get started with everything you need for parts 2�
 
 In part 2, you'll explore the low/no-code option when using webforms. It’s always a good idea to see if you can avoid writing code at first.
 
-1. Access Adobe Sign with your developer account.
+1. Access Acrobat Sign with your developer account.
 1. Click **Publish a web form** on the home page.
 
-   ![Screenshot Adobe Sign home page](assets/embeddedesignature/embed_1.png)
+   ![Screenshot Acrobat Sign home page](assets/embeddedesignature/embed_1.png)
 
 1. Create your agreement.
 
@@ -84,17 +84,17 @@ In part 2, you'll explore the low/no-code option when using webforms. It’s alw
 
 In part 3, you'll dynamically create agreements.
 
-First, you'll need to establish access. With Adobe Sign, there are two ways to connect via API. OAuth Tokens & Integration Keys. Unless you have a very specific reason to use OAuth with your application, you will want to explore Integration Keys first.
+First, you'll need to establish access. With Acrobat Sign, there are two ways to connect via API. OAuth Tokens & Integration Keys. Unless you have a very specific reason to use OAuth with your application, you will want to explore Integration Keys first.
 
-1. Select **Integration Key** on the **API Information** menu under the **Account** tab in Adobe Sign.
+1. Select **Integration Key** on the **API Information** menu under the **Account** tab in Acrobat Sign.
 
    ![Screenshot of where to find the integration key](assets/embeddedesignature/embed_4.png)
 
 Now that you have access and can interact with the API, see what you can do with the API.
 
-1. Navigate to the [Adobe Sign REST API Version 6 Methods](http://adobesign.com/public/docs/restapi/v6).
+1. Navigate to the [Acrobat Sign REST API Version 6 Methods](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Screenshot of navigating Adobe Sign REST API Version 6 Methods](assets/embeddedesignature/embed_5.png)
+   ![Screenshot of navigating Acrobat Sign REST API Version 6 Methods](assets/embeddedesignature/embed_5.png)
 
 1. Use the token as a “bearer” value.
 
@@ -164,7 +164,7 @@ When everything is put together, the solution is pretty straightforward. You’r
 * [JS Events](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook Events
   * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-  * [Webhooks in Adobe Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+  * [Webhooks in Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [Reactivate Request Emails (with events)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [Replace Timeout with a Retry](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 <br>&nbsp;
@@ -180,8 +180,8 @@ When everything is put together, the solution is pretty straightforward. You’r
 http://bit.ly/Summit21-T126
 
 Includes:
-* Adobe Sign Developer Account
-* Adobe Sign API Docs
+* Acrobat Sign Developer Account
+* Acrobat Sign API Docs
 * Sample Code
 * Visual Studio Code
 * Python

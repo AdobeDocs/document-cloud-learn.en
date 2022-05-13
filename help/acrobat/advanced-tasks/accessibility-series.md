@@ -23,7 +23,7 @@ In this six-part on-demand webinar series, go from the basics of Accessibility t
     <div>
     <a href="accessibilitysession1.md"><strong>Introduction to PDF Accessibility</strong></a>
     </div>
-    <em>In this on-demand session, learn what it means to make a PDF accessible, how to set up Acrobat Pro DC to work on PDFs for accessibility, and the conversion process from a source document to a PDF</em>
+    <em>In this on-demand session, learn what it means to make a PDF accessible, how to set up Acrobat Pro to work on PDFs for accessibility, and the conversion process from a source document to a PDF</em>
     <br>
   </td>
   <td>
@@ -33,7 +33,7 @@ In this six-part on-demand webinar series, go from the basics of Accessibility t
     <div>
     <a href="accessibilitysession2.md"><strong>Remediating an inaccessible PDF</strong></a>
     </div>
-    <em>In this on-demand session, learn the workflow to convert a Word document and fixing some basic tagging issues using the Acrobat Pro DC tools shown in the introduction webinar</em>
+    <em>In this on-demand session, learn the workflow to convert a Word document and fixing some basic tagging issues using the Acrobat Pro tools shown in the introduction webinar</em>
     <br>
   </td>  
   <td>
