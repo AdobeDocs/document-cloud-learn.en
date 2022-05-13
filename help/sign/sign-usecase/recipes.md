@@ -3,7 +3,7 @@ title: Use Case Recipes
 description: Speed up your organization's digital workflows with these government and commercial e-signature examples
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
@@ -20,30 +20,30 @@ Speed up your organization's digital workflows with these government and commerc
 <tr>
   <td>
     <a href="usecasegovgrants.md">
-      <img alt="Business Grants and Loans" src="../assets/UC_Business.png" />
+      <img alt="Business grants and loans" src="../assets/UC_Business.png" />
     </a>
     <div>
-    <a href="usecasegovgrants.md"><strong>Business Grants and Loans</strong></a>
+    <a href="usecasegovgrants.md"><strong>Business grants and loans</strong></a>
     </div>
     <em>Provide fast assistance to businesses by providing self-serve access to grant, loan, and tax deferral request forms</em>
     <br>
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="Telework Agreement" src="../assets/UC_MegasignR.png" />
+      <img alt="Telework agreement" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>Telework Agreement</strong></a>
+    <a href="usecasegovtelework.md"><strong>Telework agreement</strong></a>
     </div>
     <em>Efficiently collect signatures from all your employees on telework agreements, policy updates, and more</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="Contracts and Requisition Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="Contracts and requisition forms" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Contracts and Requisition Forms</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Contracts and requisition forms</strong></a>
     </div>
     <em>Quickly replace paper processing with compliant digital workflows, complete with audit reports</em>
     <br>
@@ -67,15 +67,15 @@ Speed up your organization's digital workflows with these government and commerc
     <div>
     <a href="usecasegovpaycheck.md"><strong>Paycheck Protection</strong></a>
     </div>
-    <em>See how you can use Adobe Sign to convert the Payment Protection Program form into an online interactive form</em>
+    <em>See how you can use Acrobat Sign to convert the Payment Protection Program form into an online interactive form</em>
     <br>
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="Remote Warrant Request" src="../assets/UC_Remote_WarrantR.png" />
+      <img alt="Remote warrant request" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>Remote Warrant Request</strong></a>
+    <a href="usecasegovremote.md"><strong>Remote warrant request</strong></a>
     </div>
     <em>Use e-signatures and web conferencing together to reduce the time it takes to request and secure warrants from judges</em>
     <br>
@@ -89,27 +89,32 @@ Speed up your organization's digital workflows with these government and commerc
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="Contracts and Requisition Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="Contracts and requisition forms" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Contracts and Requisition Forms</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Contracts and requisition forms</strong></a>
     </div>
     <em>Quickly replace paper processing with compliant digital workflows, complete with audit reports</em>
     <br>
   </td> 
   <td>
     <a href="usecasecompolicy.md">
-      <img alt="Policy Agreements" src="../assets/UC_Policy.png" />
+      <img alt="Policy agreements" src="../assets/UC_Policy.png" />
     </a>
     <div>
-    <a href="usecasecompolicy.md"><strong>Policy Agreements</strong></a>
+    <a href="usecasecompolicy.md"><strong>Policy agreements</strong></a>
     </div>
-    <em>Efficiently collect signatures from all your employees on telework agreements, policy updates, and more</em>
+    <em>Efficiently collect signatures from all your employees on policy agreements and updates</em>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecasecomtelework.md">
+      <img alt="Telework agreement" src="../assets/UC_MegasignR.png" />
+    </a>
     <div>
+    <a href="usecasecomtelework.md"><strong>Telework agreement</strong></a>
+    </div>
+    <em>Efficiently collect signatures from all your employees on telework agreements</em>
     <br>
   </td>
 </tr>

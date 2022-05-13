@@ -1,7 +1,7 @@
 ---
 title: Exercises for Unleash Digital Experiences with Adobe Document Cloud
 description: Learn some tricks and tips for using Adobe Document Cloud
-solution: Document Cloud
+solution: Acrobat
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
 ---
 # Exercises for Unleash Digital Experiences with Adobe Document Cloud

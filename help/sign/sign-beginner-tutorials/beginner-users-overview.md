@@ -1,5 +1,5 @@
 ---
-title: Getting Started Overview
+title: Acrobat Sign Getting Started Overview
 description: Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials
 role: User
 product: adobe sign
@@ -11,7 +11,7 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 
 ![Sign Getting Started Image](../assets/Hero-GettingStarted.png)
 
-Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials. Get a quick tour of Adobe Sign and then jump into sending a document to one or more people. This content is designed to ease you into e-signature workflows.
+Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials. Get a quick tour of Acrobat Sign and then jump into sending a document to one or more people. This content is designed to ease you into e-signature workflows.
 
 ## Sending
 
@@ -19,12 +19,12 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Quick tour of Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Workspace basics" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Quick tour of Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Workspace basics</strong></a>
     </div>
-    <em>Take a quick tour of the Adobe Sign interface to get up and running</em>
+    <em>Take a quick tour of the Acrobat Sign workspace to get up and running</em>
     <br>
   </td>
   <td>
@@ -51,23 +51,33 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Getting started with Adobe Sign for new senders" src="../assets/gettingstartednew.png" />
+      <img alt="Getting started with Acrobat Sign for new senders" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Getting started with Adobe Sign for new senders</strong></a>
+    <a href="new-sender.md"><strong>Getting started with Acrobat Sign for new senders</strong></a>
     </div>
-    <em>This comprehensive tutorial is a great place to start for new senders in Adobe Sign</em>
+    <em>This comprehensive tutorial is a great place to start for new senders in Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Modifying a document after sending" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Modifying a document after sending</strong></a>
+    </div>
     <br>
+    <em>Modify a document that's already in progress</em>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="Replacing a signer" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>Replacing a signer</strong></a>
+    </div>
     <br>
+    <em>Learn how to change the signer of a document that's already in progress</em>
   </td>
 </tr>
 </table>
@@ -83,7 +93,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>
     </div>
-    <em>Learn how easy it is to sign a document that has been sent to you with Adobe Sign</em>
+    <em>Learn how easy it is to sign a document that has been sent to you with Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -103,7 +113,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="sign-in-person.md"><strong>Getting a signature in person</strong></a>
     </div>
-    <em>Get someone else's signature in person using the Adobe Sign mobile app</em>
+    <em>Get someone else's signature in person using the Acrobat Sign mobile app</em>
     <br>
   </td>
 </tr>
@@ -142,12 +152,12 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Managing and tracking documents" src="../assets/Managing.png" />
+      <img alt="Manage & track your agreements" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Managing and tracking documents</strong></a>
+    <a href="manage-and-track.md"><strong>Manage & track your agreements</strong></a>
     </div>
-    <em>Manage and track agreements that you've sent for signature</em>
+    <em>Learn how to manage and track agreements sent for signature</em>
     <br>
   </td>
   <td>
@@ -161,13 +171,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Modifying a document already sent for signature" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Modifying a document already sent for signature</strong></a>
-    </div>
-    <em>Modify the workflow for a document that's already in progress</em>
     <br>
   </td>
 </tr>

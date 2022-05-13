@@ -1,5 +1,5 @@
 ---
-title: Integrate Overview
+title: Acrobat Integrations Overview
 description: Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps
 role: User
 product: adobe acrobat
@@ -8,7 +8,7 @@ topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 ---
-# Integrate overview
+# Integrations overview
 
 ![Acrobat Integrate Image](../assets/Hero-Integrate.png)
 
@@ -47,7 +47,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <div>
     <a href="acrobatandsp.md"><strong>Work with your [!DNL SharePoint] files</strong></a>
     </div>
-    <em>Streamline document workflows with [!DNL SharePoint] and Acrobat DC</em>
+    <em>Streamline document workflows with [!DNL SharePoint] and Acrobat</em>
     <br>
   </td>  
 </tr>
@@ -116,7 +116,7 @@ Learn how to get more done in less time with essential PDF and e-signature tools
 
 ## Box
 
-Learn how Acrobat DC and [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} make it simpler for everyone in your organization to keep business moving.
+Learn how Acrobat and [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} make it simpler for everyone in your organization to keep business moving.
 
 ## Dropbox 
 

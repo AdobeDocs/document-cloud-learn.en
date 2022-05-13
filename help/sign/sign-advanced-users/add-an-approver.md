@@ -3,7 +3,7 @@ title: Adding an Approver
 description: Learn how to add an approver role to your contract approval process
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096

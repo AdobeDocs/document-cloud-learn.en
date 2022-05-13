@@ -14,3 +14,7 @@ exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
 Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]. This Windows-only tool is invaluable for research projects and offline viewing of web-based information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337248?hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the course [Work smarter with Acrobat DC and Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!

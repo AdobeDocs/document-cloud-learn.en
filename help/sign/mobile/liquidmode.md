@@ -1,5 +1,5 @@
 ---
-title: Liquid Mode in Adobe Sign
+title: Liquid Mode in Acrobat Sign
 description: Learn how Liquid Mode improves the mobile signing experience
 role: User
 product: adobe sign
@@ -8,7 +8,7 @@ thumbnail: KT-8086.jpg
 kt: 8086
 exl-id: e7680e55-d95d-413a-bb2b-2ee6416b7b99
 ---
-# Liquid Mode in Adobe Sign
+# Liquid Mode in Acrobat Sign
 
 Learn how Liquid Mode improves the mobile signing experience. It reduces pinching and zooming to easily focus on fillable fields.
 

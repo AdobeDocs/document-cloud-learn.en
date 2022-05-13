@@ -3,7 +3,7 @@ title: What's a Digital Signature
 description: Learn about certificate-based digital signatures
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5326.jpg
 kt: 5326

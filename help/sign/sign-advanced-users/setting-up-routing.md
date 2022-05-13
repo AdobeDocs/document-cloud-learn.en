@@ -1,15 +1,19 @@
 ---
-title: Setting up Routing Order
-description: Learn how to setup the routing order for multiple signers
+title: Setting up Signing Order
+description: Learn how to set up the signing order for multiple signers
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
-thumbnail: 17347.jpg
+thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
 ---
-# Setting up routing order
+# Setting up signing order
 
-Learn how to set up the routing order for multiple signers. Send a document in sequence, in parallel, or a combination of the two.
+Learn how to set up the signing order for multiple signers. Send a document in sequence and/or parallel, or to specific groups of individuals. 
 
->[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)
+>[!NOTE]
+>
+>Hybrid routing is only available for enterprise-level plans. Your Acrobat Sign administrator may need to enable these features in the Send Settings section of the Account Settings. 
+
+>[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 user-guide-title: Unleash Digital Experiences with Adobe Document Cloud
-solution: Document Cloud
+solution: Acrobat
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
 getting-started-title: Getting Started
