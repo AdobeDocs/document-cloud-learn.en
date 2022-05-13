@@ -191,7 +191,7 @@ You can use Acrobat Sign inside other applications your organization already use
       <img alt="Send reminders using Acrobat Sign for Salesforce and Marketo video tutorial" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Acrobat Sign for Salesforce and Marketo video tutorial</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketo video tutorial</strong></a>
     </div>
     <em>Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time</em>
     <br>
