@@ -66,8 +66,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="modify-in-flight.md"><strong>Modifying a document after sending</strong></a>
     </div>
-    <br>
     <em>Modify a document that's already in progress</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -76,8 +76,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="replace-signer.md"><strong>Replacing a signer</strong></a>
     </div>
-    <br>
     <em>Learn how to change the signer of a document that's already in progress</em>
+     <br>
   </td>
 </tr>
 </table>

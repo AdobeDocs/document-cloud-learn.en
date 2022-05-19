@@ -27,11 +27,11 @@ Best practice articles with valuable insight on deploying Acrobat Sign within yo
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="Best Practices" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best practices</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best practices</strong></a>
     </div>
     <em>Review valuable insights and knowledge gained by our Customer Success Manager's work with our customers in deploying Acrobat Sign</em>
     <br>
