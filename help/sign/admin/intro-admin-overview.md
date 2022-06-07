@@ -30,12 +30,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Setting up shared events and alerts" src="../assets/SharedEvents.png" />
+      <img alt="Setting up shared events and alerts" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Setting up shared events and alerts</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>Configure notifications for events and alerts</strong></a>
     </div>
-    <em>Configure event and alert settings for your organization</em>
+    <em>Configure notifications for events and alerts for our account</em>
     <br>
   </td>
   <td>

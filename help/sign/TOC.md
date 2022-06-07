@@ -46,7 +46,7 @@ breadcrumb-title: Acrobat Sign Tutorials
   + [Overview](admin/intro-admin-overview.md)
   + Getting started {#getting-started-admin}
     + [Up and running for Admins](admin/up-and-running-admin.md)
-    + [Setting up shared events and alerts](admin/set-up-shared-events-and-alert.md)
+    + [Configure notifications for events and alerts](admin/set-up-shared-events-and-alert.md)
     + [Adding users](admin/add-users-to-your-account.md)
     + [Creating and managing groups](admin/create-and-manage-groups.md)
     + [Setting up an external archive](admin/set-up-your-external-archive.md)
