@@ -1,5 +1,5 @@
 ---
-title: Delegating to Someone Else
+title: Using the delegator role
 description: Use the delegator role to send a document to an intermediary who can then route the document for signature
 role: User
 product: adobe sign
@@ -8,11 +8,15 @@ level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
 ---
-# Delegating to someone else
+# Using the delegator role
 
 Learn to use the delegator role to send a document to an intermediary who can then route the document for signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
+>[!NOTE]
+>
+>The delegator role is only available for enterprise-level plans. Your Acrobat Sign administrator may need to enable **Allow senders to mark some recipients as delegators** setting in the **Send Settings** section of the **Account Settings** to use this feature. 
+
+>[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
 
 >[!TIP]
 >

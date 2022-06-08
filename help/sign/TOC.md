@@ -35,7 +35,7 @@ breadcrumb-title: Acrobat Sign Tutorials
   + [Overview](sign-advanced-users/advanced-users-overview.md)
   + Sending {#advanced-tasks-sending}
     + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
-    + [Delegating to someone else](sign-advanced-users/delegate-signature.md)
+    + [Using the delegator role](sign-advanced-users/delegate-signature.md)
     + [Adding an Approver](sign-advanced-users/add-an-approver.md)
     + [Collecting signatures in bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)      
     + [Setting up a Web Form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
