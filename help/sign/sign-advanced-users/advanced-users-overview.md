@@ -33,7 +33,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
       <img alt="Delegating to someone else" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Delegating to someone else</strong></a>
+    <a href="delegate-signature.md"><strong>Using the delegator role</strong></a>
     </div>
     <em>Use the delegator role to send a document to an intermediary who can then route the document for signature</em>
     <br>
