@@ -13,4 +13,4 @@ exl-id: 8d3e3cdc-e9f6-41bf-8937-1a53aab681b3
 
 Learn about certificate-based digital signatures, which comply with the strictest legal regulations around the world and provide the highest level of assurance of a signer’s identity.
 
->[!VIDEO](https://video.tv.adobe.com/v/337130?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343648?hidetitle=true)
