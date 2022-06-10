@@ -52,10 +52,10 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="Collecting signatures in bulk" src="../assets/Megasign.png" />
+      <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>Collecting signatures in bulk</strong></a>
+    <a href="megasign.md"><strong>Send & collect signatures in bulk</strong></a>
     </div>
     <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
     <br>
