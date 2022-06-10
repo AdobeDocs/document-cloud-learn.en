@@ -104,10 +104,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Collect Signatures in Bulk" src="../assets/Megasign.png" />
+      <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Collect signatures in bulk</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Send & collect signatures in bulk</strong></a>
     </div>
     <em>Collect hundreds of signatures at once for any document</em>
     <br>

@@ -37,7 +37,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
     + [Using the delegator role](sign-advanced-users/delegate-signature.md)
     + [Adding an Approver](sign-advanced-users/add-an-approver.md)
-    + [Collecting signatures in bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)      
+    + [Send & collect signatures in bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)      
     + [Setting up a Web Form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
     + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
   + Managing {#advanced-tasks-managing}
@@ -53,7 +53,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Creating a template](sign-advanced-users/create-a-template.md)
     + [Creating a report](admin/create-a-report.md)
     + [Setting up a Web Form](sign-advanced-users/webform.md)
-    + [Collecting signatures in bulk](sign-advanced-users/megasign.md)
+    + [Send & collect signatures in bulk](sign-advanced-users/megasign.md)
     + [Building a custom workflow](admin/building-a-custom-workflow.md)
   + Advanced tasks {#advanced-tasks-admins}
     + [Global settings](admin/learn-about-global-settings.md)
