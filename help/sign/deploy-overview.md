@@ -27,16 +27,6 @@ Best practice articles with valuable insight on deploying Acrobat Sign within yo
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
-      <img alt="Best Practices" src="assets/Deploy_BP.png" />
-    </a>
-    <div>
-    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best practices</strong></a>
-    </div>
-    <em>Review valuable insights and knowledge gained by our Customer Success Manager's work with our customers in deploying Acrobat Sign</em>
-    <br>
-  </td>  
-  <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
       <img alt="Adobe Trust Center" src="assets/Deploy_Trust.png" />
     </a>
@@ -46,8 +36,6 @@ Best practice articles with valuable insight on deploying Acrobat Sign within yo
     <em>Learn about our ongoing efforts in security, legality, and standards for Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
       <img alt="Acrobat Sign Essentials Study Guide" src="assets/SignStudyGuide.png" />
@@ -56,16 +44,6 @@ Best practice articles with valuable insight on deploying Acrobat Sign within yo
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials Study Guide</strong></a>
     </div>
     <em>Acrobat Sign Study Guide for the Acrobat Sign Essentials Assessment (AD3-D104)</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
