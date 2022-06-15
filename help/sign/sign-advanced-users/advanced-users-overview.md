@@ -40,10 +40,10 @@ Learn how to send a document out for signature to 100s of recipients at once, se
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Adding an Approver" src="../assets/Approver.png" />
+      <img alt="Using the approver role" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Adding an Approver</strong></a>
+    <a href="add-an-approver.md"><strong>Using the approver role</strong></a>
     </div>
     <em>Add an approver role to your contract approval process</em>
     <br>
