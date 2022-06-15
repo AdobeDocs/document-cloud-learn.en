@@ -6,7 +6,6 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: 10591.jpg
-exl-id:
 ---
 # Delegate signing to someone else
 
