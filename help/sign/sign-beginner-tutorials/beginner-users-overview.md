@@ -119,6 +119,16 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 </tr>
 <tr>
   <td>
+    <a href="delegate-signing.md">
+      <img alt="Delegate signing to someone else" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>Delegate signing to someone else</strong></a>
+    </div>
+    <em>Learn how to delegate the signing of a document to someone else</em>
+    <br>
+  </td>
+  <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="What's a digital signature" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
@@ -138,11 +148,6 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Use stamps to mark a document approved or completed</em>
      <br>
   </td> 
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 
