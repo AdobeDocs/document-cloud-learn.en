@@ -5,7 +5,7 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
-thumbnail: 341295.jpg
+thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
 ---
 # Sending to a single recipient
