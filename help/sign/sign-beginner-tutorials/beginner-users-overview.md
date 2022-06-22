@@ -93,7 +93,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <div>
     <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>
     </div>
-    <em>Learn how easy it is to sign a document that has been sent to you with Acrobat Sign</em>
+    <em>Learn how easy it is to sign a document that is sent to you with Acrobat Sign</em>
     <br>
   </td>
   <td>
