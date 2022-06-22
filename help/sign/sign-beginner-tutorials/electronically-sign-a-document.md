@@ -1,6 +1,6 @@
 ---
 title: Electronically Signing a Document
-description: Learn how easy it is to sign a document that has been sent to you with Acrobat Sign
+description: Learn how easy it is to sign a document that is sent to you with Acrobat Sign
 role: User
 product: adobe sign
 solution: Acrobat Sign
