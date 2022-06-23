@@ -20,7 +20,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Up &  running for Admins" src="../assets/Up-Running.png" />
+      <img alt="Up &  running for admins" src="../assets/Up-Running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>Up &  running for Admins</strong></a>
