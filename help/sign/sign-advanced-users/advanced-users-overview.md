@@ -62,10 +62,10 @@ Learn how to send a document out for signature to 100s of recipients at once, se
   </td>
   <td>
     <a href="webform.md">
-      <img alt="Setting up a Web Form" src="../assets/Webform.png" />
+      <img alt="Creating a web form" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Setting up a Web Form</strong></a>
+    <a href="webform.md"><strong>Creating a web form</strong></a>
     </div>
     <em>Create a document that can be signed electronically directly on your website</em>
     <br>

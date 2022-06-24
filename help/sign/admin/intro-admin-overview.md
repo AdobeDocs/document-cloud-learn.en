@@ -94,10 +94,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="Set Up a Web Form" src="../assets/Webform.png" />
+      <img alt="Creating a web form" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>Set Up a Web Form</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong>Creating a web form</strong></a>
     </div>
     <em>Create a document that can be signed electronically directly on your website</em>
     <br>

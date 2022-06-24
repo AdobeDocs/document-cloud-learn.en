@@ -53,7 +53,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Setting up an external archive](admin/set-up-your-external-archive.md)
     + [Creating a template](sign-advanced-users/create-a-template.md)
     + [Creating a report](admin/create-a-report.md)
-    + [Setting up a Web Form](sign-advanced-users/webform.md)
+    + [Creating a web form](sign-advanced-users/webform.md)
     + [Send & collect signatures in bulk](sign-advanced-users/megasign.md)
     + [Building a custom workflow](admin/building-a-custom-workflow.md)
   + Advanced tasks {#advanced-tasks-admins}
