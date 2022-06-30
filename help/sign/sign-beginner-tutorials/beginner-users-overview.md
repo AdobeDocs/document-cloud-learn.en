@@ -1,5 +1,5 @@
 ---
-title: Acrobat Sign Getting Started Overview
+title: Getting Started Overview
 description: Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials
 role: User
 product: adobe sign

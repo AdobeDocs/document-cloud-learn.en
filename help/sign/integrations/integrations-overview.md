@@ -1,5 +1,5 @@
 ---
-title: Sign Integrations Overview
+title: Integrations Overview
 description: Learn how to add Acrobat Sign to your existing systems, processes, and applications
 role: User
 product: adobe sign
