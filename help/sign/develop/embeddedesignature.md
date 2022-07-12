@@ -27,6 +27,8 @@ In part 1, learn how to get started with everything you need for parts 2–4. Le
   * Windows — Chocolatey
   * All — https://www.python.org/downloads/
 
++++
+
 ## Part 2: Low/No Code — the power of web forms
 
 In part 2, explore the low/no-code option of using web forms. It’s always a good idea to see if you can avoid writing code at first.
@@ -48,6 +50,8 @@ In part 2, explore the low/no-code option of using web forms. It’s always a go
 1. Experiment with dynamically adding query parameters.
 
    ![Screenshot of adding query parameters](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## Part 3: Send agreement with a form and merge data
 
@@ -106,6 +110,8 @@ The code is fairly straightforward; it uses a library document (template) for th
 
 ![Screenshot of code to dynamically add signatures](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## Part 4: Embed signing experience, redirects, and more
 
 In many scenarios, you may want to allow the triggering participant to immediately sign an agreement. This is useful for customer-facing applications and kiosks.
@@ -131,6 +137,8 @@ After updating the agreement creation process, the final step is generating the 
 ![Screenshot saying it's best practice to establish a retry loop](assets/embeddedesignature/embed_15.png)
 
 When everything is put together, the solution is pretty straightforward. You’re making an agreement and then generating a signing URL for the signer to click on and begin the signing ritual.
+
++++
 
 ## Additional topics
 
