@@ -10,48 +10,13 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 ---
 # Create embedded e-signature and document experiences
 
-Learn how to use Acrobat Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems. There are four parts to this hands-on tutorial outlined in the links below:
+Learn how to use Acrobat Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems. There are four parts to this hands-on tutorial.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="What you'll need" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>Part 1: What you'll need</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="Part 2: Low/No Code — the power of web forms" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>Part 2: Low/No Code — the power of web forms</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="Part 3: Send agreement with a form, merge data" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>Part 3: Send agreement with a form and merge data</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="Part 4: Embed signing experience, redirects, and more" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>Part 4: Embed signing experience, redirects, and more</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## Part 1: What you need
 
-## Part 1: What you'll need {#part1}
+In part 1, learn how to get started with everything you need for parts 2–4. Let's begin with getting API credentials.
 
-In part 1, you'll learn how to get started with everything you need for parts 2–4. Let's begin with getting API credentials.
++++View details on how to get API credentials
 
 * [Acrobat Sign Developer Account](https://acrobat.adobe.com/us/en/sign/developer-form.html)
 * [Starter Code](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -62,12 +27,15 @@ In part 1, you'll learn how to get started with everything you need for parts 2�
   * Windows — Chocolatey
   * All — https://www.python.org/downloads/
 
-## Part 2: Low/No Code — the power of web forms {#part2}
+## Part 2: Low/No Code — the power of web forms
 
-In part 2, you'll explore the low/no-code option when using webforms. It’s always a good idea to see if you can avoid writing code at first.
+In part 2, explore the low/no-code option of using web forms. It’s always a good idea to see if you can avoid writing code at first.
+
++++View details on how to create a web form
 
 1. Access Acrobat Sign with your developer account.
-1. Click **Publish a web form** on the home page.
+
+1. Select **Publish a web form** on the home page.
 
    ![Screenshot Acrobat Sign home page](assets/embeddedesignature/embed_1.png)
 
@@ -76,15 +44,18 @@ In part 2, you'll explore the low/no-code option when using webforms. It’s alw
    ![Screenshot of how to create a web form](assets/embeddedesignature/embed_2.png)
 
 1. Embed your agreement on a flat HTML page.
+
 1. Experiment with dynamically adding query parameters.
 
    ![Screenshot of adding query parameters](assets/embeddedesignature/embed_3.png)
 
-## Part 3: Send agreement with a form and merge data {#part3}
+## Part 3: Send agreement with a form and merge data
 
-In part 3, you'll dynamically create agreements.
+In part 3, dynamically create agreements.
 
-First, you'll need to establish access. With Acrobat Sign, there are two ways to connect via API. OAuth Tokens & Integration Keys. Unless you have a very specific reason to use OAuth with your application, you will want to explore Integration Keys first.
++++View details on how to dynamically create agreements
+
+First, you need to establish access. With Acrobat Sign, there are two ways to connect via API. OAuth Tokens & Integration Keys. Unless you have a very specific reason to use OAuth with your application, you should explore Integration Keys first.
 
 1. Select **Integration Key** on the **API Information** menu under the **Account** tab in Acrobat Sign.
 
@@ -135,9 +106,11 @@ The code is fairly straightforward; it uses a library document (template) for th
 
 ![Screenshot of code to dynamically add signatures](assets/embeddedesignature/embed_11.png)
 
-## Part 4: Embed signing experience, redirects, and more {#part4}
+## Part 4: Embed signing experience, redirects, and more
 
 In many scenarios, you may want to allow the triggering participant to immediately sign an agreement. This is useful for customer-facing applications and kiosks.
+
++++View details on how to embed the signing experience
 
 If you don't want the first sending email to trigger, an easy way is to manage the behavior is with a modification to the API call.
 
@@ -159,7 +132,7 @@ After updating the agreement creation process, the final step is generating the 
 
 When everything is put together, the solution is pretty straightforward. You’re making an agreement and then generating a signing URL for the signer to click on and begin the signing ritual.
 
-### Additional topics
+## Additional topics
 
 * [JS Events](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook Events
@@ -174,14 +147,3 @@ When everything is put together, the solution is pretty straightforward. You’r
     ![Screenshot of navigating to Power Automate](assets/embeddedesignature/embed_16.png)
 
   * Or add one [in-flight](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## Additional Resources
-
-http://bit.ly/Summit21-T126
-
-Includes:
-* Acrobat Sign Developer Account
-* Acrobat Sign API Docs
-* Sample Code
-* Visual Studio Code
-* Python
