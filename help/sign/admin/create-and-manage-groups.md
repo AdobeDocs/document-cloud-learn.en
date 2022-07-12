@@ -14,6 +14,6 @@ Learn how to create groups, add users to groups, and edit group settings. Groups
 
 >[!NOTE]
 >
->Groups are only available for busines- and enterprise-level plans.
+>Groups are only available for business- and enterprise-level plans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344682?hidetitle=true)
