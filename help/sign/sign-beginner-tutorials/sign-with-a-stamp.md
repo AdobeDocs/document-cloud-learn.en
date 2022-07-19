@@ -12,4 +12,4 @@ exl-id: 18616820-ef51-49c4-8f1a-244945444b54
 
 Learn how to use stamps to mark a document approved or completed.
 
->[!VIDEO](https://video.tv.adobe.com/v/20703?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/345170?hidetitle=true)
