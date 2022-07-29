@@ -1,5 +1,5 @@
 ---
-title: Using the approver role
+title: Using the Approver Role
 description: Learn how to add an approver role to your contract approval process
 role: User
 product: adobe sign
