@@ -1,6 +1,6 @@
 ---
 title: Set Up Online Payments
-description: Learn how to set up an accept online payments in your documents
+description: Learn how to set up and accept online payments in your documents
 role: User
 product: adobe sign
 solution: Acrobat Sign
