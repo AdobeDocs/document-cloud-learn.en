@@ -57,7 +57,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <div>
     <a href="set-up-online-payments.md"><strong>Set up online payments</strong></a>
     </div>
-    <em>Learn how to set up an accept online payments in your documents</em>
+    <em>Learn how to set up and accept online payments in your documents</em>
     <br>
   </td>
   <td>
