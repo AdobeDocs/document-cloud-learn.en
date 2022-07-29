@@ -51,6 +51,16 @@ Learn how to send a document out for signature to 100s of recipients at once, se
 </tr>
 <tr>
   <td>
+    <a href="set-up-online-payments.md">
+      <img alt="Set up online payments" src="../assets/Payments.png" />
+    </a>
+    <div>
+    <a href="set-up-online-payments.md"><strong>Set up online payments</strong></a>
+    </div>
+    <em>Learn how to set up an accept online payments in your documents</em>
+    <br>
+  </td>
+  <td>
     <a href="megasign.md">
       <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
     </a>
@@ -69,8 +79,10 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     </div>
     <em>Create a document that can be signed electronically directly on your website</em>
     <br>
-  </td> 
-  <td>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
   </a>
@@ -79,7 +91,18 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     </div>
     <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
     <br>
-  </td> 
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Managing
