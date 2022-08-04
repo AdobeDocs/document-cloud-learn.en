@@ -10,6 +10,7 @@ breadcrumb-title: Acrobat Tutorials
 + Getting started {#getting-started}
   + [Overview](getting-started/getting-started-overview.md)
   + [Workspace basics](getting-started/get-to-know-the-acrobat-dc-interface.md)
+  + [New workspace experience](getting-started/new-workspace.md)
   + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)
   + [Productivity on the go](getting-started/productivity.md)
   + [Work with [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
