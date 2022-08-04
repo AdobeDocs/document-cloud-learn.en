@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10781.jpg
+exl-id: 5d88d96d-ae44-4c75-b4bd-d51d864c707c
 ---
 # New workspace experience
 
