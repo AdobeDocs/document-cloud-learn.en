@@ -19,7 +19,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Workspace basics" src="../assets/NewWorkspace.png" />
+      <img alt="Workspace basics" src="../assets/Workspace_1280.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
@@ -29,7 +29,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   </td>
   <td>
     <a href="new-workspace.md">
-      <img alt="New workspace experience" src="../assets/Acrobatweb_1280.png" />
+      <img alt="New workspace experience" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="new-workspace.md"><strong>New workspace experience</strong></a>
