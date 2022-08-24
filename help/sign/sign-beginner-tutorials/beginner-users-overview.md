@@ -47,6 +47,16 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Send a document for e-signature to more than one person in exactly the order you want</em>
     <br>
   </td>
+  <td>
+    <a href="adding-fields.md">
+      <img alt="Adding fields to your documents" src="../assets/AddingFields.png" />
+    </a>
+    <div>
+    <a href="adding-fields.md"><strong>Adding fields to your documents</strong></a>
+    </div>
+    <em>Learn how to add different types of fields to your documents</em>
+    <br>
+  </td>
 </tr>
 <tr>
   <td>
@@ -78,6 +88,11 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     </div>
     <em>Learn how to change the signer of a document that's already in progress</em>
      <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -116,8 +131,6 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Get someone else's signature in person using the Acrobat Sign mobile app</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="Delegate signing to someone else" src="../assets/Delegatesigning.png" />
@@ -128,6 +141,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Learn how to delegate the signing of a document to someone else</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="What's a digital signature" src="../assets/Whatisdigsig_1280.jpg" />
@@ -148,6 +163,21 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Use stamps to mark a document approved or completed</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="Signing using a stamp" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>Signing using a stamp</strong></a>
+    </div>
+    <em>Use stamps to mark a document approved or completed</em>
+     <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -173,6 +203,11 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creating a document template</strong></a>
     </div>
     <em>Create a reusable document template to provide speed and consistency for your organization</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

@@ -20,6 +20,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Sending to a single recipient](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Sending to multiple recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
     + [Getting started with Acrobat Sign for new senders](sign-beginner-tutorials/new-sender.md)
+    + [Adding fields to your documents](sign-beginner-tutorials/adding-fields.md)
     + [Modifying a document after sending](sign-beginner-tutorials/modify-in-flight.md)
     + [Replacing a signer](sign-beginner-tutorials/replace-signer.md)
   + Signing {#getting-started-signing}
