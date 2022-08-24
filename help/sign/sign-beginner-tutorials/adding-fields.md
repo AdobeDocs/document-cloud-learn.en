@@ -6,6 +6,7 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10604.jpg
+exl-id: 1a736446-ae0d-45c0-b253-666bcef1559c
 ---
 # Adding fields to your documents
 
