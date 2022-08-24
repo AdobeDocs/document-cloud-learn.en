@@ -28,6 +28,16 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <br>
   </td>
   <td>
+    <a href="new-sender.md">
+      <img alt="Getting started with Acrobat Sign for new senders" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Getting started with Acrobat Sign for new senders</strong></a>
+    </div>
+    <em>This comprehensive tutorial is a great place to start for new senders in Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
     <a href="send-to-single-recipient.md">
       <img alt="Sending to single recipient" src="../assets/Send-to-single-recipient.png" />
     </a>
@@ -47,6 +57,8 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Send a document for e-signature to more than one person in exactly the order you want</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adding-fields.md">
       <img alt="Adding fields to your documents" src="../assets/AddingFields.png" />
@@ -55,18 +67,6 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <a href="adding-fields.md"><strong>Adding fields to your documents</strong></a>
     </div>
     <em>Learn how to add different types of fields to your documents</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="new-sender.md">
-      <img alt="Getting started with Acrobat Sign for new senders" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Getting started with Acrobat Sign for new senders</strong></a>
-    </div>
-    <em>This comprehensive tutorial is a great place to start for new senders in Acrobat Sign</em>
     <br>
   </td>
  <td>
@@ -174,7 +174,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
      <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
