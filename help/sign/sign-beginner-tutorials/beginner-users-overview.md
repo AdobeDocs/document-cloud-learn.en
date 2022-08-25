@@ -60,6 +60,16 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="Configure sending options" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>Configure sending options</strong></a>
+    </div>
+    <em>Learn how to configure various options when sending a document out for signature</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="Adding fields to your documents" src="../assets/AddingFields.png" />
     </a>
@@ -69,7 +79,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Learn how to add different types of fields to your documents</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="Modifying a document after sending" src="../assets/Modifying-sending.png" />
     </a>
@@ -79,7 +89,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Modify a document that's already in progress</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="Replacing a signer" src="../assets/replace-signer.png" />
     </a>
@@ -88,11 +98,6 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     </div>
     <em>Learn how to change the signer of a document that's already in progress</em>
      <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
