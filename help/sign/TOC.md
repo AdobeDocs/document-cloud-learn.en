@@ -41,7 +41,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Using the delegator role](sign-advanced-users/delegate-signature.md)
     + [Using the approver role](sign-advanced-users/add-an-approver.md)
     + [Send & collect signatures in bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)      
-    + [Setting up a Web Form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+    + [Creating a web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
     + [Set up online payments](sign-advanced-users/set-up-online-payments.md)
     + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
   + Managing {#advanced-tasks-managing}
