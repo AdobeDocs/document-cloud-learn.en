@@ -12,7 +12,7 @@ exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 
 ![Sign Administrators Image](../assets/Hero-Admin.png)
 
-Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Acrobat Sign. The Advanced Tasks cover topics that expand past the admin set up portion and move into defining global settings, account access and sharing, and text tagging.
+Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Acrobat Sign. The Advanced Tasks cover topics that expand past the admin setup and move into defining global settings, account access and sharing, and text tagging.
 
 ## Getting started
 
@@ -48,8 +48,6 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Add users individually or in bulk to your Acrobat Sign account</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="Creating and Managing Groups" src="../assets/Creating-Groups.png" />
@@ -60,7 +58,9 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Create groups, add users to groups, and edit group settings</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Setting up an external archive" src="../assets/ExternalArchive.png" />
     </a>
@@ -80,8 +80,6 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Create a reusable document template for speed and consistency</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="Creating a report" src="../assets/Report.png" />
@@ -89,7 +87,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="create-a-report.md"><strong>Creating a report</strong></a>
     </div>
-    <em>Create and schedule reports to gain visibiity into your organization's use of Acrobat Sign</em>
+    <em>Create and schedule reports to gain visibility into your organization's use of Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -102,6 +100,18 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Create a document that can be signed electronically directly on your website</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="Modify an existing web form" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>Modify an existing web form</strong></a>
+    </div>
+    <em>Learn how to disable, edit, and re-enable an existing web form</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
@@ -112,8 +122,6 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Collect hundreds of signatures at once for any document</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Setting up a Workflow" src="../assets/BuildingWorkflow.png" />
@@ -122,11 +130,6 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <a href="building-a-custom-workflow.md"><strong>Setting up a workflow</strong></a>
     </div>
     <em>Automate document workflows to quickly get electronic signatures and data</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -171,8 +174,6 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Set up account sharing to allow admins and users to delegate their send, modify, and view permissions</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="Using Bio-Pharma settings" src="../assets/Bio_1280.png" />
@@ -183,7 +184,9 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Set up Bio-pharma settings that allow you to meet FDA 21 CFR Part 11 requirements</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
     </a>
@@ -191,6 +194,16 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
     <div>
     <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>

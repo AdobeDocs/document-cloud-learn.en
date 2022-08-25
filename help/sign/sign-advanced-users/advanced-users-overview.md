@@ -90,6 +90,11 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
