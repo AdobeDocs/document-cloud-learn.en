@@ -48,8 +48,6 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <em>Add an approver role to your contract approval process</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="Set up online payments" src="../assets/Payments.png" />
@@ -60,7 +58,9 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <em>Learn how to set up and accept online payments in your documents</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
     </a>
@@ -80,9 +80,7 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <em>Create a document that can be signed electronically directly on your website</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
   </a>
@@ -90,16 +88,6 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
     </div>
     <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -117,6 +105,16 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <a href="edit-a-template.md"><strong>Managing document templates</strong></a>
     </div>
     <em>Edit or delete a template from your library</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="Modify an existing web form" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>Modify an existing web form</strong></a>
+    </div>
+    <em>Learn how to disable, edit, and re-enable an existing web form</em>
     <br>
   </td>  
   <td>

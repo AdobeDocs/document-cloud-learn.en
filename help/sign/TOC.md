@@ -46,6 +46,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
   + Managing {#advanced-tasks-managing}
     + [Managing document templates](sign-advanced-users/edit-a-template.md)
+    + [Modify an existing web form](sign-advanced-users/modify-webform.md)
 + Administer {#admin-set-up}
   + [Overview](admin/intro-admin-overview.md)
   + Getting started {#getting-started-admin}
