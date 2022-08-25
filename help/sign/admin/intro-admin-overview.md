@@ -12,7 +12,7 @@ exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 
 ![Sign Administrators Image](../assets/Hero-Admin.png)
 
-Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Acrobat Sign. The Advanced Tasks cover topics that expand past the admin set up portion and move into defining global settings, account access and sharing, and text tagging.
+Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Acrobat Sign. The Advanced Tasks cover topics that expand past the admin setup and move into defining global settings, account access and sharing, and text tagging.
 
 ## Getting started
 
@@ -87,7 +87,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="create-a-report.md"><strong>Creating a report</strong></a>
     </div>
-    <em>Create and schedule reports to gain visibiity into your organization's use of Acrobat Sign</em>
+    <em>Create and schedule reports to gain visibility into your organization's use of Acrobat Sign</em>
     <br>
   </td>
   <td>
