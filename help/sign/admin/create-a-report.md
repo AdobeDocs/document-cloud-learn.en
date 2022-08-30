@@ -1,21 +1,20 @@
 ---
-title: Creating a Report
-description: Learn how to run, save, and schedule reports in Acrobat Sign
+title: Creating a Report Chart
+description: Learn how to build, save, and manage your own custom reports and data exports
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
 ---
-# Creating a report
+# Creating a report chart
 
-Learn how to run, save, and schedule reports in Acrobat Sign.
+Learn how to build, save, and manage your own custom reports and data exports in a personalized view with the new reporting experience. The availability of report charts is dependent on the users' authority level in the Acrobat Sign system.  
 
 >[!NOTE]
 >
 >Reporting is only available for business- and enterprise-level plans.
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >

@@ -1,6 +1,6 @@
 ---
 title: Advanced Tasks Overview
-description: Learn how to send a document out for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates
+description: Learn how to send out a document for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -12,7 +12,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 
 ![Sign Advanced Image](../assets/Hero-Advanced.png)
 
-Learn how to send a document out for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates. These tutorials are for anyone who's already familiar with the basics of sending and requesting signatures, and wants to learn more ways Acrobat Sign can work for them.
+Learn how to send out a document for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates. These tutorials are for anyone who's already familiar with the basics of sending and requesting signatures, and wants to learn more ways Acrobat Sign can work for them.
 
 ## Sending
 
@@ -123,10 +123,15 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <br>
   </td>  
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="creating-a-report.md">
+      <img alt="Creating a report" src="../assets/Report.png" />
+    </a>
     <div>
+    <a href="creating-a-report.md"><strong>Creating a report</strong></a>
+    </div>
+    <em>Learn how to build your own reports to gain visibility into the document signing process</em>
     <br>
-  </td>
+  </td>  
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
