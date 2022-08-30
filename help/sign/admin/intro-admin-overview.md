@@ -82,12 +82,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td>
   <td>
     <a href="create-a-report.md">
-      <img alt="Creating a report" src="../assets/Report.png" />
+      <img alt="Creating a report chart" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Creating a report</strong></a>
+    <a href="create-a-report.md"><strong>Creating a report chart</strong></a>
     </div>
-    <em>Create and schedule reports to gain visibility into your organization's use of Acrobat Sign</em>
+    <em>Learn how to build, save, and manage your own custom reports and data exports</em>
     <br>
   </td>
   <td>

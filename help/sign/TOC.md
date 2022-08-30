@@ -47,6 +47,7 @@ breadcrumb-title: Acrobat Sign Tutorials
   + Managing {#advanced-tasks-managing}
     + [Managing document templates](sign-advanced-users/edit-a-template.md)
     + [Modify an existing web form](sign-advanced-users/modify-webform.md)
+    + [Creating a report](sign-advanced-users/creating-a-report.md)
 + Administer {#admin-set-up}
   + [Overview](admin/intro-admin-overview.md)
   + Getting started {#getting-started-admin}
@@ -56,7 +57,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Creating and managing groups](admin/create-and-manage-groups.md)
     + [Setting up an external archive](admin/set-up-your-external-archive.md)
     + [Creating a template](sign-advanced-users/create-a-template.md)
-    + [Creating a report](admin/create-a-report.md)
+    + [Creating a report chart](admin/create-a-report.md)
     + [Creating a web form](sign-advanced-users/webform.md)
     + [Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
     + [Send & collect signatures in bulk](sign-advanced-users/megasign.md)

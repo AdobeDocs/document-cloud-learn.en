@@ -123,10 +123,15 @@ Learn how to send a document out for signature to 100s of recipients at once, se
     <br>
   </td>  
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="creating-a-report.md">
+      <img alt="Creating a report" src="../assets/Report.png" />
+    </a>
     <div>
+    <a href="creating-a-report.md"><strong>Creating a report</strong></a>
+    </div>
+    <em>Learn how to build your own reports to gain visibility into the document signing process</em>
     <br>
-  </td>
+  </td>  
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
