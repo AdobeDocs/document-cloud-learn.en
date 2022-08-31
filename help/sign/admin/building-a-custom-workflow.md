@@ -16,6 +16,10 @@ Check out these additional real-world use cases:
 * [Government Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) use case.
 * [Commercial Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) use case.
 
+>[!NOTE]
+>
+>Group administrators can assign workflows to any group that they administer (not only their primary group). Group administrators can also edit any workflow assigned to any group they administer.
+
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
 >[!TIP]
