@@ -97,7 +97,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   </tr>
   </table>
 
-  ## Creating, combining, and organizing
+## Creating, combining, and organizing tutorials
 
   <table style="table-layout:fixed">
   <tr>
@@ -139,7 +139,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   </tr>
   </table>
 
-  ## Editing and exporting
+## Editing and exporting tutorials
 
   <table style="table-layout:fixed">
   <tr>
@@ -181,7 +181,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   </tr>
   </table>
 
-  ## Collaboration
+## Collaboration tutorials
 
   <table style="table-layout:fixed">
   <tr>
@@ -218,7 +218,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 </tr>
 </table>
 
-## Additional tools
+## Additional tutorials
 
 <table style="table-layout:fixed">
 <tr>
