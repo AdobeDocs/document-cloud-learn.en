@@ -70,16 +70,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <br>
     </td>
     <td>
-      <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Work with Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>Work with Microsoft 365</strong></a>
-      </div>
-      <em>Increase productivity and business document workflows with Acrobat and [!DNL Microsoft 365]</em>
-      <br>
-    </td>
-    <td>
       <a href="where-do-pdfs-come-from.md">
         <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
       </a>
