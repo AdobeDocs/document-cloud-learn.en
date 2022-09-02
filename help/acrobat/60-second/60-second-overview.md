@@ -48,8 +48,6 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Convert Word files and forms to PDF and automatically build form fields</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="Let Acrobat help you make Accessible PDFs" src="../assets/60sec_Accessible_1280.jpg" />
@@ -60,6 +58,8 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Check to see if a PDF is Accessible</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF to Word from your phone" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -80,8 +80,6 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Convert a scanned PDF so that you can search for text in the PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="Combine files into one PDF" src="../assets/60sec_Combine_1280.jpg" />
@@ -102,6 +100,8 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Make simple edits to text and images without even downloading the PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="Search multiple PDF files at once" src="../assets/60sec_Search_1280.jpg" />
@@ -112,8 +112,6 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Start a search in a PDF file, then open Advanced Search and search an entire folder of PDF files</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="Create a PDF of photos in an instant" src="../assets/60sec_Photo_1280.jpg" />
@@ -143,7 +141,7 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     </div>
     <em>Learn to use Adobe Scan to sign a printed form</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -175,9 +173,7 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     </div>
     <em>Learn to make advanced edits to a graphic in your PDF using Illustrator</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="Organize pages in a snap" src="../assets/60sec_Organize_1280.jpg" />
@@ -188,15 +184,5 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Learn to use the Organize Pages tool to get a bird’s eye view of your PDF</em>
     <br>
   </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>
