@@ -84,6 +84,11 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <br>
     </td>
+    <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+    </td>
   </tr>
   </table>
 

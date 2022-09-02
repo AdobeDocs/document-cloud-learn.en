@@ -13,7 +13,7 @@ exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
 
 Go beyond the basics with these advanced tools in Acrobat. Learn how to create an Action to repeat mundane tasks, remove sensitive information, reduce and optimize large files, quickly gather form data, and create universally Accessible PDF files.
 
-## Acrobat tutorials
+## Advanced tasks tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -47,9 +47,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Improve document workflow productivity by using custom commands and tools</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="Advanced form fields" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -59,6 +57,8 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Learn advanced techniques for buiding professional PDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDFs for SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
@@ -79,8 +79,6 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Add various types of form fields, set form field properties, and add security to create high-quality professional forms</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Enhance your PDF" src="../assets/Enhance_1280.png" />
@@ -101,6 +99,8 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Quickly and accurately detect the differences between two PDF files</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -111,9 +111,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <em>Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="Redact & Sanitize" src="../assets/Redact.jpg" />
     </a>
@@ -166,7 +164,12 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  
