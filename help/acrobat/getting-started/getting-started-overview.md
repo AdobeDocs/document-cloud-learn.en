@@ -127,8 +127,13 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <br>
     </td>
     <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <a href="add-custom-page.md">
+        <img alt="Add custom page" src="../assets/Custompage.png" />
+      </a>
       <div>
+      <a href="add-custom-page.md"><strong>Add custom page</strong></a>
+      </div>
+      <em>Learn how to add custom pages to your PDF using the integrated Adobe Express app</em>
       <br>
     </td>
   </tr>
