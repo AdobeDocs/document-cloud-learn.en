@@ -18,6 +18,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Create a PDF](getting-started/create-pdf.md)
   + [Combine Files to PDF](getting-started/combine-to-pdf.md)
   + [Organize Pages](getting-started/organize.md)
+  + [Add Custom Page](getting-started/add-custom-page.md)
   + [Edit a PDF](getting-started/edit-pdf.md)
   + [Auto-adjust layout](getting-started/auto-adjust-layout.md)
   + [Export a PDF to editable formats](getting-started/export-pdf.md)
