@@ -8,7 +8,7 @@ thumbnail: KT-10835.jpg
 ---
 # Auto-adjust layout
 
-Learn about the new editing mode that reflows content and auto-adjusts the layout across pages in your PDF.
+Learn about the new editing mode that reflows content and auto-adjusts the layout across pages in your PDF. This video tutorial uses the [new workspace experience](new-workspace.md).
 
 >[!NOTE]
 >
