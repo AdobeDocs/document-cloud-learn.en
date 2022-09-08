@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
 ---
-# Organize Pages
+# Organize pages
 
 Use **[!UICONTROL Organize Pages]** in Acrobat to add, replace, extract, rotate, delete, and move pages in your PDF.
 
