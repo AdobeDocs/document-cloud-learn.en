@@ -8,6 +8,6 @@ thumbnail: KT-10836.jpg
 ---
 # Add custom page
 
-Learn how to add custom pages to your PDF using the integrated Adobe Express app, which offers thousands of templates to choose from.
+Learn how to add custom pages to your PDF using the integrated Adobe Express app, which offers thousands of templates to choose from. This video tutorial uses the [new workspace experience](new-workspace.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?hidetitle=true)
