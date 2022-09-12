@@ -118,12 +118,12 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organize pages" src="../assets/Organize.jpg" />
+        <img alt="Organize pages" src="../assets/Organize.png" />
       </a>
       <div>
       <a href="organize.md"><strong>Organize pages</strong></a>
       </div>
-      <em>Add, replace, extract, rotate, delete, and move pages in your PDF</em>
+      <em>Add, replace, extract, rotate, delete, and rearrange pages in your PDF</em>
       <br>
     </td>
     <td>

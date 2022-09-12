@@ -1,6 +1,6 @@
 ---
 title: Organize Pages
-description: Add, replace, extract, rotate, delete, and move pages in your PDF
+description: Add, replace, extract, rotate, delete, and rearrange pages in your PDF
 role: User
 product: adobe acrobat
 level: Beginner
@@ -9,28 +9,6 @@ exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
 ---
 # Organize pages
 
-Use **[!UICONTROL Organize Pages]** in Acrobat to add, replace, extract, rotate, delete, and move pages in your PDF.
+Learn how to rearrange pages just the way you like—all in a matter of seconds. Insert, replace, split, reorder, rotate, and even extract discontinuous pages to create a professional-looking PDF. This video tutorial uses the [new workspace experience](new-workspace.md).
 
-1. Select **[!UICONTROL Organize Pages]** from the [!UICONTROL Tools] center or right-hand pane.
-
-    ![Organize Step 1](../assets/Organize_1.png)
-
-1. Hover over a page to rotate the page clockwise or counter-clockwise or delete the page. 
-
-    To move a page, select and drag the page to the new location.
-
-    ![Organize Step 2](../assets/Organize_2.png)
-
-1. Select **[!UICONTROL Extract]** in the toolbar, to create a PDF from one or more pages. 
-
-1. Select the page or pages, then select **[!UICONTROL Extract]**. 
-
-    You can also **[!UICONTROL Insert]** or **[!UICONTROL Replace]** pages, and see other options by selecting **[!UICONTROL More]**.
-
-    ![Organize Step 4](../assets/Organize_3.png)
-
-1. Select **[!UICONTROL Split]** to break apart one or more PDFs into multiple smaller PDFs. 
-
-    When splitting a PDF, you can break apart by the number of pages, file size, or top-level bookmarks.
-
-    ![Scan Step 5](../assets/Organize_4.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)
