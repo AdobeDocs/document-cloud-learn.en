@@ -67,7 +67,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="set-up-your-external-archive.md"><strong>Setting up an external archive</strong></a>
     </div>
-    <em>Create an external archive for backup copies of agreements that have been sent</em>
+    <em>Create an external archive for backup copies of agreements that have been signed</em>
     <br>
   </td>
   <td>
