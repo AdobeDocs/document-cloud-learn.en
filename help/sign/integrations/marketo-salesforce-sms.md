@@ -9,7 +9,7 @@ topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
 ---
-# Send notifications using Acrobat Sign for Salesforce and Marketo
+# Send notifications using Acrobat Sign for [!DNL Salesforce] and [!DNL Marketo]
 
 Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way using Acrobat Sign, Acrobat Sign for Salesforce, Marketo, and the Marketo Salesforce Sync. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. This walkthrough uses [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), but other Marketo SMS solutions are available.
 
