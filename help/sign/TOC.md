@@ -87,6 +87,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Send for signature in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
     + [Tracking in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
     + [Send for signature in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+    + [Auto archive files in [!DNL SharePoint] with [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
     + [Document automation with Acrobat Sign for Microsoft Power Platform](integrations/documentautomation.md)
   + Salesforce {#salesforce}
     + [Creating a document template](integrations/create-an-agreement-template.md)
