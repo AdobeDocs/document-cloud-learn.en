@@ -90,9 +90,9 @@ You can use Acrobat Sign inside other applications your organization already use
       <img alt="Document automation with [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Document automation with [!DNL Acrobat Sign for Microsoft Power Platform}</strong></a>
+    <a href="documentautomation.md"><strong>Document automation with [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Learn how to activate and use the [!DNL Acrobat Sign] and [!DNL Adobe PDF Tools] connectors for {!DNL Microsoft Power] apps</em>
+    <em>Learn how to activate and use the [!DNL Acrobat Sign] and [!DNL Adobe PDF Tools] connectors for [!DNL Microsoft Power] apps</em>
     <br>
   </td>
   <td>
