@@ -74,13 +74,35 @@ You can use Acrobat Sign inside other applications your organization already use
     <br>
   </td>
   <td>
-    <a href="documentautomation.md">
-      <img alt="Document automation with Acrobat Sign for Microsoft Power Platform" src="../assets/SF-Button.png" />
+    <a href="auto-archive-sharepoint-power-automate.md">
+      <img alt="Auto archive files in [!DNL SharePoint] with [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Document automation with Acrobat Sign for Microsoft Power Platform</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>Auto archive files in [!DNL SharePoint] with [!DNL Power Automate]</strong></a>
     </div>
-    <em>Learn how to activate and use the Acrobat Sign and Adobe PDF Tools connectors for Microsoft Power Apps</em>
+    <em>Learn how to automatically archive signed documents to a [!DNL SharePoint] library using [!DNL Power Automate]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="documentautomation.md">
+      <img alt="Document automation with [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+    </a>
+    <div>
+    <a href="documentautomation.md"><strong>Document automation with [!DNL Acrobat Sign for Microsoft Power Platform}</strong></a>
+    </div>
+    <em>Learn how to activate and use the [!DNL Acrobat Sign] and [!DNL Adobe PDF Tools] connectors for {!DNL Microsoft Power] apps</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
