@@ -12,4 +12,4 @@ Learn how to turn any paper document into a PDF using the free Adobe Scan mobile
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409254?hidetitle=true)
 
-[![QR code](../assets/Scanqrcode.jpg)]  Scan the QR code to get the app.
+![QR code](../assets/Scanqrcode.jpg)      Scan the QR code to get the app.
