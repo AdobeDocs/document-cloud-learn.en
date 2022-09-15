@@ -14,4 +14,6 @@ Do more right from your tablet or mobile phone with the Acrobat Reader mobile ap
 
 >[!VIDEO](https://video.tv.adobe.com/v/337972?hidetitle=true)
 
-![QR code](../assets/Acrobatqrcode.jpg)      Scan the QR code to get the app.
+![QR code](../assets/Acrobatqrcode.jpg)
+
+Scan the QR code to get the app.
