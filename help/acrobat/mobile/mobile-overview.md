@@ -42,6 +42,33 @@ Create, fill, and sign PDFs on your mobile device.
 </tr>
 </table>
 
+## Adobe Scan mobile app tutorials
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-mobile-app.md">
+      <img alt="Scan anything to PDF" src="../assets/Scanmobile.png" />
+    </a>
+    <div>
+     <a href="scan-mobile-app.md"><strong>Scan anything to PDF</strong></a>
+    </div>
+    <em>Learn how to turn any paper document into a PDF using the free Adobe Scan mobile app</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 Download [Adobe Acrobat Reader mobile app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} the free global standard for reliably viewing, annotating, and signing PDFs.
 
 [Acrobat Reader for iOS mobile guide](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
