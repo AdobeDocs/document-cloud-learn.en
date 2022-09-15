@@ -108,3 +108,4 @@ breadcrumb-title: Acrobat Tutorials
 + Mobile {#mobile}
   + [Overview](mobile/mobile-overview.md)
   + [Productivity on the go](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+  +  [Scan anything to PDF](mobile/scan-mobile-app.md)
