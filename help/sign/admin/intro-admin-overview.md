@@ -133,7 +133,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
