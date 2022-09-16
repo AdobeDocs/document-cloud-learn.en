@@ -35,7 +35,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configure notifications for events and alerts</strong></a>
     </div>
-    <em>Configure notifications for events and alerts for our account</em>
+    <em>Configure notifications for events and alerts for your account</em>
     <br>
   </td>
   <td>
