@@ -168,15 +168,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Use stamps to mark a document approved or completed</em>
      <br>
   </td> 
-  <td>
-    <a href="sign-with-a-stamp.md">
-      <img alt="Signing using a stamp" src="../assets/Stamp.png" />
-    </a>
+ <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Signing using a stamp</strong></a>
-    </div>
-    <em>Use stamps to mark a document approved or completed</em>
-     <br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
