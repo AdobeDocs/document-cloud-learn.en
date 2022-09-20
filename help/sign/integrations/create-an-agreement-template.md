@@ -1,16 +1,16 @@
 ---
-title: Creating a Document Template in Acrobat Sign for Salesforce
-description: Learn how to create a reusable Document Template to provide speed and consistency
+title: Document Builder for [!DNL Salesforce]
+description: Learn how to create a reusable document template using Document Builder for Salesforce
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17349.jpg
+thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
 ---
-# Creating a document template in Acrobat Sign for [!DNL Salesforce]
+# Document Builder for [!DNL Salesforce]
 
-Learn how to create a Document Template for Acrobat Sign in [!DNL Salesforce]. Document Templates provide speed and consistency in your sign transactions and the ability to manage document revisions and changes.
+Learn how to create a reusable document template using Document Builder for Salesforce. Reusable document templates provide speed and consistency in your sign transactions and the ability to manage document revisions and changes.
 
->[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409414?hidetitle=true)
