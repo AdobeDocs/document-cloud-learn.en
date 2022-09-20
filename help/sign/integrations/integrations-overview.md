@@ -134,12 +134,12 @@ You can use Acrobat Sign inside other applications your organization already use
   </td>
   <td>
     <a href="set-up-merging-map.md">
-      <img alt="Setting up merge mapping" src="../assets/SF-MergeMapping.png" />
+      <img alt="Setting up Merge Mapping in Salesforce" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Setting up merge mapping</strong></a>
+    <a href="set-up-merging-map.md"><strong>Setting up Merge Mapping in Salesforce</strong></a>
     </div>
-    <em>Merge data from Salesforce directly into an agreement</em>
+    <em>Learn how to merge data from Salesforce directly into an Acrobat Sign document</em>
     <br>
   </td>
 </tr>
