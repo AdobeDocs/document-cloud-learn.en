@@ -114,10 +114,35 @@ Learn how to get more done in less time with essential PDF and e-signature tools
 </tr>
 </table>
 
+## Dropbox 
+
+Learn how easy it is to access and work with files stored in [!DNL Dropbox].
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="Work with files from [!DNL Dropbox]" src="../assets/dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>Work with files from [!DNL Dropbox]</strong></a>
+    </div>
+    <em>Learn how to open, create, edit, sign, and save changes to your [!DNL Dropbox] files from inside Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## Box
 
 Learn how Acrobat and [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} make it simpler for everyone in your organization to keep business moving.
-
-## Dropbox 
-
-Learn how easy it is to access and work with PDFs stored in [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target="_blank"}.
