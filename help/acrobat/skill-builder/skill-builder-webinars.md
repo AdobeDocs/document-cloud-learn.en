@@ -14,6 +14,22 @@ Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDF wo
 
 ## Monthly sessions
 
+* **[Work with PDFs in your Microsoft apps](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/f7e3961b-e322-4253-bfa4-ff1957a08d99/c1111644-e958-41bf-ad6e-dffafafa7fa0){target="_blank"}**
+Date: December 15, 2022
+Acrobat is fully integrated into Microsoft 365 apps, so you don't have to move between screens and can get more done within the flow of your work. In this Skill Builder session, you'll learn how you can add PDF workflows to the Microsoft apps you use every day, including Teams, Outlook, SharePoint, Word, PowerPoint, & Excel.
+
+* **[PDF Collaboration: Share, review, and work together](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/d1eb8544-6268-4855-8500-2370b1e68045/0dd92858-0587-49f4-be60-8d48c140ef39){target="_blank"}**
+Date: November 17, 2022
+This Skill Builder is all about digital document collaboration. Come learn the easy way to review documents with your team, and get a tour of the commenting tools available to you. We'll also talk about reviewing PDFs with others in Microsoft Teams, and how to give feedback from anywhere using the Acrobat mobile app and Acrobat Web.
+
+* **[Reuse your PDF content: Edit and Export](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target="_blank"}**
+Date: October 27, 2022
+Learn how to modify your existing PDFs: edit text and images, add hyperlinks and bookmarks, convert to Microsoft Word, PowerPoint, and Excel files, and more.
+
+* **[Get Started with Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target="_blank"}**
+Date: September 22, 2022
+Get up and running with Adobe Acrobat and PDFs. We'll introduce you to the Acrobat interface and show you how to: * Create PDFs from image files and documents — including Word, Excel, and PowerPoint. * Combine multiple files — PDF, Word, images, and much more — into one editable PDF. * Get work done anywhere at any time with Acrobat Web and Mobile.
+
 * **[PDF Security](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target="_blank"}**
 Date: August 25, 2022
 Get all the info you need on protecting your PDF content. This session will share techniques for adding passwords to prevent viewing, editing, or printing a PDF, and show you how to permanently remove sensitive information - even from non-visible metadata!

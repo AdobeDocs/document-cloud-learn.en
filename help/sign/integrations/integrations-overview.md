@@ -114,12 +114,12 @@ You can use Acrobat Sign inside other applications your organization already use
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Creating a document template in Acrobat Sign for Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Learn how to create a reusable document template using Document Builder for [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Creating a document template in Acrobat Sign for Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Learn how to create a reusable document template using Document Builder for [!DNL Salesforce]</strong></a>
     </div>
-    <em>Create a reusable document template to provide speed and consistency</em>
+    <em>Learn how to create a reusable document template using Document Builder for [!DNL Salesforce]</em>
     <br>
   </td>
   <td>

@@ -90,7 +90,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Auto archive files in [!DNL SharePoint] with [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
     + [Document automation with Acrobat Sign for Microsoft Power Platform](integrations/documentautomation.md)
   + Salesforce {#salesforce}
-    + [Creating a document template](integrations/create-an-agreement-template.md)
+    + [Document Builder for Salesforce](integrations/create-an-agreement-template.md)
     + [Setting up data mapping](integrations/set-up-data-mapping.md)
     + [Setting up merge mapping](integrations/set-up-merging-map.md)
     + [Creating a custom button](integrations/create-a-custom-button.md)
