@@ -122,7 +122,7 @@ Learn how easy it is to access and work with files stored in [!DNL Dropbox].
 <tr>
   <td>
     <a href="acrobat-dropbox.md">
-      <img alt="Work with files from [!DNL Dropbox]" src="../assets/dropbox.png" />
+      <img alt="Work with files from [!DNL Dropbox]" src="../assets/Dropbox.png" />
     </a>
     <div>
     <a href="acrobat-dropbox.md"><strong>Work with files from [!DNL Dropbox]</strong></a>
