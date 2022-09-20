@@ -83,7 +83,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Convert email messages and attachments to PDF in [!DNL Outlook]](integrate/outlook.md)
   + [Create PDF content while browsing with [!DNL Microsoft Edge]](integrate/edge.md)
   + [Adobe Acrobat for [!DNL Google Drive]](integrate/acrobatandgoogle.md)
-  + [Work with files from [!DNL Dropbox]](integrate/acrobatanddropbox.md)
+  + [Work with files from [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Industries and departments {#by-industry}
   + [Overview](industry/industry-overview.md)
   + Government {#gov}
