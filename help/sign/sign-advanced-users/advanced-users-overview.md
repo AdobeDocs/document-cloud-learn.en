@@ -91,8 +91,13 @@ Learn how to send out a document for signature to 100s of recipients at once, se
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="text-tagging-word.md">
+      <img alt="Using Text Tagging in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+  </a>
     <div>
+    <a href="text-tagging-word.md"><strong>Using Text Tagging in [!DNL Microsoft Word]</strong></a>
+    </div>
+    <em>Learn how to create a reusable document template by adding Acrobat Sign Text Tags in [!DNL Microsoft Word]</em>
     <br>
   </td>
 </tr>
