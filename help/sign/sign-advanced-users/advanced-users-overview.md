@@ -107,6 +107,16 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="Creating a report" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>Creating a report</strong></a>
+    </div>
+    <em>Learn how to build your own reports to gain visibility into the document signing process</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="Managing document templates" src="../assets/ManageTemplate.png" />
@@ -128,19 +138,14 @@ Learn how to send out a document for signature to 100s of recipients at once, se
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="Creating a report" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="Managing web form data" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Creating a report</strong></a>
+    <a href="manage-webform-data.md"><strong>Managing web form data</strong></a>
     </div>
-    <em>Learn how to build your own reports to gain visibility into the document signing process</em>
+    <em>Learn how to track, manage, and export data from a web form</em>
     <br>
   </td>  
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>

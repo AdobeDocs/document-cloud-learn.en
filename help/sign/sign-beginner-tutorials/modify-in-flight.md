@@ -19,7 +19,7 @@ Learn how to modify a document that's already been sent out for signature--like 
 
 >[!NOTE]
 >
->Modifying a document after sending is only available for enterprise-level plans. Your Acrobat Sign administrator may need to enable the **Modify Agreements** setting in the **Send Settings** section of the **Account Settings** to use this feature. 
+>Modifying a document after sending is only available for enterprise-level plans. Your Acrobat Sign administrator needs to enable **Modify Agreements** in the **Send Settings** section of the **Account Settings** to use this feature. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
