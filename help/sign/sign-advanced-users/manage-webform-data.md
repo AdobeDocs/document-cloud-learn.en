@@ -13,6 +13,6 @@ Learn how to track, manage, and export data from a [web form](webform.md). This 
 
 >[!NOTE]
 >
->Your Acrobat Sign administrator needs to enable **Allow additional participants** in the **Web forms** section of the **Global Settings** to use the additional participant workflow. 
+>Only business- and enterprise-level plans have the option to configure web form access and signer options. Web form access and signer options are enabled or disabled at the account or group level under Account > Account Settings > Global Settings > Web Forms.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
