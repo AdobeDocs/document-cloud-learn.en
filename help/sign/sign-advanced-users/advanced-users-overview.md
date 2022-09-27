@@ -119,10 +119,10 @@ Learn how to send out a document for signature to 100s of recipients at once, se
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Managing document templates" src="../assets/ManageTemplate.png" />
+      <img alt="Manage document templates" src="../assets/ManageTemplate.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>Managing document templates</strong></a>
+    <a href="edit-a-template.md"><strong>Manage document templates</strong></a>
     </div>
     <em>Edit or delete a template from your library</em>
     <br>

@@ -47,7 +47,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Using Text Tagging in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
   + Managing {#advanced-tasks-managing}
     + [Creating a report](sign-advanced-users/creating-a-report.md)
-    + [Managing document templates](sign-advanced-users/edit-a-template.md)
+    + [Manage document templates](sign-advanced-users/edit-a-template.md)
     + [Modify an existing web form](sign-advanced-users/modify-webform.md)
     + [Managing web form data](sign-advanced-users/manage-webform-data.md)
 + Administer {#admin-set-up}
