@@ -19,9 +19,8 @@ This comprehensive video guide is specifically designed for new Acrobat Sign adm
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Accessing the Admin Console</strong></a>
-        </div>
+         <br>
         <em>1:00</em>
-        <br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
@@ -30,9 +29,8 @@ This comprehensive video guide is specifically designed for new Acrobat Sign adm
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Entitling Acrobat Sign to a user</strong></a>
-        </div>
-        <em>1:45</em>
         <br>
+        <em>1:45</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
@@ -41,9 +39,8 @@ This comprehensive video guide is specifically designed for new Acrobat Sign adm
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign web portal overview</strong></a>
-        </div>
-        <em>3:11</em>
         <br>
+        <em>3:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
@@ -52,9 +49,8 @@ This comprehensive video guide is specifically designed for new Acrobat Sign adm
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>Global settings and configurations</strong></a>
-        </div>
-        <em>5:58</em>
         <br>
+        <em>5:58</em>
     </td>
   </tr>
   </table>
