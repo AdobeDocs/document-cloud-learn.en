@@ -1,6 +1,6 @@
 ---
 title: Getting started for new administrators
-description: In this comprehensive video guide, learn about all the tools you need to get your organization up and running with Acrobat Sign
+description: In this comprehensive video guide, learn about all the tools necessary to get your organization up and running with Acrobat Sign
 role: Admin
 product: adobe sign
 level: Beginner
@@ -8,7 +8,7 @@ thumbnail: KT-11289.jpg
 ---
 # Getting started for new administrators
 
-This comprehensive video guide is specifically designed for new Acrobat Sign administrators. Learn about all the tools you need to get your organization up and running with Acrobat Sign. This detailed guide covers the following topics:
+This comprehensive video guide is specifically designed for new Acrobat Sign administrators. Learn about all the tools necessary to get your organization up and running with Acrobat Sign. This detailed guide covers the following topics:
 
 <table style="table-layout:auto">
 <tr>

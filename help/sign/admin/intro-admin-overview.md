@@ -20,12 +20,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Getting started for new adminstrators" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Getting started for new administrators" src="../assets/Gettingstartedadmin_1280.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>Getting started for new adminstrators</strong></a>
+    <a href="get-started-admin.md"><strong>Getting started for new administrators</strong></a>
     </div>
-    <em>In this comprehensive video guide, learn about all the tools you need to get your organization up and running with Acrobat Sign</em>
+    <em>In this comprehensive video guide, learn about all the tools necessary to get your organization up and running with Acrobat Sign</em>
     <br>
   </td>
   <td>
