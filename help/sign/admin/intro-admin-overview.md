@@ -19,6 +19,16 @@ Learn about adding users to your account, setting up groups, sharing access, and
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="get-started-admin.md">
+      <img alt="Getting started for new adminstrators" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>Getting started for new adminstrators</strong></a>
+    </div>
+    <em>In this comprehensive video guide, learn about all the tools you need to get your organization up and running with Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
     <a href="up-and-running-admin.md">
       <img alt="Up &  running for admins" src="../assets/Up-Running.png" />
     </a>
@@ -48,7 +58,9 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Add users individually or in bulk to your Acrobat Sign account</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="Creating and Managing Groups" src="../assets/Creating-Groups.png" />
     </a>
@@ -58,9 +70,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Create groups, add users to groups, and edit group settings</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Setting up an external archive" src="../assets/ExternalArchive.png" />
     </a>
@@ -90,6 +100,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Learn how to build, save, and manage your own custom reports and data exports</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Creating a web form" src="../assets/Webform.png" />
@@ -100,8 +112,6 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Create a document that can be signed electronically directly on your website</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modify an existing web form" src="../assets/Modifywebform.png" />
@@ -122,7 +132,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Collect hundreds of signatures at once for any document</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Setting up a Workflow" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -130,11 +140,6 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <a href="building-a-custom-workflow.md"><strong>Setting up a workflow</strong></a>
     </div>
     <em>Automate document workflows to quickly get electronic signatures and data</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
