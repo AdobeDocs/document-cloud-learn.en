@@ -19,4 +19,4 @@ Learn the seven key areas that administrators should focus on to get up & runnin
 
 >[!TIP]
 >
->This video is part of the course [Getting Started with Acrobat Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) that is available for free on Experience League!
+>This video is part of the course [Getting started with Acrobat Sign for administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) that is available for free on Experience League!
