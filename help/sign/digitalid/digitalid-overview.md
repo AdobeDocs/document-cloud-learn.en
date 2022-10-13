@@ -91,6 +91,16 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <em>Learn how to register your identity with [!DNL D-Trust], and then use the [!DNL D-Trust] digital signature on a document in Acrobat Sign</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
   </tr>
   </table>
 
