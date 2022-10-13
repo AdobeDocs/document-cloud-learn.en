@@ -78,6 +78,8 @@ breadcrumb-title: Acrobat Sign Tutorials
   + Digidentity {#digidentity}
     + [Get a digital ID from Digidentity](digitalid/digidentity-reg.md)
     + [Signing using Digidentity](digitalid/digidentity-sign.md)
+  + D-Trust {#dtrust}
+    + [Register and sign using [!DNL D-Trust]](digitalid/d-trust.md)
   + Intesi Group {#intesi}
     + [Get a digital ID from Intesi Group (Advanced)](digitalid/intesi-advanced.md)
     + [Get a digital ID from Intesi Group (Qualified)](digitalid/intesi-qualified.md)
