@@ -17,6 +17,8 @@ Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] 
 >
 >Adobe Acrobat for [!DNL Microsoft 365] includes free features (such as viewing and searching within PDFs) available to all users. Other features (such as creating and combining PDFs) require a paid Acrobat for teams or Acrobat for enterprise subscription.
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
 
 >[!TIP]

@@ -15,4 +15,6 @@ Learn how to rearrange pages just the way you like—all in a matter of seconds.
 >
 >Learn about how to add a brand [new custom page](add-custom-page.md) while organizing pages.
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)

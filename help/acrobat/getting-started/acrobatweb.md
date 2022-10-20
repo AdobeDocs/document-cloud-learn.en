@@ -16,6 +16,8 @@ Learn how to handle business document requests from anywhere using the Acrobat w
 >
 >Interested in learning more about Acrobat mobile tools? Check out [Productivity on the go](productivity.md).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/337436?hidetitle=true)
 
 >[!TIP]

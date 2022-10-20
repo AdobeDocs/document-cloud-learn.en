@@ -16,6 +16,8 @@ Learn how to create rich, robust PDF files with hyperlinked table of contents an
 >
 >Do you use the [!DNL Microsoft Office] web apps? Check out how to [create PDFs in [!DNL Office] for the web](../integrate/createofficeweb.md).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 
 >[!TIP]

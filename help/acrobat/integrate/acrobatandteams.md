@@ -22,6 +22,8 @@ Adobe Acrobat for Teams allows users to collaborate and work with colleagues by 
 >
 >Check out these other Microsoft [integrations](../integrate/integrate-overview.md#microsoft).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
 
 >[!TIP]

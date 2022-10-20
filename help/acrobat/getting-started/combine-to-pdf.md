@@ -15,6 +15,8 @@ Learn how to combine many different types of files (PDF, Word, Excel, PowerPoint
 >
 >Learn about how to add a brand [new custom page](add-custom-page.md) while combining files.
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)
 
 >[!TIP]
