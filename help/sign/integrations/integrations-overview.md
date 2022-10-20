@@ -17,6 +17,13 @@ You can use Acrobat Sign inside other applications your organization already use
 >[!NOTE]
 > If you're having trouble accessing any of these features, check with your organization's administrator to ensure that the integration is enabled.
 
+## What's new
+
+* [Auto archive files in SharePoint with Power Automate](auto-archive-sharepoint-power-automate.md)
+  Learn how to automatically archive signed documents to a SharePoint library using Power Automate
+* [Document Builder for Salesforce](create-an-agreement-template.md)
+  Learn how to create a reusable document template using Document Builder for Salesforce
+
 ## Microsoft integrations tutorials
 
 <table style="table-layout:fixed">

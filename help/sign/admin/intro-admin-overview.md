@@ -14,6 +14,13 @@ exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 
 Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Acrobat Sign. The Advanced Tasks cover topics that expand past the admin setup and move into defining global settings, account access and sharing, and text tagging.
 
+## What's new
+
+* [Getting started for new administrators](get-started-admin.md)
+  In this comprehensive video guide, learn about all the tools necessary to get your organization up and running with Acrobat Sign
+* [Setting up a workflow](building-a-custom-workflow.md)
+  Automate document workflows to quickly get electronic signatures and data
+
 ## Getting started
 
 <table style="table-layout:fixed">

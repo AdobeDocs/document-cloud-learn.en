@@ -14,6 +14,13 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 
 Learn how to send out a document for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates. These tutorials are for anyone who's already familiar with the basics of sending and requesting signatures, and wants to learn more ways Acrobat Sign can work for them.
 
+## What's new
+
+* [Set up online payments](set-up-online-payments.md)
+  Learn how to set up and accept online payments in your documents
+* [Creating a report](creating-a-report.md)
+  Learn how to build your own reports to gain visibility into the document signing process
+
 ## Sending
 
 <table style="table-layout:fixed">

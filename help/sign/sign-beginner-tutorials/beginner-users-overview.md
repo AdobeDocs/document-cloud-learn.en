@@ -13,6 +13,13 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 
 Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials. Get a quick tour of Acrobat Sign and then jump into sending a document to one or more people. This content is designed to ease you into e-signature workflows.
 
+## What's new
+
+* [Sign with a stamp](sign-with-a-stamp.md)
+  Learn how to use stamps to mark a document approved or completed
+* [Replacing a signer](replace-signer.md)
+  Learn how to change the signer of a document that's already in progress
+
 ## Sending
 
 <table style="table-layout:fixed">

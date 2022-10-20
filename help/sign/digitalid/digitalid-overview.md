@@ -18,6 +18,11 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 >
 >Before you can use a digital ID with a cloud signature, please check with your organization's administrator to confirm that the provider's solution is enabled in Acrobat Sign.
 
+## What's new
+
+* [Register and sign using D-Trust](d-trust.md)
+  Learn how to register your identity with [!DNL D-Trust], and then use the [!DNL D-Trust] digital signature on a document in Acrobat Sign
+
 ## [!DNL Aadhaar]
 
 <table style="table-layout:fixed">
