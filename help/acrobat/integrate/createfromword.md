@@ -12,6 +12,10 @@ exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
 
 Learn how to create rich, robust PDF files with hyperlinked table of contents and cross-references, bookmarks, and even attachments using the Acrobat Add-on for [!DNL Microsoft Word].
 
+>[!TIP]
+>
+>Do you use the [!DNL Microsoft Office] web apps? Check out how to [create PDFs in [!DNL Office] for the web](../integrate/createofficeweb.md).
+
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 
 >[!TIP]

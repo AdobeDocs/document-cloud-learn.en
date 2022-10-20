@@ -12,6 +12,10 @@ exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
 
 Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser.
 
+>[!TIP]
+>
+>Interested in learning more about Acrobat mobile tools? Check out [Productivity on the go](productivity.md).
+
 >[!VIDEO](https://video.tv.adobe.com/v/337436?hidetitle=true)
 
 >[!TIP]

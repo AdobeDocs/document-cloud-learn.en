@@ -17,3 +17,7 @@ Keep business moving by collecting legally binding e-signatures from others — 
 >You must have an Acrobat Sign Enterprise entitlement in addition to your Acrobat Enterprise subscription.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)
+
+>[!TIP]
+>
+>Learn how to [track your documents](track.md) that have been sent out for signature in one easy location.
