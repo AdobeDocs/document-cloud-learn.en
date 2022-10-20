@@ -13,6 +13,10 @@ exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
 
 Learn how to archive email messages and attachments to PDF in [!DNL Outlook] for your projects. Learn to deliver information in a more professional and secure manner by automatically converting attachments to PDF. This tool is only available for Windows.
 
+>[!TIP]
+>
+>Check out these other Microsoft [integrations](../integrate/integrate-overview.md#microsoft).
+
 >[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)
 
 >[!TIP]

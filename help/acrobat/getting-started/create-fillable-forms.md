@@ -30,3 +30,7 @@ Turn a scanned paper form or document created in InDesign, Microsoft Word, Excel
 1. Select **[!UICONTROL Edit]** to continue work, or select **[!UICONTROL File]** **>** **[!UICONTROL Save As]** to save the PDF form.
 
     ![Form Step 4](../assets/Form_4.png)
+
+>[!TIP]
+>
+>Dive deeper into building forms with these [advanced techniques](../advanced-tasks/advancedforms.md).
