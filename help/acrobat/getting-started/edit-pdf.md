@@ -15,6 +15,8 @@ Learn how to edit text and images in PDF files. Click or tap to add a new paragr
 >
 >Learn about the new editing mode that [auto-adjusts content](auto-adjust-layout.md).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
 
 >[!TIP]

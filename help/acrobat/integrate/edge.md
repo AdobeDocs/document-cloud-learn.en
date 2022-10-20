@@ -17,6 +17,8 @@ Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extensio
 >
 >Check out these other Microsoft [integrations](../integrate/integrate-overview.md#microsoft).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/337248?hidetitle=true)
 
 >[!TIP]

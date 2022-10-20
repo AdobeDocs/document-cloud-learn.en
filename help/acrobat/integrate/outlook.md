@@ -17,6 +17,8 @@ Learn how to archive email messages and attachments to PDF in [!DNL Outlook] for
 >
 >Check out these other Microsoft [integrations](../integrate/integrate-overview.md#microsoft).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)
 
 >[!TIP]

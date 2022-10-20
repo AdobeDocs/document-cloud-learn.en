@@ -16,6 +16,8 @@ Streamline document workflows with [!DNL SharePoint] and Acrobat using the [Adob
 >
 >Adobe Acrobat for [!DNL SharePoint], [!DNL OneDrive], and [!DNL Office 365] includes free features (such as viewing and searching within PDFs) available to all users. Some features (such as creating and combining PDFs) require a paid Acrobat for teams or Acrobat for enterprise subscription.
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
 
 >[!TIP]

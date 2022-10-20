@@ -14,4 +14,6 @@ Learn about the new editing mode that reflows content and auto-adjusts the layou
 >
 >The auto-adjust layout doesn't yet support all types of PDF content or languages.
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/346975?hidetitle=true)

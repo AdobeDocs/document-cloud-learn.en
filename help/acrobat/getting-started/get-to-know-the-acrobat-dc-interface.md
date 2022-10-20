@@ -15,4 +15,6 @@ Learn how the Acrobat interface makes it easy to access files and tools across d
 >
 >Interested in learning about the new workspace experience that you can activate in Acrobat? Check out [New workspace experience](new-workspace.md).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
