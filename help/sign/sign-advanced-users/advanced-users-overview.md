@@ -18,7 +18,7 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 * [Set up online payments](set-up-online-payments.md)
   Learn how to set up and accept online payments in your documents
-* [Creating a report](create-a-report.md)
+* [Creating a report](creating-a-report.md)
   Learn how to build your own reports to gain visibility into the document signing process
 
 ## Sending
