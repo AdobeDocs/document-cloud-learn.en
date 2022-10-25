@@ -39,7 +39,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     </div>
     <em>Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] for web apps</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="Work with your [!DNL SharePoint] files" src="../assets/SharePoint.png" />
@@ -49,7 +49,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     </div>
     <em>Streamline document workflows with [!DNL SharePoint] and Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -82,6 +82,11 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <em>Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -111,6 +116,11 @@ Learn how to get more done in less time with essential PDF and e-signature tools
     <div>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -128,6 +138,11 @@ Learn how easy it is to access and work with files stored in [!DNL Dropbox].
     <a href="acrobat-dropbox.md"><strong>Work with files from [!DNL Dropbox]</strong></a>
     </div>
     <em>Learn how to open, create, edit, sign, and save changes to your [!DNL Dropbox] files from inside Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

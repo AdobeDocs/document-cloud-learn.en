@@ -23,7 +23,7 @@ Best practice articles with valuable insight on deploying Acrobat Sign within yo
     <div>
     <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Managing Acrobat Sign on the Admin Console</strong></a>
     </div>
-    <em>Learn how to manage Acrobat Sign users and licenses on Adobe’s enterprise platform the Adobe Admin Console</em>
+    <em>Learn how to manage Acrobat Sign users and licenses on Adobe's enterprise platform the Adobe Admin Console</em>
     <br>
   </td>
   <td>
@@ -44,6 +44,11 @@ Best practice articles with valuable insight on deploying Acrobat Sign within yo
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials Study Guide</strong></a>
     </div>
     <em>Acrobat Sign Study Guide for the Acrobat Sign Essentials Assessment (AD3-D104)</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

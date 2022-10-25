@@ -50,8 +50,6 @@ Speed up your organization's digital workflows with these government and commerc
     <em>Quickly replace paper processing with compliant digital workflows, complete with audit reports</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="Reemployment Assistance" src="../assets/UC_WebformsR.png" />
@@ -62,6 +60,8 @@ Speed up your organization's digital workflows with these government and commerc
     <em>Help citizens get the help they need without standing in line with all-digital application forms that can go live in days</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Paycheck Protection" src="../assets/UC_PaycheckProtectionR.png" />
@@ -80,6 +80,16 @@ Speed up your organization's digital workflows with these government and commerc
     <a href="usecasegovremote.md"><strong>Remote warrant request</strong></a>
     </div>
     <em>Use e-signatures and web conferencing together to reduce the time it takes to request and secure warrants from judges</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -117,6 +127,11 @@ Speed up your organization's digital workflows with these government and commerc
     <a href="usecasecomtelework.md"><strong>Telework agreement</strong></a>
     </div>
     <em>Efficiently collect signatures from all your employees on telework agreements</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

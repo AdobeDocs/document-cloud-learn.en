@@ -36,6 +36,11 @@ Learn how you can transform customer and employee experiences by exploring indus
    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
-  </td> 
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>

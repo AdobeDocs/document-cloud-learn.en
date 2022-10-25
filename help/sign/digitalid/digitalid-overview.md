@@ -47,6 +47,11 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -79,6 +84,11 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -94,6 +104,11 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <a href="d-trust.md"><strong>Register and sign using D-Trust</strong></a>
     </div>
     <em>Learn how to register your identity with [!DNL D-Trust], and then use the [!DNL D-Trust] digital signature on a document in Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -141,6 +156,11 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <a href="intesi-sign.md"><strong>Signing using [!DNL Intesi Group]</strong></a>
     </div>
     <em>Learn how to use your [!DNL Intesi Group] digital ID with Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

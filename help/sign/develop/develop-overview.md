@@ -46,9 +46,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
     <em>Send, collect, and track documents for signature to thousands of people at the same time</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="embeddedesignature.md">
       <img alt="Create embedded e-signature and document experiences" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
@@ -56,16 +54,6 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
     <a href="embeddedesignature.md"><strong>Create embedded e-signature and document experiences</strong></a>
     </div>
     <em>Learn how to use Acrobat Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
