@@ -10,7 +10,7 @@ exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
 ---
 # Work anywhere with Acrobat web
 
-Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser.
+With remote work everywhere, delivering content with speed and scale is critical. Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser.
 
 >[!TIP]
 >

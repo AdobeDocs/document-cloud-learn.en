@@ -10,7 +10,7 @@ exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
 ---
 # Productivity on the go
 
-Do more right from your tablet or mobile phone with the Acrobat Reader mobile app.
+With remote work everywhere, delivering content with speed and scale is critical. Learn how to do more right from your tablet or mobile phone with the Acrobat Reader mobile app.
 
 >[!TIP]
 >

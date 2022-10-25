@@ -9,7 +9,7 @@ exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
 ---
 # Action Wizard
 
-Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files.
+Delivering the best customer experiences requires content to be created faster than ever before. Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files.
 
 >[!NOTE]
 >
