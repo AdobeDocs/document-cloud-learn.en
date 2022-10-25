@@ -126,6 +126,11 @@ Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [mo
     <em>Prepare PDFs for distribution</em>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -154,17 +159,12 @@ Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [mo
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
