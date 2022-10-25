@@ -58,9 +58,7 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Send a document for signature directly within Sharepoint Online</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="Tracking in SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
@@ -70,6 +68,8 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Track the progress of an agreement directly within Microsoft Sharepoint</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="Sending documents for signature in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -90,8 +90,6 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Learn how to automatically archive signed documents to a [!DNL SharePoint] library using [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="Document automation with [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -100,16 +98,6 @@ You can use Acrobat Sign inside other applications your organization already use
     <a href="documentautomation.md"><strong>Document automation with [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Learn how to activate and use the [!DNL Acrobat Sign] and [!DNL Adobe PDF Tools] connectors for [!DNL Microsoft Power] apps</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -149,8 +137,6 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Learn how to merge data from Salesforce directly into an Acrobat Sign document</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="Creating a custom button" src="../assets/SF-Button.png" />
@@ -159,16 +145,6 @@ You can use Acrobat Sign inside other applications your organization already use
     <a href="create-a-custom-button.md"><strong>Creating a custom button</strong></a>
     </div>
     <em>Create a custom button that starts the sending process and auto populates an agreement inside Salesforce</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -186,6 +162,11 @@ You can use Acrobat Sign inside other applications your organization already use
     <a href="workday.md"><strong>Configuring Acrobat Sign with Workday</strong></a>
     </div>
     <em>Learn how to configure Acrobat Sign to work directly within Workday to seamlessly manage all your HR paperwork</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -235,9 +216,7 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Read how to send an email reminder from Marketo when an agreement remains unsigned after a period of time</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Send reminders using Acrobat Sign for Microsoft Dynamics and Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -247,6 +226,8 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Learn how to send an email reminder when an agreement remains unsigned after a period of time</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Send notifications using Acrobat Sign for Microsoft Dynamics and Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -255,6 +236,16 @@ You can use Acrobat Sign inside other applications your organization already use
     <a href="marketo-dynamics-sms.md"><strong>Send notifications using Acrobat Sign for Microsoft Dynamics and Marketo</strong></a>
     </div>
     <em>Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>

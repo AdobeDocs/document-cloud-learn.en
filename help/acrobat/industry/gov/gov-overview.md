@@ -45,9 +45,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     </div>
     <em>Create simple and effortless workflows for collaborating on documents</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="Tip: 3Protect digital documents" src="../../assets/Tip3.png" />
@@ -58,6 +56,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     <em>Add a password to your PDF to prevent copying, editing, or printing</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="Tip 4: Work with forms and signatures" src="../../assets/Tip4.png" />
@@ -76,6 +75,16 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     <a href="scan-and-edit-on-mobile.md"><strong>Tip 5: Scan and edit on mobile</strong></a>
     </div>
     <em>Learn how to work with Adobe Scan and Acrobat Reader mobile apps to get work done from anywhere</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -114,10 +123,8 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     </div>
     <em>Learn best practices for creating PDF files that are authored in [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="Making PDFs Accessible: Finishing in Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -127,6 +134,8 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     <em>Learn how to finish making your PDF file accessible using the tools in Acrobat Pro</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="Making PDF ballots more Accessible" src="../../assets/Accessibleballots.png" />
@@ -137,6 +146,16 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     <em>This webinar covers key areas of PDF accessibility necessary to allow users of assistive technologies, such as screen readers, to read and complete their ballots</em>
     <br>
   </td>  
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="Spacer" src="../../assets/Grayspacer.png" />
     <div>

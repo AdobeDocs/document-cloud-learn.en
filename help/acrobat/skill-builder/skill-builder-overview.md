@@ -42,6 +42,11 @@ Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [mo
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -79,8 +84,6 @@ Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [mo
     <em>Add text, images, links, and watermarks to your PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="Sign Your Work" src="../assets/sb_signed.png" />
@@ -91,6 +94,8 @@ Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [mo
     <em>Sign documents directly in Microsoft Outlook</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="Convert Your PDFs" src="../assets/sb_convert.png" />
@@ -111,9 +116,7 @@ Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [mo
     <em>Fill, sign, and send forms electronically on any device</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="Optimize Your PDFs" src="../assets/sb_optimize.png" />
     </a>
@@ -121,16 +124,6 @@ Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [mo
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimize Your PDFs</strong></a>
     </div>
     <em>Prepare PDFs for distribution</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -158,6 +151,16 @@ Get up-to-speed on Acrobat with these interactive skill builders. Or, join a [mo
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Secure Your PDFs</strong></a>
     </div>
     <em>Redact and protect sensitive information in your PDFs</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

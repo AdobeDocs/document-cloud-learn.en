@@ -39,6 +39,11 @@ Create, fill, and sign PDFs on your mobile device.
     <div>
     <br>
   </td>
+   <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -62,6 +67,11 @@ Create, fill, and sign PDFs on your mobile device.
     <br>
   </td>
   <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
