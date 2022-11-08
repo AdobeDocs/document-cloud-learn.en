@@ -7,6 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-10837.jpg
 kt: 10837
+exl-id: 25de7921-6ca4-413f-8172-083619b3aad5
 ---
 # Work with files from [!DNL Dropbox]
 

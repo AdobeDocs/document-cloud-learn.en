@@ -4,6 +4,7 @@ description: Learn how to build your own reports to gain visibility into the doc
 role: User, Admin
 level: Intermediate
 thumbnail: KT-11027.jpg
+exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
 ---
 # Creating a report
 

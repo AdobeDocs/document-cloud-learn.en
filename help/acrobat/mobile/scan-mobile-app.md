@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10838.jpg
+exl-id: 4f752512-a06f-4fc2-a554-30889f96c7d3
 ---
 # Scan anything to PDF
 

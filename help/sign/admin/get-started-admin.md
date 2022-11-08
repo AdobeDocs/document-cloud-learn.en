@@ -5,6 +5,7 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
+exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
 ---
 # Getting started for new administrators
 

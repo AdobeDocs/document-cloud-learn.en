@@ -6,6 +6,7 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-11120.jpg
+exl-id: 091ccb98-4db2-4ea9-8bf0-d585fcdfd9a0
 ---
 # Register and sign using [!DNL D-Trust]
 
