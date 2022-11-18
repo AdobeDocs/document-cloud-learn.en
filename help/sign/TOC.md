@@ -24,6 +24,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Configure sending options](sign-beginner-tutorials/sending-options.md)
     + [Modifying a document after sending](sign-beginner-tutorials/modify-in-flight.md)
     + [Replacing a signer](sign-beginner-tutorials/replace-signer.md)
+    + [Set deadlines and reminders](sign-beginner-tutorials/set-deadlines-reminders.md)
   + Signing {#getting-started-signing}
     + [Electronically signing a document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and signing a document](sign-beginner-tutorials/fill-and-sign.md)

@@ -15,10 +15,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 ## What's new
 
+* [Set deadlines and reminders](set-deadlines-reminders.md)
+  Learn how to send regular email reminders and deadlines to help get your documents signed quickly
 * [Sign with a stamp](sign-with-a-stamp.md)
   Learn how to use stamps to mark a document approved or completed
-* [Replacing a signer](replace-signer.md)
-  Learn how to change the signer of a document that's already in progress
 
 ## Sending
 
@@ -106,6 +106,33 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
     <em>Learn how to change the signer of a document that's already in progress</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="Set deadlines and reminders" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>Set deadlines and reminders</strong></a>
+      </div>
+      <em>Learn how to send regular email reminders and deadlines to help get your documents signed quickly</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
