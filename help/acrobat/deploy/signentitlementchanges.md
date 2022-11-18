@@ -11,17 +11,17 @@ exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 
 [!DNL Adobe Sign Individual] (also known as Adobe Sign Pro) will be deprovisioned from all Acrobat DC entitlements included in ETLA (Enterprise Term License Agreement) offers only beginning August 2020 and will continue through November 20, 2020. [!DNL Adobe Sign Individual] does not provide enterprise-grade functionality and should be replaced with Adobe Sign Enterprise for enterprise customers. This includes Acrobat DC licensed as a stand-alone app and Acrobat DC licensed as part of Creative Cloud for enterprise – All Apps.
 
-Access to [!DNL Adobe Sign Individual] is available in Acrobat via the **Adobe Sign** tool or the **Fill & Sign** tool (Request signatures).
+Access to [!DNL Adobe Sign Individual] is available in Acrobat via the **Adobe Sign** tool or the **Fill & Sign** tool ([Request signatures](https://www.adobe.com/acrobat/online/request-signature.html){target="_blank"}).
 
 ![[!DNL Adobe Sign Individual] access in Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
-If you have not updated Acrobat DC to the latest version, the tool may be labelled “Send for Signature”.
+If you have not updated Acrobat DC to the latest version, the tool may be labelled "Send for Signature".
 
 ## Why are we deprovisioning this?
 
 [In October 2018, we released an all-new Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). This latest release includes new tools and functionality to better work with PDFs across mobile devices, the web and desktop, plus all-new collaboration tools. As an Acrobat DC subscriber, you should already have these great features available. Another major update we released was to our electronic signature solution Adobe Sign.
 
-Prior to the October 2018 release, Acrobat DC users have been able to send documents out for e-signature using tools in Acrobat labelled “Fill & Sign” (or “Adobe Sign” or “Send for Signature”) which were provisioned with [!DNL Adobe Sign Individual] entitlement.
+Prior to the October 2018 release, Acrobat DC users have been able to send documents out for e-signature using tools in Acrobat labelled "Fill & Sign" (or "Adobe Sign" or "Send for Signature") which were provisioned with [!DNL Adobe Sign Individual] entitlement.
 
 While having this option has provided a great way to capture e-signatures, we are deprovisioning [!DNL Adobe Sign Individual] because it does not provide the Enterprise grade functionality that is available through Adobe Sign Enterprise, such as:
 
@@ -40,7 +40,7 @@ In addition, Adobe Sign Enterprise offers more functionality compared to what wa
 * Customization and Optimization
   * Enhanced e-signature authentication, Advanced ID-based signer identity verification, workflow designer, advanced language support, etc.
 
-Adobe Sign is the industry-leading globally recognized solution for capturing legally compliant signatures. Adobe Sign is built from the ground up to meet any of your organization’s e-signature needs, with IT admin-friendly tools to ensure you and your users are using e-signatures that fully comply with the various regional and industry regulations around e-signatures. Please visit [here](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html) for more info on managing Sign through [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).
+Adobe Sign is the industry-leading globally recognized solution for capturing legally compliant signatures. Adobe Sign is built from the ground up to meet any of your organization's e-signature needs, with IT admin-friendly tools to ensure you and your users are using e-signatures that fully comply with the various regional and industry regulations around e-signatures. Please visit [here](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html) for more info on managing Sign through [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
 Please reach out to your Adobe contact to discuss how you can continue providing your organization e-signature capabilities through our broader digital document platform that includes Acrobat DC and Adobe Sign Enterprise.
 

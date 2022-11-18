@@ -44,7 +44,7 @@ Add key **[!UICONTROL Document Properties]** as follows:
 
 1. Select **[!UICONTROL File > Properties]** or use the keyboard shortcut *Ctrl + D* on Windows or *Cmd + D* on Mac and select the **[!UICONTROL Description]** tab.
 1.  Enter a keyword-optimized title in the **[!UICONTROL Title:]** field.
-1.  Make sure the **[!UICONTROL Author:]** field doesn’t identify a specific individual within your organization.
+1.  Make sure the **[!UICONTROL Author:]** field doesn't identify a specific individual within your organization.
 1.  Enter a keyword-optimized summary of your document in the **[!UICONTROL Subject:]** field.
     Try beginning the summary using an action verb like Learn, Discover, Explore, etc.
 1.  Select **[!UICONTROL Additional Metadata]** to add copyright or public domain information if applicable.
@@ -117,7 +117,7 @@ The filename becomes part of the URL when a PDF is posted on the web. A good pra
 
 ## 6. Secure your PDF
 
-The last step is to protect your PDF to prevent unauthorized changes. 
+The last step is to [protect your PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} to prevent unauthorized changes. 
 
 +++View details on how to secure your PDF
 

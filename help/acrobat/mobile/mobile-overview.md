@@ -13,7 +13,7 @@ exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
-Create, fill, and sign PDFs on your mobile device.
+Create, fill, and [sign PDFs](https://www.adobe.com/acrobat/online/sign-pdf.html){target="_blank"}  on your mobile device.
 
 ## Acrobat Reader mobile app tutorials
 

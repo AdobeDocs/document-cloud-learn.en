@@ -9,7 +9,7 @@ exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
 ---
 # Protect a PDF file with a password
 
-Learn how to add a password to your PDF to protect others from opening or editing the file.
+Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} to protect others from opening or editing the file.
 
 >[!TIP]
 >
