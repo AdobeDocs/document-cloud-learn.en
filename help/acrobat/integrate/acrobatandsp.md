@@ -10,7 +10,7 @@ exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
 ---
 # Work with your [!DNL SharePoint] files
 
-Streamline document workflows with [!DNL SharePoint] and Acrobat using the [Adobe Acrobat for Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Securely convert [!DNL Microsoft 365] files to PDFs, combine documents into one file, comment, and rearrange pages — right from [!DNL SharePoint] online.
+Streamline document workflows with [!DNL SharePoint] and Acrobat using the [Adobe Acrobat for Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Securely convert [!DNL Microsoft 365] files to PDFs, [combine PDF documents](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} into one file, comment, and rearrange pages — right from [!DNL SharePoint] online.
 
 >[!NOTE]
 >

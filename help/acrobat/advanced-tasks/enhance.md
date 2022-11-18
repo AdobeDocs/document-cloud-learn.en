@@ -23,7 +23,7 @@ Samples files to practice with (ZIP, 342 KB)
 
 ## Learn to add background graphics
 
-Use the Edit tool to add background graphics to your PDF.
+Use the [Edit PDF tool](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"} to add background graphics to your PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 

@@ -81,7 +81,7 @@ Tag a PDF as follows:
 
 ## 4. Prepare for web
 
-Optimize the experience of interacting with your PDF by preparing it for web viewing and reducing the file size. 
+Optimize the experience of interacting with your PDF by preparing it for web viewing and [reducing the PDF file size](https://www.adobe.com/acrobat/online/compress-pdf.html){target="_blank"}. 
 
 +++View details on how to prepare your PDF for the web
 

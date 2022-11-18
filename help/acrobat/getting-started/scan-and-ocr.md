@@ -9,7 +9,7 @@ exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 ---
 # Scan & OCR
 
-Keep business moving forward by converting scans or images of documents into searchable, editable PDF files.
+Keep business moving forward by converting scans or images of documents into searchable, [editable PDF files](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >

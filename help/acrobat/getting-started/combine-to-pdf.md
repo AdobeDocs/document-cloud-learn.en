@@ -9,7 +9,7 @@ exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
 ---
 # Combine files into a single PDF
 
-Delivering the best customer experiences requires content to be created faster than ever before. Learn how to seamlessly combine many different types of files (PDF, Word, Excel, PowerPoint, JPEG, etc.) into a single PDF. Combining files into a single PDF allows you to manage and control content that you send to others--creating a better experience.
+Delivering the best customer experiences requires content to be created faster than ever before. Learn how to seamlessly combine many different types of files (PDF, Word, Excel, PowerPoint, JPEG, etc.) into a single PDF. [Combining files into a single PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} allows you to manage and control content that you send to others--creating a better experience.
 
 >[!TIP]
 >
