@@ -28,11 +28,11 @@ Learn how to modify your existing PDFs: edit text and images, add hyperlinks and
 
 * **[Get Started with Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target="_blank"}**
 Date: September 22, 2022
-Get up and running with Adobe Acrobat and PDFs. We'll introduce you to the Acrobat interface and show you how to: * Create PDFs from image files and documents — including Word, Excel, and PowerPoint. * Combine multiple files — PDF, Word, images, and much more — into one editable PDF. * Get work done anywhere at any time with Acrobat Web and Mobile.
+Get up and running with Adobe Acrobat and PDFs. We'll introduce you to the Acrobat interface and show you how to: * [Create PDFs from image files](https://www.adobe.com/acrobat/online/convert-pdf.html){target="_blank"} and documents — including Word, Excel, and PowerPoint. * Combine multiple files — PDF, Word, images, and much more — into one editable PDF. * Get work done anywhere at any time with Acrobat Web and Mobile.
 
 * **[PDF Security](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target="_blank"}**
 Date: August 25, 2022
-Get all the info you need on protecting your PDF content. This session will share techniques for adding passwords to prevent viewing, editing, or printing a PDF, and show you how to permanently remove sensitive information - even from non-visible metadata!
+Get all the info you need on [protecting your PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} content. This session will share techniques for adding passwords to prevent viewing, editing, or printing a PDF, and show you how to permanently remove sensitive information - even from non-visible metadata!
 
 * **[Simple Automation with Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target="_blank"}**
 Date: July 28, 2022
