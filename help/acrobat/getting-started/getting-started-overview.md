@@ -11,7 +11,7 @@ exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 
 ![Acrobat Getting Started Image](../assets/Hero-GettingStarted.png)
 
-Learn how to start using Adobe Acrobat through these brief step-by-step tutorials. From creating a document to protecting your PDF files, this content is designed to ease you into PDF workflows.
+Learn how to start using Adobe Acrobat through these brief step-by-step tutorials. From creating a document to protecting or [editing your PDF files](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, this content is designed to ease you into PDF workflows.
 
 ## Getting started tutorials
 

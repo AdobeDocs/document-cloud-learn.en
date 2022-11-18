@@ -24,11 +24,11 @@ This Skill Builder is all about digital document collaboration. Come learn the e
 
 * **[Reuse your PDF content: Edit and Export](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target="_blank"}**
 Date: October 27, 2022
-Learn how to modify your existing PDFs: edit text and images, add hyperlinks and bookmarks, convert to Microsoft Word, PowerPoint, and Excel files, and more.
+Learn how to [modify your existing PDFs](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}: edit text and images, add hyperlinks and bookmarks, convert to Microsoft Word, PowerPoint, and Excel files, and more.
 
 * **[Get Started with Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target="_blank"}**
 Date: September 22, 2022
-Get up and running with Adobe Acrobat and PDFs. We'll introduce you to the Acrobat interface and show you how to: * [Create PDFs from image files](https://www.adobe.com/acrobat/online/convert-pdf.html){target="_blank"} and documents — including Word, Excel, and PowerPoint. * Combine multiple files — PDF, Word, images, and much more — into one editable PDF. * Get work done anywhere at any time with Acrobat Web and Mobile.
+Get up and running with Adobe Acrobat and PDFs. We'll introduce you to the Acrobat interface and show you how to: * [Create PDFs from image files](https://www.adobe.com/acrobat/online/convert-pdf.html){target="_blank"} and documents — including Word, Excel, and PowerPoint. * [Combine multiple files](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} — PDF, Word, images, and much more — into one editable PDF. * Get work done anywhere at any time with Acrobat Web and Mobile.
 
 * **[PDF Security](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target="_blank"}**
 Date: August 25, 2022
