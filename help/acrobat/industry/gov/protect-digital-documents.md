@@ -9,7 +9,7 @@ exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
 ---
 # 5 Tips for working anywhere with Acrobat--Protect digital documents
 
-Add a password to your PDF to prevent copying, editing, or printing.
+[Add a password to your PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}  to prevent copying, editing, or printing.
 
 ## Tip #3 - Protect digital documents (1:23)
 

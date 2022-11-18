@@ -11,4 +11,8 @@ thumbnail: KT-10605.jpg
 
 Learn how to send regular email reminders and deadlines to help get your documents signed quickly.
 
+>[!NOTE]
+>
+>Enterprise and business plans can selectively expose the Reminder option during the sending process or enable account/group-wide automation.
+
 >[!VIDEO](https://video.tv.adobe.com/v/3411445?hidetitle=true)
