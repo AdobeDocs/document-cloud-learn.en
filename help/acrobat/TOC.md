@@ -82,6 +82,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Work with your [!DNL SharePoint] files](integrate/acrobatandsp.md)
   + [Convert email messages and attachments to PDF in [!DNL Outlook]](integrate/outlook.md)
   + [Create PDF content while browsing with [!DNL Microsoft Edge]](integrate/edge.md)
+  + [Protect PDFs using [!DNL Microsoft Purview Information] sensitivity labels](integrate/microsoftsensitivitylabels.md)
   + [Adobe Acrobat for [!DNL Google Drive]](integrate/acrobatandgoogle.md)
   + [Work with files from [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Industries and departments {#by-industry}
