@@ -83,8 +83,13 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="microsoftsensitivitylabels.md">
+      <img alt="Create PDF content while browsing with [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+    </a>
     <div>
+    <a href="microsoftsensitivitylabels.md"><strong>Protect PDFs using [!DNL Microsoft Purview Information] sensitivity labels</strong></a>
+    </div>
+    <em>Learn how to protect PDFs by adding, editing, customizing, and deleting [!DNL Microsoft Purview] sensitivity Labels directly in Acrobat</em>
     <br>
   </td>
   <td>
