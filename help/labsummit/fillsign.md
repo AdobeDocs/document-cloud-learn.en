@@ -24,7 +24,7 @@ Here are the [demo files](assets/03_FillSignScan.zip) for this exercise.
 
 **Step 4:** Use the white button to take a picture, and then tap **[!UICONTROL Use Photo]**. Tap **[!UICONTROL Done]** in the upper right corner.
 
-**Step 5:** At the bottom of the app, tap the **[!UICONTROL Crop]** tool and use the guides to crop the image. Tap **[!UICONTROL Done]** when finished.
+**Step 5:** At the bottom of the app, tap the **[!UICONTROL Crop]** tool and use the guides to [crop the image](https://www.adobe.com/acrobat/online/crop-pdf.html). Tap **[!UICONTROL Done]** when finished.
 
 ![local doc image](assets/localdoc.jpg)
 

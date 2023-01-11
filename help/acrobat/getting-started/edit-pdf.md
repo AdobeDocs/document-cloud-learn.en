@@ -9,7 +9,7 @@ exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
 ---
 # Edit a PDF
 
-Learn how to [edit text and images in PDF files](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}. Click or tap to add a new paragraph, fix a typo, or rearrange PDF pages. You can even add images or crop a photo.
+Learn how to [edit text and images in PDF files](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}. Click or tap to add a new paragraph or fix a typo. You can even add images [or crop a photo](https://www.adobe.com/acrobat/online/crop-pdf.html).
 
 >[!TIP]
 >
