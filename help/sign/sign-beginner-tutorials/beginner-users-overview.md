@@ -36,10 +36,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
   </td>
   <td>
     <a href="new-sender.md">
-      <img alt="Getting started with Acrobat Sign for new senders" src="../assets/gettingstartednew.png" />
+      <img alt="Getting started with Acrobat Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Getting started with Acrobat Sign for new senders</strong></a>
+    <a href="new-sender.md"><strong>Getting started with Acrobat Sign</strong></a>
     </div>
     <em>This comprehensive tutorial is a great place to start for new senders in Acrobat Sign</em>
     <br>

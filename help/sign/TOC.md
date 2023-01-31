@@ -17,7 +17,7 @@ breadcrumb-title: Acrobat Sign Tutorials
   + [Overview](sign-beginner-tutorials/beginner-users-overview.md)
   + Sending {#getting-started-sending}
     + [Workspace basics](sign-beginner-tutorials/quick-tour.md)
-    +  [Getting started with Acrobat Sign for new senders](sign-beginner-tutorials/new-sender.md)
+    +  [Getting started with Acrobat Sign](sign-beginner-tutorials/new-sender.md)
     + [Sending to a single recipient](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Sending to multiple recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
     + [Adding fields to your documents](sign-beginner-tutorials/adding-fields.md)
