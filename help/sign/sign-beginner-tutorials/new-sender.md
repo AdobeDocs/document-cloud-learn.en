@@ -32,34 +32,34 @@ This detailed tutorial covers the following topics:
         <em>Start at 0:00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
       <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>Home page</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>Home page</strong></a>
          <br>
-        <em>Start at 0:54</em>
+        <em>Start at 0:55</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
       <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>Set up your profile</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>Set up your profile</strong></a>
         <br>
-        <em>Start at 2:32</em>
+        <em>Start at 2:33</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
       <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>Send settings</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>Send settings</strong></a>
         <br>
-        <em>Start at 4:31</em>
+        <em>Start at 4:32</em>
     </td>
   </tr>
   <tr>
@@ -74,24 +74,24 @@ This detailed tutorial covers the following topics:
         <em>Start at 8:22</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
       <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>Signing experience</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>Signing experience</strong></a>
         <br>
-        <em>Start at 11:58</em>
+        <em>Start at 11:59</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
       <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>Manage and track documents</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>Manage and track documents</strong></a>
         <br>
-        <em>Start at 12:53</em>
+        <em>Start at 12:54</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
