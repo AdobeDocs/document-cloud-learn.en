@@ -16,6 +16,38 @@ Acrobat Sign Skill Builders are 30-minute sessions designed to put your e-signat
 
 ## Monthly sessions
 
+* **[Advanced Reporting for Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
+Date: June 22, 2023
+Learn about the analytics and reports available in Acrobat Sign - and see how you can view data to help deliver the insights you need to drive your business forward.
+
+* **[Acrobat Sign 101: Get Started with Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
+Date: May 18, 2023
+Join us to learn about the basics of e-signatures: how to get a document signed electronically with Acrobat Sign, what your signer will see, and how to track the progress of sent agreements.
+
+* **[Advanced Training on Authoring Environment](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
+Date: April 20, 2023
+Take a deeper dive into the options available in the Acrobat Sign Authoring Environment. Topics covered include:
+
+* Overview of preparing your Acrobat Sign document templates using Acrobat, text tagging and the Acrobat Sign Authoring Environment.
+* Deep dive into the Authoring Environment, covering cloning vs. copying fields, adding specialty fields, assigning fields, and setting up conditional and calculation fields.
+* How to send your templates for signature, comparing the document template vs. form field template.
+
+* **[Post a Fillable, Signable Web Form](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
+Date: March 16, 2023
+Learn how to create a web form allowing anyone to complete and sign — without you needing to initiate the transaction or even know the email address of the signer. You'll also see how to prepare a document template that can be used for individual signature transactions, as well as for posting to a unique URL for broad sharing.
+
+* **[Collect Many Signatures in One Click](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/552e5165-8762-4c73-9d41-8215d48a62cc/9d88acde-96fa-4d83-89e3-1296b94f4d90){target="_blank"}**
+Date: February 16, 2023
+Learn how the Send in Bulk feature in Acrobat Sign can save you time. If you need to need multiple individuals to sign unique copies of an enterprise-wide policy update, an NDA or any other document, Send in Bulk allows you to prepare the file once, send to multiple signers with one click and easily track responses.
+
+* **[Prepare Your Agreements for e-signature](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
+Date: January 19, 2023
+Learn about three easy ways to set up your documents for e-signature. Whether they're PDFs, Microsoft 365 files, or even a simple image file, this session will give you the tools you need to get that document signed. We'll cover three methods:
+
+* Adobe Acrobat Sign's simple drag-and-drop authoring environment
+* Set up a PDF form in Adobe Acrobat
+* Use text tags for speedy document authoring
+
 * **[Work with e-signatures in your Microsoft apps](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 Date: December 8, 2022
 Expand the way you use your Microsoft apps like Word, Outlook, and Sharepoint by adding Adobe Acrobat Sign to your existing workflows. This session will teach you how to start streamlining document processes in common Microsoft apps so you don't need to context switch just to get a signature or check a status.
@@ -34,32 +66,8 @@ Calling all Acrobat Sign administrators and end users/individual contributors. T
 
 * **[Document Builder for Acrobat Sign in Salesforce](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/06d8a836-4b51-426b-913e-189b23a82bd6/8b777e11-0e6d-45a8-b954-bbff5c887efc){target="_blank"}**
 Date: August 18, 2022
-Join us as we review the latest add-in for Adobe Acrobat Sign for Salesforce – Document Builder. Instead of using static document templates, this new solution allows you to dynamically generate a document using Salesforce data prior to sending for signature, making a once cumbersome process more simplistic and streamlined. We’ll walk through the step-by-step process of configuring Document Builder for Acrobat Sign which will be sure to help save you time and effort. A live Q&A will follow the demo.
+Join us as we review the latest add-in for Adobe Acrobat Sign for Salesforce – Document Builder. Instead of using static document templates, this new solution allows you to dynamically generate a document using Salesforce data prior to sending for signature, making a once cumbersome process more simplistic and streamlined. We'll walk through the step-by-step process of configuring Document Builder for Acrobat Sign which will be sure to help save you time and effort. A live Q&A will follow the demo.
 
 * **[Advanced Reporting for Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target="_blank"}**
 Date: July 14, 2022
 Learn about the analytics and reports available in Acrobat Sign - and see how you can view data to help deliver the insights you need to drive your business forward.
-
-* **[Adobe Acrobat Sign 101: Get Started with Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4499bc28-9f26-4b68-88a6-3815ebdff7cf/337fa9d6-c9d3-4bcc-b6d8-9c7580b9be40){target="_blank"}**
-Date: June 16, 2022
-Join us to learn about the basics of e-signatures: how to get a document signed electronically with Adobe Acrobat Sign, what your signer will see, and how to track the progress of sent agreements.
-
-* **[Advanced Training on Authoring Environment](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/a51b7ffa-ccf1-41f7-a82c-27bf50d8eb5d/22ee6c72-b92e-43f8-9cc6-c177c9244fea){target="_blank"}**
-Date: May 19, 2022
-Take a deeper dive into the options available in the Acrobat Sign Authoring Environment. Topics covered include: - Overview of preparing your Acrobat Sign document templates using Acrobat, text tagging and the Acrobat Sign Authoring Environment. - Deep dive into the Authoring Environment, covering cloning vs. copying fields, adding specialty fields, assigning fields, and setting up conditional and calculation fields. - How to send your templates for signature, comparing the document template vs. form field template.
-
-* **[Post a fillable, signable web form](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/479894a1-131f-411d-b4c8-f699d72413bb/30619f65-b374-40db-85d1-0854dc48af0d){target="_blank"}**
-Date: April 14, 2022
-Learn how to create a web form allowing anyone to complete and sign — without you needing to initiate the transaction or even know the email address of the signer. You'll also see how to prepare a document template that can be used for individual signature transactions, as well as for posting to a unique URL for broad sharing.
-
-* **[Collect Many Signatures in One Click](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/44e4b483-7d05-44b3-b7e7-b265c9b84d07/2736bed0-b416-4578-ac3f-a57491f22c26){target="_blank"}**
-Date: March 17, 2022
-Adobe Acrobat Sign's Send in Bulk feature lets you send a single document to hundreds of signers. When you need multiple individuals to sign unique copies of the same NDA, release form, enterprise-wide policy update, or any other single-signer document, you'll save time by preparing the file once and automatically collecting individual responses.
-
-* **[Prepare Your Agreements for e-Signature](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9024b058-ade1-420f-87f0-68bd5f6d527a/cf8b172f-b9df-41ef-bfce-e6d4b0c3ddf4){target="_blank"}**
-Date: February 17, 2022
-Learn about three easy ways to set up your documents for e-signature. Whether they're PDFs, Microsoft 365 files, or even a simple image file, this session will give you the tools you need to get that document signed. We'll cover three methods: - Acrobat Sign's simple drag-and-drop authoring environment - Set up a PDF form in Adobe Acrobat - Use text tags for speedy document authoring.
-
-* **[Work with e-signatures in your Microsoft apps](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/2dcd80a6-6335-4756-bbc8-3505fe99594b/866c4314-dc74-473b-9859-828801814e13){target="_blank"}**
-Date: January 20, 2022
-Expand the way you use your Microsoft apps like Word, Outlook, and Sharepoint by adding Acrobat Sign to your existing workflows. This session will teach you how to start streamlining document processes in common Microsoft apps so you don't need to context switch just to get a signature or check a status.
