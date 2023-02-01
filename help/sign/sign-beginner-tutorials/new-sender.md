@@ -32,14 +32,14 @@ This detailed tutorial covers the following topics:
         <em>Start at 0:00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
       <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>Home page</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56"><strong>Home page</strong></a>
          <br>
-        <em>Start at 0:55</em>
+        <em>Start at 0:56</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
@@ -71,7 +71,7 @@ This detailed tutorial covers the following topics:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>Add fillable fields</strong></a>
          <br>
-        <em>Start at 8:22</em>
+        <em>Start at 9:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
