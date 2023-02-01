@@ -11,10 +11,99 @@ exl-id: d4309ad3-003a-4415-9845-8919006c7567
 ---
 # Getting started with Acrobat Sign
 
-Are you new to using Acrobat Sign? This tutorial is a great place to start because it focuses on all the basics to get you up and running quickly with Acrobat Sign.
+Are you new to using Acrobat Sign? This comprehensive tutorial is a great place to start because it focuses on all the basics to get you up and running quickly with Acrobat Sign.
 
 >[!NOTE]
 >
 >This tutorial is specifically for business- and enterprise-level plans.
+
+This detailed tutorial covers the following topics:
+
+<table style="table-layout:auto">
+<tr>
+  <td>
+    <a href="https://video.tv.adobe.com/v/337151?hidetitle=true">
+      <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151?hidetitle=true"><strong>Sign in</strong></a>
+         <br>
+        <em>Start at 0:00</em>
+    </td>
+     <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+      <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>Home page</strong></a>
+         <br>
+        <em>Start at 0:54</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+      <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>Set up your profile</strong></a>
+        <br>
+        <em>Start at 2:32</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+      <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>Send settings</strong></a>
+        <br>
+        <em>Start at 4:31</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551">
+      <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>Add fillable fields</strong></a>
+         <br>
+        <em>Start at 8:22</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+      <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>Signing experience</strong></a>
+        <br>
+        <em>Start at 11:58</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+      <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>Manage and track documents</strong></a>
+        <br>
+        <em>Start at 12:53</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
+      <img alt="Fast forward image" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898"><strong>Support and resources</strong></a>
+        <br>
+        <em>Start at 14:58</em>
+    </td>
+  </tr>
+  </table>
 
 >[!VIDEO](https://video.tv.adobe.com/v/337151?hidetitle=true)
