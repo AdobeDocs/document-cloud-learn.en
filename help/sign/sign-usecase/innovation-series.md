@@ -28,9 +28,9 @@ Join us to learn about the basics of e-signatures: how to get a document signed 
 Date: April 20, 2023
 Take a deeper dive into the options available in the Acrobat Sign Authoring Environment. Topics covered include:
 
-    * Overview of preparing your Acrobat Sign document templates using Acrobat, text tagging and the Acrobat Sign Authoring Environment.
-    * Deep dive into the Authoring Environment, covering cloning vs. copying fields, adding specialty fields, assigning fields, and setting up conditional and calculation fields.
-    * How to send your templates for signature, comparing the document template vs. form field template.
+* Overview of preparing your Acrobat Sign document templates using Acrobat, text tagging and the Acrobat Sign Authoring Environment.
+* Deep dive into the Authoring Environment, covering cloning vs. copying fields, adding specialty fields, assigning fields, and setting up conditional and calculation fields.
+* How to send your templates for signature, comparing the document template vs. form field template.
 
 **[Post a Fillable, Signable Web Form](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 Date: March 16, 2023
@@ -44,9 +44,9 @@ Learn how the Send in Bulk feature in Acrobat Sign can save you time. If you nee
 Date: January 19, 2023
 Learn about three easy ways to set up your documents for e-signature. Whether they're PDFs, Microsoft 365 files, or even a simple image file, this session will give you the tools you need to get that document signed. We'll cover three methods:
 
-    * Adobe Acrobat Sign's simple drag-and-drop authoring environment
-    * Set up a PDF form in Adobe Acrobat
-    * Use text tags for speedy document authoring
+* Adobe Acrobat Sign's simple drag-and-drop authoring environment
+* Set up a PDF form in Adobe Acrobat
+* Use text tags for speedy document authoring
 
 **[Work with e-signatures in your Microsoft apps](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 Date: December 8, 2022
