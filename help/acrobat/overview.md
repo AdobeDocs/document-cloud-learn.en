@@ -38,11 +38,11 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
     <br>
   </td>
   <td>
-    <a href="skill-builder/skill-builder-overview.md">
+    <a href="skill-builder/skill-builder-webinars.md">
       <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="skill-builder/skill-builder-overview.md"><strong>Skill Builders</strong></a>
+    <a href="skill-builder/skill-builder-webinars.md"><strong>Skill Builder webinars</strong></a>
     </div>
     <em>Task-based tips to help you go digital, stay digital, and get work done</em>
     <br>
