@@ -72,7 +72,6 @@ breadcrumb-title: Acrobat Tutorials
   + [Edit a graphic in your PDF](60-second/editgraphic.md)
   + [Organize pages in a snap](60-second/organize.md)
 + Skill Builders {#skill-builders}
-  + [Overview](skill-builder/skill-builder-overview.md)
   + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integrations {#integrations}
   + [Overview](integrate/integrate-overview.md)
