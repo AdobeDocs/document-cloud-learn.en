@@ -5,6 +5,7 @@ role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
+exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
 ---
 # Send documents for notarization
 
@@ -19,5 +20,3 @@ Adobe Acrobat Sign has partnered with Notarize, Inc. to provide online notarizat
 >[!TIP]
 >
 >When notarization is enabled for an Acrobat Sign account, the sender can select **Requires notarization** by selecting the ellipsis on the right side of the recipient record. The notarization option is only available for recipients with a Signer role.
-
-
