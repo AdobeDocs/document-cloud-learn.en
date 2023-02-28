@@ -20,7 +20,7 @@ You can use Acrobat Sign inside other applications your organization already use
 ## What's new
 
 * [Send documents for notarization](send-document-notarize.md)
-  In this three-part tutorial, learn how to send a document for notarization, view the signer's experience with Notary, and receive the results
+  In this three-part tutorial, learn how to send a document for notarization, view the signer's experience, and receive the results
 * [Auto archive files in SharePoint with Power Automate](auto-archive-sharepoint-power-automate.md)
   Learn how to automatically archive signed documents to a SharePoint library using Power Automate
 
