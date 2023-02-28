@@ -103,6 +103,38 @@ You can use Acrobat Sign inside other applications your organization already use
 </tr>
 </table>
 
+## [!DNL Notarize] integration tutorials
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="Send documents for notarization" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>Send documents for notarization</strong></a>
+    </div>
+    <em>Learn how to send a document for notarization</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## Salesforce integrations tutorials
 
 <table style="table-layout:fixed">
