@@ -8,7 +8,7 @@ topic-revisit: Integrations
 ---
 # Send documents for notarization
 
-Adobe Acrobat Sign has partnered with Notarize, Inc. to provide online notarization services. In this three-part tutorial, learn how to send a document for notarization, view the signer's experience with Notary, and receiving the results.
+Adobe Acrobat Sign has partnered with Notarize, Inc. to provide online notarization services. In this three-part tutorial, learn how to send a document for notarization, view the signer's experience with Notary, and receive the results.
 
 >[!NOTE]
 >
