@@ -19,10 +19,10 @@ You can use Acrobat Sign inside other applications your organization already use
 
 ## What's new
 
+* [Send documents for notarization](send-document-notarize.md)
+  Learn how to automatically archive signed documents to a SharePoint library using Power Automate
 * [Auto archive files in SharePoint with Power Automate](auto-archive-sharepoint-power-automate.md)
   Learn how to automatically archive signed documents to a SharePoint library using Power Automate
-* [Document Builder for Salesforce](create-an-agreement-template.md)
-  Learn how to create a reusable document template using Document Builder for Salesforce
 
 ## Microsoft integrations tutorials
 
