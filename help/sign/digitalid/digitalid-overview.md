@@ -59,24 +59,19 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 
 <table style="table-layout:fixed">
 <tr>
- <td>
-    <a href="digidentity-reg.md">
-      <img alt="Get a digital ID from [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
+  <td>
+    <a href="digidentity-sign.md">
+      <img alt="Register and sign using a [!DNL Digidentity] digital ID" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>Get a digital ID from [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>Register and sign using a [!DNL Digidentity] digital ID</strong></a>
     </div>
-    <em>Learn how to obtain a digital signing certificate from [!DNL Digidentity]</em>
+    <em>Learn how to register and use your [!DNL Digidentity] digital ID with Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <a href="digidentity-sign.md">
-      <img alt="Signing using [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="digidentity-sign.md"><strong>Signing using [!DNL Digidentity]</strong></a>
-    </div>
-    <em>Learn how to use your [!DNL Digidentity] digital ID with Acrobat Sign</em>
     <br>
   </td>
   <td>
