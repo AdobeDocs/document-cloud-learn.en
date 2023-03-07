@@ -64,7 +64,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
       <img alt="Register and sign using a [!DNL Digidentity] digital ID" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>Register and sign using a [!DNL Digidentity] digital ID</strong></a>
+    <a href="digidentity-sign.md"><strong>Register and sign using [!DNL Digidentity]</strong></a>
     </div>
     <em>Learn how to register and use your [!DNL Digidentity] digital ID with Acrobat Sign</em>
     <br>

@@ -1,5 +1,5 @@
 ---
-title: Register and sign using a [!DNL Digidentity] digital ID
+title: Register and sign using [!DNL Digidentity]
 description: Learn how to register and use your [!DNL Digidentity] digital ID with Acrobat Sign
 role: User
 product: adobe sign
@@ -9,7 +9,7 @@ thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
 ---
-# Register and sign using a [!DNL Digidentity] digital ID
+# Register and sign using [!DNL Digidentity]
 
 Digidentity is an EU qualified trust service provider (QTSP). Digidentity identification and onboarding process relies on the Digidentity mobile app and requires use of an identity document with an embedded NFC chip as well as an NFC-compatible mobile device. The Digidentity process is completely self-service and is available 24/7/365, with no "human in the loop". In most cases, takes as little as 5-10 minutes to complete registration.
 
