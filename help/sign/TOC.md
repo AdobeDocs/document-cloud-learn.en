@@ -77,7 +77,7 @@ breadcrumb-title: Acrobat Sign Tutorials
   + Aadhaar {#aadhaar}
     + [Signing using Aadhaar](digitalid/aadhaar-sign.md)
   + Digidentity {#digidentity}
-    + [Register and sign using a [!DNL Digidentity] digital ID](digitalid/digidentity-sign.md)
+    + [Register and sign using [!DNL Digidentity]](digitalid/digidentity-sign.md)
   + D-Trust {#dtrust}
     + [Register and sign using [!DNL D-Trust]](digitalid/d-trust.md)
   + Intesi Group {#intesi}
