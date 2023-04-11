@@ -13,6 +13,6 @@ exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
 
 ## Tip #3 - Protect digital documents (1:23)
 
->[!VIDEO](https://video.tv.adobe.com/v/34510?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34510?quality=12&learn=on&hidetitle=true)
 
 [Go to Tip #4 - Work with forms and signatures](work-with-forms-and-signatures.md)

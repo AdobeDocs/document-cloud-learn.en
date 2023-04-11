@@ -13,4 +13,4 @@ exl-id: 25de7921-6ca4-413f-8172-083619b3aad5
 
 Learn how to open, create, edit, sign, and save changes to your [!DNL Dropbox] files from inside Acrobat. Connecting your Dropbox account to Acrobat is a true time saver--keeping all your files at your fingertips.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409411?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

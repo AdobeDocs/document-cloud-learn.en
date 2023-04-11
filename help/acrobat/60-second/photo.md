@@ -12,4 +12,4 @@ exl-id: 598c9008-5c8a-46e5-86af-d814e8060e3a
 
 In this 60-second video tutorial, learn how to drag-and-drop a bunch of JPGs onto the Acrobat icon. Click yes to creating a multi-page PDF. Then, you can simply drag more JPG files into the Pages panel to [add additional pages to the PDF](https://www.adobe.com/acrobat/online/add-pages-to-pdf.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/336365?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)

@@ -17,7 +17,7 @@ Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/p
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -12,7 +12,7 @@ exl-id: ad4f5d43-ab6a-4d2d-92d6-8b51198fa0e5
 
 Learn how to track the progress of an agreement directly within Microsoft SharePoint. After sending out a document for signature, you can track its status without ever leaving SharePoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

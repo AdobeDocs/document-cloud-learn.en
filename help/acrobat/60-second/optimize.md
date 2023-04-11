@@ -16,4 +16,4 @@ exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
 
 In this 60-second video tutorial, learn how to use the Optimize PDF tool to significantly reduce the size of your PDF files.
 
->[!VIDEO](https://video.tv.adobe.com/v/340077?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)

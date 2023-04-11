@@ -14,6 +14,6 @@ In the first video tutorial in the Making PDFs Accessible series, learn what it 
 
 ## Part 1 - Understanding Accessibility (6:42)
 
->[!VIDEO](https://video.tv.adobe.com/v/34540?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34540?quality=12&learn=on&hidetitle=true)
 
 [Go to Part 2 - Authoring in [!DNL Microsoft Word]](authoring-in-word.md)

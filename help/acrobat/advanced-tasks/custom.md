@@ -16,4 +16,4 @@ Learn how to improve document workflow productivity by using custom commands and
 >
 >Custom commands are available in Acrobat Pro only.
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)

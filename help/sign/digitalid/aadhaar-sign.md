@@ -12,4 +12,4 @@ exl-id: f899c636-5041-4037-bc73-5fd272d2c24b
 
 Learn how to use your [!DNL Aadhaar] digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document in Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)

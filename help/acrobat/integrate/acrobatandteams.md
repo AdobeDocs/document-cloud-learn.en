@@ -24,7 +24,7 @@ Adobe Acrobat for Teams allows users to collaborate and work with colleagues by 
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

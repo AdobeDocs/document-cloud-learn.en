@@ -18,4 +18,4 @@ In the third video tutorial in the Making PDFs Accessible series, learn how to f
 
 ## Part 3 - Finishing in Acrobat (4:37)
 
->[!VIDEO](https://video.tv.adobe.com/v/34514?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34514?quality=12&learn=on&hidetitle=true)

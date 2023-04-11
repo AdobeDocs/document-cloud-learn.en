@@ -16,7 +16,7 @@ Learn how to set up advanced account sharing--allowing admins and users to deleg
 >
 >Advanced Account Sharing is only available for Enterprise-level plans. Technical Support can enable Advanced Sharing but once it is enabled, it changes the relationships of the shared objects in a way that cannot be reversed. For this reason, it is recommended that you contact your Adobe Account Team and have a trial account set up for you to test the functionality and verify it permits everything that you want to accomplish.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

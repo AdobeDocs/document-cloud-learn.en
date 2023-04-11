@@ -31,7 +31,7 @@ Use the Prepare Form tool to automatically add form fields to an existing PDF.
 
  <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br>&nbsp;
 

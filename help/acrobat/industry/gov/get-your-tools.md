@@ -13,6 +13,6 @@ The first step to start working from anywhere is to get your Acrobat tools and c
 
 ## Tip #1 - Get your tools (2:59)
 
->[!VIDEO](https://video.tv.adobe.com/v/34290?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34290?quality=12&learn=on&hidetitle=true)
 
 [Go to Tip #2 - Collaborate on documents](collaborate-on-documents.md)

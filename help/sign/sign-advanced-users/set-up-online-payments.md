@@ -12,4 +12,4 @@ exl-id: 1924193d-99f7-4168-ac29-4dee458536c2
 
 Learn how to set up and accept online payments in your documents. The Online Payment service in Acrobat Sign integrates [!DNL Braintree] as a payment gateway tied to the signature process.
 
->[!VIDEO](https://video.tv.adobe.com/v/345753?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/345753?quality=12&learn=on&hidetitle=true)

@@ -16,4 +16,4 @@ Whether your document comes from a camera or scanner, learn how to enhance the r
 >
 >If you have Acrobat Pro, run Optimize Scanned Documents in the Action Wizard tool to automate this process.
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)

@@ -15,7 +15,7 @@ Adobe Acrobat Sign has partnered with Notarize, Inc. to provide online notarizat
 >
 >The Acrobat Sign integration with [!DNL Notarize] Inc.'s online notarization service is only available for use in the US with business- and enterprise-level service plans.
 
->[!VIDEO](https://video.tv.adobe.com/v/341029?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -16,4 +16,4 @@ Learn how to set up the signing order for multiple signers. Send a document in s
 >
 >Hybrid routing is only available for enterprise-level plans. Your Acrobat Sign administrator may need to enable these features in the Send Settings section of the Account Settings. 
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)

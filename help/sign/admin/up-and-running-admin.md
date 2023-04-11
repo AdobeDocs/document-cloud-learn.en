@@ -15,7 +15,7 @@ Learn the seven key areas that administrators should focus on to get up & runnin
 >
 >Reporting is only available for business- and enterprise-level plans.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

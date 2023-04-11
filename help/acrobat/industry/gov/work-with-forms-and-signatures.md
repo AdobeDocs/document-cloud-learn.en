@@ -13,6 +13,6 @@ Everyone at some point needs to [fill out forms](https://www.adobe.com/acrobat/o
 
 ## Tip #4 - Work with forms and signatures (7:03)
 
->[!VIDEO](https://video.tv.adobe.com/v/34512?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34512?quality=12&learn=on&hidetitle=true)
 
 [Go to Tip #5 - Scan and edit on mobile](scan-and-edit-on-mobile.md)

@@ -11,4 +11,4 @@ exl-id: 7486a89c-2c60-42a6-8ab2-2878c42f9eda
 
 Learn how to get and use the tools in Acrobat and its companion mobile apps to work from anywhere.
 
->[!VIDEO](https://video.tv.adobe.com/v/34200?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34200?quality=12&learn=on&hidetitle=true)

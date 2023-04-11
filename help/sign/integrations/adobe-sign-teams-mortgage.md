@@ -13,7 +13,7 @@ exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
 
 Learn how to send agreements for signature, check the status of agreements, and send reminders all from within [!DNL Microsoft Teams]. This example walks through a mortgage broker sending out a loan application for signature directly within Teams. This tight integration accelerates the mortgage loan process—even when working with mortgage applicants in a remote work environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

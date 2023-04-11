@@ -12,4 +12,4 @@ exl-id: e7680e55-d95d-413a-bb2b-2ee6416b7b99
 
 Learn how Liquid Mode improves the mobile signing experience. No more pinching and zooming while trying to read and sign documents. This tutorial explains how you can send an _HTML form_ out for signature, and automatically create an enhanced signing experience for mobile users.
 
->[!VIDEO](https://video.tv.adobe.com/v/333803?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)

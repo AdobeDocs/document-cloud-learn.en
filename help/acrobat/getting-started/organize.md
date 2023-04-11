@@ -17,4 +17,4 @@ Delivering the best customer experiences requires content to be created faster t
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)

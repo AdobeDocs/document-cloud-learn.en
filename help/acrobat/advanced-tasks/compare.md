@@ -16,7 +16,7 @@ Never make the mistake of working with the wrong version of a file. Quickly and 
 >
 >Available in Acrobat Pro only.
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

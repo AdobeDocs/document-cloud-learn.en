@@ -15,4 +15,4 @@ Digidentity is an EU qualified trust service provider (QTSP). The Digidentity id
 
 This video tutorial details the user journey from receipt of the registration invitation email to using a digital ID to authenticate and apply a cloud signature in Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)

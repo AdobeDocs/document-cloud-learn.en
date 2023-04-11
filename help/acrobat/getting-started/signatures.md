@@ -16,7 +16,7 @@ Keep business moving by collecting legally binding [e-signatures](https://www.ad
 >
 >You must have an Acrobat Sign Enterprise entitlement in addition to your Acrobat Enterprise subscription.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -12,7 +12,7 @@ exl-id: a914d230-da29-4278-9189-77e3a2486ae8
 
 Take a quick video tour of the Acrobat Sign workspace to get up and running.
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -17,4 +17,4 @@ Learn how to [create PDFs from all different types of documents](https://www.ado
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35491?quality=12&learn=on&hidetitle=true)

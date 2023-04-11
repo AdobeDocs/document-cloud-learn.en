@@ -18,7 +18,7 @@ Learn how to create rich, robust PDF files with hyperlinked table of contents an
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331736?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

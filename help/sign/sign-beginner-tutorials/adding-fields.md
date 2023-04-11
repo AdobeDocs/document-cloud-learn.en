@@ -12,4 +12,4 @@ exl-id: 1a736446-ae0d-45c0-b253-666bcef1559c
 
 Learn how to automatically place fields on your document or use the drag and drop authoring environment inside Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)

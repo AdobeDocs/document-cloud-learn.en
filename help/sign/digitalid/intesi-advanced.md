@@ -13,7 +13,7 @@ exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
 
 Learn how to obtain an Advanced digital signing certificate from [!DNL Intesi Group]. Once registered and your identity is verified, [!DNL Intesi Group] issues you with a digital ID that is used to apply an Acrobat Sign cloud signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
 
 <br>&nbsp;
 

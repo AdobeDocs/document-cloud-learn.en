@@ -12,7 +12,7 @@ exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763
 
 Learn how to streamline document workflows by filling out and signing a form directly within [!DNL Microsoft Outlook].
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

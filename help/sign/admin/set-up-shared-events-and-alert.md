@@ -11,4 +11,4 @@ exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb
 
 Learn about shared events and alert settings that you can configure in Acrobat Sign. Alerts are actions that did not take place in a certain time frame, and Events are actions that have taken place.
 
->[!VIDEO](https://video.tv.adobe.com/v/343589?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343589?quality=12&learn=on&hidetitle=true)

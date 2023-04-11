@@ -12,7 +12,7 @@ exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
 
 The Global Settings section of the Account tab is one of the more feature-rich sections, and all the settings are use-case specific. Learn how to edit settings globally for your entire organization or for specific groups.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

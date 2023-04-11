@@ -12,4 +12,4 @@ exl-id: 47f3b483-106e-48d9-b554-ad9a87e51a7e
 
 Learn how to merge data from Salesforce directly into an Acrobat Sign document.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409412?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409412?quality=12&learn=on&hidetitle=true)

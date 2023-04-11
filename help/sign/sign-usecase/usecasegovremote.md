@@ -12,7 +12,7 @@ exl-id: d7a8322b-f7fd-454d-a74b-c5ff1c9839a8
 
 Use e-signatures and web conferencing together to reduce the time it takes to request and secure warrants from judges.
 
->[!VIDEO](https://video.tv.adobe.com/v/33813?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33813?quality=12&learn=on&hidetitle=true)
 
 Click to download step-by-step PDF recipe for remote warrant request.
 

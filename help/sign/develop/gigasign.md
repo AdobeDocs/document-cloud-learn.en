@@ -12,7 +12,7 @@ exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
 
 Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. It is designed for high-volume communications with your employees and customers--supporting up to 2,500 recipients with each bulk send. GigaSign uses the Acrobat Sign API to provide the same functionality as MegaSign, and includes support for multiple signers, recipient groups, recipient roles, agreement names, carbon copy, and more. 
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Download and install the GigaSign app
 
@@ -28,9 +28,9 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 1. Click **[!UICONTROL Group]** or **[!UICONTROL Account]**, whichever you see at the top.
 
-1. Type “Access tokens” in the search field on the left side of the screen.
+1. Type "Access tokens" in the search field on the left side of the screen.
 
-1. Press the “+” icon on the right side.
+1. Press the "+" icon on the right side.
 
 1. Create a key with the scopes needed (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read).
 

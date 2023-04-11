@@ -19,7 +19,7 @@ Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] 
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337482?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

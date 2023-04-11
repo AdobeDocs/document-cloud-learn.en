@@ -11,7 +11,7 @@ exl-id: 4f752512-a06f-4fc2-a554-30889f96c7d3
 
 Learn how to turn any paper document into a PDF using the free Adobe Scan mobile app.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
 
 ![QR code](../assets/Scanqrcode.jpg)
 

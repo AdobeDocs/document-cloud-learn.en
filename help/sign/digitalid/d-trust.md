@@ -12,4 +12,4 @@ exl-id: 091ccb98-4db2-4ea9-8bf0-d585fcdfd9a0
 
 Learn how to register your identity with [!DNL D-Trust], and then use the [!DNL D-Trust] digital signature on a document in Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410193?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

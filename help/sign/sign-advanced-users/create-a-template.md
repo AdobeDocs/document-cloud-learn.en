@@ -12,7 +12,7 @@ exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda
 
 Learn how to create a reusable document template and add it to your Acrobat Sign library for future use. Document Templates provide speed and consistency in your sign transactions and the ability to manage document revisions and changes.
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

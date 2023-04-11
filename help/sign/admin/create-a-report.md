@@ -14,7 +14,7 @@ Learn how to build, save, and manage your own custom reports and data exports in
 >
 >Reporting is only available for business- and enterprise-level plans.
 
->[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
