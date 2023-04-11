@@ -16,4 +16,4 @@ Learn how to replace a signer--like when the wrong email was used when sending a
 >
 >The default setting for Replace Recipient is to fully replace the current recipient with a new recipient. Business- and Enterprise-level plans have additional options available.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)

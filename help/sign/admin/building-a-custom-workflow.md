@@ -20,7 +20,7 @@ Check out these additional real-world use cases:
 >
 >Group administrators can assign workflows to any group that they administer (not only their primary group). Group administrators can also edit any workflow assigned to any group they administer.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

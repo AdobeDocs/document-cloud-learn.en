@@ -12,7 +12,7 @@ exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
 
 Learn how to manage and track documents sent for signature in Acrobat Sign. Get real-time status updates and notifications for every document you sign or send for signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

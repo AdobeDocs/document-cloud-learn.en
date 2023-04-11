@@ -23,7 +23,7 @@ Learn how to send an email reminder from Marketo for unsigned agreements. This i
 
     Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

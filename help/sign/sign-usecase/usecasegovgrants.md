@@ -12,7 +12,7 @@ exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
 
 Give fast assistance to businesses by providing self-serve access to grant, loan, and tax deferral request forms. Learn how to create an online web form that can be completed **and** signed without printing or mailing anything.
 
->[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 Click to download step-by-step PDF recipe for business grants and loans.
 

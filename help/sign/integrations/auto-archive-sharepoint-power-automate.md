@@ -12,4 +12,4 @@ exl-id: fc760380-a8bd-40aa-a190-e6f773608a2f
 
 Learn how to automatically archive signed documents to a [!DNL SharePoint] library using [!DNL Power Automate].
 
->[!VIDEO](https://video.tv.adobe.com/v/3409121?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)

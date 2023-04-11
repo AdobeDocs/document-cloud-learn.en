@@ -19,7 +19,7 @@ Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extensio
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/337248?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337248?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

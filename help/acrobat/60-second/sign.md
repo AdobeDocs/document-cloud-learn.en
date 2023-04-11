@@ -12,4 +12,4 @@ exl-id: 0d193bf9-6357-414f-987d-7d0d560ddb13
 
 In this 60-second video tutorial, learn to use Adobe Scan to sign a printed form. Simply scan it, sign it, and send it as a PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)

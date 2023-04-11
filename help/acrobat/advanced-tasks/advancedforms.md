@@ -27,4 +27,4 @@ Sample files to practice with (ZIP, 1.7 MB)
 
  <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/340379?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340379?quality=12&learn=on&hidetitle=true)

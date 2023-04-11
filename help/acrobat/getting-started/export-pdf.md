@@ -17,7 +17,7 @@ Learn how to export your PDF files to editable formats--like [Microsoft Word](ht
 
  <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35494?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

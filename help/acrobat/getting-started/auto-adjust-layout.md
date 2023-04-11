@@ -17,4 +17,4 @@ Learn about the new editing mode that reflows content and auto-adjusts the layou
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/346975?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)

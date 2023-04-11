@@ -12,4 +12,4 @@ exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
 
 Learn how to configure various options when sending a document out for signature. Explore how you can set the document messaging, file formats, reminder frequency, and document expiration.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)

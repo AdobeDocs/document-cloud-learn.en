@@ -17,7 +17,7 @@ Check out these additional real-world use cases:
 * [Business grants and loans](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) use case.
 * [Reemployment assistance](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) use case.
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

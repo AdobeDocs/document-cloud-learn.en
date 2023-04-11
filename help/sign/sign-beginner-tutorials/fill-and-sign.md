@@ -12,4 +12,4 @@ exl-id: 4bb7caab-002c-4e8e-b0c6-fdde220037a4
 
 Learn how to fill in forms **AND** add your electronic signature to documents.
 
->[!VIDEO](https://video.tv.adobe.com/v/33660?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)

@@ -16,4 +16,4 @@ exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
 
 In this 60-second video tutorial, learn how to check to see if a PDF is Accessible. 
 
->[!VIDEO](https://video.tv.adobe.com/v/340076?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)

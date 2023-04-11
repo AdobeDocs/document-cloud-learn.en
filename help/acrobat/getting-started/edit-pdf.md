@@ -17,7 +17,7 @@ Learn how to [edit text and images in PDF files](https://www.adobe.com/acrobat/o
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35493?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

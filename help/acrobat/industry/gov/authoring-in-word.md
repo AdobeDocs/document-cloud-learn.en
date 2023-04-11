@@ -14,6 +14,6 @@ In the second video tutorial in the Making PDFs Accessible series, learn best pr
 
 ## Part 2 - Authoring in [!DNL Microsoft Word] (2:51)
 
->[!VIDEO](https://video.tv.adobe.com/v/34513?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34513?quality=12&learn=on&hidetitle=true)
 
 [Go to Part 3 -  Finishing in Acrobat](finishing-in-acrobat.md)

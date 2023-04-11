@@ -14,6 +14,6 @@ Create simple and effortless workflows for collaborating on documents.
 
 ## Tip #2 - Collaborate on documents (2:03)
 
->[!VIDEO](https://video.tv.adobe.com/v/34509?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34509?quality=12&learn=on&hidetitle=true)
 
 [Go to Tip #3 - Protect digital documents](protect-digital-documents.md)

@@ -12,7 +12,7 @@ exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
 
 In this 60-second video tutorial, learn how to convert an email [PowerPoint attachment to PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html){target="_blank"} on your phone. When the file returns, view it and tap share to send it to your team — all without having PowerPoint in your phone.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

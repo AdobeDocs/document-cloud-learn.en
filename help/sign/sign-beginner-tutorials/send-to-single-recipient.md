@@ -12,7 +12,7 @@ exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
 
 The most common workflow in Acrobat Sign--sending a document for signature. Learn how to upload a document, add form fields, and send to someone for signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

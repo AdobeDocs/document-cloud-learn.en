@@ -17,4 +17,4 @@ Learn how the Acrobat interface makes it easy to access files and tools across d
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337971?quality=12&learn=on&hidetitle=true)

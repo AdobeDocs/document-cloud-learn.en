@@ -14,4 +14,4 @@ Learn how to build your own reports to gain visibility into your document signin
 >
 >Reporting is only available for business- and enterprise-level plans.
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)

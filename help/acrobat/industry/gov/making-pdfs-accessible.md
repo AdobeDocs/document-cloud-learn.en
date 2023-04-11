@@ -16,4 +16,4 @@ Learn about the optimal workflow for creating accessible PDF files. First, learn
 >
 >Available in Acrobat Pro only.
 
->[!VIDEO](https://video.tv.adobe.com/v/34291?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34291?quality=12&learn=on&hidetitle=true)

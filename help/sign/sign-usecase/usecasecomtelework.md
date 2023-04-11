@@ -12,7 +12,7 @@ exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
 
 Learn how to efficiently collect signatures from all your employees on telework agreements, policy updates, and more. First you create a reusable document template that is quickly accessible from your document library. Second, you send the new document template out for signature to hundreds of employees at once using Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
 
 Click to download step-by-step PDF recipe for telework agreements.
 

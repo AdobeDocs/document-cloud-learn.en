@@ -11,7 +11,7 @@ exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
 
 Learn about Bio-pharma settings that allow you to configure Acrobat Sign to meet FDA 21 CFR Part 11 requirements.
 
->[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/21748?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

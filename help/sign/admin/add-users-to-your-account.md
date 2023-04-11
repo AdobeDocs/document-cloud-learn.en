@@ -12,4 +12,4 @@ exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
 
 Learn how to add users individually or in bulk to your Acrobat Sign account.
 
->[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/17356?quality=12&learn=on&hidetitle=true)

@@ -11,4 +11,4 @@ exl-id: 5d88d96d-ae44-4c75-b4bd-d51d864c707c
 
 Learn about the new workspace experience that you can activate in Acrobat, allowing you to seamlessly move between tools and files.
 
->[!VIDEO](https://video.tv.adobe.com/v/345949?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/345949?quality=12&learn=on&hidetitle=true)

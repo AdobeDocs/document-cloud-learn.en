@@ -19,7 +19,7 @@ Learn how to archive email messages and attachments to PDF in [!DNL Outlook] for
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336859?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

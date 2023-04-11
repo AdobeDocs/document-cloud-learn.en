@@ -16,7 +16,7 @@ Learn to use the delegator role to send a document to an intermediary who can th
 >
 >The delegator role is only available for enterprise-level plans. Your Acrobat Sign administrator may need to enable **Allow senders to mark some recipients as delegators** setting in the **Send Settings** section of the **Account Settings** to use this feature. 
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

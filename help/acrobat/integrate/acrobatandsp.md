@@ -18,7 +18,7 @@ Streamline document workflows with [!DNL SharePoint] and Acrobat using the [Adob
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

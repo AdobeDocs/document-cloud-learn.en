@@ -12,7 +12,7 @@ exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
 
 Learn how to streamline document workflows by sending a document for signature directly within [!DNL Microsoft Sharepoint Online].
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

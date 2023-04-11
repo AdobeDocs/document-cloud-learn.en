@@ -13,4 +13,4 @@ exl-id: dc7f42f6-7684-4c57-b082-9d7526e0e464
 
 Learn how to get access to time-saving PDF tools and e-signature workflows directly inside the [!DNL Google Drive] app.
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
