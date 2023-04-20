@@ -49,6 +49,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
       <img alt="Develop" src="assets/acrobat_title_develop.png" />
     </a>
   </td>
+  <td>
   <a href="deploy/deploy-overview.md">
       <img alt="Deploy" src="assets/acrobat_title_deploy.png" />
     </a>
