@@ -11,7 +11,7 @@ exl-id: 72762750-5764-4541-aedd-94230b56936b
 
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization’s needs with integrations, APIs, advanced authentication, additional admin features, and more. Here you can find a wide range of learning experiences designed to quickly bring both beginners and administrators up-to-speed on Acrobat Sign.
+Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization's needs with integrations, APIs, advanced authentication, additional admin features, and more. Here you can find a wide range of learning experiences designed to quickly bring both beginners and administrators up-to-speed on Acrobat Sign.
 
 ## Learning paths
 
