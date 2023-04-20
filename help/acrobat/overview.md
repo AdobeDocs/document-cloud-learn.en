@@ -32,13 +32,13 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
       <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
     </a>
   </td>
-</tr>
-<tr>
   <td>
     <a href="integrate/integrate-overview.md">
       <img alt="Integrations" src="assets/acrobat_title_integrate.png" />
     </a>
   </td>
+</tr>
+<tr>
   <td>
     <a href="industry/industry-overview.md">
       <img alt="Industries and departments" src="assets/acrobat_title_industry.png" />
@@ -49,10 +49,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
       <img alt="Develop" src="assets/acrobat_title_develop.png" />
     </a>
   </td>
-</tr>
-<tr>
-  <td>
-    <a href="deploy/deploy-overview.md">
+  <a href="deploy/deploy-overview.md">
       <img alt="Deploy" src="assets/acrobat_title_deploy.png" />
     </a>
   </td>
@@ -60,11 +57,6 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
     <a href="mobile/mobile-overview.md">
       <img alt="Mobile" src="assets/acrobat_title_mobile.png" />
     </a>
-  </td>  
-  <td>
-   <img alt="Spacer" src="assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
