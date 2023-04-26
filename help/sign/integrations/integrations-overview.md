@@ -191,14 +191,19 @@ You can use Acrobat Sign inside other applications your organization already use
       <img alt="Configuring Acrobat Sign with Workday" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Configuring Acrobat Sign with Workday</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Configuring Acrobat Sign with Workday</strong></a>
     </div>
     <em>Learn how to configure Acrobat Sign to work directly within Workday to seamlessly manage all your HR paperwork</em>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="acrobat-sign-workday-onboarding.md">
+      <img alt="Acrobat Sign + Workday new hire onboarding" src="../assets/workday.png" />
+    </a>
     <div>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday new hire onboarding</strong></a>
+    </div>
+    <em>Learn how to streamline onboarding workflows with Acrobat Sign + Workday</em>
     <br>
   </td>
   <td>
