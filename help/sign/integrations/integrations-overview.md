@@ -19,10 +19,10 @@ You can use Acrobat Sign inside other applications your organization already use
 
 ## What's new
 
+* [Acrobat Sign + Workday new hire onboarding](acrobat-sign-workday-onboarding.md)
+  Learn how to streamline onboarding workflows with Acrobat Sign + Workday
 * [Send documents for notarization](send-document-notarize.md)
   In this three-part tutorial, learn how to send a document for notarization, view the signer's experience, and receive the results
-* [Auto archive files in SharePoint with Power Automate](auto-archive-sharepoint-power-automate.md)
-  Learn how to automatically archive signed documents to a SharePoint library using Power Automate
 
 ## Microsoft integrations tutorials
 
