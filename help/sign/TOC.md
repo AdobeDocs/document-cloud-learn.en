@@ -103,6 +103,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Creating a custom button](integrations/create-a-custom-button.md)
   + Workday {#workday}
     + [Configuring Acrobat Sign with Workday](integrations/workday.md)
+    + [Acrobat Sign + Workday new hire onboarding](integrations/acrobat-sign-workday-onboarding.md)
   + Marketo {#marketo}
     + [Send notifications using Acrobat Sign for Salesforce and Marketo](integrations/marketo-salesforce-sms.md)
     + [Send reminders using Acrobat Sign for Salesforce and Marketo video tutorial](integrations/marketo-salesforce-reminder-video.md)
