@@ -4,6 +4,7 @@ description: Learn how to streamline onboarding workflows with Acrobat Sign + Wo
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
+exl-id: e8a1b95e-d2ee-4d84-a5d2-79678ffa17e2
 ---
 # Acrobat Sign + Workday new hire onboarding
 
