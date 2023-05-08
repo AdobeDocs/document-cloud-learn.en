@@ -100,6 +100,11 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Learn how to activate and use the [!DNL Acrobat Sign] and [!DNL Adobe PDF Tools] connectors for [!DNL Microsoft Power] apps</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 

@@ -16,13 +16,41 @@ Acrobat Sign Skill Builders are 30-minute sessions designed to put your e-signat
 
 ## Monthly sessions
 
+**[Work with e-signatures in your Microsoft apps](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+Date: October 19, 2023
+Expand the way you use your Microsoft apps like Word, Outlook, and Sharepoint by adding Adobe Acrobat Sign to your existing workflows. This session will teach you how to start streamlining document processes in common Microsoft apps so you don't need to context switch just to get a signature or check a status.
+
+**[Manage Agreements: Get Real-Time Visibility into Agreement Status](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+Date: September 21, 2023
+Come learn about the ins and outs of agreement management tools and best practices so you can know the status of your agreements at any time. This session will cover:
+
+* What actions you can take on documents from the manage tab
+* How to process and use data from web forms and bulk sends
+* How to search & filter to find the documents you need
+
+**[Advanced Tips for Sending Documents for Signature](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+Date: August, 17, 2023
+Join us as we take a deeper dive into all the options available when sending agreements for signature. In this session you'll learn about:
+
+* Sending to multiple recipients
+* Available recipient roles (signer, form filler, delegator, and others)
+* Adding a CC field
+* Password protection, and more
+
+**[Acrobat Sign Integrations: Salesforce & Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+Date: July 20, 2023
+Join us as we review some of the most common and powerful Acrobat Sign integrations with Salesforce and Workday. This session will explore how you can accelerate business transactions by eliminating manual, inefficient tasks and creating 100% digital workflows and e-signature processes right within the tools you already use.
+
 **[Advanced Reporting for Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
 Date: June 22, 2023
 Learn about the analytics and reports available in Acrobat Sign - and see how you can view data to help deliver the insights you need to drive your business forward.
 
-**[Acrobat Sign 101: Get Started with Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
+**[Creating & Using Workflows – from Beginning to End](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
 Date: May 18, 2023
-Join us to learn about the basics of e-signatures: how to get a document signed electronically with Acrobat Sign, what your signer will see, and how to track the progress of sent agreements.
+Calling all Acrobat Sign administrators and end users/individual contributors. This session will cover both the creation of and use of workflows.
+
+* As an Acrobat Sign group or account admin, learn how you can define pre-set workflows to automatically route documents for signature to the correct parties – then grant access to your entire Acrobat Sign group.
+* And as an end user, learn how to use these workflows to ensure documents are signed right the first time — and every time.
 
 **[Advanced Training on Authoring Environment](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 Date: April 20, 2023
@@ -47,27 +75,3 @@ Learn about three easy ways to set up your documents for e-signature. Whether th
 * Adobe Acrobat Sign's simple drag-and-drop authoring environment
 * Set up a PDF form in Adobe Acrobat
 * Use text tags for speedy document authoring
-
-**[Work with e-signatures in your Microsoft apps](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
-Date: December 8, 2022
-Expand the way you use your Microsoft apps like Word, Outlook, and Sharepoint by adding Adobe Acrobat Sign to your existing workflows. This session will teach you how to start streamlining document processes in common Microsoft apps so you don't need to context switch just to get a signature or check a status.
-
-**[Advanced Tips for Sending Documents for Signature](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/6dc32a47-1784-46ec-939a-f39f1a2957fc/1e8b283c-e36c-46d8-a537-2ab62a90e9a4){target="_blank"}**
-Date: November 10, 2022
-Take a closer look at all the options you have for sending agreements. In this session, you'll learn about the nuances of sending an agreement out for signature, including: - How to send to multiple recipients - What recipient roles are available (signer, form filler, delegator, and more) - Add a CC field - Password protection - And more!
-
-**[Manage Agreements: Get Real-Time Visibility into Agreement Status](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/1c66eec5-0ee4-4ca9-8479-0c645262cc8f/d1a4d8f4-d364-4067-bc17-b46c54795bda){target="_blank"}**
-Date: October 20, 2022
-This session will show you the ins and outs of agreement management tools and best practices: You'll learn what actions you can take on documents from the manage tab, how to process and use data from web forms and bulk sends, and how to search & filter to find the documents you need.
-
-**[Creating & Using Workflows – from Beginning to End](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9c1f8eb7-ebc8-44c6-9d50-f791eb91ff82/3eaf4640-bcf4-4f1d-8fd0-5ce6db5b49b5){target="_blank"}**
-Date: September 15, 2022
-Calling all Acrobat Sign administrators and end users/individual contributors. This session will cover both the creation of and use of workflows. As an Acrobat Sign group or account admin, learn how you can define pre-set workflows to automatically route documents for signature to the correct parties – then grant access to your entire Acrobat Sign group so they can run workflows for key signature processes. And as an end user, learn how to use these workflows to ensure documents are signed right the first time, and every time.
-
-**[Document Builder for Acrobat Sign in Salesforce](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/06d8a836-4b51-426b-913e-189b23a82bd6/8b777e11-0e6d-45a8-b954-bbff5c887efc){target="_blank"}**
-Date: August 18, 2022
-Join us as we review the latest add-in for Adobe Acrobat Sign for Salesforce – Document Builder. Instead of using static document templates, this new solution allows you to dynamically generate a document using Salesforce data prior to sending for signature, making a once cumbersome process more simplistic and streamlined. We'll walk through the step-by-step process of configuring Document Builder for Acrobat Sign which will be sure to help save you time and effort. A live Q&A will follow the demo.
-
-**[Advanced Reporting for Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target="_blank"}**
-Date: July 14, 2022
-Learn about the analytics and reports available in Acrobat Sign - and see how you can view data to help deliver the insights you need to drive your business forward.
