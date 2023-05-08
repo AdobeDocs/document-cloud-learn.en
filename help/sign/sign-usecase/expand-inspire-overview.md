@@ -46,5 +46,10 @@ Learn how you can transform your organization's e-signing experiences by explori
     <em>Watch live or recorded sessions introducing you to new Acrobat Sign use cases and trends</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
