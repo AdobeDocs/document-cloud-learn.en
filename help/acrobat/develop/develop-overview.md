@@ -17,10 +17,10 @@ Develop software that integrates with Acrobat and Adobe Reader using JavaScript,
 
 The [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} is a set of tools that help you develop software that interacts with Acrobat technology. 
 
-## Adobe Document Services APIs
+## Adobe Acrobat Services APIs
 
 [Adobe PDF Services API](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
 [Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 [Adobe Document Generation API](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-[Adobe Document Services tutorials](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target="_blank"}
+[Adobe Acrobat Services tutorials](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
