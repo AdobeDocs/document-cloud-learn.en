@@ -56,6 +56,18 @@ Learn how to send out a document for signature to 100s of recipients at once, se
     <br>
   </td>
   <td>
+    <a href="authentication-methods.md">
+      <img alt="Authentication methods in Acrobat Sign" src="../assets/authentication.png" />
+    </a>
+    <div>
+    <a href="authentication-methods.md"><strong>Authentication methods in Acrobat Sign</strong></a>
+    </div>
+    <em>Learn about the range of identity authentications methods available in Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Set up online payments" src="../assets/Payments.png" />
     </a>
@@ -65,38 +77,38 @@ Learn how to send out a document for signature to 100s of recipients at once, se
     <em>Learn how to set up and accept online payments in your documents</em>
     <br>
   </td>
+  <td>
+      <a href="megasign.md">
+        <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
+      </a>
+      <div>
+      <a href="megasign.md"><strong>Send & collect signatures in bulk</strong></a>
+      </div>
+      <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
+      <br>
+    </td>
+    <td>
+      <a href="webform.md">
+        <img alt="Creating a web form" src="../assets/Webform.png" />
+      </a>
+      <div>
+      <a href="webform.md"><strong>Creating a web form</strong></a>
+      </div>
+      <em>Create a document that can be signed electronically directly on your website</em>
+      <br>
+    </td>
+    <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
+      </div>
+      <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
+      <br>
+    </td>
 </tr>
 <tr>
- <td>
-    <a href="megasign.md">
-      <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
-    </a>
-    <div>
-    <a href="megasign.md"><strong>Send & collect signatures in bulk</strong></a>
-    </div>
-    <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
-    <br>
-  </td>
-  <td>
-    <a href="webform.md">
-      <img alt="Creating a web form" src="../assets/Webform.png" />
-    </a>
-    <div>
-    <a href="webform.md"><strong>Creating a web form</strong></a>
-    </div>
-    <em>Create a document that can be signed electronically directly on your website</em>
-    <br>
-  </td>
-  <td>
-    <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
-  </a>
-    <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
-    </div>
-    <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
-    <br>
-  </td>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Using Text Tagging in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -105,6 +117,21 @@ Learn how to send out a document for signature to 100s of recipients at once, se
     <a href="text-tagging-word.md"><strong>Using Text Tagging in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Learn how to create a reusable document template by adding Acrobat Sign Text Tags in [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

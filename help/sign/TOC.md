@@ -41,9 +41,10 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
     + [Using the delegator role](sign-advanced-users/delegate-signature.md)
     + [Using the approver role](sign-advanced-users/add-an-approver.md)
+    + [Authentication methods in Acrobat Sign](sign-advanced-users/authentication-methods.md)
+    + [Set up online payments](sign-advanced-users/set-up-online-payments.md)
     + [Send & collect signatures in bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)      
     + [Creating a web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-    + [Set up online payments](sign-advanced-users/set-up-online-payments.md)
     + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
     + [Using Text Tagging in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
   + Managing {#advanced-tasks-managing}
