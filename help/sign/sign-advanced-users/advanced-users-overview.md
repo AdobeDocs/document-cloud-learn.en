@@ -16,10 +16,10 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 ## What's new
 
+* [Authentication methods in Acrobat Sign](authentication-methods.md)
+  Learn about the range of methods available in Acrobat Sign to authenticate the identity of someone signing a document
 * [Set up online payments](set-up-online-payments.md)
   Learn how to set up and accept online payments in your documents
-* [Creating a report](creating-a-report.md)
-  Learn how to build your own reports to gain visibility into the document signing process
 
 ## Sending
 
