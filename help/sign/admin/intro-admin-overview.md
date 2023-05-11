@@ -62,7 +62,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <div>
     <a href="add-users-to-your-account.md"><strong>Adding users</strong></a>
     </div>
-    <em>Add users individually or in bulk to your Acrobat Sign account</em>
+    <em>Add and manage users for Acrobat Sign</em>
     <br>
   </td>
 </tr>
