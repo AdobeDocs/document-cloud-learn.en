@@ -63,6 +63,7 @@ breadcrumb-title: Acrobat Sign Tutorials
     + [Setting up an external archive](admin/set-up-your-external-archive.md)
     + [Creating a template](sign-advanced-users/create-a-template.md)
     + [Creating a report chart](admin/create-a-report.md)
+    + [Report options for users](admin/report-options.md)
     + [Creating a web form](sign-advanced-users/webform.md)
     + [Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
     + [Send & collect signatures in bulk](sign-advanced-users/megasign.md)
