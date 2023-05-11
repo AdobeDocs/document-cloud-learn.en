@@ -57,7 +57,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Adding ssers" src="../assets/Adding-Users.png" />
+      <img alt="Adding users" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Adding users</strong></a>
@@ -110,6 +110,16 @@ Learn about adding users to your account, setting up groups, sharing access, and
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="Report options for users" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>Report options for users</strong></a>
+    </div>
+    <em>Learn how to set up report options for users</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Creating a web form" src="../assets/Webform.png" />
     </a>
@@ -139,7 +149,9 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Collect hundreds of signatures at once for any document</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Setting up a Workflow" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -149,7 +161,21 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <em>Automate document workflows to quickly get electronic signatures and data</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## Advanced tasks
