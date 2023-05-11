@@ -111,7 +111,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 <tr>
   <td>
     <a href="report-options.md">
-      <img alt="Report options for users" src="../assets/reportoptions.png" />
+      <img alt="Report options for users" src="../assets/report-options.png" />
     </a>
     <div>
     <a href="report-options.md"><strong>Report options for users</strong></a>
