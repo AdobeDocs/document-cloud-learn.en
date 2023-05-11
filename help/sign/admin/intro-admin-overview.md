@@ -111,7 +111,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 <tr>
   <td>
     <a href="report-options.md">
-      <img alt="Report options for users" src="../assets/Reportoptions.png" />
+      <img alt="Report options for users" src="../assets/reportoptions.png" />
     </a>
     <div>
     <a href="report-options.md"><strong>Report options for users</strong></a>
@@ -162,7 +162,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Graspacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
