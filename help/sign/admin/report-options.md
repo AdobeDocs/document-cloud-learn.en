@@ -2,7 +2,7 @@
 title: Report Options for Users
 description: Learn how to set up report options for users
 role: Admin
-level: beginner
+level: Intermediate
 ---
 # Report options for users
 
