@@ -72,7 +72,7 @@ Learn how to send out a document for signature to 100s of recipients at once, se
         <img alt="Manage form data" src="../assets/manage-form-data.png" />
       </a>
       <div>
-      <a href="manage-form-data"><strong>Manage form data</strong></a>
+      <a href="manage-form-data.md"><strong>Manage form data</strong></a>
       </div>
       <em>Learn how to consolidate form data from your documents</em>
       <br>

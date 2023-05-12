@@ -16,7 +16,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## What's new
 
-* [Report options](report-options)
+* [Report options](report-options.md)
   Learn how to set up report options for users
 * [Getting started for new administrators](get-started-admin.md)
   In this comprehensive video guide, learn about all the tools necessary to get your organization up and running with Acrobat Sign
