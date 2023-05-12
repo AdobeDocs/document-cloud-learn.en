@@ -18,8 +18,8 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 * [Authentication methods in Acrobat Sign](authentication-methods.md)
   Learn about the range of methods available in Acrobat Sign to authenticate the identity of someone signing a document
-* [Set up online payments](set-up-online-payments.md)
-  Learn how to set up and accept online payments in your documents
+* [Manage form data](manage-form-data.md)
+  Learn how to consolidate form data from your documents
 
 ## Sending
 
@@ -68,6 +68,16 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 </tr>
 <tr>
   <td>
+      <a href="manage-form-data.md">
+        <img alt="Manage form data" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data"><strong>Manage form data</strong></a>
+      </div>
+      <em>Learn how to consolidate form data from your documents</em>
+      <br>
+    </td>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Set up online payments" src="../assets/Payments.png" />
     </a>
@@ -86,18 +96,20 @@ Learn how to send out a document for signature to 100s of recipients at once, se
       </div>
       <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
       <br>
-    </td>
-    <td>
-      <a href="webform.md">
+  </td>
+  <td>
+    <a href="webform.md">
         <img alt="Creating a web form" src="../assets/Webform.png" />
-      </a>
-      <div>
-      <a href="webform.md"><strong>Creating a web form</strong></a>
-      </div>
-      <em>Create a document that can be signed electronically directly on your website</em>
-      <br>
-    </td>
-    <td>
+    </a>
+    <div>
+    <a href="webform.md"><strong>Creating a web form</strong></a>
+    </div>
+    <em>Create a document that can be signed electronically directly on your website</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
     </a>
@@ -107,8 +119,6 @@ Learn how to send out a document for signature to 100s of recipients at once, se
       <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Using Text Tagging in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -117,11 +127,6 @@ Learn how to send out a document for signature to 100s of recipients at once, se
     <a href="text-tagging-word.md"><strong>Using Text Tagging in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Learn how to create a reusable document template by adding Acrobat Sign Text Tags in [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
