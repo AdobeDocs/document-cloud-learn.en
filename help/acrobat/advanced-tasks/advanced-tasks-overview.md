@@ -15,7 +15,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 
 ## What's new
 
-* [Work anywhere with Acrobat web](optimizeseo.md)
+* [Optimize PDFs for SEO (Search Engine Optimization)](optimizeseo.md)
   Learn how to optimize a PDF for improved discoverability and search engine ranking on the web
 
 ## Advanced tasks tutorials
