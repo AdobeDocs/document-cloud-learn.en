@@ -13,6 +13,11 @@ exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 
 Learn how to start using Adobe Acrobat through these brief step-by-step tutorials. From creating a document to protecting or [editing your PDF files](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, this content is designed to ease you into PDF workflows.
 
+## What's new
+
+* [Work anywhere with Acrobat web](acrobatweb.md)
+  Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser
+
 ## Getting started tutorials
 
 <table style="table-layout:fixed">
