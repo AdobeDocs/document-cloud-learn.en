@@ -13,6 +13,11 @@ exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
 
 Go beyond the basics with these advanced tools in Acrobat. Learn how to create an Action to repeat mundane tasks, remove sensitive information, reduce and optimize large files, quickly gather form data, and create universally Accessible PDF files.
 
+## What's new
+
+* [Work anywhere with Acrobat web](optimizeseo.md)
+  Learn how to optimize a PDF for improved discoverability and search engine ranking on the web
+
 ## Advanced tasks tutorials
 
 <table style="table-layout:fixed">
