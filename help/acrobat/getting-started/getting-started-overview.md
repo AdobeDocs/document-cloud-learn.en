@@ -17,6 +17,8 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 * [Work anywhere with Acrobat web](acrobatweb.md)
   Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser
+* [Collaborate in real time](collaborate.md)
+  Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere
 
 ## Getting started tutorials
 
