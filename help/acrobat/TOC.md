@@ -61,6 +61,9 @@ breadcrumb-title: Acrobat Tutorials
   + [Organize pages in a snap](60-second/organize.md)
   + [Edit a photo in your PDF](60-second/editphoto.md)
   + [Edit a graphic in your PDF](60-second/editgraphic.md)
+  + [Convert a PDF to Word](60-second/convert-pdf-word.md)
+  + [Convert a PDF to Excel](60-second/convert-pdf-excel.md)
+  + [Convert a PDF to PowerPoint](60-second/convert-pdf-powerpoint.md)
   + [Export PDF to Word from your phone](60-second/exportwordphone.md)
   + [Convert Word to PDF including form fields](60-second/wordform.md)
   + [Create a PDF of photos in an instant](60-second/photo.md)
@@ -69,6 +72,7 @@ breadcrumb-title: Acrobat Tutorials
   + [Electronically sign a paper document](60-second/sign.md)
   + [Protect your PDF files with a password](60-second/protect.md)
   + [Let Acrobat help you make Accessible PDFs](60-second/accessible.md)
+  + [Conform a PDF to a standard format](60-second/conform.md)
   + [Search multiple PDF files at once](60-second/search.md)
   + [Load PDF comments into InDesign](60-second/indesign.md)
 + Skill Builders {#skill-builders}
