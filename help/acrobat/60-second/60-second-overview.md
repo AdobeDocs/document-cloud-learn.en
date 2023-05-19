@@ -42,7 +42,7 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
   </td>
   <td>
     <a href="combine-to-one-pdf.md">
-      <img alt="Combine files into one PDF" src="../assets/60sec_Combine_1280.jpg" />
+      <img alt="Combine files into one PDF" src="../assets/60sec_combine_1280.jpg" />
     </a>
     <div>
     <a href="combine-to-one-pdf.md"><strong>Combine files into one PDF</strong></a>
@@ -100,29 +100,43 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="Convert a PDF to Word" src="../assets/60sec_convertword_1280.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>Convert a PDF to Word</strong></a>
+    </div>
+    <em>Convert a PDF file to a fully editable Microsoft Word document</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="Convert a PDF to Excel" src="../assets/60sec_convertexcel_1280.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Convert a PDF to Excel</strong></a>
+    </div>
+    <em>Convert a PDF file to a fully editable Microsoft Excel document</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="Convert a PDF to PowerPoint" src="../assets/60sec_convertppt_1280.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Convert a PDF to PowerPoint</strong></a>
+    </div>
+    <em>Convert a PDF file to a fully editable Microsoft PowerPoint document</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
-      <img alt="Export PDF to Word from your phone" src="../assets/60sec_Exportphone_1280.jpg" />
+      <img alt="Export PDF to Word from your phone" src="../assets/60sec_exportphone_1280.jpg" />
     </a>
     <div>
     <a href="exportwordphone.md"><strong>Export PDF to Word from your phone</strong></a>
     </div>
     <em>Convert a PDF file to a fully editable Microsoft Word document with the Acrobat mobile app</em>
     <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -244,7 +258,7 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
 <tr>
   <td>
     <a href="accessible.md">
-      <img alt="Let Acrobat help you make Accessible PDFs" src="../assets/60sec_Accessible_1280.jpg" />
+      <img alt="Let Acrobat help you make Accessible PDFs" src="../assets/60sec_accessible_1280.jpg" />
     </a>
     <div>
     <a href="accessible.md"><strong>Let Acrobat help you make Accessible PDFs</strong></a>
@@ -252,10 +266,15 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Check to see if a PDF is Accessible</em>
     <br>
   </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="Conform a PDF to a standard format" src="../assets/60sec_standard_1280.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>Conform a PDF to a standard format</strong></a>
+    </div>
+    <em>Learn how to validate PDF content against PDF standard criteria such as PDF/X, PDF/A, or PDF/E</em>
+    <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
