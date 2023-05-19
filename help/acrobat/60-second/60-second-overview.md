@@ -124,11 +124,12 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
       <img alt="Convert a PDF to PowerPoint" src="../assets/60sec_convertppt.png" />
     </a>
     <div>
-    <a href="convert-pdf-excel.md"><strong>Convert a PDF to PowerPoint</strong></a>
+    <a href="convert-pdf-powerpoint.md"><strong>Convert a PDF to PowerPoint</strong></a>
     </div>
     <em>Convert a PDF file to a fully editable Microsoft PowerPoint document</em>
     <br>
   </td>
+  <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF to Word from your phone" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
