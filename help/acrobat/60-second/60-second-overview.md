@@ -236,9 +236,14 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <br>
   </td>
   <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="redaction.md">
+      <img alt="Redaction: The Right Way" src="../assets/60sec_redaction.png" />
+    </a>
+    <div>
+    <a href="redaction.md"><strong>Redaction: The Right Way</strong></a>
+    </div>
+    <em>Learn the right way to remove sensitive information from a PDF</em>
+    <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -249,6 +254,53 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
       <img alt="Spacer" src="../assets/Whitespacer.png" />
         <div>
         <br>
+  </td>
+</tr>
+</table>
+
+## Share and review
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="share-comment.md">
+      <img alt="Share a PDF for commenting" src="../assets/60sec_sharecomment.png" />
+    </a>
+    <div>
+    <a href="share-comment.md"><strong>Share a PDF for commenting</strong></a>
+    </div>
+    <em>Learn how to share a PDF to collect feedback quickly from multiple people in a single file</em>
+    <br>
+  </td>
+  <td>
+    <a href="share-comment-teams.md">
+      <img alt="Share and comment on PDF files in Teams" src="../assets/60sec_shareteams.png" />
+    </a>
+    <div>
+    <a href="share-comment-teams.md"><strong>Share and comment on PDF files in Teams</strong></a>
+    </div>
+    <em>Learn how to collaborate in real-time on a PDF file in Microsoft Teams</em>
+    <br>
+  </td>
+  <td>
+    <a href="summarize-comments.md">
+      <img alt="Wrangling PDF comments with Summarize" src="../assets/60sec_summarize.png" />
+    </a>
+    <div>
+    <a href="summarize-comments.md"><strong>Wrangling PDF comments with Summarize</strong></a>
+    </div>
+    <em>Learn how to create a summary of all the comments and mark-ups in your PDF file</em>
+    <br>
+  </td>
+   <td>
+    <a href="indesign.md">
+      <img alt="Load PDF comments into InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>Load PDF comments into InDesign</strong></a>
+    </div>
+    <em>Learn how to load PDF comments back into InDesign after an Acrobat shared review</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -304,15 +356,10 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <em>Start a search in a PDF file, then open Advanced Search and search an entire folder of PDF files</em>
     <br>
   </td>
-  <td>
-    <a href="indesign.md">
-      <img alt="Load PDF comments into InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>Load PDF comments into InDesign</strong></a>
-    </div>
-    <em>Learn how to load PDF comments back into InDesign after an Acrobat shared review</em>
-    <br>
+ <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
