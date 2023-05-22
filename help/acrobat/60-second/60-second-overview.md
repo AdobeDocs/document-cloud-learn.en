@@ -264,7 +264,7 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
 <tr>
   <td>
     <a href="share-comment.md">
-      <img alt="Share a PDF for commenting" src="../assets/60sec_sharecommenting.png" />
+      <img alt="Share a PDF for commenting" src="../assets/60sec_sharecomment.png" />
     </a>
     <div>
     <a href="share-comment.md"><strong>Share a PDF for commenting</strong></a>
