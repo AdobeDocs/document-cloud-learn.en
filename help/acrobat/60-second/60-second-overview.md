@@ -283,13 +283,13 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <br>
   </td>
   <td>
-    <a href="indesign.md">
-      <img alt="Load PDF comments into InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    <a href="summarize-comments.md">
+      <img alt="Wrangling PDF comments with Summarize" src="../assets/60sec_summarize.png" />
     </a>
     <div>
-    <a href="indesign.md"><strong>Load PDF comments into InDesign</strong></a>
+    <a href="summarize-comments.md"><strong>Wrangling PDF comments with Summarize</strong></a>
     </div>
-    <em>Learn how to load PDF comments back into InDesign after an Acrobat shared review</em>
+    <em>Learn how to create a summary of all the comments and mark-ups in your PDF file</em>
     <br>
   </td>
    <td>
