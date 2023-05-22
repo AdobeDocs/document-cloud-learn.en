@@ -147,6 +147,26 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="Create a PDF from Microsoft Word" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>Create a PDF from Microsoft Word</strong></a>
+    </div>
+    <em>Create a PDF from Microsoft Word</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="Create PDFs from Acrobat" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>Create PDFs from Acrobat</strong></a>
+    </div>
+    <em>Create PDFs from Microsoft 365 files right inside the Acrobat desktop app</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="Convert Word to PDF including form fields" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -166,6 +186,8 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
       <em>Learn how just drag-and-drop a bunch of JPGs onto the Acrobat icon to create a PDF</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="Convert a PPT file to PDF on your phone" src="../assets/60sec_Phone_1280.jpg" />
@@ -185,6 +207,16 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
       </div>
       <em>Use the Optimize PDF tool to significantly reduce the size of your PDF files</em>
       <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -347,6 +379,16 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="Spot the differences with PDF Compare" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>Spot the differences with PDF Compare</strong></a>
+    </div>
+    <em>Learn how to spot the differences between two PDF files by using the Compare Files tool in Acrobat</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="Search multiple PDF files at once" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -355,11 +397,6 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     </div>
     <em>Start a search in a PDF file, then open Advanced Search and search an entire folder of PDF files</em>
     <br>
-  </td>
- <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
