@@ -65,6 +65,8 @@ breadcrumb-title: Acrobat Tutorials
   + [Convert a PDF to Excel](60-second/convert-pdf-excel.md)
   + [Convert a PDF to PowerPoint](60-second/convert-pdf-powerpoint.md)
   + [Export PDF to Word from your phone](60-second/exportwordphone.md)
+  + [Create a PDF from Microsoft Word](60-second/word-to-pdf.md)
+  + [Create PDF files with Acrobat](60-second/create-from-acrobat.md)
   + [Convert Word to PDF including form fields](60-second/wordform.md)
   + [Create a PDF of photos in an instant](60-second/photo.md)
   + [Convert a PPT file to PDF on your phone](60-second/phone.md)
@@ -75,10 +77,11 @@ breadcrumb-title: Acrobat Tutorials
   + [Share for commenting](60-second/share-comment.md)
   + [Share and comment on PDF files in Teams](60-second/share-comment-teams.md)
   + [Wrangling PDF comments with Summarize](60-second/summarize-comments.md)
+  + [Load PDF comments into InDesign](60-second/indesign.md)
   + [Let Acrobat help you make Accessible PDFs](60-second/accessible.md)
   + [Conform a PDF to a standard format](60-second/conform.md)
+  + [Spot the differences with PDF Compare](60-second/compare.md)
   + [Search multiple PDF files at once](60-second/search.md)
-  + [Load PDF comments into InDesign](60-second/indesign.md)
 + Skill Builders {#skill-builders}
   + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integrations {#integrations}
