@@ -4,6 +4,7 @@ description: Learn how to spot the differences between two PDF files by using th
 role: User
 product: adobe acrobat
 level: Beginner
+exl-id: aeddfbba-e5c6-4a4d-a187-6b925d8a31af
 ---
 # Spot the differences with PDF compare
 

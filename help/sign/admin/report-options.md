@@ -3,6 +3,7 @@ title: Report Options for Users
 description: Learn how to set up report options for users
 role: Admin
 level: Intermediate
+exl-id: 3e8f8800-c662-46a2-bcc3-12d804db0ee3
 ---
 # Report options for users
 

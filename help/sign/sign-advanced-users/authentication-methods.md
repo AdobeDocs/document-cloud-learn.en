@@ -5,6 +5,7 @@ role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+exl-id: 2341c6f4-457b-467c-94a2-4504b4e32dbd
 ---
 # Authentication methods in Acrobat Sign
 

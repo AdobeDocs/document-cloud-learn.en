@@ -4,6 +4,7 @@ description: Learn how to validate PDF content against PDF standard criteria suc
 role: User
 product: adobe acrobat
 level: Beginner
+exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
 ---
 # Conform a PDF to a standard format
 

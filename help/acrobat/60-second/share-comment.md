@@ -4,6 +4,7 @@ description: Learn how to share a PDF to collect feedback quickly from multiple 
 role: User
 product: adobe acrobat
 level: Beginner
+exl-id: efba836a-17be-44b3-9126-4540aa7ec942
 ---
 # Share a PDF for commenting
 
