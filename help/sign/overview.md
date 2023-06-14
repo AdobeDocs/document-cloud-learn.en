@@ -13,6 +13,15 @@ exl-id: 72762750-5764-4541-aedd-94230b56936b
 
 Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization's needs with integrations, APIs, advanced authentication, additional admin features, and more. Here you can find a wide range of learning experiences designed to quickly bring both beginners and administrators up-to-speed on Acrobat Sign.
 
+## Recommended courses
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
 ## Learning paths
 
 <table style="table-layout:fixed">
