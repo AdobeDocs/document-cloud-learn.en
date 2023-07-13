@@ -10,6 +10,10 @@ jira: KT-13597
 
 Learn how to map data collected from a web form into a [!DNL SharePoint] list, allowing you to share data collected across teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!NOTE]
+>
+>Field mapping between Acrobat Sign Web Forms and [!DNL SharePoint] Lists is available only for Online installations and not for On-Premises installations. 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
 
 
