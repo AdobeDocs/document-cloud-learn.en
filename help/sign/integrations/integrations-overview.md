@@ -19,10 +19,10 @@ You can use Acrobat Sign inside other applications your organization already use
 
 ## What's new
 
+* [Integrate a web form with [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
+  Learn how to map data collected from a web form into a [!DNL SharePoint] list
 * [Acrobat Sign + Workday new hire onboarding](acrobat-sign-workday-onboarding.md)
   Learn how to streamline onboarding workflows with Acrobat Sign + Workday
-* [Send documents for notarization](send-document-notarize.md)
-  In this three-part tutorial, learn how to send a document for notarization, view the signer's experience, and receive the results
 
 ## Microsoft integrations tutorials
 
