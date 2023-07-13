@@ -90,29 +90,30 @@ breadcrumb-title: Acrobat Sign Tutorials
 + Integrations {#integrations}
   + [Overview](integrations/integrations-overview.md)
   + Microsoft {#microsoft}
-    + [Filling and signing in Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
-    + [Send for signature in Outlook](integrations/send-for-signature-with-outlook.md)
-    + [Send for signature in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
-    + [Tracking in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
-    + [Send for signature in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+    + [Filling and signing in [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+    + [Send for signature in [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+    + [Send for signature in [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+    + [Tracking in [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+    + [Integrate a web form with [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
     + [Auto archive files in [!DNL SharePoint] with [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-    + [Document automation with Acrobat Sign for Microsoft Power Platform](integrations/documentautomation.md)
+    + [Document automation with Acrobat Sign for [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+    + [Send for signature in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
   + Notarize {#notarize}
     + [Send documents for notarization](integrations/send-document-notarize.md)
   + Salesforce {#salesforce}
-    + [Document Builder for Salesforce](integrations/create-an-agreement-template.md)
+    + [Document Builder for [!DNL Salesforce]](integrations/create-an-agreement-template.md)
     + [Setting up data mapping](integrations/set-up-data-mapping.md)
     + [Setting up merge mapping](integrations/set-up-merging-map.md)
     + [Creating a custom button](integrations/create-a-custom-button.md)
   + Workday {#workday}
-    + [Configuring Acrobat Sign with Workday](integrations/workday.md)
+    + [Configuring Acrobat Sign with [!DNL Workday]](integrations/workday.md)
     + [Acrobat Sign + Workday new hire onboarding](integrations/acrobat-sign-workday-onboarding.md)
   + Marketo {#marketo}
-    + [Send notifications using Acrobat Sign for Salesforce and Marketo](integrations/marketo-salesforce-sms.md)
-    + [Send reminders using Acrobat Sign for Salesforce and Marketo video tutorial](integrations/marketo-salesforce-reminder-video.md)
-    + [Send reminders using Acrobat Sign for Salesforce and Marketo configuration guide](integrations/marketo-salesforce-reminder.md)
-    + [Send notifications using Acrobat Sign for Microsoft Dynamics and Marketo](integrations/marketo-dynamics-sms.md)
-    + [Send reminders using Acrobat Sign for Microsoft Dynamics 365 and Marketo](integrations/marketo-dynamics-reminder.md)
+    + [Send notifications using Acrobat Sign for [!DNL Salesforce] and Marketo](integrations/marketo-salesforce-sms.md)
+    + [Send reminders using Acrobat Sign for [!DNL Salesforce] and Marketo video tutorial](integrations/marketo-salesforce-reminder-video.md)
+    + [Send reminders using Acrobat Sign for [!DNL Salesforce] and Marketo configuration guide](integrations/marketo-salesforce-reminder.md)
+    + [Send notifications using Acrobat Sign for [!DNL Microsoft Dynamics] and Marketo](integrations/marketo-dynamics-sms.md)
+    + [Send reminders using Acrobat Sign for [!DNL Microsoft Dynamics 365] and Marketo](integrations/marketo-dynamics-reminder.md)
 + Industries and departments {#expand}
   + [Overview](sign-usecase/expand-inspire-overview.md)
   + Skill Builder {#innovation}

@@ -71,13 +71,13 @@ You can use Acrobat Sign inside other applications your organization already use
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Sending documents for signature in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="Integrate a web form with [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Send for signature in [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrate a web form with [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Send documents for signature directly within [!DNL Microsoft Teams]</em>
+    <em>Learn how to map data collected from a web form into a [!DNL SharePoint] list</em>
     <br>
   </td>
   <td>
@@ -100,9 +100,14 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Learn how to activate and use the [!DNL Acrobat Sign] and [!DNL Adobe PDF Tools] connectors for [!DNL Microsoft Power] apps</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Sending documents for signature in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Send for signature in [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Send documents for signature directly within [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
