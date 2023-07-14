@@ -98,17 +98,27 @@ Learn how to send out a document for signature to 100s of recipients at once, se
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="Creating a web form" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="Create a web form with multiple unknown signers" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Creating a web form</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Create a web form with multiple unknown signers</strong></a>
     </div>
-    <em>Create a document that can be signed electronically directly on your website</em>
+    <em>Learn how to create a complex web form with multiple unknown participants</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
+      </div>
+      <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
@@ -127,11 +137,6 @@ Learn how to send out a document for signature to 100s of recipients at once, se
     <a href="text-tagging-word.md"><strong>Using Text Tagging in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Learn how to create a reusable document template by adding Acrobat Sign Text Tags in [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
