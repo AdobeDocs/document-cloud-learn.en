@@ -1,0 +1,18 @@
+---
+title: Create a Web Form with Multiple Unknown Signers
+description: Learn how to create a complex web form with multiple unknown participants
+product: adobe sign
+solution: Acrobat Sign
+level: Intermediate
+jira: KT-13596
+---
+# Create a web form with multiple unknown signers
+
+Learn how to create a web form for a complex workflow that involves multiple unknown participants. These forms can be embedded into a website or sent as a link in an email. They can also be filled out on any device, in any location, speeding up processes and service delivery.
+
+Check out these additional real-world web form use cases:
+
+* [Business grants and loans](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) use case.
+* [Reemployment assistance](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) use case.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)
