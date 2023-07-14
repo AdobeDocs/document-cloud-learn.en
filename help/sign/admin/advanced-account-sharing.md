@@ -4,6 +4,7 @@ description: Advanced account sharing allows admins and users to delegate their 
 role: User, Admin
 product: adobe sign
 level: Intermediate
+jira: KT-5505
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111

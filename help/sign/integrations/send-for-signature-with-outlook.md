@@ -4,6 +4,7 @@ description: Send an agreement for signature directly within Microsoft Outlook
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6463
 topic-revisit: Integrations
 thumbnail: KT-6463.jpg
 exl-id: 06d8e6c5-6dbf-4d6c-bf49-b620da707b3c

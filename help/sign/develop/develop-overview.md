@@ -4,6 +4,7 @@ description: Learn how to use Acrobat Sign APIs to create custom applications fo
 role: Developer
 product: adobe sign
 level: Intermediate
+jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342

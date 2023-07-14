@@ -4,6 +4,7 @@ description: Learn how to edit settings globally for your entire organization or
 role: Admin
 product: adobe sign
 level: Intermediate, Experienced
+jira: KT-5503
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a

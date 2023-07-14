@@ -5,6 +5,7 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+jira: KT-6820
 thumbnail: KT-6820.jpg
 exl-id: 586bf1a8-6dc0-4293-b6b2-c6509f0937f1
 ---

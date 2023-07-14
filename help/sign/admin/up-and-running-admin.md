@@ -4,6 +4,7 @@ description: Overview of seven key areas for administrators to get up & running 
 role: Admin
 product: adobe sign
 level: Beginner
+jira: KT-4967
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
 ---

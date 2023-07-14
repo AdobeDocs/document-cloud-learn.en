@@ -5,6 +5,7 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
+jira: KT-10264
 thumbnail: KT-10264.jpg
 exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
 ---

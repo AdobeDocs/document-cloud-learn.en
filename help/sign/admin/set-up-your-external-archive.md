@@ -4,6 +4,7 @@ description: Learn how to create an external archive for backup copies of agreem
 role: Admin
 product: adobe sign
 level: Beginner
+jira: KT-5506
 thumbnail: KT-5506.jpg
 exl-id: 8669881a-b69b-4455-912d-b3551207a696
 ---

@@ -4,6 +4,7 @@ description: Learn how to set up a data mapping for Acrobat Sign in [!DNL Salesf
 role: Admin
 product: adobe sign
 level: Intermediate
+jira: KT-10599
 topic-revisit: Integrations
 thumbnail: 17351.jpg
 exl-id: 52b858aa-9ec9-44dd-b48e-5ae009f75846

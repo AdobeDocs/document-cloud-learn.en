@@ -4,6 +4,7 @@ description: Learn how to set up view-only access to transactions in another use
 role: User, Admin
 product: adobe sign
 level: Intermediate
+jira: KT-5494
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
 ---

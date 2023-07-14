@@ -4,6 +4,7 @@ description: Fill out and sign a form directly within [!DNL Microsoft Outlook]
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6462
 topic-revisit: Integrations
 thumbnail: 29764t1.jpg
 exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763

@@ -4,6 +4,7 @@ description: Learn how to use Acrobat Sign APIs to embed e-signature and documen
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
@@ -31,7 +32,7 @@ In part 1, learn how to get started with everything you need for parts 2–4. Le
 
 ## Part 2: Low/No Code — the power of web forms
 
-In part 2, explore the low/no-code option of using web forms. It’s always a good idea to see if you can avoid writing code at first.
+In part 2, explore the low/no-code option of using web forms. It's always a good idea to see if you can avoid writing code at first.
 
 +++View details on how to create a web form
 
@@ -71,7 +72,7 @@ Now that you have access and can interact with the API, see what you can do with
 
    ![Screenshot of navigating Acrobat Sign REST API Version 6 Methods](assets/embeddedesignature/embed_5.png)
 
-1. Use the token as a “bearer” value.
+1. Use the token as a "bearer" value.
 
    ![Screenshot of bearer value](assets/embeddedesignature/embed_6.png)
 
@@ -81,11 +82,11 @@ To send your first agreement it's best to understand how to use the API.
 
   >[!NOTE]
   >
-  >JSON-based request calls have a “Model” and “Minimal Model Schema” option. This gives specs and a minimum payload set. 
+  >JSON-based request calls have a "Model" and "Minimal Model Schema" option. This gives specs and a minimum payload set. 
 
   ![Screenshot of creating a Transient Doc](assets/embeddedesignature/embed_7.png)
 
-After sending an agreement for the first time, you’re ready to add the logic. It’s always a good idea to establish some helpers to minimize repetition. Here are some examples:
+After sending an agreement for the first time, you're ready to add the logic. It's always a good idea to establish some helpers to minimize repetition. Here are some examples:
 
 **Validation**
 
@@ -132,11 +133,11 @@ After updating the agreement creation process, the final step is generating the 
 
 >[!NOTE]
 >
->Note that the agreement creation call is technically asynchronous. This means a 'POST' agreement call can be made, but the agreement isn’t ready yet. The best practice is to establish a retry loop. Use a retry or whatever is the best practice for your environment.
+>Note that the agreement creation call is technically asynchronous. This means a 'POST' agreement call can be made, but the agreement isn't ready yet. The best practice is to establish a retry loop. Use a retry or whatever is the best practice for your environment.
 
 ![Screenshot saying it's best practice to establish a retry loop](assets/embeddedesignature/embed_15.png)
 
-When everything is put together, the solution is pretty straightforward. You’re making an agreement and then generating a signing URL for the signer to click on and begin the signing ritual.
+When everything is put together, the solution is pretty straightforward. You're making an agreement and then generating a signing URL for the signer to click on and begin the signing ritual.
 
 +++
 

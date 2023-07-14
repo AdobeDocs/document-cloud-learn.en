@@ -4,6 +4,7 @@ description: Learn the fundamentals of adding users to your account, setting up 
 role: Admin
 product: adobe sign
 level: Intermediate
+jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18

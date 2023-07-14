@@ -4,6 +4,7 @@ description: Get up-to-speed on how to send, sign, and track documents with thes
 role: User
 product: adobe sign
 level: Beginner
+jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 ---
