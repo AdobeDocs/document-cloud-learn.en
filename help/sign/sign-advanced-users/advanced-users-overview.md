@@ -16,10 +16,10 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 ## What's new
 
+* [Create a web form with multiple unknown signers](webform-multiple-signers.md)
+  Learn how to create a complex web form with multiple unknown participants
 * [Authentication methods in Acrobat Sign](authentication-methods.md)
   Learn about the range of methods available in Acrobat Sign to authenticate the identity of someone signing a document
-* [Manage form data](manage-form-data.md)
-  Learn how to consolidate form data from your documents
 
 ## Sending
 
