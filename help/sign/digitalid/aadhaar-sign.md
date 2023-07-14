@@ -4,6 +4,7 @@ description: Learn how to use your [!DNL Aadhaar] digital ID to authenticate you
 role: User
 product: adobe sign
 level: Beginner
+jira: KT-9298
 thumbnail: KT-9298.jpg
 kt: 9298
 exl-id: f899c636-5041-4037-bc73-5fd272d2c24b

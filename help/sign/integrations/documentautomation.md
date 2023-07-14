@@ -5,7 +5,7 @@ role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
-kt: 7488
+jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 ---
 # Document automation with Acrobat Sign for Microsoft Power Platform
@@ -127,7 +127,7 @@ In part two, we build off the first part with a more robust Flow and test both F
 
    ![Screenshot of selecting Templates](assets/documentautomation/automation_9.png)
 
-1. Search for “manager approval.”
+1. Search for "manager approval."
 1. Select **Request manager approval for a selected file**.
 
    ![Screenshot of selecting Request manager approval for a selected file](assets/documentautomation/automation_10.png)
@@ -172,12 +172,12 @@ In part two, we build off the first part with a more robust Flow and test both F
    ![Screenshot of the Get file content configuration](assets/documentautomation/automation_15.png)
 
    **Site Address:** Your SharePoint site.
-   **File Identifier:** Search for “identifier,” and choose Identifier from the **Get file properties** step.
-1. Search for “Adobe” and choose **Acrobat Sign** to add another action.
+   **File Identifier:** Search for "identifier," and choose Identifier from the **Get file properties** step.
+1. Search for "Adobe" and choose **Acrobat Sign** to add another action.
 
    ![Screenshot of search menu](assets/documentautomation/automation_16.png)
 
-1. Enter “upload” into the search box for Acrobat Sign and select **Upload a document and get a document ID**.
+1. Enter "upload" into the search box for Acrobat Sign and select **Upload a document and get a document ID**.
 1. Search for the dynamic variable **Name** to get the name of the item/document selected in the trigger under **File Name**.
 1. Click **Expression** in the variable assistant under **File Content**.
 
@@ -189,7 +189,7 @@ In part two, we build off the first part with a more robust Flow and test both F
 
    ![Screenshot of what the Dynamic Content screen should look like](assets/documentautomation/automation_18.png)
 
-1. Search for “create” in the Acrobat Sign search area to add another Acrobat Sign action.
+1. Search for "create" in the Acrobat Sign search area to add another Acrobat Sign action.
 1. Select **Create and agreement from an uploaded document and send for signature**.
 
    ![Screenshot of searching for create](assets/documentautomation/automation_19.png)
@@ -198,7 +198,7 @@ In part two, we build off the first part with a more robust Flow and test both F
    Choose **Name** from the dynamic variable assistant in **Agreement Name**. 
    Choose **Document ID** from the dynamic variable assistant in **Document ID**.
    Choose **Signer Email** from the dynamic variable assistant in **Participant Email**.
-   Enter “1” in **Participant Order**.
+   Enter "1" in **Participant Order**.
    Choose **Signer** from dropdown in **Participant Role**.
 
    ![Screenshot of the required information](assets/documentautomation/automation_20.png)
@@ -207,7 +207,7 @@ In part two, we build off the first part with a more robust Flow and test both F
 
 ### Test the flow
 
-Go to your SharePoint site’s document repository to test it out.
+Go to your SharePoint site's document repository to test it out.
 
 1. Select the document and choose **Automate** and the **Flow** you just created.
 
@@ -237,8 +237,8 @@ In part three, you'll learn how to automate OCR in PDFs when they are imported i
 
 Go to Microsoft SharePoint where you would like to store documents.
 
-1. Click **+ New** to create a new folder called “Processed Contracts.”
-1. Click **+ New** to create a new folder called “Old Contracts.”
+1. Click **+ New** to create a new folder called "Processed Contracts."
+1. Click **+ New** to create a new folder called "Old Contracts."
 
    ![Screenshot of new folders](assets/documentautomation/automation_25.png)
 

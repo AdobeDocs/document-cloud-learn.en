@@ -4,6 +4,7 @@ description: Track the progress of an agreement directly within Microsoft Sharep
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6465
 topic-revisit: Integrations
 thumbnail: 29767t1.jpg
 exl-id: ad4f5d43-ab6a-4d2d-92d6-8b51198fa0e5

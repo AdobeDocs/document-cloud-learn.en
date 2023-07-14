@@ -4,6 +4,7 @@ description: Learn how to merge data from Salesforce directly into an Acrobat Si
 role: Admin
 product: adobe sign
 level: Intermediate
+jira: KT-10600
 topic-revisit: Integrations
 thumbnail: KT-10600.jpg
 exl-id: 47f3b483-106e-48d9-b554-ad9a87e51a7e

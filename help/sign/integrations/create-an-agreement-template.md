@@ -5,6 +5,7 @@ role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+jira: KT-10598
 topic-revisit: Integrations
 thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2

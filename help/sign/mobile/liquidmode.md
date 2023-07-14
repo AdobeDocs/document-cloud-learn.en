@@ -4,6 +4,7 @@ description: Learn how Liquid Mode improves the mobile signing experience
 role: User
 product: adobe sign
 level: Beginner
+jira: KT-8086
 thumbnail: KT-8086.jpg
 kt: 8086
 exl-id: e7680e55-d95d-413a-bb2b-2ee6416b7b99

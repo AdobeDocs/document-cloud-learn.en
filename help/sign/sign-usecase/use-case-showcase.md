@@ -5,6 +5,7 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
@@ -21,7 +22,7 @@ Below are recordings or registration links for the latest sessions:
 
 * **[AbbVie's path to digital transformation](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**
 Date: August 4, 2021
-AbbVie’s strategy is to deliver innovative medicines and to make a remarkable impact on people’s lives. To increase agility and free employees to focus on more complex work, the company is working to automate some of their business processes — and transitioning away from pen and paper is a crucial first step. Join us for a conversation with AbbVie to hear about their goals, strategy, and processes for achieving digital transformation success.
+AbbVie's strategy is to deliver innovative medicines and to make a remarkable impact on people's lives. To increase agility and free employees to focus on more complex work, the company is working to automate some of their business processes — and transitioning away from pen and paper is a crucial first step. Join us for a conversation with AbbVie to hear about their goals, strategy, and processes for achieving digital transformation success.
 
 * **[Featuring Volvo Cars on-demand recording](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target="_blank"}**
 What does the future of car shopping look like? For Swedish automaker Volvo Cars, they're making changes to their business model that will influence customer expectations for the next generation of car buyers. Central to their process is the ability to provide a top-quality customer experience to match their premium offerings. 
@@ -39,7 +40,7 @@ Join us for the Acrobat Sign Use Case Showcase to hear from government experts a
 Focus: Our expert panelists cover best practices and a variety of government-specific use cases to show you how Acrobat Sign can help your team save time, money, and resources while staying compliant and secure.
 
 * **[Legal](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target="_blank"}**
-Focus: Our panelists discuss how legal departments are managing the shift to fully remote document processes. Whether you’re just starting out or have already digitized some workflows, Acrobat Sign can amplify your team’s productivity at every phase of digital transformation.
+Focus: Our panelists discuss how legal departments are managing the shift to fully remote document processes. Whether you're just starting out or have already digitized some workflows, Acrobat Sign can amplify your team's productivity at every phase of digital transformation.
 
 * **[Sales](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target="_blank"}**
 Focus: Adobe experts highlight best practices for successful digital transformation in procurement, and the discussion covers industry trends and requirements for delivering excellent user experiences.

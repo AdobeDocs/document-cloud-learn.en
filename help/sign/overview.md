@@ -4,6 +4,7 @@ description: A collection of tutorials, webinars, and use cases designed to quic
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
+jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
 ---

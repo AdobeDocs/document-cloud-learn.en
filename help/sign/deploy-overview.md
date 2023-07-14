@@ -5,6 +5,7 @@ role: Admin
 product: adobe sign
 solution: Acrobat
 level: Intermediate
+jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 ---

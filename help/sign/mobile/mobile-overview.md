@@ -4,6 +4,7 @@ description: Send documents for signature, track e-signing progress, and get rea
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9

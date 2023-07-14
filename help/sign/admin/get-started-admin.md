@@ -4,6 +4,7 @@ description: In this comprehensive video guide, learn about all the tools necess
 role: Admin
 product: adobe sign
 level: Beginner
+jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
 ---

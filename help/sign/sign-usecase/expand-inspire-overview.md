@@ -4,6 +4,7 @@ description: See how you can transform customer and employee e-signing experienc
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a

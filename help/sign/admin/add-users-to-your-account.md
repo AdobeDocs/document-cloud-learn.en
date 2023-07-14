@@ -4,6 +4,7 @@ description: Add and manage users for Acrobat Sign
 role: Admin
 product: adobe sign
 level: Intermediate
+jira: KT-5418
 topic-revisit: Administration
 thumbnail: 17356.jpg
 exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
