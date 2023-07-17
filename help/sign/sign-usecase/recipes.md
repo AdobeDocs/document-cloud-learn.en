@@ -25,7 +25,7 @@ Speed up your organization's digital workflows with these government and commerc
 <tr>
   <td>
     <a href="webform-multiple-signers.md">
-      <img alt="Government loan application with multiple unknown signers" src="../assets/UC_Business.png" />
+      <img alt="Government loan application with multiple unknown signers" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
     <a href="webform-multiple-signers.md"><strong>Government loan application with multiple unknown signers</strong></a>
