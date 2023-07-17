@@ -99,13 +99,13 @@ Learn how to send out a document for signature to 100s of recipients at once, se
       <br>
   </td>
  <td>
-      <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
+      <a href="webform.md">
+        <img alt="Creating a web form" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
+      <a href="webform.md"><strong>Creating a web form</strong></a>
       </div>
-      <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
+      <em>Learn how to create a document that can be signed electronically directly on your website</em>
       <br>
   </td>
 </tr>
