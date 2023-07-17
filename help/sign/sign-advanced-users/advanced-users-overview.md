@@ -17,10 +17,10 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 ## What's new
 
-* [Create a web form with multiple unknown signers](webform-multiple-signers.md)
-  Learn how to create a complex web form with multiple unknown participants
 * [Authentication methods in Acrobat Sign](authentication-methods.md)
   Learn about the range of methods available in Acrobat Sign to authenticate the identity of someone signing a document
+* [Set up online payments](set-up-online-payments.md)
+  Learn how to set up and accept online payments in your documents
 
 ## Sending
 
@@ -98,19 +98,7 @@ Learn how to send out a document for signature to 100s of recipients at once, se
       <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="Create a web form with multiple unknown signers" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>Create a web form with multiple unknown signers</strong></a>
-    </div>
-    <em>Learn how to create a complex web form with multiple unknown participants</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
     </a>
@@ -119,7 +107,9 @@ Learn how to send out a document for signature to 100s of recipients at once, se
       </div>
       <em>Build Acrobat Sign form fields by text tagging using Adobe Acrobat</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
@@ -138,6 +128,11 @@ Learn how to send out a document for signature to 100s of recipients at once, se
     <a href="text-tagging-word.md"><strong>Using Text Tagging in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Learn how to create a reusable document template by adding Acrobat Sign Text Tags in [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
