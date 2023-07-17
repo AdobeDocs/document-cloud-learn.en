@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 331736.jpg
+jira: KT-7142
 exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
 ---
 # Create PDF files from [!DNL Microsoft Word]

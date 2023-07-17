@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9910.jpg
-kt: 9910
+jira: KT-9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
 ---
 # Acrobat for government

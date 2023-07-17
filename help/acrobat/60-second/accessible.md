@@ -3,9 +3,9 @@ title: Let Acrobat Help you Make Accessible PDFs
 description: Check to see if a PDF is Accessible
 role: User
 product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-9749.jpg
-KT: 9749
+jira: KT-9749
 exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
 ---
 # Let Acrobat help you make accessible PDFs

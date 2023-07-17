@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9278.jpg
-KT: 9278
+jira: KT-9278
 exl-id: b7f08003-1bbd-4d90-9ff7-6033da20a705
 ---
 # Organize pages in a snap

@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8611.jpg
-kt: 8611
+jira: KT-8611
 exl-id: c5935e90-3167-4de2-a1d9-5a80ceb5e5f1
 ---
 # Scanned documents & complex lists

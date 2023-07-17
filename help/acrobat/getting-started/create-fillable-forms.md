@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
+jira: KT-6831
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
 ---
 # Create fillable forms

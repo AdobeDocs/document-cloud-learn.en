@@ -4,6 +4,7 @@ description: Adobe Acrobat Skill Builders are 30-minute sessions designed to tak
 product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
+jira: KT-8199
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
 ---
 # Adobe Acrobat Skill Builder webinars

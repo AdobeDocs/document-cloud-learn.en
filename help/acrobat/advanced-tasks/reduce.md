@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
+jira: KT-6827
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 ---
 # Reduce file size & optimize

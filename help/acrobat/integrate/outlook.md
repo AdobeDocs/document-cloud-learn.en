@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8494.jpg
-kt: 8494
+jira: KT-8494
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
 ---
 # Convert email messages and attachments to PDF in [!DNL Outlook]

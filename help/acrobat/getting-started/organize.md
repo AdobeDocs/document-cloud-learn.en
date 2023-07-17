@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
+jira: KT-6832
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
 ---
 # Organize pages

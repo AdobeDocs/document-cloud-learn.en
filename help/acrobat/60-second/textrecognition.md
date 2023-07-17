@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9750.jpg
-KT: 9750
+jira: KT-9750
 exl-id: 7e602cf0-f3b4-4879-90a3-fa6ffd5827a4
 ---
 # Recognize text in a scanned PDF file

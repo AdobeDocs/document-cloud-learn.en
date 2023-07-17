@@ -5,6 +5,7 @@ role: Admin
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
+jira: KT-7269
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 ---
 # Important Acrobat DC product updates for ETLA customers

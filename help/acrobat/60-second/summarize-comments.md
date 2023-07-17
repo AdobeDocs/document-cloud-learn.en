@@ -3,7 +3,8 @@ title: Wrangling PDF Comments with Summarize
 description: Learn how to create a summary of all the comments and mark-ups in your PDF file
 role: User
 product: adobe acrobat
-level: Beginner
+level: Intermediate
+jira: KT-13298
 exl-id: ae50f2c7-3636-4095-8a63-025382ebbe07
 ---
 # Wrangling PDF comments with Summarize

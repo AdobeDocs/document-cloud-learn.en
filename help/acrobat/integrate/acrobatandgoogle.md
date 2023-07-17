@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 333600.jpg
-kt: 7992
+jira: KT-7992
 exl-id: dc7f42f6-7684-4c57-b082-9d7526e0e464
 ---
 # Adobe Acrobat for [!DNL Google Drive]

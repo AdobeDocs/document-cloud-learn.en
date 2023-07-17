@@ -4,6 +4,7 @@ description: Learn how to protect PDFs by adding, editing, customizing, and dele
 role: User
 product: adobe acrobat
 level: Intermediate
+jira: KT-10482
 exl-id: 46569727-7d59-43a4-ae4b-bf9b51ec0e9c
 ---
 # Protect PDFs using [!DNL Microsoft Purview Information] sensitivity labels

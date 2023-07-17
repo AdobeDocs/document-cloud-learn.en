@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9751.jpg
-KT: 9751
+jira: KT-9751
 exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
 ---
 # Create more efficient PDF files in a snap

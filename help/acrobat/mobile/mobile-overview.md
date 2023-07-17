@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 topic-revisit: mobile
 thumbnail: KT-6863.jpg
-kt: 6863
+jira: KT-6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
 ---
 # Mobile overview

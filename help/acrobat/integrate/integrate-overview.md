@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
+jira: KT-6859
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 ---
 # Integrations overview

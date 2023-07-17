@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
+jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
 ---
 # Industries and departments overview

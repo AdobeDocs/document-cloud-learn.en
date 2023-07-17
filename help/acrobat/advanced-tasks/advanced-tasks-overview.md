@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
+jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
 ---
 # Advanced tasks overview

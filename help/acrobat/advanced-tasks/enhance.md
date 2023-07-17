@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
-kt: 9343
+jira: KT-9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 ---
 # Enhance your PDF

@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9277.jpg
-KT: 9277
+jira: KT-9277
 exl-id: 655019ce-9cb4-486e-820e-61abdde6b789
 ---
 # Edit a graphic in your PDF

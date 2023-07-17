@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
+jira: KT-5526
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
 ---
 # Create a PDF

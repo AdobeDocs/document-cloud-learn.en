@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10836.jpg
+jira: KT-10836
 exl-id: 900815b4-6242-457e-86cf-7aa995016f29
 ---
 # Add custom page
