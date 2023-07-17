@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35495.jpg
+jira: KT-5530
 exl-id: 3ec14eda-755e-425d-bdd7-e3c1cac8f7af
 ---
 # Fill & Sign PDF forms

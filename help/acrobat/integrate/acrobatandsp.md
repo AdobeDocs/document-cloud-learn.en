@@ -6,6 +6,7 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
+jira: KT-7190
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
 ---
 # Work with your [!DNL SharePoint] files

@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
-kt: 9345
+jira: KT-9345
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
 ---
 # Work with form fields

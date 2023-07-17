@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8495.jpg
-kt: 8495
+jira: KT-8495
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
 ---
 # Create PDF content while browsing with [!DNL Microsoft Edge]

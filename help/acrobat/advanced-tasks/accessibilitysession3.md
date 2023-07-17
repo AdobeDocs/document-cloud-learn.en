@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8610.jpg
-kt: 8610
+jira: KT-8610
 exl-id: ed5d829e-ab8a-4f1d-ac3a-81034710e438
 ---
 # Complex tables

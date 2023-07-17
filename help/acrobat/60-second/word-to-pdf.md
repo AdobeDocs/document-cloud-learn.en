@@ -4,6 +4,7 @@ description: Learn how to create a PDF from Microsoft Word
 role: User
 product: adobe acrobat
 level: Beginner
+jira: KT-13292
 exl-id: a61848c0-2a24-4006-a740-f09ec7370598
 ---
 # Create a PDF from Microsoft Word

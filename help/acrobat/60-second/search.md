@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8574.jpg
-KT: 8574
+jira: KT-8574
 exl-id: d3e2d7d6-5c14-461b-9f68-8f16c8ceda50
 ---
 # Search multiple PDF files at once

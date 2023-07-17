@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8575.jpg
-KT: 8575
+jira: KT-8575
 exl-id: 598c9008-5c8a-46e5-86af-d814e8060e3a
 ---
 # Create a PDF of photos in an instant

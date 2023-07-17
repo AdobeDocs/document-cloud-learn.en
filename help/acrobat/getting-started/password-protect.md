@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
+jira: KT-5532
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
 ---
 # Protect a PDF file with a password

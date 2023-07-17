@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
-kt: 8606
+jira: KT-8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
 ---
 # Introduction to PDF Accessibility

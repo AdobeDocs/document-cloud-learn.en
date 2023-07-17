@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
+jira: KT-6830
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 ---
 # Scan & OCR

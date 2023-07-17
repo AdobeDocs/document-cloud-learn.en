@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
+jira: KT-6856
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 ---
 # Getting started overview

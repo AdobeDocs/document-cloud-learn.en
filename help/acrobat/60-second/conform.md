@@ -3,7 +3,8 @@ title: Conform a PDF to a Standard Format
 description: Learn how to validate PDF content against PDF standard criteria such as PDF/X, PDF/A, or PDF/E
 role: User
 product: adobe acrobat
-level: Beginner
+level: Intermediate
+jira: KT-13287
 exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
 ---
 # Conform a PDF to a standard format

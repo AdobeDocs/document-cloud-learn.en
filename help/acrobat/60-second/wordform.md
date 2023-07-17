@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9704.jpg
-KT: 9704
+jira: KT-9704
 exl-id: 2b24426b-2c7d-4c84-b8bc-4ea7a1313598
 ---
 # Convert Word to PDF including form fields

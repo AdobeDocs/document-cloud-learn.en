@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6804.jpg
+jira: KT-6804
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
 ---
 # Redact & Sanitize

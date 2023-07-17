@@ -5,6 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35492.jpg
+jira: KT-5527
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
 ---
 # Comment on a PDF
