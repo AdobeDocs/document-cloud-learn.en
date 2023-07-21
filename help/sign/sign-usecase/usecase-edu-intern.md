@@ -10,4 +10,6 @@ jira: KT-13607
 
 Learn how web forms are used to improve students' access to required forms that can be submitted from any device – and any location – speeding up educational approval processes. In this example, the workflow for every student is unique depending on their course of study — because each student needs to add their own Faculty Supervisor and Department Head for approval.
 
+Check out the [Create an education web form internship application](usecase-edu-intern-create.md) tutorial to learn how to build this web form.
+
 >[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
