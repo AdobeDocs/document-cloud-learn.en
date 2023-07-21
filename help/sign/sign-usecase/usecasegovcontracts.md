@@ -2,8 +2,6 @@
 title: Government Contracts and Requisition Forms
 description: Quickly replace paper processing with compliant digital workflows, complete with audit reports
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5302
 thumbnail: 33811.jpg

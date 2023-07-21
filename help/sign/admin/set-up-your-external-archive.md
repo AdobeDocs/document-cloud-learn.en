@@ -2,7 +2,6 @@
 title: Setting up an External Archive
 description: Learn how to create an external archive for backup copies of agreements that have been signed
 role: Admin
-product: adobe sign
 level: Beginner
 jira: KT-5506
 thumbnail: KT-5506.jpg

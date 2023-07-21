@@ -2,7 +2,7 @@
 title: Tracking in SharePoint Online
 description: Track the progress of an agreement directly within Microsoft Sharepoint
 role: User
-product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-6465
 topic-revisit: Integrations

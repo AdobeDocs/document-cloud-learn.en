@@ -4,6 +4,7 @@ description: Learn how to send a text message, email, or push notification to le
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
+topic: Integrations
 topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg

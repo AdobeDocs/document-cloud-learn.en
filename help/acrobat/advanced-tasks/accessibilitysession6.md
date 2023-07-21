@@ -2,7 +2,6 @@
 title: Adding Form Fields to an untagged PDF
 description: This on-demand session goes deeper into creating manual form fields and additional form field properties
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8613.jpg
 jira: KT-8613

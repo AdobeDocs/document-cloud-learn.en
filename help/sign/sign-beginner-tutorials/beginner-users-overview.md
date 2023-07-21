@@ -2,7 +2,6 @@
 title: Getting Started Overview
 description: Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials
 role: User
-product: adobe sign
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg

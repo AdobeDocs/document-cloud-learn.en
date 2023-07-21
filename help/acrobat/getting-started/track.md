@@ -2,7 +2,6 @@
 title: Track your Documents
 description: Always know which files are waiting on signatures and which have been signed
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8256.jpg
 jira: KT-8256

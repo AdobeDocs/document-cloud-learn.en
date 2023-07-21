@@ -1,8 +1,7 @@
 ---
 title: Education Web Form Internship Application
 description: Learn how web forms are used to improve students' access to required forms
-product: adobe sign
-solution: Acrobat Sign
+role: User
 level: Intermediate
 jira: KT-13607
 ---

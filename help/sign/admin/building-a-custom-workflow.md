@@ -2,7 +2,6 @@
 title: Building a Custom Workflow
 description: Learn how to tailor and automate document workflows to quickly get electronic signatures and collect form data
 role: User, Admin
-product: adobe sign
 level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg

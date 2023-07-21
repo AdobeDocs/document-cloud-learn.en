@@ -2,8 +2,6 @@
 title: Government Business Grants and Loans
 description: Provide fast assistance to businesses by providing self-serve access to grant, loan, and tax deferral request forms
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5299
 thumbnail: 33810.jpg

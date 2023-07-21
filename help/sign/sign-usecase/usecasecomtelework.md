@@ -2,8 +2,6 @@
 title: Commercial Telework Agreement
 description: Efficiently collect signatures from all your employees on telework agreements
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5295
 thumbnail: 33978.jpg

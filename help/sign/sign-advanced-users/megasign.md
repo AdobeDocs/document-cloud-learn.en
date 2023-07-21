@@ -2,8 +2,6 @@
 title: Send & Collect Signatures in Bulk
 description: Learn how to collect hundreds of signatures at once for any document in just a few short steps
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg

@@ -2,7 +2,6 @@
 title: Develop Overview
 description: Learn how to use Acrobat Sign APIs to create custom applications for your teams, partners and customers
 role: Developer
-product: adobe sign
 level: Intermediate
 jira: KT-6852
 topic-revisit: Integrations

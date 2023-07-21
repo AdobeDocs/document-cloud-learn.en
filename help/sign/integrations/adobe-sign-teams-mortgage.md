@@ -2,8 +2,7 @@
 title: Send for signature in [!DNL Microsoft Teams]
 description: Learn how to send agreements for signature, check the status of agreements, and send reminders all from within [!DNL Microsoft Teams]
 role: User
-product: adobe sign
-solution: Acrobat Sign
+topic: Integrations
 level: Intermediate
 jira: KT-6208
 topic-revisit: Integrations

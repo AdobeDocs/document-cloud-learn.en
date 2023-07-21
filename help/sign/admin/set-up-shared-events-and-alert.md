@@ -2,7 +2,6 @@
 title: Configure notifications for events and alerts
 description: Learn how to configure notifications for events and alerts
 role: User, Admin
-product: adobe sign
 level: Intermediate
 jira: KT-5507
 thumbnail: 17359.jpg

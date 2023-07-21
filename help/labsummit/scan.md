@@ -1,12 +1,14 @@
 ---
 title: Go Digital with Adobe Scan
 description: Learn some tricks and tips for using Adobe Document Cloud
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
 ---
 # Go Digital with Adobe Scan
 
-De-clutter, organize, or share! There’s no need to keep piles of paper on your desk or stuff receipts in your wallet. The Adobe Scan mobile app scans paper documents directly into PDFs, and automatically recognizes text.
+De-clutter, organize, or share! There's no need to keep piles of paper on your desk or stuff receipts in your wallet. The Adobe Scan mobile app scans paper documents directly into PDFs, and automatically recognizes text.
 
 In this exercise, you upload contents from a business card directly into your contacts. Scan and store a receipt.
 
@@ -18,7 +20,7 @@ Collect a business card, receipt, or some other paper item that you'd like to wo
 
 **Step 2:** Open the Adobe Scan app.
 
-**Step 3:** From the app, take a photo of the business card containing the contact information you’d like to save to your phone.
+**Step 3:** From the app, take a photo of the business card containing the contact information you'd like to save to your phone.
 
 ![b card image](assets/scanbcard.png)
 
@@ -38,7 +40,7 @@ Collect a business card, receipt, or some other paper item that you'd like to wo
 
 The Adobe Scan app can also be useful to scan and store a receipt you'll need later (for example, an expense report or other reimbursement).
 
-**Step 1:** With the Adobe Scan app open, take a photo of the receipt you’d like to store.
+**Step 1:** With the Adobe Scan app open, take a photo of the receipt you'd like to store.
 
 ![scan receipt image](assets/scanreceipt.png)
 

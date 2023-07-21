@@ -3,7 +3,7 @@ title: Acrobat for Government
 description: Explore our Acrobat tutorials specifically designed for federal, state, and local government
 role: User
 product: adobe acrobat
-level: Beginner
+level: Beginner, Intermediate, Experienced
 thumbnail: KT-9910.jpg
 jira: KT-9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478

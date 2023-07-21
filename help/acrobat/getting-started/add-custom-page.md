@@ -2,7 +2,6 @@
 title: Add Custom Page
 description: Learn how to add custom pages to your PDF using the integrated Adobe Express app
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-10836.jpg
 jira: KT-10836

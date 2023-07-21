@@ -2,8 +2,6 @@
 title: Filling and Signing a Document
 description: Learn how to fill in forms and add your electronic signature to documents
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-4964
 thumbnail: 33660.jpg

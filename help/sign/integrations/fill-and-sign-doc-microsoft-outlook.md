@@ -2,7 +2,7 @@
 title: Filling and Signing in [!DNL Outlook]
 description: Fill out and sign a form directly within [!DNL Microsoft Outlook]
 role: User
-product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-6462
 topic-revisit: Integrations

@@ -2,7 +2,6 @@
 title: Using Bio-Pharma Settings
 description: Learn about the Bio-pharma settings that allow you to configure Acrobat Sign to meet FDA 21 CFR Part 11 requirements
 role: Admin
-product: adobe sign
 level: Experienced
 jira: KT-5509
 thumbnail: 21748.jpg

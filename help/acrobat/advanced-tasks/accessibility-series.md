@@ -2,7 +2,6 @@
 title: Acrobat Accessibility Series
 description: Six-session on-demand Accessibility series
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8364.jpg
 jira: KT-8364

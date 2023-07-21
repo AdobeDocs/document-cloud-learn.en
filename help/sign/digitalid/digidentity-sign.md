@@ -2,8 +2,6 @@
 title: Register and sign using [!DNL Digidentity]
 description: Learn how to register and use your [!DNL Digidentity] digital ID with Acrobat Sign
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-8670
 thumbnail: KT-8670.jpg

@@ -2,7 +2,6 @@
 title: Advanced Form Fields
 description: Learn how to set up calculations, create an email submit button, and quickly update form pages without rebuilding all your existing form fields
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-9346.jpg
 jira: KT-9346

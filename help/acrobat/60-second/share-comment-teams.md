@@ -2,7 +2,6 @@
 title: Share and Comment on PDF Files in Teams
 description: Learn how to collaborate in real-time on a PDF file in Microsoft Teams
 role: User
-product: adobe acrobat
 level: Intermediate
 jira: KT-13296
 exl-id: b8411496-6488-4c13-b26e-dd5f6b825494

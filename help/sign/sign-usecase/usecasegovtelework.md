@@ -2,8 +2,6 @@
 title: Government Telework Agreement
 description: Efficiently collect signatures from all your employees on telework agreements, policy updates, and more
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5294
 thumbnail: 33808.jpg

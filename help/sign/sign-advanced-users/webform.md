@@ -2,8 +2,6 @@
 title: Creating a Web Form
 description: Learn how to create a document that can be signed electronically directly on your website
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5325
 thumbnail: 37841.jpg

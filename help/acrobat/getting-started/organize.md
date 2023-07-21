@@ -2,7 +2,6 @@
 title: Organize Pages
 description: Add, replace, extract, rotate, delete, and rearrange pages in your PDF
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 jira: KT-6832

@@ -2,7 +2,6 @@
 title: Export PDF to Word from your Phone
 description: Convert a PDF file to a fully editable Microsoft Word document with the Acrobat mobile app
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9753.jpg
 jira: KT-9753

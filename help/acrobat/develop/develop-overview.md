@@ -2,7 +2,6 @@
 title: Acrobat Develop Overview
 description: Develop software that integrates with Acrobat and Adobe Reader using JavaScript, Plug-ins, or IAC
 role: Developer
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 jira: KT-6861

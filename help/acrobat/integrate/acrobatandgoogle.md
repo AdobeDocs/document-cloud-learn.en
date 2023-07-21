@@ -2,8 +2,8 @@
 title: Adobe Acrobat for [!DNL Google Drive]
 description: Get access to time-saving PDF tools and e-signature workflows directly inside the [!DNL Google Drive] app
 role: User
-product: adobe acrobat
 level: Beginner
+topic: Integrations
 topic-revisit: Integrations
 thumbnail: 333600.jpg
 jira: KT-7992

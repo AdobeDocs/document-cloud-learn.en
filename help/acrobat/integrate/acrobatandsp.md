@@ -2,7 +2,7 @@
 title: Work with your [!DNL SharePoint] Files
 description: Streamline document workflows with [!DNL SharePoint] and Acrobat using the Adobe Acrobat for [!DNL Microsoft 365]
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg

@@ -2,7 +2,6 @@
 title: Remediating an Inaccessible PDF
 description: In this on-demand session, learn the workflow to convert a Word document and fixing some basic tagging issues using the Acrobat Pro tools shown in the introduction webinar
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8609.jpg
 jira: KT-8609

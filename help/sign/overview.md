@@ -2,7 +2,6 @@
 title: Acrobat Sign Tutorials
 description: A collection of tutorials, webinars, and use cases designed to quickly bring both beginners and administrators up-to-speed on Acrobat Sign
 role: User, Admin
-product: adobe sign
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg

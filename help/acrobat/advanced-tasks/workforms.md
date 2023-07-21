@@ -2,7 +2,6 @@
 title: Work with Form Fields
 description: Learn how to add various types of form fields, set form field properties, and add security to create high-quality professional forms
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 jira: KT-9345

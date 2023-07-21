@@ -2,7 +2,6 @@
 title: Recognize Text in a Scanned PDF File
 description: Convert a scanned PDF so that you can search for text in the PDF
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9750.jpg
 jira: KT-9750

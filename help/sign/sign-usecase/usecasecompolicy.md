@@ -2,8 +2,6 @@
 title: Commercial Policy Agreements
 description: Efficiently collect signatures from all your employees on policy agreements, updates, and more
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5296
 thumbnail: 33979.jpg

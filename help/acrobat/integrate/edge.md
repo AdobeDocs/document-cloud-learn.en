@@ -2,7 +2,7 @@
 title: Create PDF Content while Browsing with [!DNL Microsoft Edge]
 description: Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8495.jpg

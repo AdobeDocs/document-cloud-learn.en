@@ -1,8 +1,7 @@
 ---
 title: Adobe Acrobat Skill Builder Webinars
 description: Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDf workflows to the next level
-product: adobe acrobat
-level: Intermediate
+level: Beginner, Intermediate
 thumb: KT-8199.jpg
 jira: KT-8199
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805

@@ -2,7 +2,6 @@
 title: Auto-adjust Layout
 description: Learn about the new editing mode that auto-adjusts content
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
 jira: KT-10835

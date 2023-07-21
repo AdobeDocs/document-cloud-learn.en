@@ -2,9 +2,7 @@
 title: Use Case Recipes
 description: Speed up your organization's digital workflows with these government and commercial e-signature examples
 role: User
-product: adobe sign
-solution: Acrobat Sign
-level: Intermediate
+level: Beginner, Intermediate
 team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200

@@ -2,8 +2,7 @@
 title: Edit a Photo in your PDF
 description: Learn to make advanced edits to a photo in your PDF using Photoshop
 role: User
-product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-9276.jpg
 jira: KT-9276
 exl-id: 05b2b256-2a1f-464e-8409-6d74e423cb65

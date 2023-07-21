@@ -2,8 +2,6 @@
 title: Deploy Overview
 description: Best practice articles and valuable insight on deploying Acrobat Sign
 role: Admin
-product: adobe sign
-solution: Acrobat
 level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg

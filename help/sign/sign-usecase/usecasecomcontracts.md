@@ -2,8 +2,6 @@
 title: Commercial Contracts and Requisition Forms
 description: Quickly replace paper processing with compliant digital workflows, complete with audit reports
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg

@@ -2,7 +2,6 @@
 title: Making PDF Ballots More Accessible
 description: Learn about the key areas of PDF accessibility necessary to allow users of assistive technologies, such as screen readers, to read and complete their ballots
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: KT-6817.jpg

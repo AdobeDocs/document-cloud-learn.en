@@ -2,7 +2,6 @@
 title: Convert a PDF to Word
 description: Convert a PDF file to a fully editable Microsoft Word document
 role: User
-product: adobe acrobat
 level: Beginner
 jira: KT-13291
 exl-id: a4c8dc0e-920b-431c-bd74-eb27e2c4418b

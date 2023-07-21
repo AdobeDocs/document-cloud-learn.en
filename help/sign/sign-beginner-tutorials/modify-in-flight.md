@@ -2,8 +2,6 @@
 title: Modifying a Document after Sending
 description: Learn how to modify the workflow for a document that's already in progress
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-5316
 thumbnail: KT-5316.jpg

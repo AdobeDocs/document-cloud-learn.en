@@ -1,8 +1,7 @@
 ---
 title: Create an Education Web Form Internship Application
 description: Learn how to create an internship web form
-product: adobe sign
-solution: Acrobat Sign
+role: User, Admin
 level: Intermediate
 jira: KT-13695
 ---

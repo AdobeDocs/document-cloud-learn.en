@@ -1,7 +1,8 @@
 ---
 user-guide-title: Acrobat Tutorials
-solution: Acrobat
+solution: Adobe Acrobat
 breadcrumb-title: Acrobat Tutorials
+role: User
 ---
 
 # Acrobat tutorials {#acrobat-learning}

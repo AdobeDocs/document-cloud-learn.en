@@ -2,7 +2,6 @@
 title: Custom Commands and Tools
 description: Learn how to improve document workflow productivity by using custom commands and tools
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9672.jpg
 jira: KT-9672

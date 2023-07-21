@@ -2,7 +2,6 @@
 title: Create a PDF
 description: Create PDFs from all different types of documents
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 jira: KT-5526

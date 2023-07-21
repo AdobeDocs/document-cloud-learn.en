@@ -2,8 +2,6 @@
 title: Modify an Existing Web Form
 description: Learn how to disable, edit, and re-enable an existing web form
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-10979
 thumbnail: KT-10979.jpg

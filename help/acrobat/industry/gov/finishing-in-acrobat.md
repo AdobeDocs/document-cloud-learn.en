@@ -2,7 +2,6 @@
 title: Making PDFs Accessible--Finishing in Acrobat
 description: Finish making Accessible documents in Acrobat
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg

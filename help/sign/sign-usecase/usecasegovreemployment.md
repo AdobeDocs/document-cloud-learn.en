@@ -2,8 +2,6 @@
 title: Reemployment Assistance
 description: Help citizens get the help they need without standing in line with all-digital application forms that can go live in days
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5300
 thumbnail: 33809.jpg

@@ -2,7 +2,6 @@
 title: Signing using [!DNL Aadhaar]
 description: Learn how to use your [!DNL Aadhaar] digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document in Acrobat Sign
 role: User
-product: adobe sign
 level: Beginner
 jira: KT-9298
 thumbnail: KT-9298.jpg

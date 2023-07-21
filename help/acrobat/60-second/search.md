@@ -2,7 +2,6 @@
 title: Search Multiple PDF Files at Once
 description: Start a search in a PDF file, then open Advanced Search and search an entire folder of PDF files
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8574.jpg
 jira: KT-8574

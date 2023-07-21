@@ -2,7 +2,6 @@
 title: Work Anywhere with Acrobat Web
 description: Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8498.jpg
 jira: KT-8498

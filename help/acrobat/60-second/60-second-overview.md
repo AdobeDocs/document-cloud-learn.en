@@ -2,8 +2,7 @@
 title: 60-Second Acrobat Overview
 description: 60-Second Acrobat gives you bite-sized tutorials to help you learn a new trick in Acrobat in one minute or less
 role: User
-product: adobe acrobat
-level: Beginner
+level: Beginner, Intermediate
 thumbnail: KT-8493.jpg
 jira: KT-8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a

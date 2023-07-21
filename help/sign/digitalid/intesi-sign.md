@@ -2,8 +2,6 @@
 title: Signing using [!DNL Intesi Group]
 description: Learn how to use your [!DNL Intesi Group] digital ID with Acrobat Sign
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-8703
 thumbnail: KT-8703.jpg

@@ -3,6 +3,7 @@ title: Auto Archive Files in [!DNL SharePoint] with [!DNL Power Automate]
 description: Learn how to automatically archive signed documents to a [!DNL SharePoint] library using [!DNL Power Automate]
 role: Admin, User
 level: Intermediate
+topic: Integrations
 jira: KT-11109
 topic: Integrations
 thumbnail: KT-11109.jpg

@@ -2,7 +2,6 @@
 title: Mobile Overview
 description: Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device
 role: User
-product: adobe sign
 level: Intermediate
 jira: KT-6854
 topic-revisit: Mobile

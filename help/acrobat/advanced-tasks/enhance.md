@@ -2,7 +2,6 @@
 title: Enhance your PDF
 description: Learn how to transform your PDF by adding graphic enhancements and automatic numbering
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 jira: KT-9343

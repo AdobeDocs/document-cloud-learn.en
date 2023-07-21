@@ -2,7 +2,6 @@
 title: Digital ID Overview
 description: Learn how to use digital IDs from around the world with Acrobat Sign
 role: User
-product: adobe sign
 level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg

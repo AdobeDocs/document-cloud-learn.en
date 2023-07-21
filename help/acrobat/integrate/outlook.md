@@ -2,7 +2,7 @@
 title: Convert Email Messages and Attachments to PDF in [!DNL Outlook]
 description: Learn how to deliver information in a more professional and secure manner inside of [!DNL Outlook]
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8494.jpg

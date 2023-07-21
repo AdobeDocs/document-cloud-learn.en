@@ -2,7 +2,7 @@
 title: Create PDFs in [!DNL Office] for the Web
 description: Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] for web apps
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8497.jpg

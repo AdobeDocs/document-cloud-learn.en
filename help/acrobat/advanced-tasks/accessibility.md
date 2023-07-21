@@ -2,7 +2,6 @@
 title: Check PDF Accessibility
 description: Learn how to check if your PDF is universally accessible to people with disabilities
 role: User
-product: adobe acrobat
 level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg

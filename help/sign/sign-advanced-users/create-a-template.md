@@ -2,8 +2,6 @@
 title: Creating a Document Template
 description: Create a reusable document template to provide speed and consistency
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-6059
 thumbnail: 38037.jpg

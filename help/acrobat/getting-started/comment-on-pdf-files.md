@@ -2,7 +2,6 @@
 title: Comment on a PDF
 description: Learn how to add comments and then share a PDF for review with others
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35492.jpg
 jira: KT-5527

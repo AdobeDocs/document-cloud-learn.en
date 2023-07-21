@@ -2,8 +2,6 @@
 title: Manage Document Templates
 description: Edit or delete a template from your library
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5328
 thumbnail: 17346.jpg

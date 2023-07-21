@@ -2,7 +2,6 @@
 title: Scan anything to PDF
 description: Learn how to turn any paper document into a PDF using the free Adobe Scan mobile app
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-10838.jpg
 jira: KT-10838
