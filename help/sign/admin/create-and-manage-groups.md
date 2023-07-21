@@ -2,8 +2,6 @@
 title: Creating and Managing Groups
 description: Learn how to create groups, add users to groups, and edit group settings
 role: Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5493
 thumbnail: 17355.jpg

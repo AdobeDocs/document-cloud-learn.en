@@ -2,8 +2,6 @@
 title: Using the Delegator Role
 description: Use the delegator role to send a document to an intermediary who can then route the document for signature
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5322
 thumbnail: 17366.jpg

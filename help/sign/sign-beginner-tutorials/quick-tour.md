@@ -2,8 +2,6 @@
 title: Acrobat Sign Workspace basics
 description: Take a quick tour of Acrobat Sign workspace to get up and running
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-6334
 thumbnail: 41205.jpg

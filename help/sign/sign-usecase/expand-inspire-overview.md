@@ -1,8 +1,7 @@
 ---
 title: Industries and Departments Overview
 description: See how you can transform customer and employee e-signing experiences through these real-world industry and department use cases, recipes, and webinars
-role: User
-product: adobe sign
+role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg

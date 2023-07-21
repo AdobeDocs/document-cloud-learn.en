@@ -2,7 +2,6 @@
 title: Edit PDF with Acrobat Web
 description: Make simple edits to text and images without even downloading the PDF
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8573.jpg
 jira: KT-8573

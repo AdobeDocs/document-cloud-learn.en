@@ -2,8 +2,6 @@
 title: Use Case Showcase
 description: The Use Case Showcase is a livestream session introducing you to new Acrobat Sign use cases, trends, and showing how your organization can implement and benefit from them
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-8198
 thumbnail: KT-8198.jpg

@@ -2,8 +2,6 @@
 title: Delegate Signing to Someone Else
 description: Learn how to delegate the signing of a document to someone else
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-10591
 thumbnail: 10591.jpg

@@ -2,7 +2,6 @@
 title: Global Settings
 description: Learn how to edit settings globally for your entire organization or for specific groups
 role: Admin
-product: adobe sign
 level: Intermediate, Experienced
 jira: KT-5503
 topic-revisit: Administration

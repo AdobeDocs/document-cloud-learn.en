@@ -2,8 +2,6 @@
 title: Configure Sending Options
 description: Learn how to configure various options when sending a document out for signature
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg

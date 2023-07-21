@@ -5,6 +5,7 @@ role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
+topic: Integrations
 jira: KT-7306
 topic-revisit: Integrations
 thumbnail: 332506.jpg

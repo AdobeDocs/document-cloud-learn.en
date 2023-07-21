@@ -2,7 +2,6 @@
 title: Acrobat Tutorials
 description: A collection of tutorials, webinars, and use cases for Adobe Acrobat
 role: User
-product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 jira: KT-6864

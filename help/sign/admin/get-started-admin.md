@@ -2,7 +2,6 @@
 title: Getting started for new administrators
 description: In this comprehensive video guide, learn about all the tools necessary to get your organization up and running with Acrobat Sign
 role: Admin
-product: adobe sign
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg

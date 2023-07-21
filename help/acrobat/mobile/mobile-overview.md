@@ -2,8 +2,7 @@
 title: Acrobat Mobile Overview
 description: Create, fill, and sign PDFs on your mobile device
 role: User
-product: adobe acrobat
-level: Intermediate
+level: Beginner, Intermediate
 topic-revisit: mobile
 thumbnail: KT-6863.jpg
 jira: KT-6863

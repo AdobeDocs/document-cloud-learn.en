@@ -2,7 +2,6 @@
 title: Optimize PDFs for SEO (Search Engine Optimization)
 description: Learn how to optimize a PDF for improved discoverability and search engine ranking on the web
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 jira: KT-9347

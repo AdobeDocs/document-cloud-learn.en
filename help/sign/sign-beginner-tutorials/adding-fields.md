@@ -2,8 +2,6 @@
 title: Adding Fields to your Documents
 description: Learn how to add different types of fields to your documents
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-10604
 thumbnail: KT-10604.jpg

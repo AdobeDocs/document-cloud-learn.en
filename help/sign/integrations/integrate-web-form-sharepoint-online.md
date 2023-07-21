@@ -3,6 +3,7 @@ title: Integrate a Web Form with [!DNL SharePoint Online]
 description: Learn how to map data collected from a web form into a [!DNL SharePoint] list
 role: User
 product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-13597
 ---

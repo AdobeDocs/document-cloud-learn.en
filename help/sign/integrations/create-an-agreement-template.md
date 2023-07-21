@@ -2,8 +2,7 @@
 title: Document Builder for [!DNL Salesforce]
 description: Learn how to create a reusable document template using Document Builder for Salesforce
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
+topic: Integrations
 level: Intermediate
 jira: KT-10598
 topic-revisit: Integrations

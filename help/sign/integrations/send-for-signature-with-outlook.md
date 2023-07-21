@@ -2,8 +2,8 @@
 title: Send for Signature in Outlook
 description: Send an agreement for signature directly within Microsoft Outlook
 role: User
-product: adobe sign
 level: Intermediate
+topic: Integrations
 jira: KT-6463
 topic-revisit: Integrations
 thumbnail: KT-6463.jpg

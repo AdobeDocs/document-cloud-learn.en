@@ -2,9 +2,9 @@
 title: Send reminders using Acrobat Sign for Microsoft Dynamics 365 and Marketo
 description: Learn how to send an email reminder when an agreement remains unsigned after a period of time
 role: Admin
-product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
+topic: Integrations
 topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg

@@ -2,8 +2,7 @@
 title: Industry and Department Overview
 description: See how you can transform customer and employee experiences by exploring industry use cases and inspirational ideas
 role: User
-product: adobe acrobat
-level: Intermediate
+level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff

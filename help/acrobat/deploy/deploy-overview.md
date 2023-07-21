@@ -2,7 +2,6 @@
 title: Acrobat Deploy Overview
 description: Deployment and best practice articles with valuable insight and knowledge gained by working with our customers
 role: Admin
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6862.jpg
 jira: KT-6862

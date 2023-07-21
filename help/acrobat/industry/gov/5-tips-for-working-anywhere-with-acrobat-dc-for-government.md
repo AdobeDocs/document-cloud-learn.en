@@ -2,7 +2,6 @@
 title: 5 Tips for Working Anywhere with Acrobat
 description: 5 tips for government employees working anywhere with Acrobat
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34200.jpg
 exl-id: 7486a89c-2c60-42a6-8ab2-2878c42f9eda

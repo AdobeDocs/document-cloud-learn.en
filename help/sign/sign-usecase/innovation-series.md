@@ -2,8 +2,7 @@
 title: Acrobat Sign Skill Builder
 description: Acrobat Sign Skill Builders are 30-minute sessions designed to put your e-signatures to work—without adding any extra work to your day
 role: User
-product: adobe sign
-level: Intermediate
+level: Beginner, Intermediate
 jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197

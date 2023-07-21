@@ -2,7 +2,6 @@
 title: Administrators Overview
 description: Learn the fundamentals of adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts
 role: Admin
-product: adobe sign
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration

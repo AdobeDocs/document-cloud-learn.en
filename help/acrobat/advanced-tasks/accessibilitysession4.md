@@ -2,7 +2,6 @@
 title: Scanned Documents & Complex Lists
 description: This on-demand session addresses the more complex issues people frequently run into such as scanned documents and complex lists
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8611.jpg
 jira: KT-8611

@@ -2,7 +2,6 @@
 title: Detect Differences Between two PDFs
 description: Quickly and accurately detect the differences between two PDF files to improve document review workflows
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-8496.jpg
 jira: KT-8496

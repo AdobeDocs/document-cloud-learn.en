@@ -2,8 +2,6 @@
 title: Remote Warrant Request
 description: Use e-signatures and web conferencing together to reduce the time it takes to request and secure warrants from judges
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5334
 thumbnail: 33813.jpg

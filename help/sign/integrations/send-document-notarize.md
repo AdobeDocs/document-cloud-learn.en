@@ -2,8 +2,8 @@
 title: Send documents for notarization
 description: Learn how to send a document for notarization
 role: User
-product: adobe sign
 level: Intermediate
+topic: Integrations
 jira: KT-9357
 topic-revisit: Integrations
 exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3

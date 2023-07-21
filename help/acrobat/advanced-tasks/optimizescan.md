@@ -2,7 +2,6 @@
 title: Optimize Scanned Documents
 description: Learn how to enhance scanned documents for a better PDF viewing and searching experience
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9344.jpg
 jira: KT-9344

@@ -2,7 +2,6 @@
 title: Edit a PDF
 description: Learn how to edit text and images in PDF files
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 jira: KT-5528

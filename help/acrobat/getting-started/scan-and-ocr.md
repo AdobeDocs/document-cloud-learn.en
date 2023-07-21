@@ -2,7 +2,6 @@
 title: Scan & OCR
 description: Convert scans or images of documents into searchable, editable PDF files, and adjust the quality of the resulting file
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 jira: KT-6830

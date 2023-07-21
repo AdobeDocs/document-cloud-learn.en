@@ -2,8 +2,6 @@
 title: Sending to Multiple Recipients
 description: Learn how to send a document for e-signature to more than one person in exactly the order you want
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-4966
 thumbnail: KT-4966.jpg

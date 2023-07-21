@@ -2,6 +2,8 @@
 title: Share PDF files and review online
 description: Learn some tricks and tips for using Adobe Document Cloud
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
 ---
 # Share PDF files and review online
@@ -39,7 +41,7 @@ The reviewers receive an email invitation with a link to the review PDF. When th
 
 **Step 1:** Open the `localFoodTruckmenu_start.pdf` file in Adobe Acrobat.
 
-**Step 2:** Click **[!UICONTROL Share A Link]** ![linkicon](assets/sendlinkicon.png). The shared link is generated instantly; you won’t have to wait for the file to be uploaded to the cloud. By default, the [!UICONTROL Allow Comments] switch is on. 
+**Step 2:** Click **[!UICONTROL Share A Link]** ![linkicon](assets/sendlinkicon.png). The shared link is generated instantly; you won't have to wait for the file to be uploaded to the cloud. By default, the [!UICONTROL Allow Comments] switch is on. 
 
 ![Step 2L image](assets/Step2L.png)
 
@@ -87,4 +89,4 @@ Comments appear in the UI.
 * Manage feedback in one organized place.
 * All you need is a browser.
 
-It’s easy to send and track comments, all in one place. Recipients can view even if they don’t have Acrobat! You can invite someone to comment via a browser. Save time and effort.
+It's easy to send and track comments, all in one place. Recipients can view even if they don't have Acrobat! You can invite someone to comment via a browser. Save time and effort.

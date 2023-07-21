@@ -2,8 +2,6 @@
 title: Set Up Online Payments
 description: Learn how to set up and accept online payments in your documents
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-10606
 thumbnail: KT-10606.jpg

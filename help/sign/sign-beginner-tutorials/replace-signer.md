@@ -2,8 +2,6 @@
 title: Replacing a Signer
 description: Learn how to replace a signer--like when the wrong email was used when sending a document out for signature
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-10264
 thumbnail: KT-10264.jpg

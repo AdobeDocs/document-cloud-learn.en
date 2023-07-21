@@ -4,6 +4,7 @@ description: Learn how to configure Acrobat Sign to work directly within Workday
 product: adobe sign
 level: Intermediate
 jira: KT-13006
+topic: Integrations
 topic-revisit: Integrations
 thumbnail: 39372.jpg
 exl-id: c94a7756-1fae-4f17-aab4-ea1437b68645

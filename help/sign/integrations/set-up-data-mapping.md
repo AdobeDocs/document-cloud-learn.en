@@ -2,7 +2,7 @@
 title: Setting up Data Mapping
 description: Learn how to set up a data mapping for Acrobat Sign in [!DNL Salesforce]
 role: Admin
-product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-10599
 topic-revisit: Integrations

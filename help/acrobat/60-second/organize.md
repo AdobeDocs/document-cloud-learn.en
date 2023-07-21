@@ -2,7 +2,6 @@
 title: Organize Pages in a Snap
 description: Learn to use the Organize Pages tool to get a bird's eye view of your PDF
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9278.jpg
 jira: KT-9278

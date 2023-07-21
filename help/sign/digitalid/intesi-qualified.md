@@ -2,8 +2,6 @@
 title: Get a Digital ID from [!DNL Intesi Group] (Qualified)
 description: Learn how to obtain a Qualified digital signing certificate from [!DNL Intesi Group]
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-8704
 thumbnail: KT-8704.jpg

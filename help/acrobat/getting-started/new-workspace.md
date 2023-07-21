@@ -2,7 +2,6 @@
 title: New Workspace Experience
 description: Learn about the new workspace experience that you can activate in Acrobat
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-10781.jpg
 jira: KT-10781

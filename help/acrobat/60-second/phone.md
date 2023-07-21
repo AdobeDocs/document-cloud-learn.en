@@ -2,7 +2,6 @@
 title: Convert a PPT File to PDF on your Phone
 description: Learn how to convert an email PowerPoint attachment to PDF on your phone
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8576.jpg
 jira: KT-8576

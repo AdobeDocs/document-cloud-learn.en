@@ -2,8 +2,7 @@
 title: Acrobat Advanced Tasks Overview
 description: Go beyond the basics by using these advanced tools in Acrobat
 role: User
-product: adobe acrobat
-level: Experienced
+level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966

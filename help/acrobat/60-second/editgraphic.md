@@ -2,8 +2,7 @@
 title: Edit a Graphic in your PDF
 description: Learn to make advanced edits to a graphic in your PDF using Illustrator
 role: User
-product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-9277.jpg
 jira: KT-9277
 exl-id: 655019ce-9cb4-486e-820e-61abdde6b789

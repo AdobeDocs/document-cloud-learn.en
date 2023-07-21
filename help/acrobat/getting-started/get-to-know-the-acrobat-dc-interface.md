@@ -2,7 +2,6 @@
 title: Workspace basics
 description: Learn how Acrobat makes it easy to access files and tools across desktop, web, and mobile
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-5531.jpg
 jira: KT-5531

@@ -2,8 +2,6 @@
 title: Sending to a Single Recipient
 description: Jump in and learn how easy it is to send out a document for signature
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-4965
 thumbnail: KT-4965.jpg

@@ -2,7 +2,6 @@
 title: Advanced Account Sharing
 description: Advanced account sharing allows admins and users to delegate their send, modify, and view permissions
 role: User, Admin
-product: adobe sign
 level: Intermediate
 jira: KT-5505
 topic-revisit: Administration

@@ -2,8 +2,8 @@
 title: Work with files from [!DNL Dropbox]
 description: Learn how to open, create, edit, sign, and save changes to your [!DNL Dropbox] files from inside Acrobat
 role: User
-product: adobe acrobat
 level: Beginner
+topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-10837.jpg
 jira: KT-10837

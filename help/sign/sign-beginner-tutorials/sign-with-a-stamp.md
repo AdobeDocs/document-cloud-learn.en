@@ -2,8 +2,6 @@
 title: Sign with a Stamp
 description: Learn how to use stamps to mark a document approved or completed
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-5329
 thumbnail: 20703.jpg

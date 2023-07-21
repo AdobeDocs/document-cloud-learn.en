@@ -2,7 +2,6 @@
 title: Adding Bookmarks and Hyperlinks
 description: Learn how to add bookmarks and hyperlinks for better navigation and interaction with your PDF files
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9342.jpg
 jira: KT-9342

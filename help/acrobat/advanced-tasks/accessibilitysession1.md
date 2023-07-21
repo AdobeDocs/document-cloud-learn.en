@@ -2,7 +2,6 @@
 title: Introduction to PDF Accessibility
 description: In this session, learn what it means to make a PDF accessible, how to set up Acrobat Pro to work on PDFs for accessibility, and the conversion process from a source document to a PDF
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 jira: KT-8606

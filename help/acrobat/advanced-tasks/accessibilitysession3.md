@@ -2,7 +2,6 @@
 title: Complex Tables
 description: This on-demand session addresses one of the more common and challenging issues in remediating a PDF for accessibility--complex tables
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8610.jpg
 jira: KT-8610

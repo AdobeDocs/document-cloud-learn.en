@@ -2,7 +2,7 @@
 title: Setting up Merge Mapping in Salesforce
 description: Learn how to merge data from Salesforce directly into an Acrobat Sign document
 role: Admin
-product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-10600
 topic-revisit: Integrations

@@ -2,7 +2,6 @@
 title: Protect your PDF Files with a Password
 description: Protect a PDF so that a password is required either to open or edit the PDF
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9752.jpg
 jira: KT-9752

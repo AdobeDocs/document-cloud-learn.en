@@ -2,8 +2,6 @@
 title: Setting up Signing Order
 description: Learn how to set up the signing order for multiple signers
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-9942
 thumbnail: KT-9942.jpg

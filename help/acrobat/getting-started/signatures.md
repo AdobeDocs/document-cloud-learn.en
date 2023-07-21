@@ -2,7 +2,6 @@
 title: Get Signatures
 description: Keep business moving by collecting legally binding e-signatures from others — from anywhere
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8257.jpg
 jira: KT-8257

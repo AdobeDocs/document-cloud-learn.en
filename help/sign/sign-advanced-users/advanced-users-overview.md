@@ -2,8 +2,6 @@
 title: Advanced Tasks Overview
 description: Learn how to send out a document for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg

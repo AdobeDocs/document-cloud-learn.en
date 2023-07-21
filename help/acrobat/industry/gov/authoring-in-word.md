@@ -2,7 +2,6 @@
 title: Making PDFs Accessible--Authoring in [!DNL Microsoft Word]
 description: Authoring accessible documents in [!DNL Microsoft Word]
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34513.jpg

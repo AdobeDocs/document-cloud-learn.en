@@ -2,7 +2,6 @@
 title: Combine Files into one PDF
 description: Quickly create a document by combining several different types of files into a single PDF
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8571.jpg
 jira: KT-8571

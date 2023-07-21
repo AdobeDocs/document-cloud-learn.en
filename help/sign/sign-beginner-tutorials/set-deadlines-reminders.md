@@ -2,8 +2,6 @@
 title: Set Deadlines and Reminders
 description: Learn how to send regular email reminders and deadlines to help get your documents signed quickly
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-10605
 thumbnail: KT-10605.jpg

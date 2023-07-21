@@ -2,8 +2,6 @@
 title: Managing Web Form Data
 description: Learn how to track, manage, and export data from a web form
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-10981
 thumbnail: KT-10981.jpg

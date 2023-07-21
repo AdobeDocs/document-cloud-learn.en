@@ -2,8 +2,6 @@
 title: Authentication Methods in Acrobat Sign
 description: Learn about the range of identity authentications methods available in Acrobat Sign
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-10982
 exl-id: 2341c6f4-457b-467c-94a2-4504b4e32dbd

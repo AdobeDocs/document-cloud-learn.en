@@ -2,7 +2,6 @@
 title: Adding Form Fields to a Tagged PDF
 description: This on-demand session focuses on adding form fields to a previously tagged PDF
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8612.jpg
 jira: KT-8612
