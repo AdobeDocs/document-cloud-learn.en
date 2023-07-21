@@ -18,6 +18,8 @@ Speed up your organization's digital workflows with these government and commerc
 
 ## What's new
 
+* [Education web form internship application](usecase-edu-intern.md)
+  Learn how web forms are used to improve students' access to required forms
 * [Government loan application with multiple unknown signers](webform-multiple-signers.md)
   Learn how a web form is used for a complex government loan application workflow that involves multiple unknown participants
 
