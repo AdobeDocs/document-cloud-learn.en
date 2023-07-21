@@ -20,6 +20,8 @@ Speed up your organization's digital workflows with these government and commerc
 
 * [Education web form internship application](usecase-edu-intern.md)
   Learn how web forms are used to improve students' access to required forms
+* [Create an education web form internship application](usecase-edu-intern-create.md)
+  Learn how to create an internship web form
 * [Government loan application with multiple unknown signers](webform-multiple-signers.md)
   Learn how a web form is used for a complex government loan application workflow that involves multiple unknown participants
 
@@ -164,10 +166,15 @@ Speed up your organization's digital workflows with these government and commerc
     <br>
   </td> 
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="Create an education web form internship application" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>Create an education web form internship application</strong></a>
+    </div>
+    <em>Learn how to create an internship web form</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
