@@ -1,7 +1,7 @@
 ---
 title: Electronically Sign a Paper Document
 description: Learn to use Adobe Scan to sign a printed form
-role: Users
+role: User
 level: Beginner
 thumbnail: KT-9292.jpg
 jira: KT-9292

@@ -1,6 +1,6 @@
 ---
 user-guide-title: Acrobat Tutorials
-solution: Adobe Acrobat
+solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
 role: User
 ---
