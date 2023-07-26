@@ -21,10 +21,10 @@ You can use Acrobat Sign inside other applications your organization already use
 
 ## What's new
 
+* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
+  Learn how Acrobat Sign and [!DNL Microsoft Dynamics 365] for Customer Service are used to improve customer satisfaction on a self-service customer web portal
 * [Integrate a web form with [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
   Learn how to map data collected from a web form into a [!DNL SharePoint] list
-* [Acrobat Sign + Workday new hire onboarding](acrobat-sign-workday-onboarding.md)
-  Learn how to streamline onboarding workflows with Acrobat Sign + Workday
 
 ## Microsoft integrations tutorials
 
@@ -110,6 +110,33 @@ You can use Acrobat Sign inside other applications your organization already use
     <a href="adobe-sign-teams-mortgage.md"><strong>Send for signature in [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Send documents for signature directly within [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="dynamics-customer-service.md">
+      <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
+    </a>
+    <div>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    </div>
+    <em>Learn how Acrobat Sign and [!DNL Microsoft Dynamics 365] for Customer Service are used to improve customer satisfaction on a self-service customer web portal</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

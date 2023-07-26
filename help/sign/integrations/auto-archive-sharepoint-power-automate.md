@@ -6,7 +6,6 @@ level: Intermediate
 topic: Integrations
 jira: KT-11109
 thumbnail: KT-11109.jpg
-kt: 11109
 exl-id: fc760380-a8bd-40aa-a190-e6f773608a2f
 ---
 # Auto archive files in [!DNL SharePoint] with [!DNL Power Automate]
