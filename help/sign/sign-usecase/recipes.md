@@ -16,6 +16,8 @@ Speed up your organization's digital workflows with these government and commerc
 
 ## What's new
 
+* [Custom workflow for education IEP process](usecase-edu-iep.md)
+  Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process
 * [Education web form internship application](usecase-edu-intern.md)
   Learn how web forms are used to improve students' access to required forms
 * [Create an education web form internship application](usecase-edu-intern-create.md)
@@ -174,8 +176,13 @@ Speed up your organization's digital workflows with these government and commerc
     <br>
   </td> 
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-iep.md">
+      <img alt="Custom workflow for education IEP process" src="../assets/Workflow-iep.png" />
+    </a>
     <div>
+    <a href="usecase-edu-iep.md"><strong>Custom workflow for education IEP process</strong></a>
+    </div>
+    <em>Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process</em>
     <br>
   </td>
   <td>
