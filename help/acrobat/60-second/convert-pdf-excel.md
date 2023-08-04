@@ -1,6 +1,7 @@
 ---
 title: Convert a PDF to Excel
 description: Convert a PDF file to a fully editable Microsoft Excel document
+feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13289

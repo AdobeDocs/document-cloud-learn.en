@@ -1,10 +1,11 @@
 ---
 title: Acrobat Getting Started Overview
 description: Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-step tutorials
+feature: Edit PDF, Create PDF, Convert PDF, Sign, Security, Share, Collaboration, Workspace
 role: User
 level: Beginner
-thumbnail: KT-6856.jpg
 jira: KT-6856
+thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 ---
 # Getting started overview

@@ -1,10 +1,11 @@
 ---
 title: Edit a PDF
 description: Learn how to edit text and images in PDF files
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: 35493.jpg
 jira: KT-5528
+thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
 ---
 # Edit a PDF

@@ -1,10 +1,11 @@
 ---
 title: Protect your PDF Files with a Password
 description: Protect a PDF so that a password is required either to open or edit the PDF
+feature: Security
 role: User
 level: Beginner
-thumbnail: KT-9752.jpg
 jira: KT-9752
+thumbnail: KT-9752.jpg
 exl-id: ae31afe3-e2e4-4e1c-8eb4-13dcc7cc9e05
 ---
 # Protect your PDF files with a password

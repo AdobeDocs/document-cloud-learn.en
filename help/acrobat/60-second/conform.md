@@ -1,6 +1,7 @@
 ---
 title: Conform a PDF to a Standard Format
 description: Learn how to validate PDF content against PDF standard criteria such as PDF/X, PDF/A, or PDF/E
+feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13287

@@ -1,12 +1,13 @@
 ---
 title: Create PDFs in [!DNL Office] for the Web
 description: Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] for web apps
+feature: Integrations, Create PDF
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8497.jpg
 jira: KT-8497
+thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
 ---
 # Create PDFs in [!DNL Office] for the web

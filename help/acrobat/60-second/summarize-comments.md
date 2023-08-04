@@ -1,6 +1,7 @@
 ---
 title: Wrangling PDF Comments with Summarize
 description: Learn how to create a summary of all the comments and mark-ups in your PDF file
+feature: Collaboration
 role: User
 level: Intermediate
 jira: KT-13298

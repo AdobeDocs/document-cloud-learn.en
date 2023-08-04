@@ -1,10 +1,11 @@
 ---
 title: Custom Commands and Tools
 description: Learn how to improve document workflow productivity by using custom commands and tools
+feature: Workflow, Workspace
 role: User
 level: Intermediate
-thumbnail: KT-9672.jpg
 jira: KT-9672
+thumbnail: KT-9672.jpg
 exl-id: 0cbe419b-d1fd-4737-9f79-0f99b4f38df3
 ---
 # Custom Commands and Tools

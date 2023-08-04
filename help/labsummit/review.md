@@ -1,6 +1,7 @@
 ---
 title: Share PDF files and review online
 description: Learn some tricks and tips for using Adobe Document Cloud
+feature: Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner

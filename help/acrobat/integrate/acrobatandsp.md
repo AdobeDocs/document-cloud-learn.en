@@ -1,12 +1,13 @@
 ---
 title: Work with your [!DNL SharePoint] Files
 description: Streamline document workflows with [!DNL SharePoint] and Acrobat using the Adobe Acrobat for [!DNL Microsoft 365]
+feature: Integrations, Create PDF, Collaboration
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: 331855.jpg
 jira: KT-7190
+thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
 ---
 # Work with your [!DNL SharePoint] files

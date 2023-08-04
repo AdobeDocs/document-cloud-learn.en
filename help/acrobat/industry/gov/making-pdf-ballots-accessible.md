@@ -1,11 +1,12 @@
 ---
 title: Making PDF Ballots More Accessible
 description: Learn about the key areas of PDF accessibility necessary to allow users of assistive technologies, such as screen readers, to read and complete their ballots
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
-thumbnail: KT-6817.jpg
 jira: KT-6817
+thumbnail: KT-6817.jpg
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
 ---
 # Making PDF ballots more Accessible

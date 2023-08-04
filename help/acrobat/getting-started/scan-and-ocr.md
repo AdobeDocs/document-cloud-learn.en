@@ -1,10 +1,11 @@
 ---
 title: Scan & OCR
 description: Convert scans or images of documents into searchable, editable PDF files, and adjust the quality of the resulting file
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6830.jpg
 jira: KT-6830
+thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 ---
 # Scan & OCR

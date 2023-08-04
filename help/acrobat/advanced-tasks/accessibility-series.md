@@ -1,10 +1,11 @@
 ---
 title: Acrobat Accessibility Series
 description: Six-session on-demand Accessibility series
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8364.jpg
 jira: KT-8364
+thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
 ---
 # Acrobat Accessibility series

@@ -1,6 +1,7 @@
 ---
 title: Protect PDFs using [!DNL Microsoft Purview] Sensitivity Labels
 description: Learn how to protect PDFs by adding, editing, customizing, and deleting [!DNL Microsoft Purview] sensitivity Labels directly in Acrobat
+feature: Integrations, Security
 role: User
 topic: Integrations
 level: Intermediate

@@ -1,6 +1,7 @@
 ---
 title: Create PDF Files with Acrobat
 description: Learn how to create PDFs from Microsoft 365 files right inside the Acrobat desktop app
+feature: Create PDF
 role: User
 level: Beginner
 jira: KT-13293

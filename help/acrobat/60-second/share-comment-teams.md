@@ -1,6 +1,7 @@
 ---
 title: Share and Comment on PDF Files in Teams
 description: Learn how to collaborate in real-time on a PDF file in Microsoft Teams
+feature: Collaboration, Integrations
 role: User
 level: Intermediate
 jira: KT-13296

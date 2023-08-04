@@ -1,6 +1,7 @@
 ---
 title: Making PDFs Accessible--Understanding Accessibility
 description: Learn what it means to make a PDF accessible for people with disabilities
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility

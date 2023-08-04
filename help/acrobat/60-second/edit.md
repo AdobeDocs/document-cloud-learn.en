@@ -1,10 +1,11 @@
 ---
 title: Edit PDF with Acrobat Web
 description: Make simple edits to text and images without even downloading the PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-8573.jpg
 jira: KT-8573
+thumbnail: KT-8573.jpg
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
 ---
 # Edit PDF with Acrobat Web

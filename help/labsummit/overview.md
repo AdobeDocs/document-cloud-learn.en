@@ -1,6 +1,7 @@
 ---
 title: Lab Overview and Introduction
 description: Learn some tricks and tips for using Adobe Document Cloud
+feature: Create PDF, Edit PDF, Share, Collaboration, Mobile
 solution: Acrobat, Acrobat Sign
 role: User
 level: Beginner

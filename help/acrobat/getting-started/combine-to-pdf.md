@@ -1,10 +1,11 @@
 ---
 title: Combine Files into a Single PDF
 description: Combine many different types of files such as PDF, Word, Excel, PowerPoint, or JPEG into a single PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: 35452.jpg
 jira: KT-8254
+thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
 ---
 # Combine files into a single PDF

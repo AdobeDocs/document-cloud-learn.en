@@ -8,6 +8,8 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
+Feature-set: Document Cloud
+type: Tutorial
 ---
 
 # Acrobat Sign Tutorials {#sign-learning-hub}

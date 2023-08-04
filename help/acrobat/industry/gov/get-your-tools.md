@@ -1,6 +1,7 @@
 ---
 title: 5 Tips for Working Anywhere with Acrobat--Get Your Tools
 description: Learn how to get your Acrobat tools and companion mobile apps to work from anywhere
+feature: Workspace
 role: User
 level: Beginner
 thumbnail: 34290.jpg

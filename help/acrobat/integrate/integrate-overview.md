@@ -1,12 +1,13 @@
 ---
 title: Acrobat Integrations Overview
 description: Integrate Acrobat with Box, Dropbox, Google Drive, OneDrive, and Microsoft apps
+feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-6859.jpg
 jira: KT-6859
+thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 ---
 # Integrations overview

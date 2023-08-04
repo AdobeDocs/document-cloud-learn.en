@@ -1,12 +1,13 @@
 ---
 title: Convert Email Messages and Attachments to PDF in [!DNL Outlook]
 description: Learn how to deliver information in a more professional and secure manner inside of [!DNL Outlook]
+feature: Integrations
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8494.jpg
 jira: KT-8494
+thumbnail: KT-8494.jpg
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
 ---
 # Convert email messages and attachments to PDF in [!DNL Outlook]

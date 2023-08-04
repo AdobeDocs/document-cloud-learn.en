@@ -1,10 +1,11 @@
 ---
 title: Create a PDF of Photos in an Instant
 description: Learn how just drag-and-drop a bunch of JPGs onto the Acrobat icon to create a PDF
+feature: Create PDF
 role: User
 level: Beginner
-thumbnail: KT-8575.jpg
 jira: KT-8575
+thumbnail: KT-8575.jpg
 exl-id: 598c9008-5c8a-46e5-86af-d814e8060e3a
 ---
 # Create a PDF of photos in an instant

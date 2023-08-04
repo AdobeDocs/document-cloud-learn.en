@@ -1,10 +1,11 @@
 ---
 title: Recognize Text in a Scanned PDF File
 description: Convert a scanned PDF so that you can search for text in the PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-9750.jpg
 jira: KT-9750
+thumbnail: KT-9750.jpg
 exl-id: 7e602cf0-f3b4-4879-90a3-fa6ffd5827a4
 ---
 # Recognize text in a scanned PDF file

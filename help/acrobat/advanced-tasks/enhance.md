@@ -1,10 +1,11 @@
 ---
 title: Enhance your PDF
 description: Learn how to transform your PDF by adding graphic enhancements and automatic numbering
+feature: Edit PDF
 role: User
 level: Intermediate
-thumbnail: KT-9343.jpg
 jira: KT-9343
+thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 ---
 # Enhance your PDF

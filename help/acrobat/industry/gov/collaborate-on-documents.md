@@ -1,6 +1,7 @@
 ---
 title: 5 Tips for Working Anywhere with Acrobat--Collaborate on Documents
 description: Create simple and effortless workflows for collaborating on documents
+feature: Collaboration
 role: User
 level: Beginner
 topic-revisit: Collaborate

@@ -1,6 +1,7 @@
 ---
 title: Redaction—The Right Way
 description: Learn the right way to remove sensitive information from a PDF
+feature: Security
 role: User
 level: Intermediate
 jira: KT-13294

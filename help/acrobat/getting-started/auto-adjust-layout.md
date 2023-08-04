@@ -1,10 +1,11 @@
 ---
 title: Auto-adjust Layout
 description: Learn about the new editing mode that auto-adjusts content
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-10835.jpg
 jira: KT-10835
+thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
 ---
 # Auto-adjust layout

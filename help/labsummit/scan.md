@@ -1,6 +1,7 @@
 ---
 title: Go Digital with Adobe Scan
 description: Learn some tricks and tips for using Adobe Document Cloud
+feature: Create PDF
 solution: Acrobat
 role: User
 level: Beginner

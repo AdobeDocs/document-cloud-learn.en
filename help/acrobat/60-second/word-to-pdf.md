@@ -1,6 +1,7 @@
 ---
 title: Create a PDF from [!DNL Microsoft Word]
 description: Learn how to create a PDF from [!DNL Microsoft Word]
+feature: Create PDF
 role: User
 level: Beginner
 jira: KT-13292
