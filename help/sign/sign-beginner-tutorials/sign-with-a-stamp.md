@@ -1,6 +1,7 @@
 ---
 title: Sign with a Stamp
 description: Learn how to use stamps to mark a document approved or completed
+feature: Sign
 role: User
 level: Beginner
 jira: KT-5329

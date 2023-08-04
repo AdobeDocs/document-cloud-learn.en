@@ -1,11 +1,11 @@
 ---
 title: Get a Digital ID from [!DNL Intesi Group] (Advanced)
 description: Learn how to obtain an Advanced digital signing certificate from [!DNL Intesi Group]
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8702
 thumbnail: KT-8702.jpg
-kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
 ---
 # Get a digital ID from [!DNL Intesi Group] (Advanced)

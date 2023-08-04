@@ -1,10 +1,11 @@
 ---
 title: Organize Pages
 description: Add, replace, extract, rotate, delete, and rearrange pages in your PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6832.jpg
 jira: KT-6832
+thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
 ---
 # Organize pages

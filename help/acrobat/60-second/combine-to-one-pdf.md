@@ -1,10 +1,11 @@
 ---
 title: Combine Files into one PDF
 description: Quickly create a document by combining several different types of files into a single PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-8571.jpg
 jira: KT-8571
+thumbnail: KT-8571.jpg
 exl-id: b467cfe3-c031-4df9-acd5-646949644774
 ---
 # Combine files into one PDF

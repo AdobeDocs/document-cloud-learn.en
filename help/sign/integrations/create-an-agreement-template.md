@@ -1,6 +1,7 @@
 ---
 title: Document Builder for [!DNL Salesforce]
 description: Learn how to create a reusable document template using Document Builder for Salesforce
+feature: Integrations
 role: User, Admin
 topic: Integrations
 level: Intermediate

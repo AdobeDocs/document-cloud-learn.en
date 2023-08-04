@@ -1,6 +1,7 @@
 ---
 title: Send for Signature in SharePoint Online
 description: Send a document for signature directly within Sharepoint Online
+feature: Integrations
 role: User
 topic: Integrations
 level: Intermediate

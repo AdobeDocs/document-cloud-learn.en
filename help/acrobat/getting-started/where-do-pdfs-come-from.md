@@ -1,6 +1,7 @@
 ---
 title: Where do PDFs come from?
 description: Understand where PDFs come from and their uses
+feature: Workflow
 role: User
 level: Beginner
 thumbnail: 17096.jpg

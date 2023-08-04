@@ -1,10 +1,11 @@
 ---
 title: Scanned Documents & Complex Lists
 description: This on-demand session addresses the more complex issues people frequently run into such as scanned documents and complex lists
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8611.jpg
 jira: KT-8611
+thumbnail: KT-8611.jpg
 exl-id: c5935e90-3167-4de2-a1d9-5a80ceb5e5f1
 ---
 # Scanned documents & complex lists

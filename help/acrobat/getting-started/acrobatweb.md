@@ -1,10 +1,11 @@
 ---
 title: Work Anywhere with Acrobat Web
 description: Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser
+feature: Workspace
 role: User
 level: Beginner
-thumbnail: KT-8498.jpg
 jira: KT-8498
+thumbnail: KT-8498.jpg
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
 ---
 # Work anywhere with Acrobat web

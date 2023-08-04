@@ -1,10 +1,11 @@
 ---
 title: Remediating an Inaccessible PDF
 description: In this on-demand session, learn the workflow to convert a Word document and fixing some basic tagging issues using the Acrobat Pro tools shown in the introduction webinar
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8609.jpg
 jira: KT-8609
+thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
 ---
 # Remediating an inaccessible PDF

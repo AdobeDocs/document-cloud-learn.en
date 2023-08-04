@@ -1,6 +1,7 @@
 ---
 title: Remote Warrant Request
 description: Use e-signatures and web conferencing together to reduce the time it takes to request and secure warrants from judges
+feature: Use Cases, Sign
 role: User
 level: Intermediate
 jira: KT-5334

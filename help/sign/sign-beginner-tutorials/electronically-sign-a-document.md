@@ -1,6 +1,7 @@
 ---
 title: Electronically Signing a Document
 description: Learn how easy it is to sign a document that is sent to you with Acrobat Sign
+feature: Sign
 role: User
 level: Beginner
 jira: KT-5314

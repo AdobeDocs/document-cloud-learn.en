@@ -1,10 +1,11 @@
 ---
 title: Productivity on the go
 description: Do more right from your tablet or mobile phone with the Acrobat Reader mobile app
+feature: Mobile
 role: User
 level: Beginner
-thumbnail: KT-9155.jpg
 jira: KT-9155
+thumbnail: KT-9155.jpg
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
 ---
 # Productivity on the go

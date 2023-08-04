@@ -1,6 +1,7 @@
 ---
 title: Education Web Form Internship Application
 description: Learn how web forms are used to improve students' access to required forms
+feature: Use Cases, Web Forms, Mobile
 role: User
 level: Intermediate
 jira: KT-13607

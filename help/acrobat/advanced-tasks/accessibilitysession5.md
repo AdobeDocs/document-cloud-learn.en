@@ -1,10 +1,11 @@
 ---
 title: Adding Form Fields to a Tagged PDF
 description: This on-demand session focuses on adding form fields to a previously tagged PDF
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8612.jpg
 jira: KT-8612
+thumbnail: KT-8612.jpg
 exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
 ---
 # Adding form fields to a tagged PDF

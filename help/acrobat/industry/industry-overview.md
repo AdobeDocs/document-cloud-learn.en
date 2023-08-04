@@ -1,6 +1,7 @@
 ---
 title: Industry and Department Overview
 description: See how you can transform customer and employee experiences by exploring industry use cases and inspirational ideas
+feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg

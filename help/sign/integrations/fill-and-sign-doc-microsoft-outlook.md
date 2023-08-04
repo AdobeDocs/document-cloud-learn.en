@@ -1,6 +1,7 @@
 ---
 title: Filling and Signing in [!DNL Outlook]
 description: Fill out and sign a form directly within [!DNL Microsoft Outlook]
+feature: Integrations, Sign, Form
 role: User
 topic: Integrations
 level: Intermediate

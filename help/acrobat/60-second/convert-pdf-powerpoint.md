@@ -1,6 +1,7 @@
 ---
 title: Convert a PDF to Powerpoint
 description: Convert a PDF file to a fully editable Microsoft PowerPoint document
+feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13290

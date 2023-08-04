@@ -1,6 +1,7 @@
 ---
 title: Using Text Tagging in [!DNL Microsoft Word]
 description: Learn how to create a reusable document template by adding Acrobat Sign Text Tags in [!DNL Microsoft Word]
+feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-11163

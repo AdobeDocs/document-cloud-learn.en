@@ -1,6 +1,7 @@
 ---
 title: Gather High-Volume Documents using GigaSign
 description: Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time
+feature: Workflow
 role: Developer
 level: Intermediate
 jira: KT-6626

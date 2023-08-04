@@ -1,10 +1,11 @@
 ---
 title: Convert Word to PDF Including Form Fields
 description: Convert Word files and forms to PDF and automatically build form fields
+feature: Form, Create PDF
 role: User
 level: Beginner
-thumbnail: KT-9704.jpg
 jira: KT-9704
+thumbnail: KT-9704.jpg
 exl-id: 2b24426b-2c7d-4c84-b8bc-4ea7a1313598
 ---
 # Convert Word to PDF including form fields

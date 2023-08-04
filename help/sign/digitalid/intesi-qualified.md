@@ -1,11 +1,11 @@
 ---
 title: Get a Digital ID from [!DNL Intesi Group] (Qualified)
 description: Learn how to obtain a Qualified digital signing certificate from [!DNL Intesi Group]
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8704
 thumbnail: KT-8704.jpg
-kt: 8704
 exl-id: aea17112-0a06-4ea6-8a44-9f4ba5eebc29
 ---
 # Get a digital ID from [!DNL Intesi Group] (Qualified)

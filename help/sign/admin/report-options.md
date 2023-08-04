@@ -1,6 +1,7 @@
 ---
 title: Report Options for Users
 description: Learn how to set up report options for users
+feature: Administration, Report
 role: Admin
 level: Intermediate
 jira: KT-13235

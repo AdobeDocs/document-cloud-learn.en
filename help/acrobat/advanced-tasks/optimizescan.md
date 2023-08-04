@@ -1,10 +1,11 @@
 ---
 title: Optimize Scanned Documents
 description: Learn how to enhance scanned documents for a better PDF viewing and searching experience
+feature: Edit PDF
 role: User
 level: Intermediate
-thumbnail: KT-9344.jpg
 jira: KT-9344
+thumbnail: KT-9344.jpg
 exl-id: cf8e8696-ddba-48e3-acba-3c69541eb483
 ---
 # Optimize scanned documents

@@ -1,6 +1,7 @@
 ---
 title: Creating and Managing Groups
 description: Learn how to create groups, add users to groups, and edit group settings
+feature: Administration, Deploy
 role: Admin
 level: Intermediate
 jira: KT-5493

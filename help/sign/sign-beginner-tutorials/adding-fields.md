@@ -1,6 +1,7 @@
 ---
 title: Adding Fields to your Documents
 description: Learn how to add different types of fields to your documents
+feature: Sign, Workspace
 role: User
 level: Beginner
 jira: KT-10604

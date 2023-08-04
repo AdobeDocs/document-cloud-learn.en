@@ -1,10 +1,11 @@
 ---
 title: Organize Pages in a Snap
 description: Learn to use the Organize Pages tool to get a bird's eye view of your PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-9278.jpg
 jira: KT-9278
+thumbnail: KT-9278.jpg
 exl-id: b7f08003-1bbd-4d90-9ff7-6033da20a705
 ---
 # Organize pages in a snap

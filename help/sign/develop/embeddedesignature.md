@@ -1,6 +1,7 @@
 ---
 title: Create Embedded e-Signature and Document Experiences
 description: Learn how to use Acrobat Sign APIs to embed e-signature and document experiences into your web platforms and content and document management systems
+feature: Integrations, Workflow
 role: Developer
 level: Intermediate
 topic: Integrations

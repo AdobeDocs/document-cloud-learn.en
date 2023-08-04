@@ -1,10 +1,11 @@
 ---
 title: Create a PDF
 description: Create PDFs from all different types of documents
+feature: Create PDF
 role: User
 level: Beginner
-thumbnail: 35491.jpg
 jira: KT-5526
+thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
 ---
 # Create a PDF

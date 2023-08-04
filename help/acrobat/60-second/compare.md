@@ -1,6 +1,7 @@
 ---
 title: Spot the Differences with PDF Compare
 description: Learn how to spot the differences between two PDF files by using the Compare Files tool in Acrobat
+feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13297

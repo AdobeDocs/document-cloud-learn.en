@@ -1,10 +1,11 @@
 ---
 title: Acrobat Tutorials
 description: A collection of tutorials, webinars, and use cases for Adobe Acrobat
+feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-6864.jpg
 jira: KT-6864
+thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
 ---
 # Acrobat tutorials

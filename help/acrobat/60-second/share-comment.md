@@ -1,6 +1,7 @@
 ---
 title: Share a PDF for Commenting
 description: Learn how to share a PDF to collect feedback quickly from multiple people in a single file
+feature: Share, Collaboration
 role: User
 level: Beginner
 jira: KT-13295

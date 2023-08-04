@@ -1,6 +1,7 @@
 ---
 title: Modify an Existing Web Form
 description: Learn how to disable, edit, and re-enable an existing web form
+feature: Web Forms
 role: User, Admin
 level: Intermediate
 jira: KT-10979

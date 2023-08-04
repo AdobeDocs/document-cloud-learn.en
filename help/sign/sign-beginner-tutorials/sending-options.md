@@ -1,6 +1,7 @@
 ---
 title: Configure Sending Options
 description: Learn how to configure various options when sending a document out for signature
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10980

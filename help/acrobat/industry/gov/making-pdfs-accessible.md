@@ -1,6 +1,7 @@
 ---
 title: Making PDFs Accessible
 description: Learn about the optimal workflow for creating accessible PDF files
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility

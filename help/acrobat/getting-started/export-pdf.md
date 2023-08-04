@@ -1,10 +1,11 @@
 ---
 title: Export a PDF to Microsoft Office Formats
 description: Learn how to export your PDF files to editable formats like Microsoft Word, Excel, or PowerPoint
+feature: Convert PDF
 role: User
 level: Beginner
-thumbnail: 35494.jpg
 jira: KT-5529
+thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
 ---
 # Export a PDF to Microsoft Office formats

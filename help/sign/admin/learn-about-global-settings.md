@@ -1,6 +1,7 @@
 ---
 title: Global Settings
 description: Learn how to edit settings globally for your entire organization or for specific groups
+feature: Administration
 role: Admin
 level: Intermediate, Experienced
 jira: KT-5503

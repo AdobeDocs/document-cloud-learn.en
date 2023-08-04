@@ -1,10 +1,11 @@
 ---
 title: Complex Tables
 description: This on-demand session addresses one of the more common and challenging issues in remediating a PDF for accessibility--complex tables
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8610.jpg
 jira: KT-8610
+thumbnail: KT-8610.jpg
 exl-id: ed5d829e-ab8a-4f1d-ac3a-81034710e438
 ---
 # Complex tables

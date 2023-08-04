@@ -1,6 +1,7 @@
 ---
 title: Send for Signature in Outlook
 description: Send an agreement for signature directly within Microsoft Outlook
+feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations

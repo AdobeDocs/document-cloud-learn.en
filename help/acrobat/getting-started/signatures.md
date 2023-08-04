@@ -1,10 +1,11 @@
 ---
 title: Get Signatures
 description: Keep business moving by collecting legally binding e-signatures from others — from anywhere
+feature: Sign
 role: User
 level: Beginner
-thumbnail: KT-8257.jpg
 jira: KT-8257
+thumbnail: KT-8257.jpg
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
 ---
 # Get signatures

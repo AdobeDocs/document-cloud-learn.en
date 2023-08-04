@@ -1,6 +1,7 @@
 ---
 title: Create a custom button in Acrobat Sign for Salesforce
 description: Learn how to create a custom button that starts the sending process and auto populates an agreement
+feature: Integrations
 role: Admin
 topic: Integrations
 level: Intermediate

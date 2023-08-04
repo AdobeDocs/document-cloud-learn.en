@@ -1,10 +1,11 @@
 ---
 title: Collaborate in Real Time
 description: Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere
+feature: Collaboration
 role: User
 level: Beginner
-thumbnail: KT-8255.jpg
 jira: KT-8255
+thumbnail: KT-8255.jpg
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
 ---
 # Collaborate in real time

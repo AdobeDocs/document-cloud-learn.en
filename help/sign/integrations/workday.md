@@ -1,6 +1,7 @@
 ---
 title: Configure Acrobat Sign for Workday
 description: Learn how to configure Acrobat Sign to work directly within Workday to seamlessly manage all your HR paperwork
+feature: Integrations
 product: adobe sign
 level: Intermediate
 jira: KT-13006

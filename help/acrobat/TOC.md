@@ -2,7 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
+feature-set: Document Cloud
 role: User
+type: Tutorial
 ---
 
 # Acrobat tutorials {#acrobat-learning}

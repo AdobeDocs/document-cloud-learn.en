@@ -1,6 +1,7 @@
 ---
 title: Using the Approver Role
 description: Learn how to add an approver role to your contract approval process
+feature: Workflow
 role: User
 solution: Acrobat Sign
 level: Intermediate

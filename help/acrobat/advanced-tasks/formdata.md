@@ -1,10 +1,11 @@
 ---
 title: Working With Form Data
 description: Merge form field data into a single spreadsheet in Acrobat
+feature: Form, Workflow
 role: User
 level: Experienced
-thumbnail: KT-6828.jpg
 jira: KT-6828
+thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
 ---
 # Working with form data

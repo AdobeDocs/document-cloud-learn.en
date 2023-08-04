@@ -1,6 +1,7 @@
 ---
 title: 5 Tips for Working Anywhere with Acrobat--Scan and Edit on Mobile
 description: Learn how to work with Adobe Scan and Acrobat Reader mobile apps to get work done from anywhere
+feature: Edit PDF, Mobile
 role: User
 level: Beginner
 topic-revisit: mobile

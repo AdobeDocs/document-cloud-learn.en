@@ -1,6 +1,7 @@
 ---
 title: 5 Tips for Working Anywhere with Acrobat--Protect Digital Documents
 description: Learn how to add a password to your PDF to prevent copying, editing, or printing
+feature: Security
 role: User
 level: Beginner
 thumbnail: 34510.jpg

@@ -1,10 +1,11 @@
 ---
 title: Load PDF Comments into InDesign
 description: Learn how to load PDF comments back into InDesign after an Acrobat shared review
+feature: Collaboration
 role: User
 level: Intermediate
-thumbnail: KT-8816.jpg
 jira: KT-8816
+thumbnail: KT-8816.jpg
 exl-id: 8d9d0fa8-db0f-48be-b19e-b2b758648d3b
 ---
 # Load PDF comments into InDesign

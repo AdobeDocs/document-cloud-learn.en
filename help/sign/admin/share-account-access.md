@@ -1,6 +1,7 @@
 ---
 title: Sharing Account Access
 description: Learn how to set up view-only access to transactions in another user's account
+feature: Administration
 role: User, Admin
 level: Intermediate
 jira: KT-5494

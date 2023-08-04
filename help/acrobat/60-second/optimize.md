@@ -1,10 +1,11 @@
 ---
 title: Create more Efficient PDF Files in a Snap
 description: Use the Optimize PDF tool to significantly reduce the size of your PDF files
+feature: Optimize PDF
 role: User
 level: Intermediate
-thumbnail: KT-9751.jpg
 jira: KT-9751
+thumbnail: KT-9751.jpg
 exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
 ---
 # Create more efficient PDF files in a snap

@@ -1,6 +1,7 @@
 ---
 title: Send for signature in [!DNL Microsoft Teams]
 description: Learn how to send agreements for signature, check the status of agreements, and send reminders all from within [!DNL Microsoft Teams]
+feature: Integrations
 role: User
 topic: Integrations
 level: Intermediate

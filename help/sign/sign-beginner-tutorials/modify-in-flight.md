@@ -1,6 +1,7 @@
 ---
 title: Modifying a Document after Sending
 description: Learn how to modify the workflow for a document that's already in progress
+feature: Workflow, Sign
 role: User
 level: Beginner
 jira: KT-5316

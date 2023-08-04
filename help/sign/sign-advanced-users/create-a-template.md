@@ -1,6 +1,7 @@
 ---
 title: Creating a Document Template
 description: Create a reusable document template to provide speed and consistency
+feature: Workflow
 role: User, Admin
 level: Intermediate
 jira: KT-6059

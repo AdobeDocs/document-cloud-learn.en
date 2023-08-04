@@ -1,10 +1,11 @@
 ---
 title: Detect Differences Between two PDFs
 description: Quickly and accurately detect the differences between two PDF files to improve document review workflows
+feature: Workflow, Collaboration
 role: User
 level: Intermediate
-thumbnail: KT-8496.jpg
 jira: KT-8496
+thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
 ---
 # Detect differences between two PDFs
