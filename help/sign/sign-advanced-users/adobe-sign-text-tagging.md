@@ -1,6 +1,7 @@
 ---
 title: Acrobat Sign Text Tagging
 description: Learn how to build Acrobat Sign form fields by text tagging using Adobe Acrobat
+feature: Workflow, Sign
 role: User, Admin
 level: Experienced
 jira: KT-6059

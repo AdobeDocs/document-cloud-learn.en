@@ -1,6 +1,7 @@
 ---
 title: Creating a Web Form
 description: Learn how to create a document that can be signed electronically directly on your website
+feature: Web Forms
 role: User, Admin
 level: Intermediate
 jira: KT-5325

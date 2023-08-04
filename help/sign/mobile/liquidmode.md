@@ -1,6 +1,7 @@
 ---
 title: Liquid Mode in Acrobat Sign
 description: Learn how Liquid Mode improves the mobile signing experience
+feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-8086

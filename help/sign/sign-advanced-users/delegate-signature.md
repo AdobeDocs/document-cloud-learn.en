@@ -1,6 +1,7 @@
 ---
 title: Using the Delegator Role
 description: Use the delegator role to send a document to an intermediary who can then route the document for signature
+feature: Workflow, Sign
 role: User
 level: Intermediate
 jira: KT-5322

@@ -1,6 +1,7 @@
 ---
 title: Send notifications using Acrobat Sign for Salesforce and Marketo
 description: Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate

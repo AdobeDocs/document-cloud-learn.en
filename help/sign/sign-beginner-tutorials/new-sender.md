@@ -1,6 +1,7 @@
 ---
 title: Getting Started with Acrobat Sign
 description: This comprehensive tutorial is a great place to start for new senders in Adobe Sign
+feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989

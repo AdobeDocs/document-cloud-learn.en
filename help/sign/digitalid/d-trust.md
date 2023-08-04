@@ -1,6 +1,7 @@
 ---
 title: Register and sign using [!DNL D-Trust]
 description: Learn how to register your identity with [!DNL D-Trust], and then use the [!DNL D-Trust] digital signature on a document in Acrobat Sign
+feature: Digital ID
 role: User
 solution: Acrobat Sign
 level: Beginner

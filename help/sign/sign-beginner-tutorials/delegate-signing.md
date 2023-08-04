@@ -1,6 +1,7 @@
 ---
 title: Delegate Signing to Someone Else
 description: Learn how to delegate the signing of a document to someone else
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10591

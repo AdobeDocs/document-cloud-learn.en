@@ -1,6 +1,7 @@
 ---
 title: Manage Form Data
 description: Learn how to consolidate form data from your documents
+feature: Form
 role: User, Admin
 level: Intermediate
 jira: KT-13233

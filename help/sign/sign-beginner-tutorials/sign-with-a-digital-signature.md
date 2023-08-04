@@ -1,6 +1,7 @@
 ---
 title: What's a Digital Signature
 description: Learn about certificate-based digital signatures
+feature: Digital ID, Sign
 role: User
 level: Beginner
 jira: KT-5326

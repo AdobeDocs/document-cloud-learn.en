@@ -1,6 +1,7 @@
 ---
 title: Authentication Methods in Acrobat Sign
 description: Learn about the range of identity authentications methods available in Acrobat Sign
+feature: Security, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-10982

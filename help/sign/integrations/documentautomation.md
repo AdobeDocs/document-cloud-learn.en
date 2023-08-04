@@ -1,6 +1,7 @@
 ---
 title: Document Automation with Acrobat Sign for Microsoft Power Platform
 description: Learn how to activate and use the Acrobat Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code
+feature: Integrations, Workflow
 role: User, Developer
 level: Intermediate
 topic: Integrations

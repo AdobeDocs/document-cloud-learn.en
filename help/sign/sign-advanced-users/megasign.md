@@ -1,6 +1,7 @@
 ---
 title: Send & Collect Signatures in Bulk
 description: Learn how to collect hundreds of signatures at once for any document in just a few short steps
+feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-4963

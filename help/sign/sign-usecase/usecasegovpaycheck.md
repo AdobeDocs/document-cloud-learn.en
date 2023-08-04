@@ -1,6 +1,7 @@
 ---
 title: Paycheck Protection
 description: See how you can use Acrobat Sign to convert the Payment Protection Program form into an online interactive form
+feature: Use Cases, Form
 role: User
 level: Intermediate
 jira: KT-6820

@@ -1,6 +1,7 @@
 ---
 title: Getting started for new administrators
 description: In this comprehensive video guide, learn about all the tools necessary to get your organization up and running with Acrobat Sign
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289

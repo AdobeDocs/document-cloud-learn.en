@@ -1,6 +1,7 @@
 ---
 title: Government Telework Agreement
 description: Efficiently collect signatures from all your employees on telework agreements, policy updates, and more
+feature: Use Cases, Sign
 role: User
 level: Intermediate
 jira: KT-5294

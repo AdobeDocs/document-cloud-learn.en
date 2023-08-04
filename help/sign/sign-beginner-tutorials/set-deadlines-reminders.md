@@ -1,6 +1,7 @@
 ---
 title: Set Deadlines and Reminders
 description: Learn how to send regular email reminders and deadlines to help get your documents signed quickly
+feature: Deadline, Sign
 role: User
 level: Beginner
 jira: KT-10605

@@ -1,6 +1,7 @@
 ---
 title: Creating a Report
 description: Learn how to build your own reports to gain visibility into the document signing process
+feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027

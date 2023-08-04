@@ -1,6 +1,7 @@
 ---
 title: Adding Users
 description: Add and manage users for Acrobat Sign
+feature: Administration, Deploy
 role: Admin
 level: Intermediate
 jira: KT-5418

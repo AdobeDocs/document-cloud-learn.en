@@ -1,6 +1,7 @@
 ---
 title: Tracking in SharePoint Online
 description: Track the progress of an agreement directly within Microsoft Sharepoint
+feature: Integrations
 role: User
 topic: Integrations
 level: Intermediate

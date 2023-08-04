@@ -1,6 +1,7 @@
 ---
 title: Setting up Signing Order
 description: Learn how to set up the signing order for multiple signers
+feature: Workflow, Sign
 role: User
 level: Intermediate
 jira: KT-9942

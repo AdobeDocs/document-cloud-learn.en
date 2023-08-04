@@ -1,6 +1,7 @@
 ---
 title: Microsoft Dynamics 365 for Customer Service
 description: Learn how Acrobat Sign and [!DNL Microsoft Dynamics 365] for Customer Service are used to improve customer satisfaction on a self-service customer web portal
+feature: Integrations
 role: Admin, User
 level: Intermediate
 topic: Integrations

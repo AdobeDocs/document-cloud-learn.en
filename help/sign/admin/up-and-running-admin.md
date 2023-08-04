@@ -1,6 +1,7 @@
 ---
 title: Up & running for Acrobat Sign Administrators
 description: Overview of seven key areas for administrators to get up & running quickly in Acrobat Sign
+feature: Administration
 role: Admin
 level: Beginner
 jira: KT-4967

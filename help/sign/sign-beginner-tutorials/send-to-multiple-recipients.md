@@ -1,6 +1,7 @@
 ---
 title: Sending to Multiple Recipients
 description: Learn how to send a document for e-signature to more than one person in exactly the order you want
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-4966

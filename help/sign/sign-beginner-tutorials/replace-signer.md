@@ -1,6 +1,7 @@
 ---
 title: Replacing a Signer
 description: Learn how to replace a signer--like when the wrong email was used when sending a document out for signature
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10264

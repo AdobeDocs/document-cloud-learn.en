@@ -1,6 +1,7 @@
 ---
 title: Setting up Merge Mapping in Salesforce
 description: Learn how to merge data from Salesforce directly into an Acrobat Sign document
+feature: Integrations
 role: Admin
 topic: Integrations
 level: Intermediate

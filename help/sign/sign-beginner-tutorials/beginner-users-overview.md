@@ -1,6 +1,7 @@
 ---
 title: Getting Started Overview
 description: Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847

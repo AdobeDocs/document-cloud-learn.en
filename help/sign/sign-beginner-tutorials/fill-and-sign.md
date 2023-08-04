@@ -1,6 +1,7 @@
 ---
 title: Filling and Signing a Document
 description: Learn how to fill in forms and add your electronic signature to documents
+feature: Form, Sign
 role: User
 level: Beginner
 jira: KT-4964

@@ -1,6 +1,7 @@
 ---
 title: Sending to a Single Recipient
 description: Jump in and learn how easy it is to send out a document for signature
+feature: Sign
 role: User
 level: Beginner
 jira: KT-4965

@@ -1,6 +1,7 @@
 ---
 title: Configure notifications for events and alerts
 description: Learn how to configure notifications for events and alerts
+feature: Administration
 role: User, Admin
 level: Intermediate
 jira: KT-5507

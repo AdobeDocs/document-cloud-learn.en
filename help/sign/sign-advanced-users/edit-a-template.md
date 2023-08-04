@@ -1,6 +1,7 @@
 ---
 title: Manage Document Templates
 description: Edit or delete a template from your library
+feature: Administration
 role: User, Admin
 level: Intermediate
 jira: KT-5328

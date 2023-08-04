@@ -1,6 +1,7 @@
 ---
 title: Creating a Report Chart
 description: Learn how to build, save, and manage your own custom reports and data exports
+feature: Administration, Report
 role: User, Admin
 level: Intermediate
 jira: KT-5504

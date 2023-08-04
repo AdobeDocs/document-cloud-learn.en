@@ -1,6 +1,7 @@
 ---
 title: Set Up Online Payments
 description: Learn how to set up and accept online payments in your documents
+feature: Payments
 role: User
 level: Intermediate
 jira: KT-10606

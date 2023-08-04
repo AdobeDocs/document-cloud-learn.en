@@ -1,6 +1,7 @@
 ---
 title: Create an Education Web Form Internship Application
 description: Learn how to create an internship web form
+feature: Use Cases, Web Forms
 role: User, Admin
 level: Intermediate
 jira: KT-13695

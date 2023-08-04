@@ -1,6 +1,7 @@
 ---
 title: Send documents for notarization
 description: Learn how to send a document for notarization
+feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations

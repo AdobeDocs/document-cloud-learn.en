@@ -1,6 +1,7 @@
 ---
 title: Acrobat Sign Tutorials
 description: A collection of tutorials, webinars, and use cases designed to quickly bring both beginners and administrators up-to-speed on Acrobat Sign
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
