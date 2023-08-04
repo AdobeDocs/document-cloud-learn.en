@@ -1,7 +1,7 @@
 ---
 title: 60-Second Acrobat Overview
 description: 60-Second Acrobat gives you bite-sized tutorials to help you learn a new trick in Acrobat in one minute or less
-feature: Accessibiity, Edit PDF, Create PDF, Convert PDF, Optimize PDF, Sign, Security, Share, Collaboration
+feature: Accessibility, Edit PDF, Create PDF, Convert PDF, Optimize PDF, Sign, Security, Share, Collaboration
 role: User
 level: Beginner, Intermediate
 jira: KT-8493

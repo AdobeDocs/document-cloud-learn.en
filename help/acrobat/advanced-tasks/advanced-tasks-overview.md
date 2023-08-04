@@ -1,7 +1,7 @@
 ---
 title: Acrobat Advanced Tasks Overview
 description: Go beyond the basics by using these advanced tools in Acrobat
-feature: Accessibiity, Action, Edit PDF, Optimize PDF, Sign, Security
+feature: Accessibility, Action, Edit PDF, Optimize PDF, Sign, Security
 role: User
 level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
