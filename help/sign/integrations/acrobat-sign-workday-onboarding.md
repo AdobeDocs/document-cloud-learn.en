@@ -5,6 +5,7 @@ feature: Integrations
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
+jira: KT-13006
 exl-id: e8a1b95e-d2ee-4d84-a5d2-79678ffa17e2
 ---
 # Acrobat Sign + Workday new hire onboarding
