@@ -22,6 +22,8 @@ You can use Acrobat Sign inside other applications your organization already use
 
 ## What's new
 
+* [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
+  Learn how Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] for Field Service are used to streamline customer on-site engagements.
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
   Learn how Acrobat Sign and [!DNL Microsoft Dynamics 365] for Customer Service are used to improve customer satisfaction on a self-service customer web portal
 * [Integrate a web form with [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
@@ -126,8 +128,13 @@ You can use Acrobat Sign inside other applications your organization already use
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="dynamics-field-service.md">
+      <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
+    </a>
     <div>
+    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    </div>
+    <em>Learn how Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] for Field Service are used to streamline customer on-site engagements</em>
     <br>
   </td>
   <td>

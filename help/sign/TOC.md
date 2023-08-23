@@ -102,6 +102,7 @@ type: Tutorial
     + [Document automation with Acrobat Sign for [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
     + [Send for signature in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
     + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
+    + [Microsoft Dynamics 365 for Field Service](integrations/dynamics-field-service.md)
   + Notarize {#notarize}
     + [Send documents for notarization](integrations/send-document-notarize.md)
   + Salesforce {#salesforce}
