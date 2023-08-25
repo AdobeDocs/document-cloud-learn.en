@@ -2,7 +2,7 @@
 title: Microsoft Dynamics 365 for Sales
 description: Learn how Acrobat Sign and [!DNL Microsoft Dynamics 365] for Sales are used to automate the sales quote signing process
 feature: Integrations
-role: Admin, User
+role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13722
