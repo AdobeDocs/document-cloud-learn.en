@@ -22,6 +22,8 @@ You can use Acrobat Sign inside other applications your organization already use
 
 ## What's new
 
+* [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
+  Learn how Acrobat Sign and [!DNL Microsoft Dynamics 365] for Sales are used to automate the sales quote signing process
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
   Learn how Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] for Field Service are used to streamline customer on-site engagements
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
@@ -138,8 +140,13 @@ You can use Acrobat Sign inside other applications your organization already use
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="dynamics-sales.md">
+      <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
+    </a>
     <div>
+    <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
+    </div>
+    <em>Learn how Acrobat Sign and [!DNL Microsoft Dynamics 365] for Sales are used to automate the sales quote signing process</em>
     <br>
   </td>
   <td>

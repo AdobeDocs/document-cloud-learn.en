@@ -1,8 +1,8 @@
 ---
 title: Microsoft Dynamics 365 for Field Service
-description: Learn how Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] for Field Service are used to streamline customer on-site engagements.
+description: Learn how Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] for Field Service are used to streamline customer on-site engagements
 feature: Integrations
-role: Admin, User
+role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13723

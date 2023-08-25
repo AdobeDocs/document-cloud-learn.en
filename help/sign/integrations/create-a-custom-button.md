@@ -6,6 +6,7 @@ role: Admin
 topic: Integrations
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-17352
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
 ---

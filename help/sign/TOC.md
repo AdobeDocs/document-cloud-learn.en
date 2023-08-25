@@ -101,8 +101,9 @@ type: Tutorial
     + [Auto archive files in [!DNL SharePoint] with [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
     + [Document automation with Acrobat Sign for [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
     + [Send for signature in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-    + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
-    + [Microsoft Dynamics 365 for Field Service](integrations/dynamics-field-service.md)
+    + [[!DNL Microsoft Dynamics 365] for Customer Service](integrations/dynamics-customer-service.md)
+    + [[!DNL Microsoft Dynamics 365] for Field Service](integrations/dynamics-field-service.md)
+    + [[!DNL Microsoft Dynamics 365] for Sales](integrations/dynamics-sales.md)
   + Notarize {#notarize}
     + [Send documents for notarization](integrations/send-document-notarize.md)
   + Salesforce {#salesforce}
