@@ -1,7 +1,7 @@
 ---
 title: Getting a Signature In Person
 description: Learn how to get someone else's signature in person using the Acrobat Sign mobile app
-features: Mobile, Sign
+feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-5317

@@ -2,7 +2,7 @@
 title: Integrations Overview
 description: Learn how to add Acrobat Sign to your existing systems, processes, and applications
 feature: Integrations
-role: User
+role: User, Admin
 product: adobe sign
 level: Intermediate
 jira: KT-6850

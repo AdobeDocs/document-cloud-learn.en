@@ -8,6 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 feature-set: Document Cloud
+role: User
 ---
 
 # Unleash Digital Experiences with Adobe Document Cloud {#lab719}
