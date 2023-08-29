@@ -2,6 +2,7 @@
 title: Acrobat Sign + Workday new hire onboarding
 description: Learn how to streamline onboarding workflows with Acrobat Sign + Workday
 feature: Integrations
+role: User
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations

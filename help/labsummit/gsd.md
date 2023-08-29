@@ -1,7 +1,7 @@
 ---
 title: Exercises for Unleash Digital Experiences with Adobe Document Cloud
 description: Learn some tricks and tips for using Adobe Document Cloud
-featre: Form, Sign, Share, Collaboration
+feature: Form, Sign, Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner
