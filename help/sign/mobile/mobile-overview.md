@@ -38,11 +38,11 @@ Send documents for signature, track e-signing progress, and get real-time update
     <br>
   </td>
   <td>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank">
+    <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank">
       <img alt="Download for iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download Acrobat Sign Mobile app for iOS</strong></a>
+    <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank"><strong>Download Acrobat Sign Mobile app for iOS</strong></a>
     <br>
   </td>
   <td>
