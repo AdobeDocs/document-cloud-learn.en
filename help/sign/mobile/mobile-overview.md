@@ -18,6 +18,16 @@ Send documents for signature, track e-signing progress, and get real-time update
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="sign-mobile.md">
+      <img alt="Sign documents on the go" src="assets/signmobile.png" />
+    </a>
+    <div>
+    <a href="sign-mobile.md"><strong>Sign documents on the go</strong></a>
+    </div>
+    <em>Learn how to sign documents using the Acrobat Sign mobile app</em>
+    <br>
+  </td>
+  <td>
     <a href="liquidmode.md">
       <img alt="Liquid Mode in Acrobat Sign" src="assets/liquidmode.png" />
     </a>
@@ -28,11 +38,11 @@ Send documents for signature, track e-signing progress, and get real-time update
     <br>
   </td>
   <td>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank">
+    <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank">
       <img alt="Download for iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download Acrobat Sign Mobile app for iOS</strong></a>
+    <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank"><strong>Download Acrobat Sign Mobile app for iOS</strong></a>
     <br>
   </td>
   <td>
@@ -41,11 +51,6 @@ Send documents for signature, track e-signing progress, and get real-time update
     </a>
     <div>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en" target="_blank"><strong>Download Acrobat Sign Mobile app for Android</strong></a>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>

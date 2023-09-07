@@ -154,4 +154,5 @@ type: Tutorial
 + Mobile {#mobile}
   + [Overview](mobile/mobile-overview.md)
   + Mobile tutorials {#mobile-tutorials}
+    + [Sign documents on the go](mobile/sign-mobile.md)
     + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
