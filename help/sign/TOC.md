@@ -11,6 +11,7 @@ breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
+auto-video-transcripts: true
 ---
 
 # Acrobat Sign Tutorials {#sign-learning-hub}
