@@ -5,7 +5,7 @@ feature: Collaboration, Integrations
 role: User
 level: Intermediate
 jira: KT-13296
-exl-id: b8411496-6488-4c13-b26e-dd5f6b825494
+exl-id: 9276d255-6e6e-461b-abc9-77aaa62e827a
 ---
 # Share and comment on PDF files in Teams
 

@@ -5,7 +5,7 @@ feature: Administration, Report
 role: Admin
 level: Intermediate
 jira: KT-13235
-exl-id: 3e8f8800-c662-46a2-bcc3-12d804db0ee3
+exl-id: 82e3b476-c213-488e-becb-18c6d645a8e4
 ---
 # Report options for users
 

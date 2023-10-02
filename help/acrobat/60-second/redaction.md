@@ -5,7 +5,7 @@ feature: Security
 role: User
 level: Intermediate
 jira: KT-13294
-exl-id: b958e3fc-679b-4d59-9e51-10a1b826d812
+exl-id: dc81aa16-762c-4e3f-b89b-e4224bdfcc68
 ---
 # Redaction: The right way
 

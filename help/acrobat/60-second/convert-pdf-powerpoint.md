@@ -5,7 +5,7 @@ feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13290
-exl-id: b5b3908e-422e-4ee5-95e9-5fd72c165242
+exl-id: ed397b50-9b11-44ba-adeb-e962a078e772
 ---
 # Convert a PDF to PowerPoint
 

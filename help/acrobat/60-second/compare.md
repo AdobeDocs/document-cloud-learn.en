@@ -5,7 +5,7 @@ feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13297
-exl-id: aeddfbba-e5c6-4a4d-a187-6b925d8a31af
+exl-id: a8fb0348-a247-4643-9c50-3758c5ac1ad2
 ---
 # Spot the differences with PDF compare
 

@@ -5,7 +5,7 @@ feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13291
-exl-id: a4c8dc0e-920b-431c-bd74-eb27e2c4418b
+exl-id: 9b513285-95c4-4513-8a2a-709d5f616fae
 ---
 # Convert a PDF to Word
 

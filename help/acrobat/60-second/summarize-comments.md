@@ -5,7 +5,7 @@ feature: Collaboration
 role: User
 level: Intermediate
 jira: KT-13298
-exl-id: ae50f2c7-3636-4095-8a63-025382ebbe07
+exl-id: 320d4094-dc23-4a5a-8975-e5e6b96105e5
 ---
 # Wrangling PDF comments with Summarize
 

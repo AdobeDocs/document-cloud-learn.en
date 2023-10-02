@@ -5,7 +5,7 @@ feature: Security, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-10982
-exl-id: 2341c6f4-457b-467c-94a2-4504b4e32dbd
+exl-id: d1e28be4-333b-4f84-822c-ae45fcdc31e3
 ---
 # Authentication methods in Acrobat Sign
 

@@ -5,7 +5,7 @@ feature: Create PDF
 role: User
 level: Beginner
 jira: KT-13292
-exl-id: a61848c0-2a24-4006-a740-f09ec7370598
+exl-id: 97833c3b-7e9e-41f0-8a90-37ecbd9e07a0
 ---
 # Create a PDF from [!DNL Microsoft Word]
 

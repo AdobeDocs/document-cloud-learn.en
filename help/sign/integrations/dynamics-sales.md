@@ -6,6 +6,7 @@ role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13722
+exl-id: e15a71b4-82c7-48a7-bcdc-9e33cbfb5caf
 ---
 # [!DNL Microsoft Dynamics 365] for Sales
 

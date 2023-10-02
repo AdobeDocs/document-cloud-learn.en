@@ -5,7 +5,7 @@ feature: Share, Collaboration
 role: User
 level: Beginner
 jira: KT-13295
-exl-id: efba836a-17be-44b3-9126-4540aa7ec942
+exl-id: d3c633aa-29e8-4878-a3fc-057121d7b0da
 ---
 # Share a PDF for commenting
 

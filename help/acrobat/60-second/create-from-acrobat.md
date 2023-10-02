@@ -5,7 +5,7 @@ feature: Create PDF
 role: User
 level: Beginner
 jira: KT-13293
-exl-id: 443e1119-3dcd-4686-8b31-be65af4ba9b1
+exl-id: 0a8edb8e-50c5-4ab1-abc7-664c3b463f2d
 ---
 # Create PDF files with Acrobat
 

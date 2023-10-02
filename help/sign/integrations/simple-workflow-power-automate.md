@@ -6,6 +6,7 @@ role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13924
+exl-id: f26af655-8ffc-44c9-9b88-9b0df4ee2bbd
 ---
 # Create a simple workflow with [!DNL Power Automate]
 

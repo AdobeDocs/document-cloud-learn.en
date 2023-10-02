@@ -5,6 +5,7 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-13873
+exl-id: 1ab0fa99-60c5-4c65-8ce8-f4a74970f2d9
 ---
 # Sign documents on the go
 

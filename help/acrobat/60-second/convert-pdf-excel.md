@@ -5,7 +5,7 @@ feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13289
-exl-id: bf55affc-d7ac-4d55-a77f-cfd72c6a8ffd
+exl-id: e08c8e00-3d78-45a0-ba15-c164c40653c0
 ---
 # Convert a PDF to Excel
 

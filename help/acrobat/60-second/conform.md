@@ -5,7 +5,7 @@ feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13287
-exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
+exl-id: ea0645d9-d0c4-4256-8a17-87fc8839a087
 ---
 # Conform a PDF to a standard format
 

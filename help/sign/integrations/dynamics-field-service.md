@@ -6,6 +6,7 @@ role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13723
+exl-id: 1a82ddf7-8584-441f-b745-785e5d5b3c90
 ---
 # [!DNL Microsoft Dynamics 365] for Field Service
 

@@ -6,6 +6,7 @@ role: Admin, User
 level: Intermediate
 topic: Integrations
 jira: KT-13232
+exl-id: d028dc18-51ca-4326-bccc-f42f1114f77a
 ---
 # [!DNL Microsoft Dynamics 365] for Customer Service
 
