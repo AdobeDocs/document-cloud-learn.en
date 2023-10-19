@@ -10,8 +10,6 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 ---
 # Getting started overview
 
-![Sign Getting Started Image](../assets/Hero-GettingStarted.png)
-
 Get up-to-speed on how to send, sign, and track documents with these brief step-by-step tutorials. Get a quick tour of Acrobat Sign and then jump into sending a document to one or more people. This content is designed to ease you into e-signature workflows.
 
 ## What's new

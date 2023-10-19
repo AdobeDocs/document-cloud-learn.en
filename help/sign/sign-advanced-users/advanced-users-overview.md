@@ -10,8 +10,6 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 ---
 # Advanced tasks overview
 
-![Sign Advanced Image](../assets/Hero-Advanced.png)
-
 Learn how to send out a document for signature to 100s of recipients at once, set up a signature-ready document for your website, manage signature transactions, and create and manage document templates. These tutorials are for anyone who's already familiar with the basics of sending and requesting signatures, and wants to learn more ways Acrobat Sign can work for them.
 
 ## What's new

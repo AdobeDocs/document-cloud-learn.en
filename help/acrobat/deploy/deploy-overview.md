@@ -10,8 +10,6 @@ exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
 ---
 # Deploy overview
 
-![Acrobat Deployment Image](../assets/Hero-Deploy.png)
-
 Deployment and best practice articles with valuable insight and knowledge gained by working with our customers.
 
 * Learn how to [Deploy Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} if you are using Adobe&reg; Creative Cloud&trade; for teams or enterprise.

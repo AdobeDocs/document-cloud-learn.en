@@ -10,8 +10,6 @@ exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
 ---
 # Industries and departments overview
 
-![Acrobat Industry Image](../assets/Hero-Industry.png)
-
 Learn how you can transform customer and employee experiences by exploring industry use cases and inspirational ideas.
 
 ## Industries and departments

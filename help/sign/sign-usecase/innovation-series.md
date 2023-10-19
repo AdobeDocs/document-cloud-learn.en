@@ -11,8 +11,6 @@ exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
 ---
 # Acrobat Sign Skill Builder
 
-![Skill Builder Banner](../assets/SB_Hero.png) 
-
 Acrobat Sign Skill Builders are 30-minute sessions designed to put your e-signatures to work—without adding any extra work to your day. Each month a new topic is highlighted.
 
 ## Monthly sessions

@@ -7,7 +7,7 @@ role: User
 type: Tutorial
 ---
 
-# Acrobat tutorials {#acrobat-learning}
+# Acrobat Tutorials {#acrobat-learning}
 
 + [Overview](overview.md)
 + Getting started {#getting-started}
