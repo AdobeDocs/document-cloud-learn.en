@@ -13,8 +13,6 @@ exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 ---
 # Integrations overview
 
-![Sign Integrate Image](../assets/Hero-Integrate.png)
-
 You can use Acrobat Sign inside other applications your organization already uses, such as Microsoft, Salesforce, Workday, and Marketo to name a few. Learn how you can simplify your e-signature workflows in these integration guides and tutorials. 
 
 >[!NOTE]

@@ -10,8 +10,6 @@ exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 ---
 # Deploy overview
 
-![Sign Deploy Image](assets/Hero-Deploy.png)
-
 Best practice articles with valuable insight on deploying Acrobat Sign within your organization.
 
 <table style="table-layout:fixed">

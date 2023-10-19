@@ -10,8 +10,6 @@ exl-id: 753b7016-6331-40df-9003-5acee8be752a
 ---
 # Digital ID overview
 
-![Sign Digital ID Image](../assets/Hero-DigitalID.png)
-
 Similar to a passport in electronic form, a digital identity (digital ID) allows you to securely prove that you are who you say you are. And, when e-signing in Acrobat Sign, using a digital ID provides a higher level of assurance that you authorized your e-signature on that specific document. The following tutorials show you how to use digital IDs from around the world with Acrobat Sign.
 
 >[!NOTE]

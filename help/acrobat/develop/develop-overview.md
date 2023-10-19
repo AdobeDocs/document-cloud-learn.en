@@ -10,8 +10,6 @@ exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
 ---
 # Develop overview
 
-![Acrobat Develop Image](../assets/Hero-Develop.png)
-
 Develop software that integrates with Acrobat and Adobe Reader using JavaScript, Plug-ins, or IAC.
 
 ## Acrobat SDK

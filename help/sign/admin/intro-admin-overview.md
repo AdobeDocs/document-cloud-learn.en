@@ -11,8 +11,6 @@ exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 ---
 # Administrators overview
 
-![Sign Administrators Image](../assets/Hero-Admin.png)
-
 Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Acrobat Sign. The Advanced Tasks cover topics that expand past the admin setup and move into defining global settings, account access and sharing, and text tagging.
 
 ## What's new

@@ -9,9 +9,7 @@ thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
 ---
-# Use case showcase 
-
-![use case banner](../assets/UCSC_Rebrand.png)
+# Use case showcase
 
 The use case showcase is a livestream session introducing you to new Acrobat Sign use cases, trends, and showing how your organization can implement and benefit from them. Each month a new topic is highlighted.
 

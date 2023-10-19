@@ -11,8 +11,6 @@ exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 ---
 # Mobile overview
 
-![Sign Mobile Image](../assets/Hero-Mobile.png)
-
 Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device.
 
 <table style="table-layout:fixed">
