@@ -10,8 +10,6 @@ exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
 ---
 # Adobe Acrobat Skill Builder webinars
 
-![Acrobat Skill Builder Image](../assets/sbacrobatwebinars.png)
-
 Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDF workflows to the next level. Each month a new topic is highlighted.
 
 ## Monthly sessions
