@@ -14,10 +14,10 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
+* [Stylize this PDF](stylize-this-PDF.md)
+  Learn how to create professional-looking PDFs with the integrated easy-to-use design tools in Adobe Express
 * [Work anywhere with Acrobat web](acrobatweb.md)
   Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser
-* [Collaborate in real time](collaborate.md)
-  Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere
 
 ## Getting started tutorials
 
@@ -160,6 +160,16 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="Stylize this PDF" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Stylize this PDF</strong></a>
+      </div>
+      <em>Learn about the new editing mode that auto-adjusts content</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="Auto-adjust layout" src="../assets/Autoadjust.png" />
       </a>
@@ -177,11 +187,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <a href="export-pdf.md"><strong>Export a PDF to editable formats</strong></a>
       </div>
       <em>Learn how to export your PDF files to editable formats</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>
