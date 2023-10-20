@@ -23,6 +23,7 @@ type: Tutorial
   + [Organize Pages](getting-started/organize.md)
   + [Add Custom Page](getting-started/add-custom-page.md)
   + [Edit a PDF](getting-started/edit-pdf.md)
+  + [Stylize this PDF](getting-started/stylize-this-PDF.md)
   + [Auto-adjust layout](getting-started/auto-adjust-layout.md)
   + [Export a PDF to editable formats](getting-started/export-pdf.md)
   + [Collaborate in real time](getting-started/collaborate.md)
