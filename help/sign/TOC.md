@@ -103,6 +103,7 @@ auto-video-transcripts: true
     + [Document automation with Acrobat Sign for [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
     + [Send for signature in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
     + [Create a simple workflow in [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
+    + [Create an advanced workflow in [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
     + [[!DNL Microsoft Dynamics 365] for Customer Service](integrations/dynamics-customer-service.md)
     + [[!DNL Microsoft Dynamics 365] for Field Service](integrations/dynamics-field-service.md)
     + [[!DNL Microsoft Dynamics 365] for Sales](integrations/dynamics-sales.md)
