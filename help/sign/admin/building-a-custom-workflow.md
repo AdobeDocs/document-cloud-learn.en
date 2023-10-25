@@ -12,10 +12,12 @@ exl-id: b892b278-cf83-461d-a548-57237b85b297
 
 Learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.
 
-Check out these additional real-world use cases:
+[!BADGE Use Cases]
 
-* [Government Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) use case.
-* [Commercial Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) use case.
+* [Custom workflow for education IEP process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+  Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process
+* [Government Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [Commercial Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >

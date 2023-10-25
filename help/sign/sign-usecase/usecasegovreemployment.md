@@ -14,6 +14,6 @@ Help citizens get the help they need without standing in line with all-digital a
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 
-Click to download step-by-step PDF recipe for reemployment assistance.
+Select to download or open a step-by-step PDF recipe for reemployment assistance.
 
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)

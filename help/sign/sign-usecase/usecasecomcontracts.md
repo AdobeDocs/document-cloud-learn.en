@@ -14,6 +14,6 @@ Quickly replace paper processing with compliant digital workflows, complete with
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
-Click to download step-by-step PDF recipe for contracts and requisition forms.
+Select to download or open a step-by-step PDF recipe for contracts and requisition forms.
 
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
