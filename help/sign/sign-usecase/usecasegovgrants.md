@@ -14,6 +14,6 @@ Give fast assistance to businesses by providing self-serve access to grant, loan
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
-Click to download step-by-step PDF recipe for business grants and loans.
+Select to download or open a step-by-step PDF recipe for business grants and loans.
 
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

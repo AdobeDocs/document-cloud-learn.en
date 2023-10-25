@@ -14,6 +14,6 @@ Use e-signatures and web conferencing together to reduce the time it takes to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/33813?quality=12&learn=on&hidetitle=true)
 
-Click to download step-by-step PDF recipe for remote warrant request.
+Select to download or open a step-by-step PDF recipe for remote warrant request.
 
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

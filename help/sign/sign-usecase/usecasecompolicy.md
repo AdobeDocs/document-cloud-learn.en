@@ -14,6 +14,6 @@ Efficiently collect signatures from all your employees on Policy Agreements, pol
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
-Click to download step-by-step PDF recipe for policy agreements.
+Select to download or open a step-by-step PDF recipe for policy agreements.
 
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

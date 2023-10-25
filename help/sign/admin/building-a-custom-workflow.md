@@ -12,7 +12,7 @@ exl-id: b892b278-cf83-461d-a548-57237b85b297
 
 Learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.
 
-[!BADGE Use Case]
+[!BADGE Use Cases]
 
 * [Custom workflow for education IEP process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
   Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process
