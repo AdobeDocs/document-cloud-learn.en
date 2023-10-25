@@ -14,7 +14,7 @@ Learn how to tailor and automate document workflows to get electronic signatures
 
 [!BADGE Use Case]
 
-* [Custom workflow for education IEP process](usecase-edu-iep.md)
+* [Custom workflow for education IEP process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
   Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process
 * [Government Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
 * [Commercial Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)

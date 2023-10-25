@@ -14,9 +14,9 @@ Learn how to create a document that can be signed electronically directly on you
 
 [!BADGE Use Case]
 
-* [Education web form internship application](usecase-edu-intern.md)
+* [Education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
   Learn how web forms are used to improve students' access to required forms
-* [Create an education web form internship application](usecase-edu-intern-create.md)
+* [Create an education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
   Learn how to create an internship web form
 * [Government loan application with multiple unknown signers](webform-multiple-signers.md)
   Learn how a web form is used for a complex government loan application workflow that involves multiple unknown participants
