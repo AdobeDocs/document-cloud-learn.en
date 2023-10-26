@@ -20,7 +20,7 @@ You can use Acrobat Sign inside other applications your organization already use
 
 ## What's new
 
-* [Live Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+* [Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
   Learn how to create an online signing experience that resembles in-person signing during a [!DNL Microsoft Teams] meeting
 * [Create an advanced workflow with [!DNL Power Automate]](advanced-workflow-power-automate.md)
    Learn how to create an advance workflow using [!DNL Power Automate] connectors
@@ -117,10 +117,10 @@ You can use Acrobat Sign inside other applications your organization already use
 <tr>
   <td>
     <a href="live-sign-microsoft-teams.md">
-      <img alt="Live Sign in [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+      <img alt="Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>Live Sign in [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Learn how to create an online signing experience that resembles in-person signing during a [!DNL Microsoft Teams] meeting</em>
     <br>
