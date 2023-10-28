@@ -6,6 +6,7 @@ role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13925
+exl-id: d4d10319-c230-4bdd-9510-4fcdbf793e90
 ---
 # Create an advanced workflow with [!DNL Power Automate]
 

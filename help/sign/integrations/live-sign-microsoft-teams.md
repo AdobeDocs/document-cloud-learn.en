@@ -7,6 +7,7 @@ topic: Integrations
 level: Intermediate
 jira: KT-14239
 topic-revisit: Integrations
+exl-id: 82241266-bcf8-49bd-96e8-aa788607f079
 ---
 # Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]
 
