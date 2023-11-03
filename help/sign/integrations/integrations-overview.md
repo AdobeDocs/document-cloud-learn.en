@@ -22,10 +22,10 @@ You can use Acrobat Sign inside other applications your organization already use
 
 * [Documents tab integration in [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
   Learn how to send documents out for signature directly from the Documents tab in [!DNL Microsoft Teams]
-* [Live Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+* [Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
   Learn how to create an online signing experience that resembles in-person signing during a [!DNL Microsoft Teams] meeting
 * [Create an advanced workflow with [!DNL Power Automate]](advanced-workflow-power-automate.md)
-   Learn how to create an advance workflow using [!DNL Power Automate] connectors
+  Learn how to create an advance workflow using [!DNL Power Automate] connectors
 
 ## Microsoft integrations tutorials
 
