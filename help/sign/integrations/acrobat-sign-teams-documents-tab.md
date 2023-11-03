@@ -1,5 +1,5 @@
 ---
-title: Documents Tab Integration in [!DNL Microsoft Teams]
+title: Documents Tab Integration for [!DNL Microsoft Teams]
 description: Learn how to send documents out for signature directly from the Documents tab in [!DNL Microsoft Teams]
 feature: Integrations
 role: User
@@ -8,7 +8,7 @@ level: Beginner
 jira: KT-14243
 topic-revisit: Integrations
 ---
-# Documents tab integration in [!DNL Microsoft Teams]
+# Documents tab integration for [!DNL Microsoft Teams]
 
 Learn how to send documents out for signature directly from the Documents tab in [!DNL Microsoft Teams].
 
