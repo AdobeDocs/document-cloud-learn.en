@@ -4,7 +4,7 @@ description: Learn how to send documents out for signature directly from the Doc
 feature: Integrations
 role: User
 topic: Integrations
-level: Intermediate
+level: Beginner
 jira: KT-14243
 topic-revisit: Integrations
 ---

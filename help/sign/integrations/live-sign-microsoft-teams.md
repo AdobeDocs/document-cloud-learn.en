@@ -1,5 +1,5 @@
 ---
-title: Live Sign in Adobe Acrobat Sign for NL Microsoft Teams]
+title: Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]
 description: Learn how to create an online signing experience that resembles in-person signing during a [!DNL Microsoft Teams] meeting
 feature: Integrations
 role: User
