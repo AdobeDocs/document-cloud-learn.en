@@ -19,7 +19,7 @@ Learn how to send and collect thousands of signatures in just a few short steps 
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Download sample CSV file in ZIP format](../assets/sendInBulkSample.zip)
+[Download sample CSV file in ZIP format](../assets/sendInBulkSample.zip). Learn about all the values you can set in your CSV file [here](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
