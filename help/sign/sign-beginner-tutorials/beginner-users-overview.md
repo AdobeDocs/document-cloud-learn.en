@@ -19,7 +19,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 * [Set deadlines and reminders](set-deadlines-reminders.md)
   Learn how to send regular email reminders and deadlines to help get your documents signed quickly
 
-## Sending
+## Send
 
 <table style="table-layout:fixed">
 <tr>
@@ -135,7 +135,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 </tr>
 </table>
 
-## Signing
+## Sign
 
 <table style="table-layout:fixed">
 <tr>
@@ -214,7 +214,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 </tr>  
 </table>
 
-## Managing
+## Manage
 
 <table style="table-layout:fixed">
 <tr>

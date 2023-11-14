@@ -19,7 +19,7 @@ auto-video-transcripts: true
 + [Overview](overview.md)
 + Getting started {#getting-started}
   + [Overview](sign-beginner-tutorials/beginner-users-overview.md)
-  + Sending {#getting-started-sending}
+  + Send {#getting-started-sending}
     + [Workspace basics](sign-beginner-tutorials/quick-tour.md)
     +  [Getting started with Acrobat Sign](sign-beginner-tutorials/new-sender.md)
     + [Sending to a single recipient](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -29,30 +29,30 @@ auto-video-transcripts: true
     + [Modifying a document after sending](sign-beginner-tutorials/modify-in-flight.md)
     + [Replacing a signer](sign-beginner-tutorials/replace-signer.md)
     + [Set deadlines and reminders](sign-beginner-tutorials/set-deadlines-reminders.md)
-  + Signing {#getting-started-signing}
+  + Sign {#getting-started-signing}
     + [Electronically signing a document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and signing a document](sign-beginner-tutorials/fill-and-sign.md)
     + [Getting a signature in person](sign-beginner-tutorials/sign-in-person.md)
     + [Delegate signing to someone else](sign-beginner-tutorials/delegate-signing.md)
     + [What's a digital signature?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
     + [Signing with a stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
-  + Managing {#getting-started-managing}
+  + Manage {#getting-started-managing}
     + [Manage & track your agreements](sign-beginner-tutorials/manage-and-track.md)
     + [Creating a document template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Advanced tasks {#advanced-tasks}
   + [Overview](sign-advanced-users/advanced-users-overview.md)
-  + Sending {#advanced-tasks-sending}
+  + Send {#advanced-tasks-sending}
     + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
     + [Using the delegator role](sign-advanced-users/delegate-signature.md)
     + [Using the approver role](sign-advanced-users/add-an-approver.md)
     + [Authentication methods in Acrobat Sign](sign-advanced-users/authentication-methods.md)
     + [Manage form data](sign-advanced-users/manage-form-data.md)
     + [Set up online payments](sign-advanced-users/set-up-online-payments.md)
-    + [Send & collect signatures in bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)      
+    + [Send in Bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)      
     + [Creating a web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
     + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
     + [Using Text Tagging in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
-  + Managing {#advanced-tasks-managing}
+  + Manage {#advanced-tasks-managing}
     + [Creating a report](sign-advanced-users/creating-a-report.md)
     + [Manage document templates](sign-advanced-users/edit-a-template.md)
     + [Modify an existing web form](sign-advanced-users/modify-webform.md)

@@ -14,12 +14,12 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 ## What's new
 
+* [Send in Bulk](megasign.md)
+  Learn how to collect thousands of signatures at once for any document in just a few short steps
 * [Authentication methods in Acrobat Sign](authentication-methods.md)
   Learn about the range of methods available in Acrobat Sign to authenticate the identity of someone signing a document
-* [Set up online payments](set-up-online-payments.md)
-  Learn how to set up and accept online payments in your documents
 
-## Sending
+## Send
 
 <table style="table-layout:fixed">
 <tr>
@@ -87,12 +87,12 @@ Learn how to send out a document for signature to 100s of recipients at once, se
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
+        <img alt="Send in Bulk" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Send & collect signatures in bulk</strong></a>
+      <a href="megasign.md"><strong>Send in Bulk</strong></a>
       </div>
-      <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
+      <em>Collect thousands of signatures at once for any document in just a few short steps</em>
       <br>
   </td>
  <td>
@@ -140,7 +140,7 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 </tr>
 </table>
 
-## Managing
+## Manage
 
 <table style="table-layout:fixed">
 <tr>
