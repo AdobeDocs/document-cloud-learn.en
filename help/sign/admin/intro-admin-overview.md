@@ -15,6 +15,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## What's new
 
+* [Send in Bulk](../sign-advanced-users/megasign.md)
+  Learn how to collect thousands of signatures at once for any document in just a few short steps
 * [Report options](report-options.md)
   Learn how to set up report options for users
 * [Adding users](add-users-to-your-account.md)
@@ -140,12 +142,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Send & collect signatures in bulk" src="../assets/Megasign.png" />
+      <img alt="Send in Bulk" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Send & collect signatures in bulk</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Send in Bulk</strong></a>
     </div>
-    <em>Collect hundreds of signatures at once for any document</em>
+    <em>Collect thousands of signatures at once for any document</em>
     <br>
   </td>
 </tr>

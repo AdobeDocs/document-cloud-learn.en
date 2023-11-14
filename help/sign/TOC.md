@@ -71,7 +71,7 @@ auto-video-transcripts: true
     + [Report options for users](admin/report-options.md)
     + [Creating a web form](sign-advanced-users/webform.md)
     + [Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
-    + [Send & collect signatures in bulk](sign-advanced-users/megasign.md)
+    + [Send in Bulk](sign-advanced-users/megasign.md)
     + [Building a custom workflow](admin/building-a-custom-workflow.md)
   + Advanced tasks {#advanced-tasks-admins}
     + [Global settings](admin/learn-about-global-settings.md)
