@@ -1,6 +1,6 @@
 ---
 title: Send in Bulk
-description: Learn how to collect thousands of signatures at once for any document in just a few short steps
+description: Learn how to collect hundreds of signatures at once for any document in just a few short steps
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
@@ -10,7 +10,7 @@ exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05
 ---
 # Send in Bulk
 
-Learn how to send and collect thousands of signatures in just a few short steps saving your organization hours of time. Everyone gets their own document to sign, and you can track the progress of each individual that you've sent the document to—so you know exactly who or who hasn't signed. Each online signature you capture is safe, secure, and legally valid.
+Learn how to send and collect hundreds of signatures in just a few short steps saving your organization hours of time. Everyone gets their own document to sign, and you can track the progress of each individual that you've sent the document to—so you know exactly who or who hasn't signed. Each online signature you capture is safe, secure, and legally valid.
 
 [!BADGE Use Cases]
 

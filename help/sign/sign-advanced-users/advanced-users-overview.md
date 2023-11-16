@@ -92,7 +92,7 @@ Learn how to send out a document for signature to 100s of recipients at once, se
       <div>
       <a href="megasign.md"><strong>Send in Bulk</strong></a>
       </div>
-      <em>Collect thousands of signatures at once for any document in just a few short steps</em>
+      <em>Collect hundreds of signatures at once for any document in just a few short steps</em>
       <br>
   </td>
  <td>
