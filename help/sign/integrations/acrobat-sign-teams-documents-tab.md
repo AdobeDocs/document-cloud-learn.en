@@ -7,6 +7,7 @@ topic: Integrations
 level: Beginner
 jira: KT-14243
 topic-revisit: Integrations
+exl-id: 7520ecdb-c561-400e-86cb-7e19ddf79be0
 ---
 # Documents tab integration for [!DNL Microsoft Teams]
 
