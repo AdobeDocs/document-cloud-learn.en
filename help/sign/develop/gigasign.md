@@ -17,7 +17,7 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 ## Download and install the GigaSign app
 
-[Download GigaSign Zip File](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
+[Download GigaSign Zip File](assets/gigasign/GigaSign.zip)
 
 [Java 1.8 download link (only if needed)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
