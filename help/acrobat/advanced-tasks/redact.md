@@ -16,7 +16,7 @@ Learn to use the Redact tool to permanently remove private or sensitive informat
 >
 >Available in Acrobat Pro only.
 
-[!BADGE Use Cases]
+[!BADGE Organizational Impact]
 Customer data protection, Risk management
 
 ## Redact text & images
