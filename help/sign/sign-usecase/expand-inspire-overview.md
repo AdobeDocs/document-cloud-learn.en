@@ -32,7 +32,7 @@ Learn how you can transform your organization's e-signing experiences by explori
     <div>
     <a href="recipes.md"><strong>Use cases</strong></a>
     </div>
-    <em>Explore how various organizations are using Acrobat Sign with these real world use cases</em>
+    <em>Explore how various organizations are using Acrobat Sign with these real-world use cases</em>
     <br>
   </td>
   <td>
