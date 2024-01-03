@@ -129,7 +129,7 @@ auto-video-transcripts: true
   + [Overview](sign-usecase/expand-inspire-overview.md)
   + Skill Builder {#innovation}
     + [Webinars](sign-usecase/innovation-series.md)
-  + Use Case recipes {#recipes}
+  + Use Cases {#recipes}
     + [Overview](sign-usecase/recipes.md)
     + Government {#gov}
       + [Government loan application with multiple unknown signers](sign-usecase/webform-multiple-signers.md)
