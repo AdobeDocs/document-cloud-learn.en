@@ -16,7 +16,8 @@ Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/p
 >
 >To password protect multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
 
-<br>&nbsp;
+[!BADGE Organizational Impact]
+Information protection, Risk management
 
 >[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
 
