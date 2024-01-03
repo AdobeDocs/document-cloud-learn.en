@@ -1,5 +1,5 @@
 ---
-title: Use Case Recipes
+title: Use Cases
 description: Speed up your organization's digital workflows with these government and commercial e-signature examples
 feature: Use Cases
 role: User
@@ -9,9 +9,9 @@ thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
 ---
-# Use case recipes
+# Use cases
 
-Speed up your organization's digital workflows with these government and commercial e-signature examples. Click to view a PDF with resources and details on how to set up these specific e-signature use cases.
+Explore how various organizations are using Acrobat Sign to transform their organization's digital workflows with these real-world use cases.
 
 ## What's new
 

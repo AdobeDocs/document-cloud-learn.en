@@ -27,12 +27,12 @@ Learn how you can transform your organization's e-signing experiences by explori
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Use case recipes" src="../assets/Expand_RecipeR.png" />
+      <img alt="Use cases" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Use case recipes</strong></a>
+    <a href="recipes.md"><strong>Use cases</strong></a>
     </div>
-    <em>Download the resources you need to quickly deploy various e-signature department workflows on your own</em>
+    <em>Explore how various organizations are using Acrobat Sign with these real world use cases</em>
     <br>
   </td>
   <td>
