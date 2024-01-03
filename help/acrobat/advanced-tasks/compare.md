@@ -12,12 +12,18 @@ exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
 
 Never make the mistake of working with the wrong version of a file. Quickly and accurately detect the differences between two PDF files to improve document review workflows.
 
->[!NOTE]
->
->Available in Acrobat Pro only.
+[!BADGE Use Cases]
+Applications, Collateral, Fact Sheets, Manuals, Policies, Reports, Request for Purchase (RFPs)
+
+[!BADGE Organizational Impact]
+Cost Savings, Organizational Efficiency, Time Savings, Quality Assurance
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
 >This video is part of the course [Work smarter with Acrobat DC and Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!
+
+>[!NOTE]
+>
+>Available in Acrobat Pro only.
