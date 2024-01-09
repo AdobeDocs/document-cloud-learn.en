@@ -38,7 +38,7 @@ Learn how to:
 
 **[Simple Automation with Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
 Date: November 16, 2023
-Stop repeating simple manual tasks. This session will teach you how to use Action Wizard in Acrobat Pro to batch-process your PDF files and perform serial, repetitive tasks automatically — like making documents accessible, protecting documents, optimizing files, archiving, and more. You'll learn:
+Stop repeating simple manual tasks. This session will teach you how to use Action Wizard in Acrobat Pro to batch-process your PDF files and perform serial, repetitive tasks automatically — like making documents accessible, protecting documents, optimizing files, archiving, and more. Learn how to:
 
 * What actions are
 * How to use pre-built actions
