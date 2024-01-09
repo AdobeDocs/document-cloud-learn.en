@@ -1,6 +1,6 @@
 ---
 title: Adobe Acrobat Skill Builder Webinars
-description: Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDf workflows to the next level
+description: Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDF workflows to the next level
 feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
 role: User
