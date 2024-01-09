@@ -14,6 +14,28 @@ Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDF wo
 
 ## Monthly sessions
 
+**[Discover 6 Essential Adobe Acrobat Tools](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
+Date: January 24, 2024
+Learn what industry reports say about top trends in the world of digital work and how Acrobat easily consolidates document workflows to save every team precious time.
+We'll show you how to:
+
+* Navigate Acrobat smoothly across multiple surfaces
+* Easily combine and edit documents
+* Collaborate effortlessly — even in Microsoft Teams
+* Protect documents with world-class security
+* CQuickly send and e-sign documents
+
+**[Get Started With Adobe Acrobat](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
+Date: January 18, 2024
+Learn how Adobe Acrobat does the heavy lifting of everyday document tasks to support fast, secure business.
+You'll learn how to:
+
+* Navigate Acrobat smoothly across multiple surfaces
+* Quickly combine and edit documents
+* Collaborate with ease — even in Microsoft Teams
+* Protect valuable information in a few simple steps
+* Create effortless e-signature workflows with Adobe Acrobat Sign
+
 **[Simple Automation with Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
 Date: November 16, 2023
 Stop repeating simple manual tasks. This session will teach you how to use Action Wizard in Acrobat Pro to batch-process your PDF files and perform serial, repetitive tasks automatically — like making documents accessible, protecting documents, optimizing files, archiving, and more. You'll learn:
