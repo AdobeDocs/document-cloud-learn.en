@@ -5,6 +5,7 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
+auto-video-transcripts: true
 ---
 
 # Acrobat Tutorials {#acrobat-learning}
