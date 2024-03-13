@@ -13,11 +13,15 @@ exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
 
 Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. It is designed for high-volume communications with your employees and customers--supporting up to 2,500 recipients with each bulk send. GigaSign uses the Acrobat Sign API to provide the same functionality as MegaSign, and includes support for multiple signers, recipient groups, recipient roles, agreement names, carbon copy, and more. 
 
+>[!IMPORTANT]
+>
+>GigaSign is no longer being updated to the latest version of Java or Acrobat Sign and will only have limited support. The features of GigaSign are being added to the product under the [Send in Bulk](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) functionality. Please use Send in Bulk for all usescases that do not explicitly require the use of GigaSign.
+
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Download and install the GigaSign app
 
-[Download GigaSign Zip File](https://acrobat.adobe.com/id/urn:aaid:sc:US:f2046f79-b1bf-47d2-821d-546c8f2ed8b6)
+[Download GigaSign Zip File](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Java 1.8 download link (only if needed)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
