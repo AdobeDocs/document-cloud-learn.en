@@ -15,7 +15,7 @@ Gigasign allows you to send, collect, and track documents for signature to thous
 
 >[!IMPORTANT]
 >
->GigaSign is no longer being updated to the latest version of Java or Acrobat Sign and will only have limited support. The features of GigaSign are being added to the product under the [Send in Bulk](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) functionality. Please use Send in Bulk for all usescases that do not explicitly require the use of GigaSign.
+>GigaSign is no longer being updated to the latest version of Java or Acrobat Sign and will only have limited support. The features of GigaSign are being added to the product under the [Send in Bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?) functionality. Please use Send in Bulk for all usescases that do not explicitly require the use of GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
