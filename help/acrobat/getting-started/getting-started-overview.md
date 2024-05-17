@@ -14,10 +14,11 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
+* [Create a PDF](create-pdf.md)
+  Learn how to create PDFs from all different types of documents
+
 * [Stylize this PDF](stylize-this-PDF.md)
   Learn how to create professional-looking PDFs with the integrated easy-to-use design tools in Adobe Express
-* [Work anywhere with Acrobat web](acrobatweb.md)
-  Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser
 
 ## Getting started tutorials
 
