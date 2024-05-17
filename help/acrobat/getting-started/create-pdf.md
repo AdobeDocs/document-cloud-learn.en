@@ -10,7 +10,7 @@ exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
 ---
 # Create a PDF
 
-Learn how to [create PDFs from all different types of documents](https://www.adobe.com/acrobat/online/convert-pdf.html). Start with a file created in Microsoft Office or a Creative Cloud app, or use an image, a scan, or even a website.
+Learn how to [create PDFs from all different types of documents](https://www.adobe.com/acrobat/online/convert-pdf.html). Start with a file created in Microsoft Office or a Creative Cloud app, or use an image, a scan, or even a website. Turning content into PDF provides a convenient and reliable way to share, preserve, and secure documents while maintaining their original formatting. This video tutorial uses the [new workspace experience](new-workspace.md).
 
 >[!TIP]
 >
