@@ -104,7 +104,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="Create PDF files" src="../assets/Create.jpg" />
+        <img alt="Create PDF files" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>Create a PDF</strong></a>
