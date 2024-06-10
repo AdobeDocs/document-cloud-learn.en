@@ -26,7 +26,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Workspace basics" src="../assets/Workspace_1280.png" />
+      <img alt="Workspace basics" src="../assets/workspace_acrobat.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
