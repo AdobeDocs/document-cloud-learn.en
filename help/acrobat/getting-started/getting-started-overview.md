@@ -155,9 +155,9 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
         <img alt="Edit text in a PDF" src="../assets/edit-text.png" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Edit a PDF</strong></a>
+      <a href="edit-pdf.md"><strong>Edit text in a PDF</strong></a>
       </div>
-      <em>Edit text and images in PDF files</em>
+      <em>Learn how to edit text in a PDF</em>
       <br>
     </td>
     <td>
