@@ -1,6 +1,6 @@
 ---
-title: Edit a PDF
-description: Learn how to edit text and images in PDF files
+title: Edit text in a PDF
+description: Learn how to edit words, phrases, or even entire pages in your PDF
 feature: Edit PDF
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
 ---
-# Edit a PDF
+# Edit text in a PDF
 
-Learn how to [edit text and images in PDF files](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}. Click or tap to add a new paragraph or fix a typo. You can even add images [or crop a photo](https://www.adobe.com/acrobat/online/crop-pdf.html).
+Learn how to edit words, phrases, or even entire pages in your PDF. Editing text directly in Acrobat allows you to accurately and professionally update content without jumping back and forth between apps. This video tutorial uses the [new workspace experience](new-workspace.md).
 
 >[!TIP]
 >
