@@ -1,5 +1,5 @@
 ---
-title: Edit text in a PDF
+title: Edit Text in a PDF
 description: Learn how to edit words, phrases, or even entire pages in your PDF
 feature: Edit PDF
 role: User
