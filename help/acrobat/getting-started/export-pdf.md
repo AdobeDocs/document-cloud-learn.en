@@ -10,7 +10,7 @@ exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
 ---
 # Convert PDF to different file formats
 
-Learn how to convert your PDF files to different file formats—like [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html), and [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html). Converting your PDF to [Adobe Express](https://express.adobe.com) to add branded design elements is also covered. When you convert your PDF to another file format like Microsoft Word it improves document workflow efficiency and saves significant time when making extensive changes to your long documents.
+Learn how to convert your PDF files to different file formats—like [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html), and [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html). Converting your PDF to [Adobe Express](https://express.adobe.com) to add branded design elements is also covered. When you convert your PDF to another file format like Microsoft Word it improves document workflow efficiency and saves significant time when making extensive changes to your long documents. This video tutorial uses the new workspace experience.
 
 >[!TIP]
 >
