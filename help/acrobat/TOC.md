@@ -26,7 +26,7 @@ auto-video-transcripts: true
   + [Edit text in a PDF](getting-started/edit-pdf.md)
   + [Stylize this PDF](getting-started/stylize-this-PDF.md)
   + [Auto-adjust layout](getting-started/auto-adjust-layout.md)
-  + [Export a PDF to editable formats](getting-started/export-pdf.md)
+  + [Convert PDF to different file formats](getting-started/export-pdf.md)
   + [Collaborate in real time](getting-started/collaborate.md)
   + [Comment on a PDF](getting-started/comment-on-pdf-files.md)
   + [Create fillable forms](getting-started/create-fillable-forms.md)

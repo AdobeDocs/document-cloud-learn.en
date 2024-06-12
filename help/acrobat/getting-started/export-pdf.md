@@ -1,6 +1,6 @@
 ---
-title: Export a PDF to Microsoft Office Formats
-description: Learn how to export your PDF files to editable formats like Microsoft Word, Excel, or PowerPoint
+title: Convert PDF to Different File Formats
+description: Learn how to convert your PDF files to different file formats—like Microsoft Word, Excel, or PowerPoint
 feature: Convert PDF
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
 ---
-# Export a PDF to Microsoft Office formats
+# Convert PDF to different file formats
 
-Learn how to export your PDF files to editable formats--like [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html), and [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html). Exporting to another file format allows you to make significant revisions and updates to your documents.
+Learn how to convert your PDF files to different file formats—like [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html), and [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html). Converting your PDF to [Adobe Express](https://express.adobe.com) to add branded design elements is also covered. When you convert your PDF to another file format like Microsoft Word it improves document workflow efficiency and saves significant time when making extensive changes to your long documents.
 
 >[!TIP]
 >

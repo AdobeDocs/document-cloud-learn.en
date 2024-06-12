@@ -14,6 +14,9 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
+* [Convert PDF to different file formats](export-pdf.md)
+  Learn how to convert your PDF files to different file formats—like Microsoft Word, Excel, or PowerPoint
+
 * [Edit text in a PDF](edit-pdf.md)
   Learn how to edit words, phrases, or even entire pages in your PDF
 
@@ -182,12 +185,12 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="Export a PDF to editable formats" src="../assets/Export.jpg" />
+        <img alt="Convert PDF to different file formats" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>Export a PDF to editable formats</strong></a>
+      <a href="export-pdf.md"><strong>Convert PDF to different file formats</strong></a>
       </div>
-      <em>Learn how to export your PDF files to editable formats</em>
+      <em>Learn how to convert your PDF files to different file formats—like Microsoft Word, Excel, or PowerPoint</em>
       <br>
     </td>
   </tr>
