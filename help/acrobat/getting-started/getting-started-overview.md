@@ -14,6 +14,9 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
+* [Discover PDF insights with the AI Assistant](ai-assistant.md)
+  Learn how to gain insights from your PDF files using the AI Assistant
+  
 * [Convert PDF to different file formats](export-pdf.md)
   Learn how to convert your PDF files to different file formats—like Microsoft Word, Excel, or PowerPoint
 
@@ -48,6 +51,16 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="Discover PDF insights with the AI Assistant" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>Discover PDF insights with the AI Assistant</strong></a>
+    </div>
+    <em>Learn how to gain insights from your PDF files using the AI Assistant</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="Work anywhere with Acrobat web" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -57,6 +70,8 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <em>Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="Productivity on the go" src="../assets/Productivity_1280.png" />
@@ -67,8 +82,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <em>Do more right from your tablet or mobile phone with the Acrobat Reader mobile app</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Work with Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
@@ -87,11 +100,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
       </div>
       <em>Understand where PDFs come from and their uses</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>
