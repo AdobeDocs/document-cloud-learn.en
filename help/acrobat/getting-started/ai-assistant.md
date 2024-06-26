@@ -1,7 +1,7 @@
 ---
 title: Discover PDF Insights with the AI Assistant
 description: Learn how to gain insights from your PDF files using the AI Assistant
-feature: Workspace
+feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
