@@ -14,6 +14,9 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
+* [New workspace experience](new-workspace.md)
+  Learn about the new workspace in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently
+
 * [Discover PDF insights with the AI Assistant](ai-assistant.md)
   Learn how to gain insights from your PDF files using the AI Assistant
   
@@ -23,13 +26,21 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 * [Edit text in a PDF](edit-pdf.md)
   Learn how to edit words, phrases, or even entire pages in your PDF
 
-* [Create a PDF](create-pdf.md)
-  Learn how to create PDFs from all different types of documents
 
 ## Getting started tutorials
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="New workspace experience" src="../assets/new-workspace.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>New workspace experience</strong></a>
+    </div>
+    <em>Learn about the new workspace in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently</em>
+    <br>
+  </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="Workspace basics" src="../assets/workspace_acrobat.png" />
@@ -38,16 +49,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
     </div>
     <em>See how the Acrobat workspace makes it easy to access files and tools across desktop, web, and mobile</em>
-    <br>
-  </td>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="New workspace experience" src="../assets/NewWorkspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong>New workspace experience</strong></a>
-    </div>
-    <em>Learn about the new workspace experience that you can activate in Acrobat</em>
     <br>
   </td>
   <td>
