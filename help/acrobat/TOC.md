@@ -21,7 +21,7 @@ auto-video-transcripts: true
   + [Work with [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
   + [Create a PDF](getting-started/create-pdf.md)
-  + [Combine Files to PDF](getting-started/combine-to-pdf.md)
+  + [Combine files to into a single PDF](getting-started/combine-to-pdf.md)
   + [Organize Pages](getting-started/organize.md)
   + [Add Custom Page](getting-started/add-custom-page.md)
   + [Edit text in a PDF](getting-started/edit-pdf.md)
