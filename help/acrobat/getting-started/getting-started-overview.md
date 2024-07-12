@@ -14,29 +14,14 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
-   <table style="table-layout:fixed">
-  <tr>
-    <td>
-    <a href="new-workspace.md">
-      <img alt="New workspace experience" src="../assets/new-workspace.png" />
-    </a>
-  </td>
-   <td>
-    <a href="ai-assistant.md">
-      <img alt="Discover PDF insights with the AI Assistant" src="../assets/ai-assistant.png" />
-    </a>
-  </td>
-  <td>
-      <a href="export-pdf.md">
-        <img alt="Convert PDF to different file formats" src="../assets/convert.png" />
-      </a>
-   <td>
-      <a href="edit-pdf.md">
-        <img alt="Edit text in a PDF" src="../assets/edit-text.png" />
-      </a>
-    </td>
-  </tr>
-  </table>
+* [New workspace experience)](new-workspace.md)
+  Learn about the new workspace in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently
+* [Discover PDF insights with the AI Assistant](ai-assistant.md)
+  Learn how to gain insights from your PDF files using the AI Assistant
+* [Convert PDF to different file formats](export-pdf.md)
+  Learn how to convert your PDF files to different file formats—like Microsoft Word, Excel, or PowerPoint
+* [Edit text in a PDF](edit-pdf.md)
+  Learn how to edit words, phrases, or even entire pages in your PDF
 
 ## Getting started tutorials
 
