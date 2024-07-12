@@ -19,13 +19,8 @@ Create, fill, and [sign PDFs](https://www.adobe.com/acrobat/online/sign-pdf.html
 <tr>
   <td>
     <a href="../getting-started/productivity.md">
-      <img alt="Productivity on the go" src="../assets/Productivity_1280.png" />
+      <img alt="Productivity on the go" src="../assets/productivity.png" />
     </a>
-    <div>
-     <a href="../getting-started/productivity.md"><strong>Productivity on the go</strong></a>
-    </div>
-    <em>Do more right from your tablet or mobile phone with the Acrobat Reader mobile app</em>
-    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />

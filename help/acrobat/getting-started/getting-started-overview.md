@@ -55,33 +55,16 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 <tr>
   <td>
     <a href="productivity.md">
-      <img alt="Productivity on the go" src="../assets/Productivity_1280.png" />
-    </a>
-    <div>
-     <a href="productivity.md"><strong>Productivity on the go</strong></a>
-    </div>
-    <em>Do more right from your tablet or mobile phone with the Acrobat Reader mobile app</em>
-    <br>
+      <img alt="Productivity on the go" src="../assets/productivity.png" />
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Work with Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>Work with Microsoft 365</strong></a>
-      </div>
-      <em>Increase productivity and business document workflows with Acrobat and [!DNL Microsoft 365]</em>
-      <br>
+        <img alt="Work with Microsoft 365" src="../assets/microsoft-365.png" />
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
-        <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
+        <img alt="Where do PDFs come from?" src="../assets/where-pdfs.png" />
       </a>
-      <div>
-      <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
-      </div>
-      <em>Understand where PDFs come from and their uses</em>
-      <br>
     </td>
     <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
