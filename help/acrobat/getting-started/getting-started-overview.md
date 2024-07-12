@@ -122,7 +122,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </td>
     <td>
       <a href="stylize-this-PDF.md">
-        <img alt="Stylize this PDF" src="../assets/stylize.png" />
+        <img alt="Stylize this PDF" src="../assets/stylize-pdf.png" />
       </a>
     </td>
    <td>
