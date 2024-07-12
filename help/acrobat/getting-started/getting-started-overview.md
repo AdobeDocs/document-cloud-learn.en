@@ -35,11 +35,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="new-workspace.md">
       <img alt="New workspace experience" src="../assets/new-workspace.png" />
     </a>
-    <div>
-    <a href="new-workspace.md"><strong>New workspace experience</strong></a>
-    </div>
-    <em>Learn about the new workspace in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently</em>
-    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
@@ -55,11 +50,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="ai-assistant.md">
       <img alt="Discover PDF insights with the AI Assistant" src="../assets/ai-assistant.png" />
     </a>
-    <div>
-    <a href="ai-assistant.md"><strong>Discover PDF insights with the AI Assistant</strong></a>
-    </div>
-    <em>Learn how to gain insights from your PDF files using the AI Assistant</em>
-    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
