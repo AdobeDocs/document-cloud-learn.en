@@ -14,7 +14,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
-* [New workspace experience)](new-workspace.md)
+* [New workspace experience](new-workspace.md)
   Learn about the new workspace in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently
 * [Discover PDF insights with the AI Assistant](ai-assistant.md)
   Learn how to gain insights from your PDF files using the AI Assistant
