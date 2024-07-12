@@ -82,41 +82,20 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <a href="create-pdf.md">
         <img alt="Create PDF files" src="../assets/create.png" />
       </a>
-      <div>
-      <a href="create-pdf.md"><strong>Create a PDF</strong></a>
-      </div>
-      <em>Create PDFs from all different kinds of documents</em>
-      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="Combine Files to PDF" src="../assets/Combine.jpg" />
-      </a>
-      <div>
-      <a href="combine-to-pdf.md"><strong>Combine files to PDFs</strong></a>
-      </div>
-      <em>Combine many different types of files into a single PDF</em>
-      <br>
+        <img alt="Combine Files to PDF" src="../assets/combine.png" />
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organize pages" src="../assets/Organize.png" />
+        <img alt="Organize pages" src="../assets/organize-pages.png" />
       </a>
-      <div>
-      <a href="organize.md"><strong>Organize pages</strong></a>
-      </div>
-      <em>Add, replace, extract, rotate, delete, and rearrange pages in your PDF</em>
-      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="Add custom page" src="../assets/Custompage.png" />
+        <img alt="Add custom page" src="../assets/custom.png" />
       </a>
-      <div>
-      <a href="add-custom-page.md"><strong>Add custom page</strong></a>
-      </div>
-      <em>Learn how to add custom pages to your PDF using the integrated Adobe Express app</em>
-      <br>
     </td>
   </tr>
   </table>
