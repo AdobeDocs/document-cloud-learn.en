@@ -38,13 +38,8 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Workspace basics" src="../assets/workspace_acrobat.png" />
+      <img alt="Workspace basics" src="../assets/workspace-basics.png" />
     </a>
-    <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
-    </div>
-    <em>See how the Acrobat workspace makes it easy to access files and tools across desktop, web, and mobile</em>
-    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
@@ -53,13 +48,8 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Work anywhere with Acrobat web" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Work anywhere with Acrobat web" src="../assets/acrobat-web.png" />
     </a>
-    <div>
-    <a href="acrobatweb.md"><strong>Work anywhere with Acrobat web</strong></a>
-    </div>
-    <em>Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser</em>
-    <br>
   </td>
 </tr>
 <tr>
