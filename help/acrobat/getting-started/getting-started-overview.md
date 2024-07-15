@@ -134,7 +134,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Comment on a PDF" src="../assets/comment-png" />
+        <img alt="Comment on a PDF" src="../assets/comment.png" />
       </a>
     </td>
     <td>
