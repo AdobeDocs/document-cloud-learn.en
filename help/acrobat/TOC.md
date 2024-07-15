@@ -25,6 +25,7 @@ auto-video-transcripts: true
   + [Organize Pages](getting-started/organize.md)
   + [Add Custom Page](getting-started/add-custom-page.md)
   + [Edit text in a PDF](getting-started/edit-pdf.md)
+  + [Edit graphics in a PDF](getting-started/edit-graphics.md)
   + [Stylize this PDF](getting-started/stylize-this-PDF.md)
   + [Auto-adjust layout](getting-started/auto-adjust-layout.md)
   + [Convert PDF to different file formats](getting-started/export-pdf.md)
