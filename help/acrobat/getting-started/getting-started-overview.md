@@ -14,14 +14,12 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
+* [Edit graphics in a PDF](edit-graphics.md)
+  Learn how to create, edit, and enhance graphics in your PDF
 * [New workspace experience](new-workspace.md)
   Learn about the new workspace in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently
 * [Discover PDF insights with the AI Assistant](ai-assistant.md)
   Learn how to gain insights from your PDF files using the AI Assistant
-* [Convert PDF to different file formats](export-pdf.md)
-  Learn how to convert your PDF files to different file formats—like Microsoft Word, Excel, or PowerPoint
-* [Edit text in a PDF](edit-pdf.md)
-  Learn how to edit words, phrases, or even entire pages in your PDF
 
 ## Getting started tutorials
 
