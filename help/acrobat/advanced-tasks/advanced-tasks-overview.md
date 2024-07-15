@@ -94,13 +94,8 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="Preparing Accessible PDF Files" src="../assets/Accessibilityseries_1280.png" />
+      <img alt="Preparing Accessible PDF Files" src="../assets/accessibility-series.png" />
     </a>
-    <div>
-    <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
-    </div>
-    <em>In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files</em>
-    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
