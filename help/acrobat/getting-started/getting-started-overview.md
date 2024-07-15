@@ -106,6 +106,11 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="Edit graphics in a PDF" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="Stylize this PDF" src="../assets/stylize-pdf.png" />
       </a>
@@ -115,13 +120,29 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
         <img alt="Auto-adjust layout" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="Convert PDF to different file formats" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Collaboration tutorials
 
