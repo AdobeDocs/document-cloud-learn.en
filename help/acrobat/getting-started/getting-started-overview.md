@@ -129,23 +129,13 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="Collaborate in real time" src="../assets/Collaborate_1280.png" />
+        <img alt="Collaborate in real time" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>Collaborate in real time</strong></a>
-      </div>
-      <em>Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere</em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Comment on a PDF" src="../assets/Comment.jpg" />
+        <img alt="Comment on a PDF" src="../assets/comment-png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>Comment on a PDF</strong></a>
-      </div>
-      <em>Add comments to a PDF file and then share it with others</em>
-      <br>
     </td>
     <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -166,65 +156,35 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Create fillable forms" src="../assets/Form_1280.png" />
+      <img alt="Create fillable forms" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>Create fillable forms</strong></a>
-    </div>
-    <em>Turn a document created in other application into a fillable PDF form</em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Fill & sSign a PDF form" src="../assets/FillSign_1280.png" />
+      <img alt="Fill & sSign a PDF form" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>Fill & Sign PDF forms</strong></a>
-    </div>
-    <em>Quickly fill in and sign a PDF form</em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Scan & OCR" src="../assets/Scan.jpg" />
+      <img alt="Scan & OCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Scan & OCR</strong></a>
-    </div>
-    <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="Protect a PDF file with a password" src="../assets/Protect.jpg" />
+      <img alt="Protect a PDF file with a password" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect a PDF file with a password</strong></a>
-    </div>
-    <em>Add a password to your PDF to protect others from opening or editing the file</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Get signatures" src="../assets/Signatures_1280.png" />
+      <img alt="Get signatures" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>Get signatures</strong></a>
-    </div>
-    <em>Keep business moving by collecting legally binding e-signatures from others — from anywhere</em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="Track your documents" src="../assets/Track_1280.png" />
+      <img alt="Track your documents" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>Track your documents</strong></a>
-    </div>
-    <em>Always know which files are waiting on signatures and which have been signed</em>
-    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
