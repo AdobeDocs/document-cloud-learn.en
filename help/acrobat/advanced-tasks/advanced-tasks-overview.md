@@ -72,7 +72,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
   </td>
   <td>
     <a href="redact.md">
-      <img alt="Redact & Sanitize" src="../assets/redace.png" />
+      <img alt="Redact & Sanitize" src="../assets/redact.png" />
     </a>
   </td>
  <td>
