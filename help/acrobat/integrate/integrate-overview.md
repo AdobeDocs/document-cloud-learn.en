@@ -32,7 +32,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
   </td> 
   <td>
     <a href="acrobatandsp.md">
-      <img alt="Work with your [!DNL SharePoint] files" src="../assets/sharepoint.png" />
+      <img alt="Work with your [!DNL SharePoint] files" src="../assets/work-sharepoint.png" />
     </a>
   </td>
   <td>
@@ -102,7 +102,7 @@ Learn how easy it is to access and work with files stored in [!DNL Dropbox].
 <tr>
   <td>
     <a href="acrobat-dropbox.md">
-      <img alt="Work with files from [!DNL Dropbox]" src="../assets/dropbox.png" />
+      <img alt="Work with files from [!DNL Dropbox]" src="../assets/work-dropbox.png" />
     </a>
   </td>
   <td>
