@@ -197,7 +197,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Get signatures" src="../assets/signnatures.png" />
+      <img alt="Get signatures" src="../assets/signatures.png" />
     </a>
   </td>
   <td>
