@@ -22,75 +22,40 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
 <tr>
   <td>
     <a href="createfromword.md">
-      <img alt="Create PDF files from Microsoft Word" src="../assets/CreateWord.png" />
+      <img alt="Create PDF files from Microsoft Word" src="../assets/create-word.png" />
     </a>
-    <div>
-    <a href="createfromword.md"><strong>Create PDF files from [!DNL Microsoft Word]</strong></a>
-    </div>
-    <em>Create rich, robust PDF files with hyperlinked table of contents and cross-references, bookmarks, and even attachments directly from [!DNL Microsoft Word]</em>
-    <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="Create PDFs in [!DNL Office] for the web" src="../assets/Officeweb_1280.png" />
+      <img alt="Create PDFs in [!DNL Office] for the web" src="../assets/office-web.png" />
     </a>
-    <div>
-    <a href="createofficeweb.md"><strong>Create PDFs in [!DNL Office] for the web</strong></a>
-    </div>
-    <em>Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] for web apps</em>
-    <br>
   </td> 
   <td>
     <a href="acrobatandsp.md">
-      <img alt="Work with your [!DNL SharePoint] files" src="../assets/SharePoint.png" />
+      <img alt="Work with your [!DNL SharePoint] files" src="../assets/sharepoint.png" />
     </a>
-    <div>
-    <a href="acrobatandsp.md"><strong>Work with your [!DNL SharePoint] files</strong></a>
-    </div>
-    <em>Streamline document workflows with [!DNL SharePoint] and Acrobat</em>
-    <br>
   </td>
   <td>
     <a href="acrobatandteams.md">
-      <img alt="PDF collaboration in [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
+      <img alt="PDF collaboration in [!DNL Microsoft Teams]" src="../assets/collaboration-teams.png" />
     </a>
-    <div>
-    <a href="acrobatandteams.md"><strong>PDF collaboration in [!DNL Microsoft Teams]</strong></a>
-    </div>
-    <em>Collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving [!DNL Microsoft Teams]</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="outlook.md">
-      <img alt="Convert email messages and attachments to PDF in Outlook" src="../assets/Outlook.jpg" />
+      <img alt="Convert email messages and attachments to PDF in Outlook" src="../assets/outlook.png" />
     </a>
-    <div>
-    <a href="outlook.md"><strong>Convert email messages and attachments to PDF in [!DNL Outlook]</strong></a>
-    </div>
-    <em>Learn how to deliver information in a more professional and secure manner inside of [!DNL Outlook]</em>
-    <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="Create PDF content while browsing with [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="Create PDF content while browsing with [!DNL Microsoft Edge]" src="../assets/edge.png" />
     </a>
-    <div>
-    <a href="edge.md"><strong>Create PDF content while browsing with [!DNL Microsoft Edge]</strong></a>
-    </div>
-    <em>Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]</em>
-    <br>
   </td>
   <td>
     <a href="microsoftsensitivitylabels.md">
-      <img alt="Create PDF content while browsing with [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+      <img alt="Create PDF content while browsing with [!DNL Microsoft Edge]" src="../assets/purview.png" />
     </a>
-    <div>
-    <a href="microsoftsensitivitylabels.md"><strong>Protect PDFs using [!DNL Microsoft Purview Information] sensitivity labels</strong></a>
-    </div>
-    <em>Learn how to protect PDFs by adding, editing, customizing, and deleting [!DNL Microsoft Purview] sensitivity labels directly in Acrobat</em>
-    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -108,13 +73,8 @@ Learn how to get more done in less time with essential PDF and e-signature tools
 <tr>
   <td>
     <a href="acrobatandgoogle.md">
-      <img alt="Adobe Acrobat for Google Drive" src="../assets/acrobatgoogle.jpg" />
+      <img alt="Adobe Acrobat for Google Drive" src="../assets/google.png" />
     </a>
-    <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat for [!DNL Google Drive]</strong></a>
-    </div>
-    <em>Get access to time-saving PDF tools and e-signature workflows directly inside the [!DNL Google Drive] app</em>
-    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -142,13 +102,8 @@ Learn how easy it is to access and work with files stored in [!DNL Dropbox].
 <tr>
   <td>
     <a href="acrobat-dropbox.md">
-      <img alt="Work with files from [!DNL Dropbox]" src="../assets/Dropbox.png" />
+      <img alt="Work with files from [!DNL Dropbox]" src="../assets/dropbox.png" />
     </a>
-    <div>
-    <a href="acrobat-dropbox.md"><strong>Work with files from [!DNL Dropbox]</strong></a>
-    </div>
-    <em>Learn how to open, create, edit, sign, and save changes to your [!DNL Dropbox] files from inside Acrobat</em>
-    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />
