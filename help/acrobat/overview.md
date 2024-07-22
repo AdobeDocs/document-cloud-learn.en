@@ -10,7 +10,7 @@ exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
 ---
 # Acrobat tutorials
 
-Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by converting, editing, sharing, and signing PDFs. Here you'll find a wide range of learning experiences designed to quickly bring both beginners and advanced users up-to-speed on Adobe Acrobat.
+Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by converting, editing, sharing, and signing PDFs. Here you can find a wide range of learning experiences designed to quickly bring both beginners and advanced users up-to-speed on Adobe Acrobat.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
