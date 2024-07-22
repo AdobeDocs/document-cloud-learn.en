@@ -19,50 +19,28 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
 
-## Learning paths
+## Featured learning paths
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="getting-started/getting-started-overview.md">
-      <img alt="Getting started" src="assets/acrobat_title_getting_started.png" />
+      <img alt="Getting started" src="assets/getting-started.png" />
     </a>
   </td>
   <td>
     <a href="advanced-tasks/advanced-tasks-overview.md">
-      <img alt="Advanced tasks" src="assets/acrobat_title_advanced_tasks.png" />
+      <img alt="Advanced tasks" src="assets/advanced-tasks.png" />
     </a>
   </td>
   <td>
-    <a href="skill-builder/skill-builder-webinars.md">
-      <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
+    <a href="60-second/60-second-overview.md">
+      <img alt="60-second Acrobat" src="assets/60-sec.png" />
     </a>
   </td>
   <td>
     <a href="integrate/integrate-overview.md">
-      <img alt="Integrations" src="assets/acrobat_title_integrate.png" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="industry/industry-overview.md">
-      <img alt="Industries and departments" src="assets/acrobat_title_industry.png" />
-    </a>
-  </td>  
-  <td>
-    <a href="develop/develop-overview.md">
-      <img alt="Develop" src="assets/acrobat_title_develop.png" />
-    </a>
-  </td>
-  <td>
-  <a href="deploy/deploy-overview.md">
-      <img alt="Deploy" src="assets/acrobat_title_deploy.png" />
-    </a>
-  </td>
-  <td>
-    <a href="mobile/mobile-overview.md">
-      <img alt="Mobile" src="assets/acrobat_title_mobile.png" />
+      <img alt="Integrations" src="assets/integrations.png" />
     </a>
   </td>
 </tr>
