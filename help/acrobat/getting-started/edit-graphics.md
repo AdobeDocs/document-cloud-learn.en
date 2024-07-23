@@ -5,6 +5,7 @@ feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-15476
+exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
 ---
 # Edit graphics in a PDF
 

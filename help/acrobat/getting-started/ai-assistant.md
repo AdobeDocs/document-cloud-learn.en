@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
+exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
 ---
 # Discover PDF insights with the AI Assistant
 
