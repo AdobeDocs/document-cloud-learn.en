@@ -74,10 +74,5 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
     <div>
     <br>
   </td>
-   <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
