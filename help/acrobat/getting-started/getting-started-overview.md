@@ -160,27 +160,52 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <a href="edit-pdf.md">
         <img alt="Edit text in a PDF" src="../assets/edit-text.png" />
       </a>
+      <div>
+      <a href="edit-pdf.md"><strong>Edit text in a PDF</strong></a>
+      </div>
+      Learn how to edit words, phrases, or even entire pages in your PDF
+      <br>
     </td>
     <td>
       <a href="edit-graphics.md">
         <img alt="Edit graphics in a PDF" src="../assets/edit-graphics.png" />
       </a>
+      <div>
+      <a href="edit-graphics.md"><strong>Edit graphics in a PDF</strong></a>
+      </div>
+      Learn how to create, edit, and enhance graphics in your PDF
+      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
         <img alt="Stylize this PDF" src="../assets/stylize-pdf.png" />
       </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Stylize this PDF</strong></a>
+      </div>
+      Learn how to create professional-looking PDFs
+      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
         <img alt="Auto-adjust layout" src="../assets/auto-adjust.png" />
       </a>
+      <div>
+      <a href="auto-adjust-layout.md"><strong>Auto-adjust layout</strong></a>
+      </div>
+      Learn about the new editing mode that reflows content
+      <br>
     </td>
   </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="Convert PDF to different file formats" src="../assets/convert.png" />
       </a>
+      <div>
+      <a href="export-pdf.md"><strong>Convert PDF to different file formats</strong></a>
+      </div>
+      Learn how to convert your PDF files to different file formats
+      <br>
     </td>
     <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
