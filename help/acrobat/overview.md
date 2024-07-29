@@ -65,17 +65,17 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>
    <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>
