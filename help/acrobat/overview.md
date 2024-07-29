@@ -23,25 +23,46 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+ <td>
     <a href="getting-started/getting-started-overview.md">
       <img alt="Getting started" src="assets/start.png" />
     </a>
+    <div>
+    <a href="getting-started/getting-started-overview.md"><strong>Getting started</strong></a>
+    </div>
+    Get up-to-speed on how to create, edit, convert, protect, and more with PDF files
+    <br>
   </td>
   <td>
     <a href="advanced-tasks/advanced-tasks-overview.md">
       <img alt="Advanced tasks" src="assets/advanced-tasks.png" />
     </a>
+    <div>
+    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Advanced tasks</strong></a>
+    </div>
+    Go beyond the basics with specific tasks and automation
+    <br>
   </td>
   <td>
     <a href="60-second/60-second-overview.md">
       <img alt="60-second Acrobat" src="assets/60-sec.png" />
     </a>
+  <div>
+    <a href="60-second/60-second-overview.md"><strong>60-second Acrobat</strong></a>
+    </div>
+    Bite-sized tutorials to help you learn a new trick in Acrobat in one minute or less
+    <br>
   </td>
+</tr>
   <td>
     <a href="integrate/integrate-overview.md">
       <img alt="Integrations" src="assets/integrations.png" />
     </a>
+    div>
+    <a href="integrate/integrate-overview.md"><strong>Integrations</strong></a>
+    </div>
+    Add Acrobat to your existing applications like Microsoft, Google Drive, Dropbox, and Box
+    <br>
   </td>
 </tr>
 </table>
