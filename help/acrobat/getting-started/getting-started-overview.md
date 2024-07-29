@@ -233,11 +233,20 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <a href="collaborate.md">
         <img alt="Collaborate in real time" src="../assets/collaborate.png" />
       </a>
+      <div>
+      <a href="collaborate.md"><strong>Collaborate in real time</strong></a>
+      </div>
+      Move your projects forward by collaborating in real time
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
         <img alt="Comment on a PDF" src="../assets/comment.png" />
       </a>
+      <div>
+      <a href="comment-on-pdf-files.md"><strong>Comment on a PDF</strong></a>
+      </div>
+      Learn how to add comments to a PDF file and then share the file with others
+      <br>
     </td>
     <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -260,21 +269,41 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="create-fillable-forms.md">
       <img alt="Create fillable forms" src="../assets/fillable-forms.png" />
     </a>
+    <div>
+      <a href="create-fillable-forms.md"><strong>Create fillable forms</strong></a>
+      </div>
+      Turn a scanned paper into a fillable form
+      <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Fill & sSign a PDF form" src="../assets/fill-sign.png" />
+      <img alt="Fill & Sign a PDF form" src="../assets/fill-sign.png" />
     </a>
+    <div>
+    <a href="fill-and-sign.md"><strong>Fill & Sign a PDF form</strong></a>
+    </div>
+    Learn how to quickly and easily fill and sign a PDF form
+    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Scan & OCR" src="../assets/scan.png" />
     </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong>Scan & OCR</strong></a>
+    </div>
+    Convert scans or images of documents into searchable, editable PDF files
+    <br>
   </td>
   <td>
     <a href="password-protect.md">
       <img alt="Protect a PDF file with a password" src="../assets/protect.png" />
     </a>
+    <div>
+    <a href="password-protect.md"><strong>Protect a PDF file with a password</strong></a>
+    </div>
+    Learn how to add a password to your PDF
+    <br>
   </td>
 </tr>
 <tr>
@@ -282,11 +311,21 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="signatures.md">
       <img alt="Get signatures" src="../assets/signatures.png" />
     </a>
+    <div>
+    <a href="signatures.md"><strong>Get signatures</strong></a>
+    </div>
+    Keep business moving by collecting legally binding e-signatures
+    <br>
   </td>
   <td>
     <a href="track.md">
       <img alt="Track your documents" src="../assets/track.png" />
     </a>
+    <div>
+    <a href="track.md"><strong>Track your documents</strong></a>
+    </div>
+    Learn how to track and manage your e-signature documents
+    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
