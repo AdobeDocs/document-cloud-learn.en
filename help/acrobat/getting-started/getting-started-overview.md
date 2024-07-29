@@ -29,36 +29,79 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="new-workspace.md">
       <img alt="New workspace experience" src="../assets/new-workspace.png" />
     </a>
+    <div>
+    <a href="new-workspace.md"><strong>New workspace experience</strong></a>
+    </div>
+    Learn about the new workspace in Acrobat providing consistent experiences across all surfaces
+    6 min
+    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="Workspace basics" src="../assets/workspace-basics.png" />
     </a>
+    <div>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
+    </div>
+    Learn how Acrobat makes it easy to access files and tools across desktop, web, and mobile
+    3 min
+    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="Discover PDF insights with the AI Assistant" src="../assets/ai-assistant.png" />
     </a>
+    <div>
+    <a href="ai-assistant.md"><strong>Discover PDF insights with the AI Assistant</strong></a>
+    </div>
+    Learn how to gain insights from your PDF files using the AI Assistant
+    5 min
+    <br>  
   </td>
   <td>
     <a href="acrobatweb.md">
       <img alt="Work anywhere with Acrobat web" src="../assets/acrobat-web.png" />
     </a>
+    <div>
+    <a href="acrobatweb.md"><strong>Work anywhere with Acrobat web</strong></a>
+    </div>
+    Learn how to handle business document requests from anywhere
+    2 min
+    <br> 
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
       <img alt="Productivity on the go" src="../assets/productivity.png" />
+    </a>
+    <div>
+    <a href="productivity.md"><strong>Productivity on the go</strong></a>
+    </div>
+    Learn how to do more right from your tablet or mobile phone with the Acrobat Reader mobile app
+    2 min
+    <br> 
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Work with Microsoft 365" src="../assets/microsoft-365.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>Work with Microsoft 365</strong></a>
+      </div>
+      Learn how everyone on your team can work seamlessly with PDF files, right inside Microsoft 365
+      <br> 
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
         <img alt="Where do PDFs come from?" src="../assets/where-pdfs.png" />
       </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
+      </div>
+      Learn where PDFs come from and how you can use them in digital workflows
+      1 min
+      <br> 
     </td>
     <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
