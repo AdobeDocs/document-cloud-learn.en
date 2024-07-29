@@ -32,9 +32,9 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="new-workspace.md"><strong>New workspace experience</strong></a>
     </div>
-    Learn about the new workspace in Acrobat providing consistent experiences across all surfaces
-    6 min
+    Learn about the new workspace in Acrobat
     <br>
+    6 min
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
@@ -43,9 +43,9 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
     </div>
-    Learn how Acrobat makes it easy to access files and tools across desktop, web, and mobile
-    3 min
+    Learn to access files and tools across desktop, web, and mobile
     <br>
+    3 min
   </td>
   <td>
     <a href="ai-assistant.md">
@@ -55,8 +55,8 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="ai-assistant.md"><strong>Discover PDF insights with the AI Assistant</strong></a>
     </div>
     Learn how to gain insights from your PDF files using the AI Assistant
-    5 min
-    <br>  
+    <br>
+    5 min  
   </td>
   <td>
     <a href="acrobatweb.md">
@@ -66,8 +66,8 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <a href="acrobatweb.md"><strong>Work anywhere with Acrobat web</strong></a>
     </div>
     Learn how to handle business document requests from anywhere
-    2 min
-    <br> 
+    <br>
+    2 min 
   </td>
 </tr>
 <tr>
@@ -78,9 +78,9 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="productivity.md"><strong>Productivity on the go</strong></a>
     </div>
-    Learn how to do more right from your tablet or mobile phone with the Acrobat Reader mobile app
-    2 min
-    <br> 
+    Learn how to do more right from your tablet or mobile phone
+    <br>
+    2 min 
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
@@ -89,7 +89,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Work with Microsoft 365</strong></a>
       </div>
-      Learn how everyone on your team can work seamlessly with PDF files, right inside Microsoft 365
+      Learn how work seamlessly with PDF files, right inside Microsoft 365
       <br> 
     </td>
     <td>
@@ -100,8 +100,8 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
       </div>
       Learn where PDFs come from and how you can use them in digital workflows
+      <br>
       1 min
-      <br> 
     </td>
     <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
