@@ -34,7 +34,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </div>
     Learn about the new workspace in Acrobat
     <br>
-    6 min
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
@@ -45,7 +44,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </div>
     Learn to access files and tools across desktop, web, and mobile
     <br>
-    3 min
   </td>
   <td>
     <a href="ai-assistant.md">
@@ -56,7 +54,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </div>
     Learn how to gain insights from your PDF files using the AI Assistant
     <br>
-    5 min  
   </td>
   <td>
     <a href="acrobatweb.md">
@@ -67,7 +64,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </div>
     Learn how to handle business document requests from anywhere
     <br>
-    2 min 
   </td>
 </tr>
 <tr>
@@ -80,7 +76,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </div>
     Learn how to do more right from your tablet or mobile phone
     <br>
-    2 min 
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
@@ -101,7 +96,6 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       </div>
       Learn where PDFs come from and how you can use them in digital workflows
       <br>
-      1 min
     </td>
     <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -119,20 +113,41 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <a href="create-pdf.md">
         <img alt="Create PDF files" src="../assets/create.png" />
       </a>
+      <div>
+      <a href="create-pdf.md"><strong>Create PDF files</strong></a>
+      </div>
+      Learn how to create PDFs from all different types of documents
+      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="Combine Files to PDF" src="../assets/combine.png" />
+        <img alt="Combine files to a single PDF" src="../assets/combine.png" />
+      </a>
+      <div>
+      <a href="combine-to-pdf.md"><strong>Combine files into a single PDF</strong></a>
+      </div>
+      Learn how to seamlessly combine many different types of files into a single PDF
+      <br>
     </td>
     <td>
       <a href="organize.md">
         <img alt="Organize pages" src="../assets/organize-pages.png" />
       </a>
+      <div>
+      <a href="organize.md"><strong>Organize pages</strong></a>
+      </div>
+      Learn how to rearrange pages just the way you like
+      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
         <img alt="Add custom page" src="../assets/custom.png" />
       </a>
+      <div>
+      <a href="add-custom-page.md"><strong>Add custom page</strong></a>
+      </div>
+      Learn how to add custom pages to your PDF
+      <br>
     </td>
   </tr>
   </table>
