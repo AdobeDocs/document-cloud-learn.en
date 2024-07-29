@@ -58,10 +58,25 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
     <a href="integrate/integrate-overview.md">
       <img alt="Integrations" src="assets/integrations.png" />
     </a>
-    div>
+    <div>
     <a href="integrate/integrate-overview.md"><strong>Integrations</strong></a>
     </div>
     Add Acrobat to your existing applications like Microsoft, Google Drive, Dropbox, and Box
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
