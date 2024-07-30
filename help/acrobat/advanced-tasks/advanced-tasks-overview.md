@@ -25,21 +25,37 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <a href="bookmarks.md">
       <img alt="Adding bookmarks and hyperlinks" src="../assets/bookmarks.png" />
     </a>
+    <div>
+      <a href="bookmarks.md"><strong>Adding bookmarks and hyperlinks</strong></a>
+      </div>
+      Learn how to add bookmarks and hyperlinks for better navigation
   </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Optimize scanned documents" src="../assets/optimize.png" />
     </a>
+    <div>
+      <a href="optimizescan.md"><strong>Optimize scanned documents</strong></a>
+      </div>
+      Learn how to enhance scanned documents
   </td>
   <td>
     <a href="custom.md">
       <img alt="Custom Commands and Tools" src="../assets/custom-commands.png" />
     </a>
+    <div>
+      <a href="custom.md"><strong>Custom Commands and Tools</strong></a>
+      </div>
+      Learn how to improve document workflow efficiency
   </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Advanced form fields" src="../assets/advanced-forms.png" />
     </a>
+    <div>
+      <a href="advancedforms.md"><strong>Advanced form fields</strong></a>
+      </div>
+      Learn how to build advanced form fields
   </td>
 </tr>
 <tr>
@@ -47,43 +63,75 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <a href="optimizeseo.md">
       <img alt="Optimize PDFs for SEO (Search Engine Optimization)" src="../assets/seo.png" />
     </a>
+    <div>
+      <a href="optimizeseo.md"><strong>Optimize PDFs for SEO (Search Engine Optimization)</strong></a>
+      </div>
+      Learn how to optimize a PDF for improved SEO
   </td>
   <td>
     <a href="workforms.md">
       <img alt="Work with form fields" src="../assets/work-forms.png" />
     </a>
+    <div>
+      <a href="workforms.md"><strong>Work with form fields</strong></a>
+      </div>
+      Learn how to add various types of form fields and properties
   </td>
   <td>
     <a href="enhance.md">
       <img alt="Enhance your PDF" src="../assets/enhance.png" />
     </a>
+    <div>
+      <a href="enhance.md"><strong>Enhance your PDF</strong></a>
+      </div>
+      Learn how to transform your PDF
   </td>
  <td>
     <a href="compare.md">
-      <img alt="Detect Differences Between two PDFs" src="../assets/compare.png" />
+      <img alt="Detect differences between two PDFs" src="../assets/compare.png" />
     </a>
+    <div>
+      <a href="compare.md"><strong>Detect differences between two PDFs</strong></a>
+      </div>
+      Learn how to quickly detect the differences between two PDF
   </td>
 </tr>
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action-wizard.png" />
+      <img alt="Action Wizard" src="../assets/action.png" />
     </a>
+    <div>
+      <a href="action.md"><strong>Action Wizard</strong></a>
+      </div>
+      Learn how to improve efficiency using Actions
   </td>
   <td>
     <a href="redact.md">
       <img alt="Redact & Sanitize" src="../assets/redact.png" />
     </a>
+    <div>
+      <a href="redact.md"><strong>Redact & Sanitize</strong></a>
+      </div>
+      Learn how to permanently remove sensitive information
   </td>
  <td>
     <a href="reduce.md">
       <img alt="Reduce file size & optimize" src="../assets/reduce.png" />
     </a>
+    <div>
+      <a href="reduce.md"><strong>Reduce file size & optimize</strong></a>
+      </div>
+      Learn how to reduce large files without compromising quality
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Action Wizard" src="../assets/form-data.png" />
+      <img alt="Work with form data" src="../assets/form-data.png" />
     </a>
+    <div>
+      <a href="formdata.md"><strong>Work with form data</strong></a>
+      </div>
+      Learn how to compile form data
   </td>
 </tr>
 <tr>
@@ -91,11 +139,19 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <a href="accessibility.md">
       <img alt="Check PDF Accessibility" src="../assets/accessibility.png" />
     </a>
+    <div>
+      <a href="accessibility.md"><strong>Check PDF Accessibility</strong></a>
+      </div>
+      Learn how to check if your PDF is universally accessible
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="Preparing Accessible PDF Files" src="../assets/accessibility-series.png" />
+      <img alt="Acrobat Accessibility Series" src="../assets/accessibility-series.png" />
     </a>
+    <div>
+      <a href="accessibility-series.md"><strong>Acrobat Accessibility Series</strong></a>
+      </div>
+      Learn about PDF accessibility in this six-session on-demand series
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
