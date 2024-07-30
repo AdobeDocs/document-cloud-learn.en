@@ -42,7 +42,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace basics</strong></a>
     </div>
-    Learn to access files and tools across desktop, web, and mobile
+    Learn the basics of the Acrobat workspace
     <br>
   </td>
   <td>
@@ -52,7 +52,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="ai-assistant.md"><strong>Discover PDF insights with the AI Assistant</strong></a>
     </div>
-    Learn how to gain insights from your PDF files using the AI Assistant
+    Gain insights from your PDF files using the AI Assistant
     <br>
   </td>
   <td>
@@ -62,7 +62,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="acrobatweb.md"><strong>Work anywhere with Acrobat web</strong></a>
     </div>
-    Learn how to handle business document requests from anywhere
+    Learn how to work from anywhere
     <br>
   </td>
 </tr>
@@ -74,7 +74,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="productivity.md"><strong>Productivity on the go</strong></a>
     </div>
-    Learn how to do more right from your tablet or mobile phone
+    Learn how to do more from your tablet or mobile phone
     <br>
   </td>
     <td>
@@ -84,7 +84,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Work with Microsoft 365</strong></a>
       </div>
-      Learn how work seamlessly with PDF files, right inside Microsoft 365
+      Work seamlessly with PDF files, right inside Microsoft 365
       <br> 
     </td>
     <td>
@@ -94,7 +94,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>Where do PDFs come from?</strong></a>
       </div>
-      Learn where PDFs come from and how you can use them in digital workflows
+      Learn where PDFs come from and how you can use them
       <br>
     </td>
     <td>
@@ -116,7 +116,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <a href="create-pdf.md"><strong>Create PDF files</strong></a>
       </div>
-      Learn how to create PDFs from all different types of documents
+      Create PDFs from all different types of documents
       <br>
     </td>
     <td>
@@ -126,7 +126,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <a href="combine-to-pdf.md"><strong>Combine files into a single PDF</strong></a>
       </div>
-      Learn how to seamlessly combine many different types of files into a single PDF
+      Seamlessly combine many different types of files into a single PDF
       <br>
     </td>
     <td>
@@ -163,7 +163,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <a href="edit-pdf.md"><strong>Edit text in a PDF</strong></a>
       </div>
-      Learn how to edit words, phrases, or even entire pages in your PDF
+      Edit words, phrases, or even entire pages in your PDF
       <br>
     </td>
     <td>
@@ -204,7 +204,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <a href="export-pdf.md"><strong>Convert PDF to different file formats</strong></a>
       </div>
-      Learn how to convert your PDF files to different file formats
+      Convert your PDF files to different file formats
       <br>
     </td>
     <td>
@@ -245,7 +245,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
       <div>
       <a href="comment-on-pdf-files.md"><strong>Comment on a PDF</strong></a>
       </div>
-      Learn how to add comments to a PDF file and then share the file with others
+      Add comments and then share your PDF with others
       <br>
     </td>
     <td>
@@ -292,7 +292,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="scan-and-ocr.md"><strong>Scan & OCR</strong></a>
     </div>
-    Convert scans or images of documents into searchable, editable PDF files
+    Convert scans or images into searchable, editable PDF files
     <br>
   </td>
   <td>
@@ -314,7 +314,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="signatures.md"><strong>Get signatures</strong></a>
     </div>
-    Keep business moving by collecting legally binding e-signatures
+    Learn how to collect legally binding e-signatures
     <br>
   </td>
   <td>
@@ -324,7 +324,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     <div>
     <a href="track.md"><strong>Track your documents</strong></a>
     </div>
-    Learn how to track and manage your e-signature documents
+    Track and manage your e-signature documents
     <br>
   </td>
   <td>
