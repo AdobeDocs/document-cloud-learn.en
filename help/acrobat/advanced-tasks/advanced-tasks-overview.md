@@ -28,7 +28,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <div>
       <a href="bookmarks.md"><strong>Adding bookmarks and hyperlinks</strong></a>
       </div>
-      Learn how to add bookmarks and hyperlinks for better navigation
+      Add bookmarks and hyperlinks for better navigation
   </td>
   <td>
     <a href="optimizescan.md">
@@ -66,7 +66,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <div>
       <a href="optimizeseo.md"><strong>Optimize PDFs for SEO</strong></a>
       </div>
-      Learn how to optimize a PDF for improved SEO (Search Engine Optimization)
+      Optimize a PDF for SEO (Search Engine Optimization)
   </td>
   <td>
     <a href="workforms.md">
@@ -93,7 +93,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <div>
       <a href="compare.md"><strong>Detect differences between two PDFs</strong></a>
       </div>
-      Learn how to quickly detect the differences between two PDF files
+      Quickly detect the differences between two PDF files
   </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <div>
       <a href="reduce.md"><strong>Reduce file size & optimize</strong></a>
       </div>
-      Learn how to reduce large files without compromising quality
+      Reduce large files without compromising quality
   </td>
   <td>
     <a href="formdata.md">
@@ -151,7 +151,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <div>
       <a href="accessibility-series.md"><strong>Acrobat Accessibility Series</strong></a>
       </div>
-      Learn about PDF accessibility in this six-session on-demand series
+      Six-session on-demand PDF accessibility series
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
