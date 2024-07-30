@@ -61,12 +61,12 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDFs for SEO (Search Engine Optimization)" src="../assets/seo.png" />
+      <img alt="Optimize PDFs for SEO" src="../assets/seo.png" />
     </a>
     <div>
-      <a href="optimizeseo.md"><strong>Optimize PDFs for SEO (Search Engine Optimization)</strong></a>
+      <a href="optimizeseo.md"><strong>Optimize PDFs for SEO</strong></a>
       </div>
-      Learn how to optimize a PDF for improved SEO
+      Learn how to optimize a PDF for improved SEO (Search Engine Optimization)
   </td>
   <td>
     <a href="workforms.md">
@@ -93,7 +93,7 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
     <div>
       <a href="compare.md"><strong>Detect differences between two PDFs</strong></a>
       </div>
-      Learn how to quickly detect the differences between two PDF
+      Learn how to quickly detect the differences between two PDF files
   </td>
 </tr>
 <tr>
