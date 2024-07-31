@@ -254,6 +254,10 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <a href="redaction.md">
       <img alt="Redaction: The Right Way" src="../assets/60-redaction.png" />
     </a>
+    <div>
+    <a href="redaction.md"><strong>Redaction: The Right Way</strong></a>
+    </div>
+    Learn how to redact sensitive information in your PDF the right way
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -288,7 +292,7 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <div>
     <a href="share-comment-teams.md"><strong>Share and comment on PDF files in Teams</strong></a>
     </div>
-    Learn how to share and comment on a PDF file in Microsoft Teams
+    Share and comment on a PDF file in Microsoft Teams
   </td>
   <td>
     <a href="summarize-comments.md">
@@ -297,7 +301,7 @@ exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
     <div>
     <a href="summarize-comments.md"><strong>Wrangling PDF comments with Summarize</strong></a>
     </div>
-    Learn how to summarize all you comments into a single PDF
+    Summarize all your comments into a single PDF
   </td>
    <td>
     <a href="indesign.md">
