@@ -73,6 +73,7 @@ auto-video-transcripts: true
     + [Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
     + [Send in Bulk](sign-advanced-users/megasign.md)
     + [Building a custom workflow](admin/building-a-custom-workflow.md)
+    + [Audit reports](admin/audit-reports.md)
   + Advanced tasks {#advanced-tasks-admins}
     + [Global settings](admin/learn-about-global-settings.md)
     + [Sharing account access](admin/share-account-access.md)
