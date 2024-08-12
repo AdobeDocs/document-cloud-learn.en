@@ -164,7 +164,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="Audit reports" src="../assets/audit-reports.png" />
+      <img alt="Audit reports" src="../assets/audit-reports-configure.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>Audit reports</strong></a>
