@@ -15,12 +15,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## What's new
 
+* [Audit reports](audit-reports.md)
+  Learn how to access, utilize, and configure audit reports to suit your organization's needs
 * [Send in Bulk](../sign-advanced-users/megasign.md)
   Learn how to collect thousands of signatures at once for any document in just a few short steps
 * [Report options](report-options.md)
   Learn how to set up report options for users
-* [Adding users](add-users-to-your-account.md)
-  Learn how to add and manage users for Acrobat Sign
 
 ## Getting started
 
@@ -163,8 +163,13 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="Audit reports" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>Audit reports</strong></a>
+    </div>
+    <em>Learn how to access, utilize, and configure audit reports</em>
     <br>
   </td>
   <td>
