@@ -15,12 +15,13 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## What's new
 
+* [Bulk Download tool](bulk-download-tool.md)
+  Learn how to use the Bulk Download tool to quickly download all your signed agreements
 * [Audit reports](audit-reports.md)
   Learn how to access, utilize, and configure audit reports to suit your organization's needs
 * [Send in Bulk](../sign-advanced-users/megasign.md)
   Learn how to collect thousands of signatures at once for any document in just a few short steps
-* [Report options](report-options.md)
-  Learn how to set up report options for users
+
 
 ## Getting started
 
@@ -219,13 +220,13 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Using Bio-Pharma settings" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="Using Bio-Pharma settings" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Using Bio-Pharma settings</strong></a>
+    <a href="bulk-download-tool.md"><strong>bulk-download-tool.md</strong></a>
     </div>
-    <em>Set up Bio-pharma settings that allow you to meet FDA 21 CFR Part 11 requirements</em>
+    <em>Learn how to use the Bulk Download tool to quickly download all your signed agreements</em>
     <br>
   </td> 
 </tr>
@@ -241,8 +242,13 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Using Bio-Pharma settings" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>Using Bio-Pharma settings</strong></a>
+    </div>
+    <em>Set up Bio-pharma settings that allow you to meet FDA 21 CFR Part 11 requirements</em>
     <br>
   </td>
   <td>

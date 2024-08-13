@@ -78,8 +78,9 @@ auto-video-transcripts: true
     + [Global settings](admin/learn-about-global-settings.md)
     + [Sharing account access](admin/share-account-access.md)
     + [Advanced account sharing](admin/advanced-account-sharing.md)
-    + [Use Bio-Pharma settings](admin/use-bio-pharma-settings.md)
+    + [Bulk Download tool](admin/bulk-download-tool.md)
     + [Acrobat Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
+    + [Use Bio-Pharma settings](admin/use-bio-pharma-settings.md)
 + Digital ID {#digital-id}
   + [Overview](digitalid/digitalid-overview.md)
   + Aadhaar {#aadhaar}
