@@ -153,9 +153,10 @@ auto-video-transcripts: true
     + [Showcase](sign-usecase/use-case-showcase.md)
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
-  + Custom APIs {#custom}
+  + APIs and webhooks {#custom}
     + [Gather high-volume documents using GigaSign](develop/gigasign.md)
     + [Create embedded e-signature and document experiences](develop/embeddedesignature.md)
+    + [How to set up webhooks](develop/webhooks.md)
 + Deploy {#deploy}
   + [Overview](deploy-overview.md)
 + Mobile {#mobile}
