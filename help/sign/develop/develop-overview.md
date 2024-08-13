@@ -69,7 +69,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
     <div>
     <a href="webhooks.md"><strong>How to set up webhooks</strong></a>
     </div>
-    <em>Learn how to create a webhook to automate processes that would normally require manual intervention</em>
+    <em>Learn how to create a webhook to automate processes that normally require manual intervention</em>
     <br>
   </td>
   <td>

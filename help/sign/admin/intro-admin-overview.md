@@ -15,12 +15,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## What's new
 
+* [How to set up privacy admins](privacy.md)
+  Learn how to set up and use privacy admins
 * [Bulk Download tool](bulk-download-tool.md)
   Learn how to use the Bulk Download tool to quickly download all your signed agreements
 * [Audit reports](audit-reports.md)
   Learn how to access, utilize, and configure audit reports to suit your organization's needs
-* [Send in Bulk](../sign-advanced-users/megasign.md)
-  Learn how to collect thousands of signatures at once for any document in just a few short steps
 
 
 ## Getting started
@@ -252,8 +252,13 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="How to set up privacy admin" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>How to set up privacy admins</strong></a>
+    </div>
+    <em>Learn how to set up and use privacy admins</em>
     <br>
   </td>
   <td>

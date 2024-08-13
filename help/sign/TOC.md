@@ -81,6 +81,7 @@ auto-video-transcripts: true
     + [Bulk Download tool](admin/bulk-download-tool.md)
     + [Acrobat Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
     + [Use Bio-Pharma settings](admin/use-bio-pharma-settings.md)
+    + [How to set up privacy admins](admin/privacy.md)
 + Digital ID {#digital-id}
   + [Overview](digitalid/digitalid-overview.md)
   + Aadhaar {#aadhaar}
