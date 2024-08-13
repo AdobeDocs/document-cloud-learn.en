@@ -64,7 +64,7 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 <tr>
   <td>
     <a href="webhooks.md">
-      <img alt="How to set up webhooks" src="../assets/webhooks.png" />
+      <img alt="How to set up webhooks" src="../assets/how-webhooks.png" />
     </a>
     <div>
     <a href="webhooks.md"><strong>How to set up webhooks</strong></a>
