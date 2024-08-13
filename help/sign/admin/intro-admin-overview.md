@@ -221,10 +221,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="Using Bio-Pharma settings" src="../assets/bulk-download-tool.png" />
+      <img alt="Bulk Download tool" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="bulk-download-tool.md"><strong>bulk-download-tool.md</strong></a>
+    <a href="bulk-download-tool.md"><strong>Bulk Download tool</strong></a>
     </div>
     <em>Learn how to use the Bulk Download tool to quickly download all your signed agreements</em>
     <br>
