@@ -100,13 +100,13 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="Creating a report chart" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="Reporting and transaction usage" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Creating a report chart</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>Reporting and transaction usage</strong></a>
     </div>
-    <em>Learn how to build, save, and manage your own custom reports and data exports</em>
+    <em>Learn how to generate reports and track transaction usage</em>
     <br>
   </td>
 </tr>
