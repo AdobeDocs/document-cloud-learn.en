@@ -146,12 +146,12 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Creating a report" src="../assets/Report.png" />
+      <img alt="Reporting and transaction usage" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Creating a report</strong></a>
+    <a href="creating-a-report.md"><strong>Reporting and transaction usage</strong></a>
     </div>
-    <em>Learn how to build your own reports to gain visibility into the document signing process</em>
+    <em>Learn how to generate reports and track transaction usage</em>
     <br>
   </td>
   <td>
