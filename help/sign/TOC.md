@@ -119,6 +119,7 @@ auto-video-transcripts: true
     + [Setting up data mapping](integrations/set-up-data-mapping.md)
     + [Setting up merge mapping](integrations/set-up-merging-map.md)
     + [Creating a custom button](integrations/create-a-custom-button.md)
+    + [Set up automatic updates](integrations/salesforce-automatic-updates.md)
   + Workday {#workday}
     + [Configuring Acrobat Sign with [!DNL Workday]](integrations/workday.md)
     + [Acrobat Sign + Workday new hire onboarding](integrations/acrobat-sign-workday-onboarding.md)
