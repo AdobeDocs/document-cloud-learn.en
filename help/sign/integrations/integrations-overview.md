@@ -271,6 +271,33 @@ You can use Acrobat Sign inside other applications your organization already use
     <br>
   </td>
 </tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="Set up automatic updates" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>Set up automatic updates</strong></a>
+    </div>
+    <em>Learn how to easily link your account to Salesforce to get automatic updates</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+</tr>
 </table>
 
 ## Workday integration tutorials
