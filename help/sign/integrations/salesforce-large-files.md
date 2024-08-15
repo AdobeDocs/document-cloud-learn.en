@@ -4,7 +4,7 @@ description: Learn how to set up large documents and push agreement services
 feature: Integrations
 role: Admin
 topic: Integrations
-level: Intermediate, Advanced
+level: Intermediate
 jira: KT-15911
 ---
 # Set up large files and push mappings
