@@ -1,6 +1,6 @@
 ---
 title: Set up Automatic Updates
-description: Learn how to easily link your account to Salesforce to get automatic updates.
+description: Learn how to easily link your account to Salesforce to get automatic updates
 feature: Integrations
 role: Admin
 topic: Integrations
