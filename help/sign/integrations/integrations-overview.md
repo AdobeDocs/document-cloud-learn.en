@@ -20,12 +20,12 @@ You can use Acrobat Sign inside other applications your organization already use
 
 ## What's new
 
+* [Set up large files and push mappings](salesforce-large-files.md)
+  Learn how to set up large documents and push agreement services in Salesforce
 * [Set up automatic updates](salesforce-automatic-updates.md)
   Learn how to easily link your account to Salesforce to get automatic updates
 * [Documents tab integration for [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
   Learn how to send documents out for signature directly from the Documents tab in [!DNL Microsoft Teams]
-* [Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-  Learn how to create an online signing experience that resembles in-person signing during a [!DNL Microsoft Teams] meeting
 
 ## Microsoft integrations tutorials
 
@@ -282,10 +282,15 @@ You can use Acrobat Sign inside other applications your organization already use
     <em>Learn how to easily link your account to Salesforce to get automatic updates</em>
     <br>
   </td>
-  <td>
-      <img alt="Spacer" src="../assets/Grayspacer.png" />
-      <div>
-      <br>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="Set up large files and push mappings" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>Set up large files and push mappings</strong></a>
+    </div>
+    <em>Learn how to set up large documents and push agreement services in Salesforce</em>
+    <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Grayspacer.png" />
