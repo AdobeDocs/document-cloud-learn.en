@@ -14,6 +14,9 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 
 ## What's new
 
+* [Guided actions](action.md)
+  Learn how to improve efficiency using guided actions
+  
 * [Optimize PDFs for SEO (Search Engine Optimization)](optimizeseo.md)
   Learn how to optimize a PDF for improved discoverability and search engine ranking on the web
 
@@ -99,12 +102,12 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action.png" />
+      <img alt="Guided actions" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong>Action Wizard</strong></a>
+      <a href="action.md"><strong>Guided actions</strong></a>
       </div>
-      Learn how to improve efficiency using Actions
+      Learn how to improve efficiency using guided actions
   </td>
   <td>
     <a href="redact.md">
