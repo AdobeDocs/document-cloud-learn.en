@@ -1,6 +1,6 @@
 ---
-title: Action Wizard
-description: Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files
+title: Guided actions
+description: Learn how to use guided actions to run one or more commands across numerous documents with a single click
 feature: Action
 role: User
 level: Intermediate
@@ -8,33 +8,15 @@ jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
 ---
-# Action Wizard
+# Guided actions
 
-Delivering the best customer experiences requires content to be created faster than ever before. Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files.
+Delivering the best customer experiences requires content to be created faster than ever before. Learn how to use guided actions to run one or more commands across numerous documents with a single click—saving you time and keystrokes.
 
 >[!NOTE]
 >
 >Available in Acrobat Pro only.
 
-1. Select **[!UICONTROL Action Wizard]** from the [!UICONTROL Tools] center or right-hand pane.
-
-    ![Action Wizard Step 1](../assets/ActionWizard_1.png)
-
-    Predefined actions appear in the **Actions List**.
-
-1. Select **[!UICONTROL New Action]** in the top menu to create a custom action.
-
-    ![Action Wizard Step 2](../assets/ActionWizard_2.png)
-
-1. Select a task from the list on the left, then select the center arrow to add it to the right column in the **[!UICONTROL Create New Action]** dialog box.
-
-    *Settings for each task are pre-determined in this dialog box, or you can prompt the user to make any necessary decisions as the action runs.*
-
-    ![Action Wizard Step 3](../assets/ActionWizard_3.png)
-
-1. Select **[!UICONTROL Save]** and name your action so it appears on the **[!UICONTROL Actions List]**.
-
-Now you can run the custom action any time you need to perform those specific series of steps on one or more PDF files.
+>[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

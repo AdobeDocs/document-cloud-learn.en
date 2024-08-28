@@ -47,7 +47,7 @@ auto-video-transcripts: true
   + [Work with form fields](advanced-tasks/workforms.md)
   + [Enhance your PDF](advanced-tasks/enhance.md)
   + [Detect differences between two PDFs](advanced-tasks/compare.md)
-  + [Action Wizard](advanced-tasks/action.md)
+  + [Guided actions](advanced-tasks/action.md)
   + [Redact & Sanitize](advanced-tasks/redact.md)
   + [Reduce file size & optimize](advanced-tasks/reduce.md)
   + [Working with form data](advanced-tasks/formdata.md)
