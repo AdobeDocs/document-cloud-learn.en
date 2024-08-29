@@ -5,6 +5,7 @@ feature: Administration
 role: Admin
 level: Intermediate
 jira: KT-15912
+exl-id: ac54a992-26b4-4962-aaa2-c52dcc6819b5
 ---
 # How to set up privacy admins
 

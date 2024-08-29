@@ -5,6 +5,7 @@ feature: Administration, Report
 role: Admin
 level: Intermediate
 jira: KT-15917
+exl-id: eed40c8d-8f4d-4bee-9a40-929f8d4171fd
 ---
 # Audit reports
 

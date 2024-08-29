@@ -7,6 +7,7 @@ topic: Integrations
 level: Intermediate
 jira: KT-15913
 topic-revisit: Integrations
+exl-id: c97a1026-e82c-4e43-abe5-0241a623deb4
 ---
 # Set up automatic updates
 

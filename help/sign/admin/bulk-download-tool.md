@@ -5,6 +5,7 @@ feature: Administration
 role: Admin
 level: Intermediate
 jira: KT-15915
+exl-id: 0d6938ed-3577-4406-a0af-2fa48f991838
 ---
 # Bulk Download tool
 
