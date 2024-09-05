@@ -30,7 +30,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Getting started</strong></a>
       </div>
-      <em>Get up-to-speed on how to send, sign, and track documents</em>
+      Get up-to-speed on how to send, sign, and track documents
       <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>Advanced tasks</strong></a>
       </div>
-      <em>Go beyond the basics with specific tasks and automation</em>
+      Go beyond the basics with specific tasks and automation
       <br>
   </td>  
   <td>
@@ -50,7 +50,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
       <a href="admin/intro-admin-overview.md"><strong>Administer</strong></a>
       </div>
-      <em>Basic to advanced set-up tips for your organization</em>
+      Basic to advanced set-up tips for your organization
       <br>
   </td>
   <td>
@@ -60,7 +60,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>Digital ID</strong></a>
       </div>
-      <em>Learn how to use digital IDs from around the word in Acrobat Sign</em>
+      Learn how to use digital IDs from around the word in Acrobat Sign
       <br>
   </td>
 </tr>
@@ -72,7 +72,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
       <a href="integrations/integrations-overview.md"><strong>Integrations</strong></a>
       </div>
-      <em>Add Acrobat Sign directly inside other applications your organization already uses</em>
+      Add Acrobat Sign directly inside other applications your organization already uses
       <br>
   </td>
   <td>
@@ -82,7 +82,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>Industries and departments</strong></a>
       </div>
-      <em>Explore real-world industry and department use cases</em>
+      Explore real-world industry and department use cases
       <br>
   </td>
   <td>
@@ -92,7 +92,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
       <a href="develop/develop-overview.md"><strong>Develop</strong></a>
       </div>
-      <em>Get development resources on Acrobat Sign I/O</em>
+      Get development resources on Acrobat Sign I/O
       <br>
   </td>
    <td>
@@ -102,7 +102,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
       <a href="deploy-overview.md"><strong>Deploy</strong></a>
       </div>
-      <em>Insight and best practicies for deploying Acrobat Sign within your organization</em>
+      Insight and best practicies for deploying Acrobat Sign within your organization
       <br>
   </td>
 </tr>
@@ -114,7 +114,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
       <a href="mobile/mobile-overview.md"><strong>Mobile</strong></a>
       </div>
-      <em>Send, sign, and get real-time updates on your mobile device</em>
+      Send, sign, and get real-time updates on your mobile device
       <br>
   </td>  
 </tr>
