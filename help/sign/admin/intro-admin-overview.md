@@ -15,13 +15,12 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## What's new
 
+* [How to use multiple profiles](multiple-profiles.md)
+  Learn how to use the profile picker to work with multiple Acrobat Sign accounts
 * [How to set up privacy admins](privacy.md)
   Learn how to set up and use privacy admins
 * [Bulk Download tool](bulk-download-tool.md)
   Learn how to use the Bulk Download tool to quickly download all your signed agreements
-* [Audit reports](audit-reports.md)
-  Learn how to access, utilize, and configure audit reports to suit your organization's needs
-
 
 ## Getting started
 
@@ -174,8 +173,13 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="multiple-profiles.md">
+      <img alt="How to use multiple profiles" src="../assets/multiple-profiles.png" />
+    </a>
     <div>
+    <a href="multiple-profiles.md"><strong>How to use multiple profiles</strong></a>
+    </div>
+    <em>Learn how to use the profile picker to work with multiple Acrobat Sign accounts</em>
     <br>
   </td>
   <td>
