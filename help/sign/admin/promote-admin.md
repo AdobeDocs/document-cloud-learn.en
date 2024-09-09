@@ -8,6 +8,6 @@ jira: KT-15914
 ---
 # How to promote a user to an admin role
 
-Learn how to promote a user to an Acrobat Sign admin role using the Admin Console.
+Learn how to promote a user to an Acrobat Sign admin role using the Adobe Admin Console.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433447?quality=12&learn=on&hidetitle=true)
