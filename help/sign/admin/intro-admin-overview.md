@@ -15,6 +15,8 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## What's new
 
+* [How to promote a user to an admin role](promote-admin.md)
+  Learn how to promote a user to an Acrobat Sign admin role using the Admin Console
 * [How to use multiple profiles](multiple-profiles.md)
   Learn how to use the profile picker to work with multiple Acrobat Sign accounts
 * [How to set up privacy admins](privacy.md)
@@ -183,8 +185,13 @@ Learn about adding users to your account, setting up groups, sharing access, and
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="promote-admin.md">
+      <img alt="How to promote a user to an admin role" src="../assets/promote-admin.png" />
+    </a>
     <div>
+    <a href="promote-admin.md"><strong>How to promote a user to an admin role</strong></a>
+    </div>
+    <em>Learn how to promote a user to an Acrobat Sign admin role using the Admin Console</em>
     <br>
   </td>
 </table>
