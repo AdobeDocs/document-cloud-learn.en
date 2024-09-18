@@ -30,7 +30,7 @@ Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quic
 
 >[!TAB Discover PDF insights with the AI Assistant]
 
-Learn how to gain insights from your PDF files using the AI Assistant.
+Learn how to gain insights from your PDF files using the [AI Assistant](ai-assistant.md).
 
 >[!ENDTABS]
 
