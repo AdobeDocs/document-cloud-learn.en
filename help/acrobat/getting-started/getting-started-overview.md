@@ -190,11 +190,11 @@ Learn how to gain insights from your PDF files using the [AI Assistant](ai-assis
       <br>
     </td>
     <td>
-      <a href="stylize-this-pdf-delete.md">
+      <a href="stylize-this-pdf.md">
         <img alt="Stylize this PDF" src="../assets/stylize-pdf.png" />
       </a>
       <div>
-      <a href="stylize-this-pdf-delete.md"><strong>Stylize this PDF</strong></a>
+      <a href="stylize-this-pdf.md"><strong>Stylize this PDF</strong></a>
       </div>
       Learn how to create professional-looking PDFs
       <br>
