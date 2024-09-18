@@ -14,14 +14,25 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
-* [Design a new page](add-custom-page.md)
-  Learn how to create new professional-looking page in your PDF using Adobe Express
-* [Edit graphics in a PDF](edit-graphics.md)
-  Learn how to create, edit, and enhance graphics in your PDF
-* [New workspace experience](new-workspace.md)
-  Learn about the new workspace in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently
-* [Discover PDF insights with the AI Assistant](ai-assistant.md)
-  Learn how to gain insights from your PDF files using the AI Assistant
+>[!BEGINTABS]
+
+>[!TAB Design a new page]
+
+Learn how to [design a new professional-looking page](add-custom-page.md) in your PDF using Adobe Express.
+
+>[!TAB Edit graphics in a PDF]
+
+Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
+
+>[!TAB New workspace experience]
+
+Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently.
+
+>[!TAB Discover PDF insights with the AI Assistant]
+
+Learn how to gain insights from your PDF files using the AI Assistant.
+
+>[!ENDTABS]
 
 ## Getting started tutorials
 
