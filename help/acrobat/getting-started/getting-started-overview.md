@@ -141,12 +141,12 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="Add custom page" src="../assets/custom.png" />
+        <img alt="Design a new page" src="../assets/design.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>Add custom page</strong></a>
+      <a href="add-custom-page.md"><strong>Design a new page</strong></a>
       </div>
-      Learn how to add custom pages to your PDF
+     Learn how to create new professional-looking page in your PDF
       <br>
     </td>
   </tr>
