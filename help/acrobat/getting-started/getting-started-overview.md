@@ -14,6 +14,8 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 ## What's new
 
+* [Design a new page](add-custom-page.md)
+  Learn how to create new professional-looking page in your PDF using Adobe Express
 * [Edit graphics in a PDF](edit-graphics.md)
   Learn how to create, edit, and enhance graphics in your PDF
 * [New workspace experience](new-workspace.md)
