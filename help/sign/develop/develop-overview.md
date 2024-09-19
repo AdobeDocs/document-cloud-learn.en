@@ -15,8 +15,13 @@ exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 
 ## What's new
 
-* [How to set up webhooks](webhooks.md)
-  Learn how to create a webhook to automate processes that would normally require manual intervention
+>[!BEGINTABS]
+
+>[!TAB How to set up webhooks]
+
+Learn how to create a [webhook](webhooks.md) to automate processes that would normally require manual intervention.
+
+>[!ENDTABS]
 
 <table style="table-layout:fixed">
 <tr>

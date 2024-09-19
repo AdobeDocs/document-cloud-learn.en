@@ -15,14 +15,25 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 ## What's new
 
-* [How to promote a user to an admin role](promote-admin.md)
-  Learn how to promote a user to an Acrobat Sign admin role using the Admin Console
-* [How to use multiple profiles](multiple-profiles.md)
-  Learn how to use the profile picker to work with multiple Acrobat Sign accounts
-* [How to set up privacy admins](privacy.md)
-  Learn how to set up and use privacy admins
-* [Bulk Download tool](bulk-download-tool.md)
-  Learn how to use the Bulk Download tool to quickly download all your signed agreements
+>[!BEGINTABS]
+
+>[!TAB How to promote a user to an admin role]
+
+Learn how to [promote a user](promote-admin.md) to an Acrobat Sign admin role using the Admin Console.
+
+>[!TAB How to use multiple profiles]
+
+Learn how to use the [profile picker](multiple-profiles.md) to work with multiple Acrobat Sign accounts.
+
+>[!TAB How to set up privacy admins]
+
+ Learn how to set up and use [privacy admins](privacy.md).
+
+>[!TAB Bulk Download tool]
+
+Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly download all your signed agreements.
+
+>[!ENDTABS]
 
 ## Getting started
 

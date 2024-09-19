@@ -14,11 +14,17 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 
 ## What's new
 
-* [Guided actions](action.md)
-  Learn how to improve efficiency using guided actions
-  
-* [Optimize PDFs for SEO (Search Engine Optimization)](optimizeseo.md)
-  Learn how to optimize a PDF for improved discoverability and search engine ranking on the web
+>[!BEGINTABS]
+
+>[!TAB Guided actions]
+
+Learn how to improve efficiency using [guided actions](action.md).
+
+>[!TAB Optimize PDFs for SEO (Search Engine Optimization)]
+
+ Learn how to [optimize a PDF](optimizeseo.md) for improved discoverability and search engine ranking on the web.
+
+>[!ENDTABS]
 
 ## Advanced tasks tutorials
 

@@ -14,10 +14,17 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 ## What's new
 
-* [Getting started with Acrobat Sign](new-sender.md)
-  Are you new to using Acrobat Sign? This tutorial is a great place to start.
-* [Set deadlines and reminders](set-deadlines-reminders.md)
-  Learn how to send regular email reminders and deadlines to help get your documents signed quickly
+>[!BEGINTABS]
+
+>[!TAB Getting started with Acrobat Sign]
+
+ Are you new to using Acrobat Sign? This [tutorial](new-sender.md)) is a great place to start.
+
+>[!TAB Set deadlines and reminders]
+
+Learn how to send regular email [reminders and deadlines](set-deadlines-reminders.md) to help get your documents signed quickly.
+
+>[!ENDTABS]
 
 ## Send
 

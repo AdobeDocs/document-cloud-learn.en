@@ -14,10 +14,17 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 ## What's new
 
-* [Send in Bulk](megasign.md)
-  Learn how to collect thousands of signatures at once for any document in just a few short steps
-* [Authentication methods in Acrobat Sign](authentication-methods.md)
-  Learn about the range of methods available in Acrobat Sign to authenticate the identity of someone signing a document
+>[!BEGINTABS]
+
+>[!TAB Send in Bulk]
+
+Learn how to [collect thousands](megasign.md) of signatures at once for any document in just a few short steps.
+
+>[!TAB Authentication methods in Acrobat Sign]
+
+Learn about the range of methods available in Acrobat Sign to [authenticate](authentication-methods.md) the identity of someone signing a document.
+
+>[!ENDTABS]
 
 ## Send
 
