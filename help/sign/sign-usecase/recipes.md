@@ -15,14 +15,25 @@ Explore how various organizations are using Acrobat Sign to transform their orga
 
 ## What's new
 
-* [Custom workflow for education IEP process](usecase-edu-iep.md)
-  Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process
-* [Education web form internship application](usecase-edu-intern.md)
-  Learn how web forms are used to improve students' access to required forms
-* [Create an education web form internship application](usecase-edu-intern-create.md)
-  Learn how to create an internship web form
-* [Government loan application with multiple unknown signers](webform-multiple-signers.md)
-  Learn how a web form is used for a complex government loan application workflow that involves multiple unknown participants
+>[!BEGINTABS]
+
+>[!TAB Custom workflow for education IEP process]
+
+Learn how the [Custom Workflow Designer](usecase-edu-iep.md) is used to digitize an Individualized Education Program (IEP) process.
+
+>[!TAB Education web form internship application]
+
+Learn how [web forms](usecase-edu-intern.md) are used to improve students' access to required forms.
+
+>[!TAB Create an education web form internship application]
+
+Learn how to create an internship [web form](usecase-edu-intern-create.md).
+
+>[!TAB Government loan application with multiple unknown signers]
+
+Learn how a [web form](webform-multiple-signers.md) is used for a complex government loan application workflow that involves multiple unknown participants.
+
+>[!ENDTABS]
 
 ## Government use cases
 

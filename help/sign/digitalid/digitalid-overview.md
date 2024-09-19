@@ -18,10 +18,17 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 
 ## What's new
 
-* [Register and sign using Digidentity](digidentity-sign.md)
-  Learn how to register and use your [!DNL Digidentity] digital ID with Acrobat Sign
-* [Register and sign using D-Trust](d-trust.md)
-  Learn how to register your identity with [!DNL D-Trust], and then use the [!DNL D-Trust] digital signature on a document in Acrobat Sign
+>[!BEGINTABS]
+
+>[!TAB Register and sign using Digidentity]
+
+Learn how to register and use your [[!DNL Digidentity]](digidentity-sign.md) digital ID with Acrobat Sign.
+
+>[!TAB Register and sign using D-Trust]
+
+Learn how to register your identity with [[!DNL D-Trust]](d-trust.md), and then use the [!DNL D-Trust] digital signature on a document in Acrobat Sign.
+
+>[!ENDTABS]
 
 ## [!DNL Aadhaar]
 
