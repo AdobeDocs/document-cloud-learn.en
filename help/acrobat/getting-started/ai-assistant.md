@@ -17,19 +17,19 @@ Learn how to gain insights from your PDF files using the AI Assistant to quickly
 
 >[!TAB Make an impactful presentation]
 
-Use voice prompts to look for insights from industry and customer reports on the go. Watch [video](https://video.tv.adobe.com/v/3428811?quality=12&learn=on&hidetitle=true).
+Use voice prompts to look for insights from industry and customer reports on the go. Watch [video](https://video.tv.adobe.com/v/3428811?quality=5&learn=on&hidetitle=true).
 
 >[!TAB Share research findings faster]
 
-Summarize industry reports, get deeper insights, and draft recaps for your team in no time. Watch [video](https://video.tv.adobe.com/v/3427286?quality=12&learn=on&hidetitle=true).
+Summarize industry reports, get deeper insights, and draft recaps for your team in no time. Watch [video](https://video.tv.adobe.com/v/3427286?quality=5&learn=on&hidetitle=true).
 
 >[!TAB Create proposals quickly]
 
-Speed up RFP responses by extracting key document information and cutting out time-consuming reviews. Watch [video](https://video.tv.adobe.com/v/3428639?quality=12&learn=on&hidetitle=true).
+Speed up RFP responses by extracting key document information and cutting out time-consuming reviews. Watch [video](https://video.tv.adobe.com/v/3428639?quality=5&learn=on&hidetitle=true).
 
 >[!TAB Send a quick meeting recap]
 
-Review meeting transcripts and help draft an email summary with key takeaways. Watch [video](https://video.tv.adobe.com/v/3427292?quality=12&learn=on&hidetitle=true).
+Review meeting transcripts and help draft an email summary with key takeaways. Watch [video](https://video.tv.adobe.com/v/3427292?quality=5&learn=on&hidetitle=true).
 
 >[!ENDTABS]
 
