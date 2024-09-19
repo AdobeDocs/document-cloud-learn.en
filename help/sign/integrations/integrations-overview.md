@@ -30,7 +30,7 @@ Learn how to set up [large documents and push agreement services](salesforce-lar
 
 Learn how to easily link your account to Salesforce to get [automatic updates](salesforce-automatic-updates.md).
 
->[!TAB Documents tab integration for [!DNL Microsoft Teams]]
+>[!TAB Documents tab integration for Microsoft Teams]
 
 Learn how to send documents out for signature directly from the [Documents tab](acrobat-sign-teams-documents-tab.md) in [!DNL Microsoft Teams].
 
