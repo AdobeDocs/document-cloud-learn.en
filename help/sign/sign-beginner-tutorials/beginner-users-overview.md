@@ -32,7 +32,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Workspace basics" src="../assets/workspace_1280.png" />
+      <img alt="Workspace basics" src="../assets/workspace.png" />
     </a>
     <div>
     <a href="quick-tour.md"><strong>Workspace basics</strong></a>
@@ -190,7 +190,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="What's a digital signature" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="What's a digital signature" src="../assets/whatisdigsig.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>What's a digital signature</strong></a>
@@ -227,7 +227,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Manage & track your agreements" src="../assets/Manage_1280.png" />
+      <img alt="Manage & track your agreements" src="../assets/Manage.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Manage & track your agreements</strong></a>
