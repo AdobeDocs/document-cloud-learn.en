@@ -37,7 +37,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="quick-tour.md"><strong>Workspace basics</strong></a>
     </div>
-    <em>Take a quick tour of the Acrobat Sign workspace to get up and running</em>
+    Take a quick tour of the Acrobat Sign workspace to get up and running
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="new-sender.md"><strong>Getting started with Acrobat Sign</strong></a>
     </div>
-    <em>This comprehensive tutorial is a great place to start for new senders in Acrobat Sign</em>
+    This comprehensive tutorial is a great place to start for new senders in Acrobat Sign
     <br>
   </td>
   <td>
@@ -57,7 +57,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="send-to-single-recipient.md"><strong>Sending to a single recipient</strong></a>
     </div>
-    <em>Jump in and learn how easy it is send a document out for signature</em>
+    Jump in and learn how easy it is send a document out for signature
     <br>
   </td>
   <td>
@@ -67,7 +67,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Sending to multiple recipients</strong></a>
     </div>
-    <em>Send a document for e-signature to more than one person in exactly the order you want</em>
+    Send a document for e-signature to more than one person in exactly the order you want
     <br>
   </td>
 </tr>
@@ -79,7 +79,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="sending-options.md"><strong>Configure sending options</strong></a>
     </div>
-    <em>Learn how to configure various options when sending a document out for signature</em>
+    Learn how to configure various options when sending a document out for signature
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="adding-fields.md"><strong>Adding fields to your documents</strong></a>
     </div>
-    <em>Learn how to add different types of fields to your documents</em>
+    Learn how to add different types of fields to your documents
     <br>
   </td>
   <td>
@@ -99,7 +99,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="modify-in-flight.md"><strong>Modifying a document after sending</strong></a>
     </div>
-    <em>Modify a document that's already in progress</em>
+    Modify a document that's already in progress
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="replace-signer.md"><strong>Replacing a signer</strong></a>
     </div>
-    <em>Learn how to change the signer of a document that's already in progress</em>
+    Learn how to change the signer of a document that's already in progress
      <br>
   </td>
 </tr>
@@ -121,7 +121,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
       <div>
       <a href="set-deadlines-reminders.md"><strong>Set deadlines and reminders</strong></a>
       </div>
-      <em>Learn how to send regular email reminders and deadlines to help get your documents signed quickly</em>
+      Learn how to send regular email reminders and deadlines to help get your documents signed quickly
       <br>
     </td> 
   <td>
@@ -153,7 +153,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>
     </div>
-    <em>Learn how easy it is to sign a document that is sent to you with Acrobat Sign</em>
+    Learn how easy it is to sign a document that is sent to you with Acrobat Sign
     <br>
   </td>
   <td>
@@ -163,7 +163,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="fill-and-sign.md"><strong>Filling and signing a document</strong></a>
     </div>
-    <em>Fill in forms and add your electronic signature to documents</em>
+    Fill in forms and add your electronic signature to documents
     <br>
   </td>
   <td>
@@ -173,7 +173,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="sign-in-person.md"><strong>Getting a signature in person</strong></a>
     </div>
-    <em>Get someone else's signature in person using the Acrobat Sign mobile app</em>
+    Get someone else's signature in person using the Acrobat Sign mobile app
     <br>
   </td>
   <td>
@@ -183,7 +183,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="delegate-signing.md"><strong>Delegate signing to someone else</strong></a>
     </div>
-    <em>Learn how to delegate the signing of a document to someone else</em>
+    Learn how to delegate the signing of a document to someone else
     <br>
   </td>
 </tr>
@@ -195,7 +195,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>What's a digital signature</strong></a>
     </div>
-    <em>Learn about certificate-based digital signatures</em>
+    Learn about certificate-based digital signatures
     <br>
   </td>
   <td>
@@ -205,7 +205,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signing using a stamp</strong></a>
     </div>
-    <em>Use stamps to mark a document approved or completed</em>
+    Use stamps to mark a document approved or completed
      <br>
   </td> 
  <td>
@@ -232,7 +232,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="manage-and-track.md"><strong>Manage & track your agreements</strong></a>
     </div>
-    <em>Learn how to manage and track agreements sent for signature</em>
+    Learn how to manage and track agreements sent for signature
     <br>
   </td>
   <td>
@@ -242,7 +242,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creating a document template</strong></a>
     </div>
-    <em>Create a reusable document template to provide speed and consistency for your organization</em>
+    Create a reusable document template to provide speed and consistency for your organization
     <br>
   </td>
   <td>
