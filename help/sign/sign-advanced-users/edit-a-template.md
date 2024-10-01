@@ -16,4 +16,4 @@ Learn how to edit or delete a template in your library.
 
 >[!TIP]
 >
->This video is part of the course [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) that is available for free on Experience League!
+>This video is part of the playlist [Advanced Tasks for Users](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) that is available for free on Experience League!

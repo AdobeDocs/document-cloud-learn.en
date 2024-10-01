@@ -23,4 +23,4 @@ Learn how to send and collect hundreds of signatures (up to 1,000 recipients wit
 
 >[!TIP]
 >
->This video is part of the [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) and [Getting Started with Acrobat Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) courses that are available for free on Experience League!
+>This video is part of the [Advanced Tasks for Users](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) and [Getting Started with Acrobat Sign for Administrators](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) playlists that are available for free on Experience League!

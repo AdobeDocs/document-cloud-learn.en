@@ -27,4 +27,4 @@ Learn how to tailor and automate document workflows to get electronic signatures
 
 >[!TIP]
 >
->This video is part of the course [Getting started with Acrobat Sign for administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) that is available for free on Experience League!
+>This video is part of the playlist [Getting started with Acrobat Sign for administrators](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) that is available for free on Experience League!

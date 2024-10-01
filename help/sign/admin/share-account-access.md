@@ -16,4 +16,4 @@ Learn how to set up view-only access to transactions in another user's account.
 
 >[!TIP]
 >
->This video is part of the course [Advanced tasks for admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) that is available for free on Experience League!
+>This video is part of the playlist [Advanced tasks for admins](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) that is available for free on Experience League!
