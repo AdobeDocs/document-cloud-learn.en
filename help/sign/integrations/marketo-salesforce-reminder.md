@@ -195,6 +195,3 @@ Because the campaign filter **Days Unsigned** was used, you can use a scheduled 
 
     ![Schedule Settings](assets/scheduleSettings.png)
 
->[!TIP]
->
->This tutorial is part of the course [Accelerate sales cycles with Acrobat Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!

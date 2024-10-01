@@ -18,4 +18,4 @@ In this recorded webinar (no registration necessary), learn how to build Acrobat
 
 >[!TIP]
 >
->This video is part of the [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) and [Advanced Tasks for Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) courses that are available for free on Experience League!
+>This video is part of the [Advanced Tasks for Users](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) and [Advanced Tasks for Admins](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) playlists that are available for free on Experience League!

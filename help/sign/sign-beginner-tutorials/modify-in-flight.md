@@ -25,4 +25,4 @@ Learn how to modify a document that's already been sent out for signature--like 
 
 >[!TIP]
 >
->This video is part of the course [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) that is available for free on Experience League!
+>This video is part of the playlist [Advanced Tasks for Users](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) that is available for free on Experience League!

@@ -28,7 +28,3 @@ Learn how to send an email reminder from Marketo for unsigned agreements. This i
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 
->[!TIP]
->
->This video is part of the course [Accelerate sales cycles with Acrobat Sign for Salesforce and Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) that is available for free on Experience League!
-

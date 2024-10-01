@@ -42,4 +42,4 @@ The file is now a searchable, editable PDF file.
 
 >[!TIP]
 >
->This video is part of the course [Work smarter with Acrobat DC and Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) that is available for free on Experience League!
+>This video is part of the playlist [Get Started with Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) that is available for free on Experience League!
