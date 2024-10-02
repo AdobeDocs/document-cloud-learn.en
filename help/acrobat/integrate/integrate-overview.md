@@ -57,7 +57,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <div>
     <a href="acrobatandteams.md"><strong>PDF collaboration in [!DNL Microsoft Teams]</strong></a>
     </div>
-    Collaborate and reviewing PDFs without ever leaving [!DNL Microsoft Teams]
+    Collaborate and review PDFs without ever leaving [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -79,7 +79,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <div>
     <a href="edge.md"><strong>Create PDF content while browsing with [!DNL Microsoft Edge]</strong></a>
     </div>
-    Learn how to turn web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]
+    Learn how to turn web pages to PDF with the Adobe Acrobat extension for [!DNL Microsoft Edge]
     <br>
   </td>
   <td>
