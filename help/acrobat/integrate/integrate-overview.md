@@ -37,7 +37,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <div>
     <a href="createofficeweb.md"><strong>Create PDFs in [!DNL Office] for the web</strong></a>
     </div>
-    Learn how to create rich, robust PDF files from directly from Microsoft Word
+    Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] for web apps
     <br>
   </td> 
   <td>
@@ -57,7 +57,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <div>
     <a href="acrobatandteams.md"><strong>PDF collaboration in [!DNL Microsoft Teams]</strong></a>
     </div>
-    Collaborate and work with colleagues by viewing, annotating, and reviewing PDFs without ever leaving [!DNL Microsoft Teams]
+    Collaborate and reviewing PDFs without ever leaving [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -89,7 +89,7 @@ Learn how everyone on your team can work seamlessly with PDF files, right inside
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>Protect PDFs using [!DNL Microsoft Purview Information] sensitivity labels</strong></a>
     </div>
-    Learn how to protect PDFs by adding, editing, customizing, and deleting Microsoft Purview Information sensitivity labels directly in Acrobat
+    Learn how to protect PDFs with Microsoft Purview Information sensitivity labels directly in Acrobat
     <br>
   </td>
   <td>
