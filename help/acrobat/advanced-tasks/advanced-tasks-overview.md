@@ -10,7 +10,7 @@ exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
 ---
 # Advanced tasks overview
 
-Go beyond the basics with these advanced tools in Acrobat. Learn how to create an Action to repeat mundane tasks, remove sensitive information, reduce and optimize large files, quickly gather form data, and create universally Accessible PDF files.
+Go beyond the basics with these advanced tools in Acrobat. Learn how to create an Action to repeat mundane tasks, remove sensitive information, reduce and optimize large files, quickly gather form data, and create universally Accessible PDF files. Check out this expertly curated [playlist](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) for performing advanced tasks in Acrobat.
 
 ## What's new
 

@@ -1,6 +1,6 @@
 ---
 title: Create PDF Content while Browsing with [!DNL Microsoft Edge]
-description: Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]
+description: Learn how to turn web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]
 feature: Integrations, Create PDF
 role: User
 topic: Integrations
@@ -12,7 +12,7 @@ exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
 ---
 # Create PDF content while browsing with [!DNL Microsoft Edge]
 
-Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]. This Windows-only tool is invaluable for research projects and offline viewing of web-based information.
+Learn how to turn web pages to PDF on the fly with the Adobe Acrobat extension for [!DNL Microsoft Edge]. This Windows-only tool is invaluable for research projects and offline viewing of web-based information.
 
 >[!TIP]
 >
