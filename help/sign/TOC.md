@@ -74,7 +74,6 @@ auto-video-transcripts: true
     + [Send in Bulk](sign-advanced-users/megasign.md)
     + [Building a custom workflow](admin/building-a-custom-workflow.md)
     + [Audit reports](admin/audit-reports.md)
-    + [How to use multiple profiles](admin/multiple-profiles.md)
     + [How to promote a user to an admin role](admin/promote-admin.md)
   + Advanced tasks {#advanced-tasks-admins}
     + [Global settings](admin/learn-about-global-settings.md)
