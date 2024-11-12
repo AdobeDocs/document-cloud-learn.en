@@ -18,7 +18,7 @@ Learn how to [create PDFs from all different types of documents](https://www.ado
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
 
 Want a portable version of this tutorial? Select the PDF icon to open or download a written version of this tutorial.
 
