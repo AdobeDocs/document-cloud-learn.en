@@ -18,7 +18,7 @@ Learn how to edit words, phrases, or even entire pages in your PDF. Editing text
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
