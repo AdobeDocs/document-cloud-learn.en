@@ -18,7 +18,7 @@ Learn how to convert your PDF files to different file formats—like [Microsoft 
 
  <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35494?enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

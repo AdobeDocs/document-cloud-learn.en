@@ -13,4 +13,4 @@ Learn how to create, edit, and enhance graphics in your PDF. Editing graphics di
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)

@@ -33,4 +33,4 @@ Review meeting transcripts and help draft an email summary with key takeaways. W
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)

@@ -10,7 +10,7 @@ exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
 ---
 # Guided actions
 
-Delivering the best customer experiences requires content to be created faster than ever before. Learn how to use guided actions to run one or more commands across numerous documents with a single click—saving you time and keystrokes.
+Delivering the best customer experiences requires content to be created faster than ever before. Learn how to use guided actions to run one or more commands across numerous documents with a single click—saving you time and keystrokes. This video tutorial uses the [new workspace experience](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
