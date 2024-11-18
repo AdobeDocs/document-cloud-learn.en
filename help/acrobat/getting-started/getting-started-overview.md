@@ -16,6 +16,10 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 >[!BEGINTABS]
 
+>[!TAB Collaborate in real time]
+
+Learn how to create a document [review process](collaborate.md) that not only enhances efficiency but boosts content quality as well.
+
 >[!TAB Design a new page]
 
 Learn how to [design a new professional-looking page](add-custom-page.md) in your PDF using Adobe Express.
@@ -27,10 +31,6 @@ Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
 >[!TAB New workspace experience]
 
 Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently.
-
->[!TAB Discover PDF insights with the AI Assistant]
-
-Learn how to gain insights from your PDF files using the [AI Assistant](ai-assistant.md).
 
 >[!ENDTABS]
 
