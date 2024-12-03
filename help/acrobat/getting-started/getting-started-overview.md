@@ -36,6 +36,24 @@ Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quic
 
 ## Getting started tutorials
 
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace
+  {title = New workspace experience}
+  {description = Learn about the new workspace in Acrobat}
+  {cta = Watch}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=2000&format=webply&optimize=medium}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface
+  {title = Workspace basics}
+  {description = Learn the basics of the Acrobat workspace}
+  {cta = Watch}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=2000&format=webply&optimize=medium}
+* https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview 
+   { image = "https://cdn.experienceleague.adobe.com/thumbs/example.png" }
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface
+
+-->
+
 <table style="table-layout:fixed">
 <tr>
   <td>
