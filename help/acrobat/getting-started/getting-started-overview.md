@@ -113,6 +113,16 @@ Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quic
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="acrobatweb.md">
+      <img alt="Work anywhere with Acrobat web" src="../assets/acrobat-web.png" />
+    </a>
+    <div>
+    <a href="acrobatweb.md"><strong>Work anywhere with Acrobat web</strong></a>
+    </div>
+    Learn how to work from anywhere
+    <br>
+  </td>
+  <td>
     <a href="productivity.md">
       <img alt="Productivity on the go" src="../assets/productivity.png" />
     </a>
