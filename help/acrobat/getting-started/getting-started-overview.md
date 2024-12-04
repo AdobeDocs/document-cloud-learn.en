@@ -36,7 +36,7 @@ Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quic
 
 ## Getting started tutorials
 
-<!-- standard comment code -->
+<!-- Original HTML
 <!-- CARDS
 
 * https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace
@@ -56,7 +56,7 @@ Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quic
    {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium}
 
 -->
-<!-->
+-->
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
