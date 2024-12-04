@@ -19,7 +19,6 @@ auto-video-transcripts: true
   + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)
   + [Productivity on the go](getting-started/productivity.md)
   + [Work with [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-  + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
   + [Create a PDF](getting-started/create-pdf.md)
   + [Combine files to into a single PDF](getting-started/combine-to-pdf.md)
   + [Organize Pages](getting-started/organize.md)
@@ -37,6 +36,7 @@ auto-video-transcripts: true
   + [Protect a PDF file with a password](getting-started/password-protect.md)
   + [Get signatures](getting-started/signatures.md)
   + [Track your documents](getting-started/track.md)
+  + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
   + [Adding bookmarks and hyperlinks](advanced-tasks/bookmarks.md)
