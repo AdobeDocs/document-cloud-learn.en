@@ -14,7 +14,7 @@ Delivering the best customer experiences requires content to be created faster t
 
 >[!TIP]
 >
->Learn about how to add a brand [new custom page](add-custom-page.md) while organizing pages.
+>Learn about how to add a [new custom page](add-custom-page.md) while organizing pages.
 
 <br>&nbsp;
 
