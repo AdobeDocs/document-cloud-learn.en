@@ -44,11 +44,11 @@ PDF files have a title and meta description just like a web page.
 Add key **[!UICONTROL Document Properties]** as follows:
 
 1. Select **[!UICONTROL File > Properties]** or use the keyboard shortcut *Ctrl + D* on Windows or *Cmd + D* on Mac and select the **[!UICONTROL Description]** tab.
-1.  Enter a keyword-optimized title in the **[!UICONTROL Title:]** field.
-1.  Make sure the **[!UICONTROL Author:]** field doesn't identify a specific individual within your organization.
-1.  Enter a keyword-optimized summary of your document in the **[!UICONTROL Subject:]** field.
+1. Enter a keyword-optimized title in the **[!UICONTROL Title:]** field.
+1. Make sure the **[!UICONTROL Author:]** field doesn't identify a specific individual within your organization.
+1. Enter a keyword-optimized summary of your document in the **[!UICONTROL Subject:]** field.
     Try beginning the summary using an action verb like Learn, Discover, Explore, etc.
-1.  Select **[!UICONTROL Additional Metadata]** to add copyright or public domain information if applicable.
+1. Select **[!UICONTROL Additional Metadata]** to add copyright or public domain information if applicable.
     
     ![Screenshot of Document Properties](../assets/optimizeseo2.png)
 
@@ -64,11 +64,11 @@ Tagging content in your PDF not only makes your file [Accessible](https://experi
 
 Tag a PDF as follows:
 
-1.  Select **[!UICONTROL Accessibility]** in the **[!UICONTROL Tools]** center.
-1.  Select **[!UICONTROL Autotag Document]** in the right-hand pane.
-1.  Follow the hints for repair in the left-hand pane **[!UICONTROL Recognition Report]**.
-1.  Run **[!UICONTROL Set Alternate Text]** if necessary.
-1.  Use keywords to describe the image in the **[!UICONTROL Alternate Text]**.
+1. Select **[!UICONTROL Accessibility]** in the **[!UICONTROL Tools]** center.
+1. Select **[!UICONTROL Autotag Document]** in the right-hand pane.
+1. Follow the hints for repair in the left-hand pane **[!UICONTROL Recognition Report]**.
+1. Run **[!UICONTROL Set Alternate Text]** if necessary.
+1. Use keywords to describe the image in the **[!UICONTROL Alternate Text]**.
     
     ![Screenshot of setting Alternate text in PDF](../assets/optimizeseo3.png)
 
@@ -124,12 +124,12 @@ The last step is to [protect your PDF](https://www.adobe.com/acrobat/online/pass
 
 Secure a PDF as follows:
 
-1.  Open **[!UICONTROL Document Properties]** (*Ctrl + D* on Windows or *Cmd + D* on Mac) and select the **[!UICONTROL Security]** tab.
-1.  Check **[!UICONTROL Printing editing and printing of the document. A password will be required in order to change these settings.]**
-1.  Under **[!UICONTROL Changes Allowed:]** select **[!UICONTROL None]**.
-1.  Check **[!UICONTROL Enable text access for screen reader devices for the visually impaired.]**
-1.  Enter and confirm a strong password.
-1.  Select **[!UICONTROL OK]** and save the file.
+1. Open **[!UICONTROL Document Properties]** (*Ctrl + D* on Windows or *Cmd + D* on Mac) and select the **[!UICONTROL Security]** tab.
+1. Check **[!UICONTROL Printing editing and printing of the document. A password will be required in order to change these settings.]**
+1. Under **[!UICONTROL Changes Allowed:]** select **[!UICONTROL None]**.
+1. Check **[!UICONTROL Enable text access for screen reader devices for the visually impaired.]**
+1. Enter and confirm a strong password.
+1. Select **[!UICONTROL OK]** and save the file.
 
     ![Screenshot of Document Properties](../assets/optimizeseo6.png)
 

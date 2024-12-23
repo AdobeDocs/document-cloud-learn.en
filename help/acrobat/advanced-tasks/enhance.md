@@ -68,3 +68,4 @@ Adding new headers or footers allow you to build uniform PDF files for an improv
 1. Select **Save Settings**.
     Type *Revision 3.0* in the box and select **OK**.
 1. Select **OK** to apply the new footer to the PDF.
+
