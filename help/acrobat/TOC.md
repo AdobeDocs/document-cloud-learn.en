@@ -50,7 +50,7 @@ auto-video-transcripts: true
   + [Guided actions](advanced-tasks/action.md)
   + [Redact & Sanitize](advanced-tasks/redact.md)
   + [Reduce file size & optimize](advanced-tasks/reduce.md)
-  + [Working with form data](advanced-tasks/formdata.md)
+  + [Work with form data](advanced-tasks/formdata.md)
   + [Check PDF Accessibility](advanced-tasks/accessibility.md)
   + Acrobat Accessibility series {#accessibility-series}
      + [Overview](advanced-tasks/accessibility-series.md)

@@ -28,149 +28,79 @@ Learn how to improve efficiency using [guided actions](action.md).
 
 ## Advanced tasks tutorials
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="bookmarks.md">
-      <img alt="Adding bookmarks and hyperlinks" src="../assets/bookmarks.png" />
-    </a>
-    <div>
-      <a href="bookmarks.md"><strong>Adding bookmarks and hyperlinks</strong></a>
-      </div>
-      Add bookmarks and hyperlinks for better navigation
-  </td>
-  <td>
-    <a href="optimizescan.md">
-      <img alt="Optimize scanned documents" src="../assets/optimize.png" />
-    </a>
-    <div>
-      <a href="optimizescan.md"><strong>Optimize scanned documents</strong></a>
-      </div>
-      Learn how to enhance scanned documents
-  </td>
-  <td>
-    <a href="custom.md">
-      <img alt="Custom Commands and Tools" src="../assets/custom-commands.png" />
-    </a>
-    <div>
-      <a href="custom.md"><strong>Custom Commands and Tools</strong></a>
-      </div>
-      Learn how to improve document workflow efficiency
-  </td>
-  <td>
-    <a href="advancedforms.md">
-      <img alt="Advanced form fields" src="../assets/advanced-forms.png" />
-    </a>
-    <div>
-      <a href="advancedforms.md"><strong>Advanced form fields</strong></a>
-      </div>
-      Learn how to build advanced form fields
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="optimizeseo.md">
-      <img alt="Optimize PDFs for SEO" src="../assets/seo.png" />
-    </a>
-    <div>
-      <a href="optimizeseo.md"><strong>Optimize PDFs for SEO</strong></a>
-      </div>
-      Optimize a PDF for SEO (Search Engine Optimization)
-  </td>
-  <td>
-    <a href="workforms.md">
-      <img alt="Work with form fields" src="../assets/work-forms.png" />
-    </a>
-    <div>
-      <a href="workforms.md"><strong>Work with form fields</strong></a>
-      </div>
-      Learn how to add various types of form fields and properties
-  </td>
-  <td>
-    <a href="enhance.md">
-      <img alt="Enhance your PDF" src="../assets/enhance.png" />
-    </a>
-    <div>
-      <a href="enhance.md"><strong>Enhance your PDF</strong></a>
-      </div>
-      Learn how to transform your PDF
-  </td>
- <td>
-    <a href="compare.md">
-      <img alt="Detect differences between two PDFs" src="../assets/compare.png" />
-    </a>
-    <div>
-      <a href="compare.md"><strong>Detect differences between two PDFs</strong></a>
-      </div>
-      Quickly detect the differences between two PDF files
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="action.md">
-      <img alt="Guided actions" src="../assets/action.png" />
-    </a>
-    <div>
-      <a href="action.md"><strong>Guided actions</strong></a>
-      </div>
-      Learn how to improve efficiency using guided actions
-  </td>
-  <td>
-    <a href="redact.md">
-      <img alt="Redact & Sanitize" src="../assets/redact.png" />
-    </a>
-    <div>
-      <a href="redact.md"><strong>Redact & Sanitize</strong></a>
-      </div>
-      Learn how to permanently remove sensitive information
-  </td>
- <td>
-    <a href="reduce.md">
-      <img alt="Reduce file size & optimize" src="../assets/reduce.png" />
-    </a>
-    <div>
-      <a href="reduce.md"><strong>Reduce file size & optimize</strong></a>
-      </div>
-      Reduce large files without compromising quality
-  </td>
-  <td>
-    <a href="formdata.md">
-      <img alt="Work with form data" src="../assets/form-data.png" />
-    </a>
-    <div>
-      <a href="formdata.md"><strong>Work with form data</strong></a>
-      </div>
-      Learn how to compile form data
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="accessibility.md">
-      <img alt="Check PDF Accessibility" src="../assets/accessibility.png" />
-    </a>
-    <div>
-      <a href="accessibility.md"><strong>Check PDF Accessibility</strong></a>
-      </div>
-      Learn how to check if your PDF is universally accessible
-  </td>
- <td>
-    <a href="accessibility-series.md">
-      <img alt="Acrobat Accessibility Series" src="../assets/accessibility-series.png" />
-    </a>
-    <div>
-      <a href="accessibility-series.md"><strong>Acrobat Accessibility Series</strong></a>
-      </div>
-      Six-session on-demand PDF accessibility series
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td> 
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
-</tr>
-</table>
+<!-- CARDS
+
+  {target = _self}
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/bookmarks
+  {title = Adding bookmarks and hyperlinks}
+  {description = Add bookmarks and hyperlinks for better navigation}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizescan
+  {title = Optimize scanned documents}
+  {description = Learn how to enhance scanned documents}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/custom
+  {title = Custom Commands and Tools}
+  {description = Learn how to improve document workflow efficiency}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advancedforms
+  {title = Advanced form fields}
+  {description = Learn how to build advanced form fields}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizeseo
+  {title = Optimize PDFs for SEO (Search Engine Optimization)}
+  {description = Optimize a PDF for SEO (Search Engine Optimization)}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium}
+  {cta = Read}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/workforms
+  {title = Work with form fields}
+  {description = Learn how to add various types of form fields and properties in this hands-on tutorial}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium}
+  {cta = Get started}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/enhance
+  {title = Enhance your PDF}
+  {description = Learn how to transform your PDF in this hands-on tutorial}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium}
+  {cta = Get started}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare
+  {title = Detect differences between two PDFs}
+  {description = Quickly detect the differences between two PDF files}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action
+  {title = Guided actions}
+  {description = Learn how to improve efficiency using guided actions}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact
+  {title = Redact & Sanitize}
+  {description = Learn how to permanently remove sensitive information}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium}
+  {cta = Read}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce
+  {title = Reduce file size & optimize}
+  {description = Reduce large files without compromising quality}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_169fb64a79f77cca99a86e42cf02d87861e2203cc.png?width=400&format=webply&optimize=medium}
+  {cta = Read}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/formdata
+  {title = Work with form data}
+  {description = Learn how to compile form data into a single spreadsheet}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium}
+  {cta = Read}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility
+  {title = Check PDF accessibility}
+  {description = Learn how to check if your PDF is universally accessible}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17002463136c175d858d4aabc64c2261ca2f975d9.png?width=400&format=webply&optimize=medium}
+  {cta = Read}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibility-series
+  {title = Acrobat Accessibility series}
+  {description = Six-session on-demand PDF accessibility series}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_14a125304463a4ba2686a3d38b44552d67d53d6e6.png?width=400&format=webply&optimize=medium}
+  {cta = Watch series}
+  
+-->
