@@ -23,3 +23,4 @@ Learn how to edit words, phrases, or even entire pages in your PDF. Editing text
 >[!TIP]
 >
 >This video is part of the playlist [Get Started with Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) that is available for free on Experience League!
+
