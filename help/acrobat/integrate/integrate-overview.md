@@ -18,7 +18,7 @@ Integrate Acrobat with [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL On
 
 Learn how everyone on your team can work seamlessly with PDF files, right inside [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html). Check out this expertly curated [playlist](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) on Acrobat and Microsoft 365 integrations.
   
--->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF files from Microsoft Word">
