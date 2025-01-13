@@ -14,32 +14,30 @@ Learn how you can transform customer and employee experiences by exploring indus
 
 ## Industries and departments
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="gov/gov-overview.md">
-      <img alt="Government tutorials" src="../assets/Government.png" />
-    </a>
-    <div>
-    <a href="gov/gov-overview.md"><strong>Government tutorials</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Government tutorials">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/gov-overview" title="Government tutorials" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Government tutorials"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/gov-overview" target="_self" rel="referrer" title="Government tutorials">Government tutorials</a>
+                    </p>
+                    <p class="is-size-6">Explore our Acrobat tutorials specifically designed for federal, state, and local government</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
     </div>
-    <em>Explore our Acrobat tutorials specifically designed for federal, state, and local government</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>  
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
