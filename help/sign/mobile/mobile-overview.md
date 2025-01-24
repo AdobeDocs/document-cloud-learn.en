@@ -40,7 +40,7 @@ Send documents for signature, track e-signing progress, and get real-time update
   {cta = Download}
   
 -->
-<!-- End COMMENT -->
+<!-- END COMMENT -->
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
