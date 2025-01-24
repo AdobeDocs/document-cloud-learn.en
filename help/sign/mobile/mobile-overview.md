@@ -31,13 +31,13 @@ Send documents for signature, track e-signing progress, and get real-time update
 * https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197#_blank
   {target = _self}
   {title = Download Acrobat Sign mobile app for iOS}
-  {description = Download Acrobat Sign mobile app from the App Store}
+  {description = Download Acrobat Sign mobile app from App Store}
   {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_142465fb5c98e1d544f7379fa862d376984800616.png?width=400&format=webply&optimize=medium}
   {cta = Download}
 * https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1#_blank
   {target = _self}
   {title = Download Acrobat Sign mobile app for Android}
-  {description = Download Acrobat Sign mobile app from the Google Play}
+  {description = Download Acrobat Sign mobile app from Google Play}
   {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_161540190f21bf9bac11a88422b04d229fd1dd02b.png?width=400&format=webply&optimize=medium}
   {cta = Download}
   
@@ -130,7 +130,7 @@ Send documents for signature, track e-signing progress, and get real-time update
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1#_blank" target="_self" rel="referrer" title="Download Acrobat Sign mobile app for Android">Download Acrobat Sign mobile app for Android</a>
                     </p>
-                    <p class="is-size-6">Download Acrobat Sign mobile app from the Google Play</p>
+                    <p class="is-size-6">Download Acrobat Sign mobile app from Google Play</p>
                 </div>
                 <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1#_blank" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Download</span>
