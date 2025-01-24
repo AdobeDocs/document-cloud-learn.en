@@ -80,6 +80,8 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
   {cta = Browse tutorials}
   
 -->
+<!-- END COMMENT -->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started">
@@ -291,4 +293,3 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<!-- End Comment -->
