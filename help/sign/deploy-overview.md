@@ -10,7 +10,7 @@ exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 ---
 # Deploy overview
 
-Best practice articles with valuable insight on deploying Acrobat Sign within your organization.
+Articles with valuable insight and best practices on deploying Acrobat Sign within your organization.
 
 <table style="table-layout:fixed">
 <tr>
