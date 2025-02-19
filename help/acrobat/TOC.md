@@ -15,7 +15,7 @@ auto-video-transcripts: true
   + [Overview](getting-started/getting-started-overview.md)
   + [New workspace experience](getting-started/new-workspace.md)
   + [Workspace basics](getting-started/get-to-know-the-acrobat-dc-interface.md)
-  + [Discover PDF insights with the AI Assistant](getting-started/ai-assistant.md)
+  + [Discover PDF insights with AI Assistant](getting-started/ai-assistant.md)
   + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)
   + [Productivity on the go](getting-started/productivity.md)
   + [Work with [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
