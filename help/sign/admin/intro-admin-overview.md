@@ -72,7 +72,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <div>
     <a href="add-users-to-your-account.md"><strong>Add a new user</strong></a>
     </div>
-    <em>Add and manage users for Acrobat Sign</em>
+    <em>Add new users to Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -183,12 +183,12 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="How to promote a user to an admin role" src="../assets/promote-admin.png" />
+      <img alt="Assign Product & Support Admin roles" src="../assets/admin-roles.jpg" />
     </a>
     <div>
-    <a href="promote-admin.md"><strong>How to promote a user to an admin role</strong></a>
+    <a href="promote-admin.md"><strong>Assign Product & Support Admin roles</strong></a>
     </div>
-    <em>Learn how to promote a user to an Acrobat Sign admin role using the Admin Console</em>
+    <em>Learn how to promote a user to an Acrobat Sign product or support admin role using the Admin Console</em>
     <br>
   </td>
    <td>

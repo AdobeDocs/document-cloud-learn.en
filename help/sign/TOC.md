@@ -63,7 +63,7 @@ auto-video-transcripts: true
     + [Getting started for new administrators](admin/get-started-admin.md)
     + [Up and running for admins](admin/up-and-running-admin.md)
     + [Configure notifications for events and alerts](admin/set-up-shared-events-and-alert.md)
-    + [Adding users](admin/add-users-to-your-account.md)
+    + [Add a new user](admin/add-users-to-your-account.md)
     + [Creating and managing groups](admin/create-and-manage-groups.md)
     + [Setting up an external archive](admin/set-up-your-external-archive.md)
     + [Creating a template](sign-advanced-users/create-a-template.md)
@@ -74,7 +74,7 @@ auto-video-transcripts: true
     + [Send in Bulk](sign-advanced-users/megasign.md)
     + [Building a custom workflow](admin/building-a-custom-workflow.md)
     + [Audit reports](admin/audit-reports.md)
-    + [How to promote a user to an admin role](admin/promote-admin.md)
+    + [Assign Product & Support Admin roles](admin/promote-admin.md)
   + Advanced tasks {#advanced-tasks-admins}
     + [Global settings](admin/learn-about-global-settings.md)
     + [Sharing account access](admin/share-account-access.md)

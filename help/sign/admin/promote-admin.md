@@ -1,14 +1,14 @@
 ---
-title: How to Promote a User to an Admin Role
-description: Learn how to promote a user to an Acrobat Sign admin role using the Admin Console
+title: Assign Product Admin & Support Admin roles
+description: Learn how to promote a user to an Acrobat Sign admin or support role using the Admin Console
 feature: Administration
 role: Admin
 level: Intermediate
-jira: KT-15914
+jira: KT-17583
 exl-id: 5ff13940-e4f0-409c-a069-996b3d762908
 ---
-# How to promote a user to an admin role
+# Assign Product Admin & Support Admin roles
 
-Learn how to promote a user to an Acrobat Sign admin role using the Adobe Admin Console.
+Learn how to promote a user to an Acrobat Sign admin or support role using the [Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3433447?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
