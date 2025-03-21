@@ -19,7 +19,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!TAB Add a new user]
 
-Learn how to [add and manage users for Acrobat Sign](add-users-to-your-account.md).
+Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB How to set up privacy admins]
 
@@ -66,6 +66,18 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="Add a new user" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>Add a new user</strong></a>
+    </div>
+    <em>Learn how to add new users to Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="Add a new account administrator" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -73,18 +85,6 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <a href="add-admin.md"><strong>Add a new account administrator</strong></a>
     </div>
     <em>Learn how to create a new user or promote an existing user to the Acrobat Sign Admin role</em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Creating and Managing Groups" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Creating and managing groups</strong></a>
-    </div>
-    <em>Create groups, add users to groups, and edit group settings</em>
     <br>
   </td>
   <td>
