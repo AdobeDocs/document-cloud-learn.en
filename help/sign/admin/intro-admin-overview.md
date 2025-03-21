@@ -17,9 +17,9 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!BEGINTABS]
 
->[!TAB How to promote a user to an admin role]
+>[!TAB Add a new user]
 
-Learn how to [promote a user](promote-admin.md) to an Acrobat Sign admin role using the Admin Console.
+Learn how to [add and manage users for Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB How to set up privacy admins]
 
@@ -67,10 +67,10 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Adding users" src="../assets/Adding-Users.png" />
+      <img alt="Add a new user" src="../assets/Add-a-new-user.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Adding users</strong></a>
+    <a href="add-users-to-your-account.md"><strong>Add a new user</strong></a>
     </div>
     <em>Add and manage users for Acrobat Sign</em>
     <br>
