@@ -1,5 +1,5 @@
 ---
-title: Add a new user
+title: Add a New User
 description: Add new users to Acrobat Sign
 feature: Administration, Deploy
 role: Admin

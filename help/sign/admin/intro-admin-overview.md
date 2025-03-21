@@ -66,18 +66,28 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <br>
   </td>
   <td>
-    <a href="add-users-to-your-account.md">
-      <img alt="Add a new user" src="../assets/Add-a-new-user.jpg" />
+    <a href="add-admin.md">
+      <img alt="Add a new account administrator" src="../assets/Add-a-new-admin.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Add a new user</strong></a>
+    <a href="add-admin.md"><strong>Add a new account administrator</strong></a>
     </div>
-    <em>Add new users to Acrobat Sign</em>
+    <em>Learn how to create a new user or promote an existing user to the Acrobat Sign Admin role</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
+    <a href="create-and-manage-groups.md">
+      <img alt="Creating and Managing Groups" src="../assets/Creating-Groups.png" />
+    </a>
+    <div>
+    <a href="create-and-manage-groups.md"><strong>Creating and managing groups</strong></a>
+    </div>
+    <em>Create groups, add users to groups, and edit group settings</em>
+    <br>
+  </td>
+  <td>
     <a href="create-and-manage-groups.md">
       <img alt="Creating and Managing Groups" src="../assets/Creating-Groups.png" />
     </a>
@@ -107,6 +117,8 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Create a reusable document template for speed and consistency</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="Reporting and transaction usage" src="../assets/reporting.png" />
@@ -117,8 +129,6 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Learn how to generate reports and track transaction usage</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="report-options.md">
       <img alt="Report options for users" src="../assets/report-options.png" />
@@ -149,6 +159,8 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Learn how to disable, edit, and re-enable an existing web form</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Send in Bulk" src="../assets/send-in-bulk.png" />
@@ -159,8 +171,6 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Collect thousands of signatures at once for any document</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Setting up a Workflow" src="../assets/BuildingWorkflow.png" />
@@ -191,11 +201,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Learn how to promote a user to an Acrobat Sign product or support admin role using the Admin Console</em>
     <br>
   </td>
-   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
+</tr> 
 </table>
 
 ## Advanced tasks
