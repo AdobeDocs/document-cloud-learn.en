@@ -64,6 +64,7 @@ auto-video-transcripts: true
     + [Up and running for admins](admin/up-and-running-admin.md)
     + [Configure notifications for events and alerts](admin/set-up-shared-events-and-alert.md)
     + [Add a new user](admin/add-users-to-your-account.md)
+    + [Add a new account administrator](admin/add-admin.md)
     + [Creating and managing groups](admin/create-and-manage-groups.md)
     + [Setting up an external archive](admin/set-up-your-external-archive.md)
     + [Creating a template](sign-advanced-users/create-a-template.md)

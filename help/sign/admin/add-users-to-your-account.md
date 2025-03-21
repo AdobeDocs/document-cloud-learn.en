@@ -1,9 +1,10 @@
 ---
-title: Add a new user
+title: Add a New User
 description: Add new users to Acrobat Sign
 feature: Administration, Deploy
 role: Admin
 level: Intermediate
+jira: KT-17584
 jira: KT-17584
 topic-revisit: Administration
 exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
