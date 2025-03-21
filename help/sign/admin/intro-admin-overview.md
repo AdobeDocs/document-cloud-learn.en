@@ -198,7 +198,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <div>
     <a href="promote-admin.md"><strong>Assign Product & Support Admin roles</strong></a>
     </div>
-    <em>"Learn how to assign an Acrobat Sign user Product Admin and Support Admin role in the Admin Console</em>
+    <em>Learn how to assign an Acrobat Sign user Product Admin and Support Admin role in the Admin Console</em>
     <br>
   </td>
 </tr> 
