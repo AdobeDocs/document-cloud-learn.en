@@ -1,6 +1,6 @@
 ---
 title: Add a New User
-description: Add new users to Acrobat Sign
+description: Learn how to add new users to Acrobat Sign
 feature: Administration, Deploy
 role: Admin
 level: Intermediate
