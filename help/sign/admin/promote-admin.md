@@ -1,5 +1,5 @@
 ---
-title: Assign Product & Support Admin roles
+title: Assign Product & Support Admin Roles
 description: Learn how to promote a user to an Acrobat Sign product or support admin role using the Admin Console
 feature: Administration
 role: Admin
