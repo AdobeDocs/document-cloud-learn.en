@@ -13,7 +13,7 @@ auto-video-transcripts: true
 + [Overview](overview.md)
 + Getting started {#getting-started}
   + [Overview](getting-started/getting-started-overview.md)
-  + [New workspace experience](getting-started/new-workspace.md)
+  + [New Acrobat experience](getting-started/new-workspace.md)
   + [Workspace basics](getting-started/get-to-know-the-acrobat-dc-interface.md)
   + [Discover PDF insights with AI Assistant](getting-started/ai-assistant.md)
   + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)

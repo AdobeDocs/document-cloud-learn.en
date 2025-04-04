@@ -10,7 +10,7 @@ exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
 ---
 # Edit text in a PDF
 
-Learn how to edit words, phrases, or even entire pages in your PDF. Editing text directly in Acrobat allows you to accurately and professionally update content without jumping back and forth between apps. This video tutorial uses the [new workspace experience](new-workspace.md).
+Learn how to edit words, phrases, or even entire pages in your PDF. Editing text directly in Acrobat allows you to accurately and professionally update content without jumping back and forth between apps. This video tutorial uses the [Mew Acrobat experience](new-workspace.md).
 
 >[!TIP]
 >
