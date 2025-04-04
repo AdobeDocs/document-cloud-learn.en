@@ -28,9 +28,9 @@ Learn how to [design a new professional-looking page](add-custom-page.md) in you
 
 Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
 
->[!TAB New workspace experience]
+>[!TAB new Acrobat experience]
 
-Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quickly discover tools and complete your PDF tasks efficiently.
+Learn about the [new Acrobat experience](new-workspace.md) that helps you quickly discover tools and complete your PDF tasks efficiently.
 
 >[!ENDTABS]
 
@@ -38,12 +38,12 @@ Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quic
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Acrobat experience">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="New workspace experience" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="New workspace experience"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="new Acrobat experience" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="new Acrobat experience"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,9 +51,9 @@ Learn about the [new workspace](new-workspace.md) in Acrobat that helps you quic
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="New workspace experience">New workspace experience</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="new Acrobat experience">New Acrobat experience</a>
                     </p>
-                    <p class="is-size-6">Learn about the new workspace in Acrobat</p>
+                    <p class="is-size-6">Learn about the New Acrobat experience</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
