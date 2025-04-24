@@ -16,6 +16,10 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 >[!BEGINTABS]
 
+>[!TAB Comment on a PDF]
+
+Learn how to [comment on a shared PDF](comment-on-pdf-files.md) using just a web browser.
+
 >[!TAB Collaborate in real time]
 
 Learn how to create a document [review process](collaborate.md) that not only enhances efficiency but boosts content quality as well.
@@ -27,10 +31,6 @@ Learn how to [design a new professional-looking page](add-custom-page.md) in you
 >[!TAB Edit graphics in a PDF]
 
 Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
-
->[!TAB new Acrobat experience]
-
-Learn about the [new Acrobat experience](new-workspace.md) that helps you quickly discover tools and complete your PDF tasks efficiently.
 
 >[!ENDTABS]
 
