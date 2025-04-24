@@ -442,7 +442,7 @@ Learn about the [new Acrobat experience](new-workspace.md) that helps you quickl
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" title="Comment on a PDF">Comment on a PDF</a>
                     </p>
-                    <p class="is-size-6">Add comments and then share your PDF with others</p>
+                    <p class="is-size-6">Learn how to add comments on a shared PDF using just a web browser</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
