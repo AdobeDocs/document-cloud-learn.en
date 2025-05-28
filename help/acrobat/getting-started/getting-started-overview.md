@@ -620,3 +620,18 @@ Learn how to create a document [review process](collaborate.md) that not only en
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="ai-assistant.md">
+      <img alt="Discover PDF insights with PDF Assistant" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+      <a href="ai-assistant.md"><strong>Discover PDF insights with PDF Assistant</strong></a>
+      </div>
+      Gather insights from your PDF files using AI Assistant
+      <br>
+  </td>
+  </tr>
+  </table>
