@@ -89,7 +89,7 @@ Learn how to create a document [review process](collaborate.md) that not only en
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" title="Discover PDF insights with AI Assistant" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="Discover PDF insights with AI Assistant"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Discover PDF insights with AI Assistant"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -620,18 +620,3 @@ Learn how to create a document [review process](collaborate.md) that not only en
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="ai-assistant.md">
-      <img alt="Discover PDF insights with PDF Assistant" src="../assets/ai-assistant.png" />
-    </a>
-    <div>
-      <a href="ai-assistant.md"><strong>Discover PDF insights with PDF Assistant</strong></a>
-      </div>
-      Gather insights from your PDF files using AI Assistant
-      <br>
-  </td>
-  </tr>
-  </table>
