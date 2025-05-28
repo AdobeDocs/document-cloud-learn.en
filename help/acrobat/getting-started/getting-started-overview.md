@@ -16,6 +16,14 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 >[!BEGINTABS]
 
+>[!TAB Discover PDF insights with AI Assistant]
+
+Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
+
+>[!TAB Edit graphics in a PDF]
+
+Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
+
 >[!TAB Comment on a PDF]
 
 Learn how to [comment on a shared PDF](comment-on-pdf-files.md) using just a web browser.
@@ -23,14 +31,6 @@ Learn how to [comment on a shared PDF](comment-on-pdf-files.md) using just a web
 >[!TAB Collaborate in real time]
 
 Learn how to create a document [review process](collaborate.md) that not only enhances efficiency but boosts content quality as well.
-
->[!TAB Design a new page]
-
-Learn how to [design a new professional-looking page](add-custom-page.md) in your PDF using Adobe Express.
-
->[!TAB Edit graphics in a PDF]
-
-Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
 
 >[!ENDTABS]
 

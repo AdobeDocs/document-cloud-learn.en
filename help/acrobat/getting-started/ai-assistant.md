@@ -9,7 +9,7 @@ exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
 ---
 # Discover PDF insights with AI Assistant
 
-Learn how to gain insights from your PDF files using AI Assistant to quickly create impactful content. AI Assistant is a secure conversational engine that improves document workflows and analyzing complex document data. This video tutorial uses the [New Acrobat experience](new-workspace.md).
+Learn how to gain insights from your PDF files using AI Assistant. AI Assistant is a secure conversational engine that improves document workflows and analyzing complex document data. This video tutorial uses the [New Acrobat experience](new-workspace.md).
 
 ## Use Cases
 
