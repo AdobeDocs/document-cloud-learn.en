@@ -4,7 +4,7 @@ description: Learn how to send an email reminder from Marketo when an agreement 
 feature: Integrations
 role: Admin
 product: adobe sign
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 jira: KT-7306
