@@ -3,7 +3,7 @@ title: Send notifications using Acrobat Sign for Microsoft Dynamics 365 and Mark
 description: Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
