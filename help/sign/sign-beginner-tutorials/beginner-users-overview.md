@@ -52,7 +52,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Sending to single recipient" src="../assets/send-to-single-recipient.png" />
+      <img alt="Sending to single recipient" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Sending to a single recipient</strong></a>
@@ -116,7 +116,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="Set deadlines and reminders" src="../assets/reminders.png" />
+        <img alt="Set deadlines and reminders" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>Set deadlines and reminders</strong></a>
@@ -148,7 +148,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Electronically signing a document" src="../assets/electronically-sign.png" />
+      <img alt="Electronically signing a document" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>
@@ -168,7 +168,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Getting a signature in person" src="../assets/in-person.png" />
+      <img alt="Getting a signature in person" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>Getting a signature in person</strong></a>
@@ -200,7 +200,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Signing using a stamp" src="../assets/stamp.png" />
+      <img alt="Signing using a stamp" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signing using a stamp</strong></a>
@@ -227,7 +227,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Manage & track your agreements" src="../assets/manage.png" />
+      <img alt="Manage & track your agreements" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Manage & track your agreements</strong></a>
