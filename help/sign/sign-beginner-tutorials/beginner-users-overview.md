@@ -52,7 +52,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Sending to single recipient" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Sending to single recipient" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Sending to a single recipient</strong></a>
@@ -62,7 +62,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Sending to multiple recipients" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Sending to multiple recipients" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Sending to multiple recipients</strong></a>
@@ -74,7 +74,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="Configure sending options" src="../assets/Sendingoptions.png" />
+      <img alt="Configure sending options" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>Configure sending options</strong></a>
@@ -84,7 +84,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Adding fields to your documents" src="../assets/AddingFields.png" />
+      <img alt="Adding fields to your documents" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>Adding fields to your documents</strong></a>
@@ -94,7 +94,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Modifying a document after sending" src="../assets/Modifying-sending.png" />
+      <img alt="Modifying a document after sending" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>Modifying a document after sending</strong></a>
@@ -104,7 +104,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="Replacing a signer" src="../assets/replace-signer.png" />
+      <img alt="Replacing a signer" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>Replacing a signer</strong></a>
@@ -116,7 +116,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="Set deadlines and reminders" src="../assets/Reminders.png" />
+        <img alt="Set deadlines and reminders" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>Set deadlines and reminders</strong></a>
@@ -148,7 +148,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Electronically signing a document" src="../assets/Electronically-sign.png" />
+      <img alt="Electronically signing a document" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>
@@ -158,7 +158,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Filling and signing a document" src="../assets/FillandSign.png" />
+      <img alt="Filling and signing a document" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>Filling and signing a document</strong></a>
@@ -168,7 +168,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Getting a signature in person" src="../assets/In-person.png" />
+      <img alt="Getting a signature in person" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>Getting a signature in person</strong></a>
@@ -178,7 +178,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="Delegate signing to someone else" src="../assets/Delegatesigning.png" />
+      <img alt="Delegate signing to someone else" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>Delegate signing to someone else</strong></a>
@@ -190,7 +190,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="What's a digital signature" src="../assets/whatisdigsig.png" />
+      <img alt="What's a digital signature" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>What's a digital signature</strong></a>
@@ -200,7 +200,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Signing using a stamp" src="../assets/Stamp.png" />
+      <img alt="Signing using a stamp" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signing using a stamp</strong></a>
@@ -227,7 +227,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Manage & track your agreements" src="../assets/Manage.png" />
+      <img alt="Manage & track your agreements" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Manage & track your agreements</strong></a>
@@ -237,7 +237,7 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Creating a document template" src="../assets/Template.png" />
+      <img alt="Creating a document template" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creating a document template</strong></a>

@@ -109,7 +109,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Creating a document template" src="../assets/Template.png" />
+      <img alt="Creating a document template" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creating a document template</strong></a>
