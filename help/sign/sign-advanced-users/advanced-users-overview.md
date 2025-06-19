@@ -32,7 +32,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Setting up signing order" src="../assets/Routing.png">
+      <img alt="Setting up signing order" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>Setting up signing order</strong></a>
@@ -42,7 +42,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Delegating to someone else" src="../assets/Delegating.png" />
+      <img alt="Delegating to someone else" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Using the delegator role</strong></a>
@@ -52,7 +52,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Using the approver role" src="../assets/Approver.png" />
+      <img alt="Using the approver role" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>Using the approver role</strong></a>
@@ -84,7 +84,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="Set up online payments" src="../assets/Payments.png" />
+      <img alt="Set up online payments" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>Set up online payments</strong></a>
@@ -104,7 +104,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
   </td>
  <td>
       <a href="webform.md">
-        <img alt="Creating a web form" src="../assets/Webform.png" />
+        <img alt="Creating a web form" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>Creating a web form</strong></a>
@@ -116,7 +116,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
+        <img alt="Acrobat Sign Text Tagging" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
@@ -126,7 +126,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Using Text Tagging in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Using Text Tagging in [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>Using Text Tagging in [!DNL Microsoft Word]</strong></a>
@@ -163,7 +163,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Manage document templates" src="../assets/ManageTemplate.png" />
+      <img alt="Manage document templates" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>Manage document templates</strong></a>
@@ -173,7 +173,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="Modify an existing web form" src="../assets/Modifywebform.png" />
+      <img alt="Modify an existing web form" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>Modify an existing web form</strong></a>
@@ -183,7 +183,7 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Managing web form data" src="../assets/Managewebform.png" />
+      <img alt="Managing web form data" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>Managing web form data</strong></a>

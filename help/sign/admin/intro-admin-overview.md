@@ -141,7 +141,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="Creating a web form" src="../assets/Webform.png" />
+      <img alt="Creating a web form" src="../assets/web-form.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/webform.md"><strong>Creating a web form</strong></a>
@@ -151,7 +151,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
-      <img alt="Modify an existing web form" src="../assets/Modifywebform.png" />
+      <img alt="Modify an existing web form" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>Modify an existing web form</strong></a>
@@ -252,7 +252,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
 <tr>
    <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign Text Tagging" src="../assets/tagging.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
