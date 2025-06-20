@@ -47,7 +47,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Up &  running for admins" src="../assets/up-Running.png" />
+      <img alt="Up &  running for admins" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>Up &  running for Admins</strong></a>
