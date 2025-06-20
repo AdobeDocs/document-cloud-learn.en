@@ -37,7 +37,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Getting started for new administrators" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Getting started for new administrators" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>Getting started for new administrators</strong></a>
@@ -47,7 +47,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Up &  running for admins" src="../assets/Up-Running.png" />
+      <img alt="Up &  running for admins" src="../assets/up-Running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>Up &  running for Admins</strong></a>
@@ -57,7 +57,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Setting up shared events and alerts" src="../assets/Notifications_1280.png" />
+      <img alt="Setting up shared events and alerts" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configure notifications for events and alerts</strong></a>
@@ -67,7 +67,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Add a new user" src="../assets/Add-a-new-user.jpg" />
+      <img alt="Add a new user" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Add a new user</strong></a>
@@ -79,7 +79,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="Add a new account administrator" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="Add a new account administrator" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>Add a new account administrator</strong></a>
@@ -89,7 +89,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Creating and Managing Groups" src="../assets/Creating-Groups.png" />
+      <img alt="Creating and Managing Groups" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>Creating and managing groups</strong></a>
@@ -99,7 +99,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Setting up an external archive" src="../assets/ExternalArchive.png" />
+      <img alt="Setting up an external archive" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>Setting up an external archive</strong></a>
@@ -173,7 +173,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Setting up a Workflow" src="../assets/BuildingWorkflow.png" />
+      <img alt="Setting up a Workflow" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>Setting up a workflow</strong></a>
@@ -183,7 +183,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="Audit reports" src="../assets/audit-reports-configure.png" />
+      <img alt="Audit reports" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>Audit reports</strong></a>
@@ -193,7 +193,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Assign Product & Support Admin roles" src="../assets/admin-roles.jpg" />
+      <img alt="Assign Product & Support Admin roles" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>Assign Product & Support Admin roles</strong></a>
@@ -210,7 +210,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="Global settings" src="../assets/GlobalSettings_1280.png">
+      <img alt="Global settings" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>Global settings</strong></a>
@@ -220,7 +220,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Sharing account access" src="../assets/SharingAccess.png" />
+      <img alt="Sharing account access" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>Sharing account access</strong></a>
@@ -230,7 +230,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Advanced account sharing" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Advanced account sharing" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>Advanced account sharing</strong></a>
@@ -240,7 +240,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="Bulk Download tool" src="../assets/bulk-download-tool.png" />
+      <img alt="Bulk Download tool" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>Bulk Download tool</strong></a>
@@ -262,7 +262,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Using Bio-Pharma settings" src="../assets/Bio_1280.png" />
+      <img alt="Using Bio-Pharma settings" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Using Bio-Pharma settings</strong></a>
@@ -272,7 +272,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="How to set up privacy admin" src="../assets/privacy.png" />
+      <img alt="How to set up privacy admin" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>How to set up privacy admins</strong></a>
