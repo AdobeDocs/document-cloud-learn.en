@@ -8,7 +8,7 @@ jira: KT-10781
 thumbnail: KT-10781.jpg
 exl-id: 5d88d96d-ae44-4c75-b4bd-d51d864c707c
 ---
-# new Acrobat experience
+# New Acrobat experience
 
 Learn about the new Acrobat experience in the desktop version of Acrobat to help you quickly discover tools and complete your PDF tasks efficiently. The user-interface is intuitive and fluid, providing consistent experiences across all surfaces—desktop, web, and mobile.
 
