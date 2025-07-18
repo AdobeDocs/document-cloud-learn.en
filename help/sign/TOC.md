@@ -62,9 +62,10 @@ auto-video-transcripts: true
   + Getting started {#getting-started-admin}
     + [Getting started for new administrators](admin/get-started-admin.md)
     + [Up and running for admins](admin/up-and-running-admin.md)
-    + [Configure notifications for events and alerts](admin/set-up-shared-events-and-alert.md)
+    + [Migrate Docusign templates](admin/docusign-templates.md)
     + [Add a new user](admin/add-users-to-your-account.md)
     + [Add a new account administrator](admin/add-admin.md)
+    + [Configure notifications for events and alerts](admin/set-up-shared-events-and-alert.md)
     + [Creating and managing groups](admin/create-and-manage-groups.md)
     + [Setting up an external archive](admin/set-up-your-external-archive.md)
     + [Creating a template](sign-advanced-users/create-a-template.md)
