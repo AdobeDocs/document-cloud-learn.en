@@ -17,6 +17,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!BEGINTABS]
 
+>[!TAB Migrate Docusign templates]
+
+Learn how to seamlessly [migrate your Docusign templates](docusign-templates.md) and workflows in three easy steps.
+
 >[!TAB Add a new user]
 
 Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
@@ -24,10 +28,6 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
 >[!TAB How to set up privacy admins]
 
  Learn how to set up and use [privacy admins](privacy.md).
-
->[!TAB Bulk Download tool]
-
-Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly download all your signed agreements.
 
 >[!ENDTABS]
 
@@ -56,13 +56,13 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <br>
   </td>
   <td>
-    <a href="set-up-shared-events-and-alert.md">
-      <img alt="Setting up shared events and alerts" src="../assets/notifications.png" />
+    <a href="docusign-templates.md">
+      <img alt="Migrate Docusign templates" src="../assets/migrate-templates.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Configure notifications for events and alerts</strong></a>
+    <a href="docusign-templates.md"><strong>Migrate Docusign templates</strong></a>
     </div>
-    <em>Configure notifications for events and alerts for your account</em>
+    <em>Learn how to seamlessly migrate Docusign templates and workflows</em>
     <br>
   </td>
   <td>
@@ -77,7 +77,7 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
   </td>
 </tr>
 <tr>
- <td>
+  <td>
     <a href="add-admin.md">
       <img alt="Add a new account administrator" src="../assets/add-admin.png" />
     </a>
@@ -88,25 +88,37 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <br>
   </td>
   <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Creating and Managing Groups" src="../assets/groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Creating and managing groups</strong></a>
-    </div>
-    <em>Create groups, add users to groups, and edit group settings</em>
-    <br>
-  </td>
-  <td>
-    <a href="set-up-your-external-archive.md">
-      <img alt="Setting up an external archive" src="../assets/external-archive.png" />
-    </a>
-    <div>
-    <a href="set-up-your-external-archive.md"><strong>Setting up an external archive</strong></a>
-    </div>
-    <em>Create an external archive for backup copies of agreements that have been signed</em>
-    <br>
-  </td>
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Setting up shared events and alerts" src="../assets/notifications.png" />
+      </a>
+      <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>Configure notifications for events and alerts</strong></a>
+      </div>
+      <em>Configure notifications for events and alerts for your account</em>
+      <br>
+    </td>
+    <td>
+      <a href="create-and-manage-groups.md">
+        <img alt="Creating and Managing Groups" src="../assets/groups.png" />
+      </a>
+      <div>
+      <a href="create-and-manage-groups.md"><strong>Creating and managing groups</strong></a>
+      </div>
+      <em>Create groups, add users to groups, and edit group settings</em>
+      <br>
+    </td>
+    <td>
+      <a href="set-up-your-external-archive.md">
+        <img alt="Setting up an external archive" src="../assets/external-archive.png" />
+      </a>
+      <div>
+      <a href="set-up-your-external-archive.md"><strong>Setting up an external archive</strong></a>
+      </div>
+      <em>Create an external archive for backup copies of agreements that have been signed</em>
+      <br>
+    </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Creating a document template" src="../assets/create-template.png" />
@@ -117,8 +129,6 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Create a reusable document template for speed and consistency</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="Reporting and transaction usage" src="../assets/reporting.png" />
@@ -149,7 +159,9 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Create a document that can be signed electronically directly on your website</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modify an existing web form" src="../assets/modify-web-form.png" />
     </a>
@@ -159,8 +171,6 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Learn how to disable, edit, and re-enable an existing web form</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Send in Bulk" src="../assets/send-in-bulk.png" />
@@ -191,17 +201,34 @@ Learn how to use the [Bulk Download tool](bulk-download-tool.md) to quickly down
     <em>Learn how to access, utilize, and configure audit reports</em>
     <br>
   </td>
-  <td>
-    <a href="promote-admin.md">
-      <img alt="Assign Product & Support Admin roles" src="../assets/assign-product.png" />
-    </a>
-    <div>
-    <a href="promote-admin.md"><strong>Assign Product & Support Admin roles</strong></a>
-    </div>
-    <em>Learn how to assign an Acrobat Sign user Product Admin and Support Admin role in the Admin Console</em>
-    <br>
-  </td>
-</tr> 
+</tr>
+<tr>
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Assign Product & Support Admin roles" src="../assets/assign-product.png" />
+      </a>
+      <div>
+      <a href="promote-admin.md"><strong>Assign Product & Support Admin roles</strong></a>
+      </div>
+      <em>Learn how to assign an Acrobat Sign user Product Admin and Support Admin role in the Admin Console</em>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+</tr>    
 </table>
 
 ## Advanced tasks
