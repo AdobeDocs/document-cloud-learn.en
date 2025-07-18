@@ -19,7 +19,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!TAB Migrate Docusign templates]
 
-Learn how to seamlessly [migrate your Docusign templates](docusign-templates.md) and workflows in three easy steps.
+Learn how to seamlessly [migrate Docusign templates](docusign-templates.md) and workflows in three easy steps.
 
 >[!TAB Add a new user]
 
