@@ -5,6 +5,7 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
 ---
 # Accessibility series overview
 

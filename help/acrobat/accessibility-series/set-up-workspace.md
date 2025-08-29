@@ -6,6 +6,7 @@ role: User
 level: Beginner
 topics: Accessibility, Workspace
 jira: KT-18727
+exl-id: 168fe8fc-dbfd-4362-b060-4eb5f729275c
 ---
 # Set up your workspace
 

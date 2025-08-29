@@ -6,6 +6,7 @@ role: User
 level: Beginner
 topics: Accessibility
 jira: KT-18725
+exl-id: 3059e737-237f-47fb-835e-674dc63395c2
 ---
 # The how and why of accessible PDF files
 

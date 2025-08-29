@@ -6,6 +6,7 @@ role: User
 level: Beginner, Intermediate
 topics: Accessibility
 jira: KT-18728
+exl-id: c30beeec-861d-4ffb-9e6e-57e7f9306d2e
 ---
 # How to create an accessible PDF from Word
 
