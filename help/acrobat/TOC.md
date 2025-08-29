@@ -52,7 +52,7 @@ auto-video-transcripts: true
   + [Reduce file size & optimize](advanced-tasks/reduce.md)
   + [Work with form data](advanced-tasks/formdata.md)
   + [Check PDF Accessibility](advanced-tasks/accessibility.md)
-  + Acrobat Accessibility series {#accessibility-series}
+  + Acrobat Accessibility webinars {#accessibility-series}
      + [Overview](advanced-tasks/accessibility-series.md)
      + [Introduction to PDF Accessibility](advanced-tasks/accessibilitysession1.md)
      + [Remediating an inaccessible PDF](advanced-tasks/accessibilitysession2.md)
@@ -60,6 +60,12 @@ auto-video-transcripts: true
      + [Scanned documents & complex lists](advanced-tasks/accessibilitysession4.md)
      + [Adding form fields to a tagged PDF](advanced-tasks/accessibilitysession5.md)
      + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
++ Acessibility Series {#accessibility-tutorials}
+  + [Overview](accessibility-series/accessibility-overview.md)
+  + [The how and why of accessible PDF files](accessibility-series/how-why-accessible-pdf.md)
+  + [Set up your workspace](accessibility-series/set-up-workspace.md)
+  + [Create an accessible PDF from Word](accessibility-series/create-accessible-from-word.md)
+  + [Create accessible forms](accessibility-series/create-accessible-forms.md)
 + 60-second Acrobat {#60-second}
   + [Overview](60-second/60-second-overview.md)
   + [Edit PDF with Acrobat web](60-second/edit.md)
