@@ -62,6 +62,7 @@ auto-video-transcripts: true
      + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
 + Acessibility Series {#accessibility-tutorials}
   + [Overview](accessibility-series/accessibility-overview.md)
+  + [The what and why of accessible PDF files](accessibility-series/what-why-accessible-pdf.md)
   + [Set up your workspace](accessibility-series/set-up-workspace.md)
   + [Create an accessible PDF from Word](accessibility-series/create-accessible-from-word.md)
   + [Create accessible forms](accessibility-series/create-accessible-forms.md)
