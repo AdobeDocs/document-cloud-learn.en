@@ -60,7 +60,7 @@ auto-video-transcripts: true
      + [Scanned documents & complex lists](advanced-tasks/accessibilitysession4.md)
      + [Adding form fields to a tagged PDF](advanced-tasks/accessibilitysession5.md)
      + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
-+ Acessibility Series {#accessibility-tutorials}
++ Accessibility Series {#accessibility-tutorials}
   + [Overview](accessibility-series/accessibility-overview.md)
   + [The what and why of accessible PDF files](accessibility-series/what-why-accessible-pdf.md)
   + [Set up your workspace](accessibility-series/set-up-workspace.md)
