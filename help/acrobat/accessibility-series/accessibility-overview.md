@@ -15,10 +15,6 @@ Learn all about how to make accessible PDF files. Tutorials in the series range 
 
 >[!BEGINTABS]
 
->[!TAB The how and why of accessible PDF files]
-
-Learn [how and why it's important to make PDF files accessible](how-why-accessible-pdf.md).
-
 >[!TAB Set up your workspace]
 
 Learn how to [set up your workspace](set-up-workspace.md) to help streamline making accessible PDF files.
@@ -37,16 +33,6 @@ Learn how to make [forms accessible](create-accessible-forms.md) in Acrobat.
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="The how and why of accessible PDF files" src="../assets/accessibility-series-2025.png" />
-    </a>
-    <div>
-    <a href="how-why-accessible-pdf.md"><strong>The how and why of accessible PDF files</strong></a>
-    </div>
-    <em>Learn how and why it's important to make PDF files accessible.</em>
-    <br>
-  </td>
   <td>
     <a href="set-up-workspace.md">
       <img alt="Set up your workspace" src="../assets/accessibility-series-2025.png" />
