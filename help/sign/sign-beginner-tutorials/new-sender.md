@@ -1,13 +1,13 @@
 ---
-title: Getting Started with Acrobat Sign
-description: This comprehensive tutorial is a great place to start for new senders in Adobe Sign
+title: Get Started with Acrobat Sign
+description: This tutorial is a great place to start for new users in Acrobat Sign
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
 ---
-# Getting started with Acrobat Sign
+# Get started with Acrobat Sign
 
 Are you new to using Acrobat Sign? This tutorial is a great place to start to get up and running quickly with Acrobat Sign.
 

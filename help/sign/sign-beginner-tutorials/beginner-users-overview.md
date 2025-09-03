@@ -42,12 +42,12 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
   </td>
   <td>
     <a href="new-sender.md">
-      <img alt="Getting started with Acrobat Sign" src="../assets/gettingstartednew.png" />
+      <img alt="Get started with Acrobat Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Getting started with Acrobat Sign</strong></a>
+    <a href="new-sender.md"><strong>Get started with Acrobat Sign</strong></a>
     </div>
-    This comprehensive tutorial is a great place to start for new senders in Acrobat Sign
+    This tutorial is a great place to start for new users in Acrobat Sign
     <br>
   </td>
   <td>
