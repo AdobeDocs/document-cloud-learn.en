@@ -16,7 +16,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
->[!TAB Getting started with Acrobat Sign]
+>[!TAB Get started with Acrobat Sign]
 
  Are you new to using Acrobat Sign? This [tutorial](new-sender.md) is a great place to start.
 
