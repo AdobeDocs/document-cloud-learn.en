@@ -22,7 +22,7 @@ auto-video-transcripts: true
   + Send {#getting-started-sending}
     + [Workspace basics](sign-beginner-tutorials/quick-tour.md)
     + [Get started with Acrobat Sign](sign-beginner-tutorials/new-sender.md)
-    + [Sending to a single recipient](sign-beginner-tutorials/send-to-single-recipient.md)
+    + [Send a document to a single signer](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Sending to multiple recipients](sign-beginner-tutorials/send-to-multiple-recipients.md)
     + [Adding fields to your documents](sign-beginner-tutorials/adding-fields.md)
     + [Configure sending options](sign-beginner-tutorials/sending-options.md)

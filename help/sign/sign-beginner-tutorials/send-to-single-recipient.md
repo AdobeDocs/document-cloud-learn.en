@@ -1,5 +1,5 @@
 ---
-title: Sending to a Single Recipient
+title: Send a Document to a Single Signer
 description: Jump in and learn how easy it is to send out a document for signature
 feature: Sign
 role: User
@@ -8,9 +8,9 @@ jira: KT-4965
 thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
 ---
-# Sending to a single recipient
+# Send a document to a single signer
 
-The most common workflow in Acrobat Sign--sending a document for signature. Learn how to upload a document, add form fields, and send to someone for signature.
+Sending a document for a single signature is the most common action in Acrobat Sign. In this tutorial, learn the easiest way to prepare and send a document for signature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
 

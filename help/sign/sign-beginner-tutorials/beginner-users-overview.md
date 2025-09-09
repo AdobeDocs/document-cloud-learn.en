@@ -16,13 +16,13 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB Send a document to a single signer]
+
+Jump in and learn how easy it is [send a document out for signature](send-to-single-recipient.md)
+
 >[!TAB Get started with Acrobat Sign]
 
  Are you new to using Acrobat Sign? This [tutorial](new-sender.md) is a great place to start.
-
->[!TAB Set deadlines and reminders]
-
-Learn how to send regular email [reminders and deadlines](set-deadlines-reminders.md) to help get your documents signed quickly.
 
 >[!ENDTABS]
 
@@ -30,6 +30,16 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Get started with Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Get started with Acrobat Sign</strong></a>
+    </div>
+    This tutorial is a great place to start for new users in Acrobat Sign
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="Workspace basics" src="../assets/workspace.png" />
@@ -41,21 +51,11 @@ Learn how to send regular email [reminders and deadlines](set-deadlines-reminder
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Get started with Acrobat Sign" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Get started with Acrobat Sign</strong></a>
-    </div>
-    This tutorial is a great place to start for new users in Acrobat Sign
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Sending to single recipient" src="../assets/send-single-recipient.png" />
+      <img alt="Send a document to a single signer" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Sending to a single recipient</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Send a document to a single signer</strong></a>
     </div>
     Jump in and learn how easy it is send a document out for signature
     <br>
