@@ -18,7 +18,7 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!TAB Send a document to a single signer]
 
-Jump in and learn how easy it is [send a document out for signature](send-to-single-recipient.md)
+Jump in and learn how easy it is to [send a document out for signature](send-to-single-recipient.md).
 
 >[!TAB Get started with Acrobat Sign]
 
@@ -57,7 +57,7 @@ Jump in and learn how easy it is [send a document out for signature](send-to-sin
     <div>
     <a href="send-to-single-recipient.md"><strong>Send a document to a single signer</strong></a>
     </div>
-    Jump in and learn how easy it is send a document out for signature
+    Jump in and learn how easy it is to send a document out for signature
     <br>
   </td>
   <td>
