@@ -17,7 +17,7 @@ auto-video-transcripts: true
   + [Workspace basics](getting-started/get-to-know-the-acrobat-dc-interface.md)
   + [Discover PDF insights with AI Assistant](getting-started/ai-assistant.md)
   + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)
-  + [Productivity on the go](getting-started/productivity.md)
+  + [What is Acrobat Studio?](getting-started/acrobat-studio.md)
   + [Work with [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
   + [Create a PDF](getting-started/create-pdf.md)
   + [Combine files to into a single PDF](getting-started/combine-to-pdf.md)
@@ -36,6 +36,7 @@ auto-video-transcripts: true
   + [Protect a PDF file with a password](getting-started/password-protect.md)
   + [Get signatures](getting-started/signatures.md)
   + [Track your documents](getting-started/track.md)
+  + [Productivity on the go](getting-started/productivity.md)
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
