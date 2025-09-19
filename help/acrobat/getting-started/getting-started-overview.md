@@ -605,11 +605,22 @@ Learn how to [comment on a shared PDF](comment-on-pdf-files.md) using just a web
                     </a>
                 </figure>
     </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" title="Productivity on the go">Productivity on the go</a>
+                    </p>
+                    <p class="is-size-6">Learn how to do more right from your tablet or mobile phone</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Where do PDFs come from?">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/where-do-pdfs-come-from" title="Where do PDFs come from?" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/where-do-pdfs-come-from" title="Productivity on the go" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_133ee13f07ef84d06eef5d6b1c81d024747f19f36.png?width=400&format=webply&optimize=medium" alt="Where do PDFs come from?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
