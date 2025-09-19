@@ -16,6 +16,10 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 >[!BEGINTABS]
 
+>[!TAB What is Acrobat Studio?]
+
+Learn how to create brand-safe content, extract insights, and streamline complex work with [Acrobat Studio](acrobat-studio.md).
+
 >[!TAB Discover PDF insights with AI Assistant]
 
 Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
@@ -27,10 +31,6 @@ Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
 >[!TAB Comment on a PDF]
 
 Learn how to [comment on a shared PDF](comment-on-pdf-files.md) using just a web browser.
-
->[!TAB Collaborate in real time]
-
-Learn how to create a document [review process](collaborate.md) that not only enhances efficiency but boosts content quality as well.
 
 >[!ENDTABS]
 
@@ -134,8 +134,8 @@ Learn how to create a document [review process](collaborate.md) that not only en
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" title="Productivity on the go" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="Productivity on the go"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" title="Productivity on the go" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="What is Acrobat Studio?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,11 +143,11 @@ Learn how to create a document [review process](collaborate.md) that not only en
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" title="Productivity on the go">Productivity on the go</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" title="What is Acrobat Studio?">What is Acrobat Studio?</a>
                     </p>
-                    <p class="is-size-6">Learn how to do more from your tablet or mobile phone</p>
+                    <p class="is-size-6">Learn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
@@ -594,6 +594,16 @@ Learn how to create a document [review process](collaborate.md) that not only en
                 </a>
             </div>
         </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Productivity on the go">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" title="Productivity on the go" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="Productivity on the go"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Where do PDFs come from?">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">

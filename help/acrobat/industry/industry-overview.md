@@ -41,3 +41,18 @@ Learn how you can transform customer and employee experiences by exploring indus
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="../getting-started/acrobat-studio.md">
+      <img alt="What is Acrobat Studio" src="../assets/acrobat-studio.png" />
+    </a>
+    <div>
+    <a href="../getting-started/acrobat-studio.md"><strong>What is Acrobat Studio?</strong></a>
+    </div>
+    Learn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio
+    <br>
+  </td>
+  </tr>
+  </table>
