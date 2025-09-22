@@ -295,17 +295,17 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
