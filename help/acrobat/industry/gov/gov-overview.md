@@ -277,4 +277,37 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
         </div>
     </div>
 </div>
+
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## AI
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="../../getting-started/pdf-spaces-legal.md">
+      <img alt="PDF Spaces" src="../../assets/pdf-spaces.png" />
+    </a>
+    <div>
+    <a href="../../getting-started/pdf-spaces-legal.md"><strong>Boost team efficiency with PDF Spaces</strong></a>
+    </div>
+    <em>Learn how to turn collections of files and websites into sharable, conversational knowledge hubs with personalized AI Assistants</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
