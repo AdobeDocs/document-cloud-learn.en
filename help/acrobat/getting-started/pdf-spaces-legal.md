@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner
 jira: KT-18747
+exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
 ---
 # Boost team efficiency with PDF Spaces
 
