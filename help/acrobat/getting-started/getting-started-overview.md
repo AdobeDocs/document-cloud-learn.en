@@ -16,6 +16,10 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 >[!BEGINTABS]
 
+>[!TAB Boost team efficiency with PDF Spaces]
+
+Turn collections of files and websites into [sharable, conversational knowledge hubs](pdf-spaces-legal.md) with personalized AI Assistants. 
+
 >[!TAB What is Acrobat Studio?]
 
 Learn how to create brand-safe content, extract insights, and streamline complex work with [Acrobat Studio](acrobat-studio.md).
@@ -28,10 +32,6 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
 
 Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
 
->[!TAB Comment on a PDF]
-
-Learn how to [comment on a shared PDF](comment-on-pdf-files.md) using just a web browser.
-
 >[!ENDTABS]
 
 ## Getting started tutorials
@@ -42,8 +42,8 @@ Learn how to [comment on a shared PDF](comment-on-pdf-files.md) using just a web
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="new Acrobat experience" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="new Acrobat experience"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="New Acrobat experience" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="New Acrobat experience"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

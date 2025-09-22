@@ -15,6 +15,7 @@ auto-video-transcripts: true
   + [Overview](getting-started/getting-started-overview.md)
   + [New Acrobat experience](getting-started/new-workspace.md)
   + [Workspace basics](getting-started/get-to-know-the-acrobat-dc-interface.md)
+  + [Boost team efficiency with PDF Spaces](getting-started/pdf-spaces-legal.md)
   + [Discover PDF insights with AI Assistant](getting-started/ai-assistant.md)
   + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)
   + [What is Acrobat Studio?](getting-started/acrobat-studio.md)
