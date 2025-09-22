@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner
 jira: KT-18748
+exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
 ---
 # What is Acrobat Studio?
 
