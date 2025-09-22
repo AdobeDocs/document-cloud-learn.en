@@ -16,6 +16,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB Send to multiple signers]
+
+Learn how to send a document for e-signature to [more than one person](send-to-multiple-recipients.md) in exactly the order you want.
+
 >[!TAB Send a document to a single signer]
 
 Jump in and learn how easy it is to [send a document out for signature](send-to-single-recipient.md).
@@ -62,10 +66,10 @@ Jump in and learn how easy it is to [send a document out for signature](send-to-
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Sending to multiple recipients" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="Send to multiple signers" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Sending to multiple recipients</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Send to multiple signers</strong></a>
     </div>
     Send a document for e-signature to more than one person in exactly the order you want
     <br>
