@@ -122,7 +122,7 @@ Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal" target="_self" rel="referrer" title="Boost team efficiency with PDF Spaces">Boost team efficiency with PDF Spaces</a>
                     </p>
-                    <p class="is-size-6">Boost team efficiency with PDF Spaces</p>
+                    <p class="is-size-6">Learn how to turn collections of files and websites into sharable, conversational knowledge hubs</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
