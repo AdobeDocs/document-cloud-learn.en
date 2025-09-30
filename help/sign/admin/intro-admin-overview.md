@@ -79,7 +79,7 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
 <tr>
   <td>
     <a href="automatic-assignment-rules.md">
-      <img alt="Enable automatic user assignment rules" src="../assets/add-admin.png" />
+      <img alt="Enable automatic user assignment rules" src="../assets/automatic-assignment.png" />
     </a>
     <div>
     <a href="automatic-assignment-rules.md"><strong>Enable automatic user assignment rules</strong></a>
