@@ -17,6 +17,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!BEGINTABS]
 
+>[!TAB Enable automatic user assignment rules]
+
+Learn how to set up [automatic assignment rules](automatic-assignment-rules.md) granting users access to Acrobat Sign in the Admin Console.
+
 >[!TAB Migrate Docusign templates]
 
 Learn how to seamlessly [migrate Docusign templates](docusign-templates.md) and workflows in three easy steps.
@@ -24,10 +28,6 @@ Learn how to seamlessly [migrate Docusign templates](docusign-templates.md) and 
 >[!TAB Add a new user]
 
 Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
-
->[!TAB How to set up privacy admins]
-
- Learn how to set up and use [privacy admins](privacy.md).
 
 >[!ENDTABS]
 
@@ -78,6 +78,16 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
 </tr>
 <tr>
   <td>
+    <a href="automatic-assignment-rules.md">
+      <img alt="Enable automatic user assignment rules" src="../assets/add-admin.png" />
+    </a>
+    <div>
+    <a href="automatic-assignment-rules.md"><strong>Enable automatic user assignment rules</strong></a>
+    </div>
+    <em>Learn how to set up automatic assignment rules granting users access to Acrobat Sign in the Admin Console</em>
+    <br>
+  </td>
+  <td>
     <a href="add-admin.md">
       <img alt="Add a new account administrator" src="../assets/add-admin.png" />
     </a>
@@ -87,14 +97,14 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
     <em>Learn how to create a new user or promote an existing user to the Acrobat Sign Admin role</em>
     <br>
   </td>
-  <td>
-      <a href="set-up-shared-events-and-alert.md">
-        <img alt="Setting up shared events and alerts" src="../assets/notifications.png" />
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Assign Product & Support Admin roles" src="../assets/assign-product.png" />
       </a>
       <div>
-      <a href="set-up-shared-events-and-alert.md"><strong>Configure notifications for events and alerts</strong></a>
+      <a href="promote-admin.md"><strong>Assign Product & Support Admin roles</strong></a>
       </div>
-      <em>Configure notifications for events and alerts for your account</em>
+      <em>Learn how to assign an Acrobat Sign user Product Admin and Support Admin role in the Admin Console</em>
       <br>
     </td>
     <td>
@@ -107,7 +117,9 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
       <em>Create groups, add users to groups, and edit group settings</em>
       <br>
     </td>
-    <td>
+</tr>
+<tr>
+ <td>
       <a href="set-up-your-external-archive.md">
         <img alt="Setting up an external archive" src="../assets/external-archive.png" />
       </a>
@@ -117,8 +129,6 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
       <em>Create an external archive for backup copies of agreements that have been signed</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Creating a document template" src="../assets/create-template.png" />
@@ -149,7 +159,9 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
     <em>Learn how to set up report options for users</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Creating a web form" src="../assets/web-form.png" />
     </a>
@@ -159,9 +171,7 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
     <em>Create a document that can be signed electronically directly on your website</em>
     <br>
   </td>
-</tr>  
-<tr>
-   <td>
+  <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modify an existing web form" src="../assets/modify-web-form.png" />
     </a>
@@ -191,7 +201,9 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
     <em>Automate document workflows to quickly get electronic signatures and data</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+     <td>
     <a href="audit-reports.md">
       <img alt="Audit reports" src="../assets/audit-report.png" />
     </a>
@@ -200,22 +212,15 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
     </div>
     <em>Learn how to access, utilize, and configure audit reports</em>
     <br>
-  </td>
-</tr>
-<tr>
-    <td>
-      <a href="promote-admin.md">
-        <img alt="Assign Product & Support Admin roles" src="../assets/assign-product.png" />
-      </a>
-      <div>
-      <a href="promote-admin.md"><strong>Assign Product & Support Admin roles</strong></a>
-      </div>
-      <em>Learn how to assign an Acrobat Sign user Product Admin and Support Admin role in the Admin Console</em>
-      <br>
     </td>
     <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Setting up shared events and alerts" src="../assets/notifications.png" />
+      </a>
       <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>Configure notifications for events and alerts</strong></a>
+      </div>
+      <em>Configure notifications for events and alerts for your account</em>
       <br>
     </td>
     <td>
