@@ -25,7 +25,7 @@ auto-video-transcripts: true
     + [Send a document to a single signer](sign-beginner-tutorials/send-to-single-recipient.md)
     + [Send to multiple signers](sign-beginner-tutorials/send-to-multiple-recipients.md)
     + [Adding fields to your documents](sign-beginner-tutorials/adding-fields.md)
-    + [Configure sending options](sign-beginner-tutorials/sending-options.md)
+    + [Configure send options](sign-beginner-tutorials/sending-options.md)
     + [Modifying a document after sending](sign-beginner-tutorials/modify-in-flight.md)
     + [Replacing a signer](sign-beginner-tutorials/replace-signer.md)
     + [Set deadlines and reminders](sign-beginner-tutorials/set-deadlines-reminders.md)
