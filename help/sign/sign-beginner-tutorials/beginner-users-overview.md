@@ -16,6 +16,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB Configure send options]
+
+Learn how to [configure various options](sending-options.md) when sending a document out for signature.
+
 >[!TAB Send to multiple signers]
 
 Learn how to send a document for e-signature to [more than one person](send-to-multiple-recipients.md) in exactly the order you want.
@@ -78,10 +82,10 @@ Jump in and learn how easy it is to [send a document out for signature](send-to-
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="Configure sending options" src="../assets/configure.png" />
+      <img alt="Configure send options" src="../assets/configure.png" />
     </a>
     <div>
-    <a href="sending-options.md"><strong>Configure sending options</strong></a>
+    <a href="sending-options.md"><strong>Configure send options</strong></a>
     </div>
     Learn how to configure various options when sending a document out for signature
     <br>
