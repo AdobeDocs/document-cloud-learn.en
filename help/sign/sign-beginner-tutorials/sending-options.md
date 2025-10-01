@@ -14,6 +14,6 @@ Learn how to customize agreement details, attach files, and configure additional
 
 >[!NOTE]
 >
->Send options can be configured by your administrator so you might not see the exact same options mentioned in this tutorial.
+>Your administrator may have customized the send options, so the options you see might differ from those shown in this tutorial.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
