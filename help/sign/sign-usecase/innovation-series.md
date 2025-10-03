@@ -6,7 +6,6 @@ role: User
 level: Beginner, Intermediate
 jira: KT-8197
 thumbnail: KT-8197.jpg
-kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
 ---
 # Acrobat Sign Skill Builder

@@ -17,6 +17,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!BEGINTABS]
 
+>[!TAB Create a reusable template]
+
+Learn how to create a [reusable document template](../sign-advanced-users/create-a-template.md).
+
 >[!TAB Enable automatic user assignment rules]
 
 Learn how to set up [automatic assignment rules](automatic-assignment-rules.md) granting users access to Acrobat Sign in the Admin Console.
