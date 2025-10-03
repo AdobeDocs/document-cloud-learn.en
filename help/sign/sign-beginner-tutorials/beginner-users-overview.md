@@ -16,6 +16,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB Create a reusable template]
+
+Learn how to create a [reusable document template](../sign-advanced-users/create-a-template.md).
+
 >[!TAB Configure send options]
 
 Learn how to [configure various options](sending-options.md) when sending a document out for signature.
