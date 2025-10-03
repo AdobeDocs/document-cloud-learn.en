@@ -29,6 +29,7 @@ auto-video-transcripts: true
     + [Modifying a document after sending](sign-beginner-tutorials/modify-in-flight.md)
     + [Replacing a signer](sign-beginner-tutorials/replace-signer.md)
     + [Set deadlines and reminders](sign-beginner-tutorials/set-deadlines-reminders.md)
+    + [Create a reusable template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
   + Sign {#getting-started-signing}
     + [Electronically signing a document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and signing a document](sign-beginner-tutorials/fill-and-sign.md)
@@ -38,7 +39,6 @@ auto-video-transcripts: true
     + [Signing with a stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
   + Manage {#getting-started-managing}
     + [Manage & track your agreements](sign-beginner-tutorials/manage-and-track.md)
-    + [Creating a document template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Advanced tasks {#advanced-tasks}
   + [Overview](sign-advanced-users/advanced-users-overview.md)
   + Send {#advanced-tasks-sending}
@@ -69,7 +69,7 @@ auto-video-transcripts: true
     + [Assign Product & Support Admin roles](admin/promote-admin.md)
     + [Creating and managing groups](admin/create-and-manage-groups.md)
     + [Setting up an external archive](admin/set-up-your-external-archive.md)
-    + [Creating a template](sign-advanced-users/create-a-template.md)
+    + [Create a resuable template](sign-advanced-users/create-a-template.md)
     + [Reporting and transaction usage](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
     + [Report options for users](admin/report-options.md)
     + [Creating a web form](sign-advanced-users/webform.md)
@@ -156,8 +156,6 @@ auto-video-transcripts: true
       + [Education web form internship application](sign-usecase/usecase-edu-intern.md)
       + [Create an education web form internship application](sign-usecase/usecase-edu-intern-create.md)
       + [Custom workflow for education IEP process](sign-usecase/usecase-edu-iep.md)
-  + Use Case showcase {#use-case}
-    + [Showcase](sign-usecase/use-case-showcase.md)
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
   + APIs and webhooks {#custom}

@@ -133,10 +133,15 @@ Jump in and learn how easy it is to [send a document out for signature](send-to-
       <br>
     </td> 
   <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
+    <a href="../sign-advanced-users/create-a-template.md">
+      <img alt="Create a reusable template" src="../assets/create-template.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Create a reusable template</strong></a>
+    </div>
+    Create a reusable document template to provide speed and consistency for your organization
+    <br>
+  </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
@@ -244,13 +249,8 @@ Jump in and learn how easy it is to [send a document out for signature](send-to-
     <br>
   </td>
   <td>
-    <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Creating a document template" src="../assets/create-template.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Creating a document template</strong></a>
-    </div>
-    Create a reusable document template to provide speed and consistency for your organization
     <br>
   </td>
   <td>
