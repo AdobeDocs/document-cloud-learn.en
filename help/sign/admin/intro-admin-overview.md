@@ -131,10 +131,10 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Creating a document template" src="../assets/create-template.png" />
+      <img alt="Create a reusable template" src="../assets/create-template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Creating a document template</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Create a reusable template</strong></a>
     </div>
     <em>Create a reusable document template for speed and consistency</em>
     <br>

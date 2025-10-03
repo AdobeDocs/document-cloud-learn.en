@@ -6,7 +6,7 @@ role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
-kt: 6851
+jira: KT-6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
 ---
 # Industries and departments overview
@@ -35,14 +35,10 @@ Learn how you can transform your organization's e-signing experiences by explori
     <em>Explore how various organizations are using Acrobat Sign with these real-world use cases</em>
     <br>
   </td>
+ </td>
   <td>
-    <a href="use-case-showcase.md">
-      <img alt="Use case showcase" src="../assets/UseCaseShowcaseR.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="use-case-showcase.md"><strong>Use case showcase</strong></a>
-    </div>
-    <em>Watch live or recorded sessions introducing you to new Acrobat Sign use cases and trends</em>
     <br>
   </td>
   <td>
