@@ -6,7 +6,6 @@ role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
-jira: KT-6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
 ---
 # Industries and departments overview
