@@ -14,26 +14,23 @@ Learn how to build Acrobat Sign form fields with text tagging. Text tags can be 
 
 ## Get started
 
-Text tags are uniquely formatted pieces of text placed anywhere within a document that are
-automatically recognized as fields when uploaded to Acrobat Sign.
+Text tags are uniquely formatted pieces of text placed anywhere within a document that are automatically recognized as fields when uploaded to Acrobat Sign.
 
-    ![Syntax of text tag](../assets/syntax.png)
+![Syntax of text tag](../assets/syntax.png)
 
-Text tags can be added directly to authoring tools like Microsoft Word, Adobe InDesign, or if
-you have a PDF — Acrobat. Text tags significantly reduce the effort involved in preparing
-documents used in Acrobat Sign.
+Text tags can be added directly to authoring tools like Microsoft Word, Adobe InDesign, or if you have a PDF — Acrobat. Text tags significantly reduce the effort involved in preparing documents used in Acrobat Sign.
 
-## Add tags in Microsoft Word
+### Add tags in Microsoft Word
 
 To add text tags to a Microsoft Word document, check out this [video tutorial](text-tagging-word.md).
 
-## Add tags in Acrobat
+### Add tags in Acrobat
 
 Adobe Acrobat has a robust drag-and-drop form authoring environment. Applying text tags in Acrobat allows you to tap into additional capability available in Acrobat Sign. 
 
 1. Open your form in Acrobat.
 
-1. Select **[!UICONTROL Prepare a Form]** from the **[!UICONTROL All Tools]** panel.
+1. Select **[!UICONTROL Prepare a Form]** from the **[!UICONTROL All tools]** panel.
 
 1. Select **[!UICONTROL Create form]**.
 
@@ -63,7 +60,7 @@ Adobe Acrobat has a robust drag-and-drop form authoring environment. Applying te
 
 1. Upload the file in Acrobat Sign and create a reusable template as outlined in the next section.
 
-## Create a reusable template
+### Create a reusable template
 
 After creating a tagged document, set it up as a reusable template — eliminating the need for anyone to add fields to their documents.
 
