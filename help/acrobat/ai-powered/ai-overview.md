@@ -1,7 +1,7 @@
 ---
 title: Acrobat AI-Powered Overview
 description: Learn all about the AI-powered tools in Acrobat
-feature: 
+feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
