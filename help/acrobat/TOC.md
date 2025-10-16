@@ -39,6 +39,12 @@ auto-video-transcripts: true
   + [Track your documents](getting-started/track.md)
   + [Productivity on the go](getting-started/productivity.md)
   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
++ Accessibility Series {#accessibility-tutorials}
+  + [Overview](accessibility-series/accessibility-overview.md)
+  + [The what and why of accessible PDF files](accessibility-series/what-why-accessible-pdf.md)
+  + [Set up your workspace](accessibility-series/set-up-workspace.md)
+  + [Create an accessible PDF from Word](accessibility-series/create-accessible-from-word.md)
+  + [Create accessible forms](accessibility-series/create-accessible-forms.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
   + [Adding bookmarks and hyperlinks](advanced-tasks/bookmarks.md)
@@ -62,12 +68,13 @@ auto-video-transcripts: true
      + [Scanned documents & complex lists](advanced-tasks/accessibilitysession4.md)
      + [Adding form fields to a tagged PDF](advanced-tasks/accessibilitysession5.md)
      + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
-+ Accessibility Series {#accessibility-tutorials}
-  + [Overview](accessibility-series/accessibility-overview.md)
-  + [The what and why of accessible PDF files](accessibility-series/what-why-accessible-pdf.md)
-  + [Set up your workspace](accessibility-series/set-up-workspace.md)
-  + [Create an accessible PDF from Word](accessibility-series/create-accessible-from-word.md)
-  + [Create accessible forms](accessibility-series/create-accessible-forms.md)
++ AI-Powered {#ai-powered}
+  + [Overview](ai-powered/ai-overview.md)
+  + [Discover PDF insights with AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+  + [Boost team efficiency with PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+  + [What is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+  + [Edit graphics in a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+  + [Stylize this PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 60-second Acrobat {#60-second}
   + [Overview](60-second/60-second-overview.md)
   + [Edit PDF with Acrobat web](60-second/edit.md)
