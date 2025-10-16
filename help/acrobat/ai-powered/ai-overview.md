@@ -16,15 +16,15 @@ Learn all about AI-powered tools in Acrobat.
 
 >[!TAB Boost team efficiency with PDF Spaces]
 
-Turn collections of files and websites into [sharable, conversational knowledge hubs](pdf-spaces-legal.md) with personalized AI Assistants. 
+Turn collections of files and websites into [sharable, conversational knowledge hubs](../getting-started/pdf-spaces-legal.md) with personalized AI Assistants. 
 
 >[!TAB What is Acrobat Studio?]
 
-Learn how to create brand-safe content, extract insights, and streamline complex work with [Acrobat Studio](acrobat-studio.md).
+Learn how to create brand-safe content, extract insights, and streamline complex work with [Acrobat Studio](../getting-started/acrobat-studio.md).
 
 >[!TAB Discover PDF insights with AI Assistant]
 
-Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
+Learn how to [discover PDF insights](../getting-started/ai-assistant.md) in your PDF.
 
 >[!ENDTABS]
 
@@ -53,11 +53,11 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
     <br>
   </td>
   <td>
-    <a href="create-accessible-from-word.md">
+    <a href="../getting-started/acrobat-studio.md">
       <img alt="What is Acrobat Studio?" src="../assets/acrobat-studio.png" />
     </a>
     <div>
-    <a href="create-accessible-from-word.md"><strong>What is Acrobat Studio?</strong></a>
+    <a href="../getting-started/acrobat-studio.md"><strong>What is Acrobat Studio?</strong></a>
     </div>
     <em>Learn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio</em>
     <br>
