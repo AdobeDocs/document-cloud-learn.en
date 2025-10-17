@@ -8,7 +8,7 @@ jira: KT-19422
 ---
 # AI-Powered overview
 
-Learn all about AI-powered tools in Acrobat.
+Discover how AI can transform your PDF workflows. Learn about tools that simplify document tasks and boost productivity.
 
 ## What's new
 
@@ -76,7 +76,7 @@ Learn how to [discover PDF insights](../getting-started/ai-assistant.md) in your
 <tr>
   <td>
   <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="Stylize this PDF" src="../assets/ai-powered.png" />
+      <img alt="Stylize this PDF" src="../assets/stylize-pdf.png" />
     </a>
     <div>
     <a href="../getting-started/stylize-this-pdf.md"><strong>Stylize this PDF</strong></a>
