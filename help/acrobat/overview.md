@@ -46,7 +46,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
             </div>
         </div>
     </div>
-     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accessibility series">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accessibility series">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
@@ -59,7 +59,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" title="60-second Acrobat">Accessibility series</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" title="Accessibility series">Accessibility series</a>
                     </p>
                     <p class="is-size-6">Learn all about how to make accessible PDF files</p>
                 </div>
@@ -87,6 +87,29 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
                     <p class="is-size-6">Go beyond the basics with specific tasks and automation</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explore</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI powered">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" title="AI powered" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1220d424bff112d1d5f154e5ab4f2fe8a5cbd4334.png?width=2000?width=400&format=webply&optimize=medium" alt="AI powered"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" title="AI powered">AI powered</a>
+                    </p>
+                    <p class="is-size-6">Learn how AI can transform your PDF workflows</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explore</span>
                 </a>
             </div>
