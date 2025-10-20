@@ -10,7 +10,7 @@ exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
 ---
 # Remove sensitive information
 
-Learn how to use the Redact tool to permanently remove private or sensitive information from a PDF, then sanitize the document to remove information that is not visible in the file, such as comments, metadata, or hidden layers. Permanently removing sensitive content and hidden data is important so the information is not passed along when publishing your PDF. This tutorial uses the [New Acrobat experience](../getting-started/new-workspace.mdnew-workspace.md).
+Learn how to use the Redact tool to permanently remove private or sensitive information from a PDF, then sanitize the document to remove information that is not visible in the file, such as comments, metadata, or hidden layers. Permanently removing sensitive content and hidden data is important so the information is not passed along when publishing your PDF. This tutorial uses the [New Acrobat experience](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
