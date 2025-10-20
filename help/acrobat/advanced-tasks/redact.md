@@ -32,17 +32,17 @@ Customer data protection, Risk management
 
 1. Select **[!UICONTROL Redact text and images]** and use the cursor to select the content to redact.
 
-    ![Redact Step 4](../assets/Redact_3.png)
+    ![Redact Step 3](../assets/Redact_3.png)
 
     You can see a preview of the redaction by hovering over the selected content.
 
-    ![Redact Step 5a](../assets/Redact_4.png)
-
 1. Select **[!UICONTROL Find text and redact]** to search for a specific word or phrase, or search for a Pattern to find certain types of information. Set your search and select Search & Remove Text.
+
+  ![Redact Step 4](../assets/Redact_4.png)
 
 1. In the search results dialog, check the boxes next to the items and select **[!UICONTROL Mark checked results for redaction]**.
 
-    ![Redact Step 5b](../assets/Redact_5.png)
+    ![Redact Step 5](../assets/Redact_5.png)
 
 1. Select **[!UICONTROL Redact pages]** to mark entire pages for redaction.
 
@@ -50,13 +50,15 @@ Customer data protection, Risk management
 
 1. Select your pages and choose **[!UICONTROL OK]**.
 
+    ![Redact Step 7](../assets/Redact_7.png)
+
 1. Select **[!UICONTROL Apply]** in the Redact a PDF panel to apply the marked redactions.
 
-    ![Redact Step 6](../assets/Redact_7.png)
+    ![Redact Step 8](../assets/Redact_8.png)
 
 1. Select **[!UICONTROL Continue]** to sanitize and remove hidden information.
 
-    ![Redact Step 6](../assets/Redact_8.png)
+    ![Redact Step 9](../assets/Redact_9.png)
 
 Once you confirm, the redactions and hidden information are permanently removed and saved to a new file.
 
