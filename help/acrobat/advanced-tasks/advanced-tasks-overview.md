@@ -16,6 +16,10 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 
 >[!BEGINTABS]
 
+>[!TAB Remove sensitive information]
+
+ Learn how to permanently [remove sensitive information](redact.md).
+
 >[!TAB Guided actions]
 
 Learn how to improve efficiency using [guided actions](action.md).
