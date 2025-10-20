@@ -68,7 +68,7 @@ auto-video-transcripts: true
      + [Scanned documents & complex lists](advanced-tasks/accessibilitysession4.md)
      + [Adding form fields to a tagged PDF](advanced-tasks/accessibilitysession5.md)
      + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
-+ AI-Powered {#ai-powered}
++ AI powered {#ai-powered}
   + [Overview](ai-powered/ai-overview.md)
   + [Discover PDF insights with AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
   + [Boost team efficiency with PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
