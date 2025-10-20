@@ -44,17 +44,17 @@ Customer data protection, Risk management
 
     ![Redact Step 5b](../assets/Redact_5.png)
 
-1. Select **[UICONTROL Redact pages]** to mark entire pages for redaction.
+1. Select **[!UICONTROL Redact pages]** to mark entire pages for redaction.
 
     ![Redact Step 6](../assets/Redact_6.png)
 
 1. Select your pages and choose **[!UICONTROL OK]**.
 
-1. Select **[UICONTROL Apply]** in the Redact a PDF panel to apply the marked redactions.
+1. Select **[!UICONTROL Apply]** in the Redact a PDF panel to apply the marked redactions.
 
     ![Redact Step 6](../assets/Redact_7.png)
 
-1. Select **[UICONTROL Continue]** to sanitize and remove hidden information.
+1. Select **[!UICONTROL Continue]** to sanitize and remove hidden information.
 
     ![Redact Step 6](../assets/Redact_8.png)
 
