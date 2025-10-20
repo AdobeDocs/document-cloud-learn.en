@@ -38,7 +38,7 @@ Customer data protection, Risk management
 
 1. Select **[!UICONTROL Find text and redact]** to search for a specific word or phrase, or search for a Pattern to find certain types of information. Set your search and select Search & Remove Text.
 
-  ![Redact Step 4](../assets/Redact_4.png)
+    ![Redact Step 4](../assets/Redact_4.png)
 
 1. In the search results dialog, check the boxes next to the items and select **[!UICONTROL Mark checked results for redaction]**.
 

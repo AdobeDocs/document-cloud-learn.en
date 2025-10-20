@@ -56,7 +56,7 @@ auto-video-transcripts: true
   + [Enhance your PDF](advanced-tasks/enhance.md)
   + [Detect differences between two PDFs](advanced-tasks/compare.md)
   + [Guided actions](advanced-tasks/action.md)
-  + [Redact & Sanitize](advanced-tasks/redact.md)
+  + [Remove sensitive information](advanced-tasks/redact.md)
   + [Reduce file size & optimize](advanced-tasks/reduce.md)
   + [Work with form data](advanced-tasks/formdata.md)
   + [Check PDF Accessibility](advanced-tasks/accessibility.md)
