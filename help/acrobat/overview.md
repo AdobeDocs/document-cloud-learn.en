@@ -105,7 +105,7 @@ Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" title="AI powered">AI powered</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" title="AI powered">AI powered</a>
                     </p>
                     <p class="is-size-6">Learn how AI can transform your PDF workflows</p>
                 </div>
