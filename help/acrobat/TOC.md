@@ -57,9 +57,9 @@ auto-video-transcripts: true
   + [Detect differences between two PDFs](advanced-tasks/compare.md)
   + [Guided actions](advanced-tasks/action.md)
   + [Remove sensitive information](advanced-tasks/redact.md)
-  + [Compress & Optimize](advanced-tasks/reduce.md)
+  + [Compress & optimize a PDF](advanced-tasks/reduce.md)
   + [Work with form data](advanced-tasks/formdata.md)
-  + [Check PDF Accessibility](advanced-tasks/accessibility.md)
+  + [Check PDF Accessibility](advanced-tasks/accessibility.md)  
   + Acrobat Accessibility webinars {#accessibility-series}
      + [Overview](advanced-tasks/accessibility-series.md)
      + [Introduction to PDF Accessibility](advanced-tasks/accessibilitysession1.md)
