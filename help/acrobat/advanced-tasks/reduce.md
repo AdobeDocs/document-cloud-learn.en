@@ -81,7 +81,7 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
       <img alt="Compress & optimize a PDF" src="../assets/reduce.png" />
     </a>
     <div>
-    <a href="reduce.me"><strong>Compress & optimize a PDF</strong></a>
+    <a href="reduce.md"><strong>Compress & optimize a PDF</strong></a>
     </div>
     <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
     <br>
