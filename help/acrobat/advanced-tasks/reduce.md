@@ -1,5 +1,5 @@
 ---
-title: Compress & Optimize
+title: Compress & Optimize a PDF
 description: Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving
 feature: Optimize PDF
 role: User
@@ -8,7 +8,7 @@ jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 ---
-# Compress & Optimize
+# Compress & optimize a PDF
 
 Learn how to compress and optimize the size of a PDF file. Compressing a PDF makes it easier to share via email or upload to websites with file size limitations. You can also enhance the viewing experience and save on storage costs by optimizing your PDF.
 
@@ -26,7 +26,7 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
 1. Select **[!UICONTROL Save]**.
 
-![Reduce Step 3](../assets/Reduce_3.png)
+    ![Reduce Step 3](../assets/Reduce_3.png)
 
 
 ## How to compress a PDF in Acrobat on the web
@@ -35,15 +35,15 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
 1. Select **[!UICONTROL Convert > Compress a PDF]** from the top menu.
 
-    ![Reduce Step 3](../assets/Reduce_3.png)
+    ![Reduce Step 4](../assets/Reduce_4.png)
 
 1. Choose **[!UICONTROL Select files]**, select your files, and choose [!UICONTROL Open].
 
-    ![Reduce Step 4](../assets/Reduce_4.png)
+    ![Reduce Step 5](../assets/Reduce_5.png)
 
 1. Select a compression level and choose **[!UICONTROL Compress]**.
 
-    ![Reduce Step 5](../assets/Reduce_5.png)
+    ![Reduce Step 6](../assets/Reduce_6.png)
 
 ## How to optimize a PDF in Acrobat on the desktop
 
@@ -51,13 +51,17 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 >
 >Optimizing a PDF is only available in Acrobat Pro on the desktop.
 
+1. Open a file and select **[!UICONTROL All tools]** from the toolbar, then choose **[!UICONTROL Compress a PDF]**.
+
+    ![Reduce Step 1](../assets/Reduce_1.png)
+
 1. Select **[!UICONTROL Advance Optimization]** from the **[!UICONTROL Compress a PDF]** panel.
 
     ![Optimize Step 1](../assets/Optimize_1.png)
 
     By default **Standard** is selected in the **Settings** menu. If you change any settings in the PDF Optimizer dialog box, the **Settings** menu automatically switches to **Custom**.
 
-1. From the **Make Compatible With** dropdown, choose **Retain Existing** to keep the current PDF version, or choose an Acrobat version. Select the check box next to a panel (for example, Images, Fonts, Transparency), and then select options in that panel, then choose **[!UICONTROL OK] and **[!UICONTROL Save]** the file. 
+1. From the **Make Compatible With** dropdown, choose **Retain Existing** to keep the current PDF version, or choose an Acrobat version. Select the check box next to a panel (for example, Images, Fonts, Transparency), and then select options in that panel, then choose **[!UICONTROL OK]** and then save the file.
 
     ![Optimize Step 2](../assets/Optimize_2.png)
 
@@ -70,3 +74,32 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 >[!TIP]
 >
 >To optimize multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
+
+<table style="table-layout:fixed">
+  <td>
+    <a href="reduce.md">
+      <img alt="Compress & optimize a PDF" src="../assets/reduce.png" />
+    </a>
+    <div>
+    <a href="reduce.me"><strong>Compress & optimize a PDF</strong></a>
+    </div>
+    <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
+    <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+    <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
+    <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
+</tr>
+</table>
