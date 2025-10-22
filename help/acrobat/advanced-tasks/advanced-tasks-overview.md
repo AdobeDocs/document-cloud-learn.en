@@ -16,17 +16,17 @@ Go beyond the basics with these advanced tools in Acrobat. Learn how to create a
 
 >[!BEGINTABS]
 
+>[!TAB Compress & optimize a PDF]
+
+Learn how to [compress and optimize](reduce.md) the size of a PDF file.
+
 >[!TAB Remove sensitive information]
 
- Learn how to permanently [remove sensitive information](redact.md).
+Learn how to permanently [remove sensitive information](redact.md).
 
 >[!TAB Guided actions]
 
 Learn how to improve efficiency using [guided actions](action.md).
-
->[!TAB Optimize PDFs for SEO (Search Engine Optimization)]
-
- Learn how to [optimize a PDF](optimizeseo.md) for improved discoverability and search engine ranking on the web.
 
 >[!ENDTABS]
 
@@ -277,7 +277,7 @@ Learn how to improve efficiency using [guided actions](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce" target="_self" rel="referrer" title="Reduce file size & optimize">Compress & optimize a PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce" target="_self" rel="referrer" title="Reduce file size & optimize">Compress & optimize a</a>
                     </p>
                     <p class="is-size-6">Reduce large files without compromising quality</p>
                 </div>

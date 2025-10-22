@@ -18,15 +18,15 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
     ![Reduce Step 1](../assets/Reduce_1.png)
 
-1. Select **[!UICONTROL Single files]** or **[!UICONTROL Multiple files]** in the **[!UICONTROL Compress a PDF]** panel and choose **[!UICONTROL Save]**.
-
-    The file is reduced to the smallest size possible while retaining the document's quality.
+1. Select **[!UICONTROL Single files]** or **[!UICONTROL Multiple files]** in the **[!UICONTROL Compress a PDF]** panel.
 
     ![Reduce Step 2](../assets/Reduce_2.png)
 
 1. Select **[!UICONTROL Save]**.
 
     ![Reduce Step 3](../assets/Reduce_3.png)
+
+    The file is reduced to the smallest size possible while retaining the document's quality.
 
 
 ## How to compress a PDF in Acrobat on the web
@@ -37,7 +37,7 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
     ![Reduce Step 4](../assets/Reduce_4.png)
 
-1. Choose **[!UICONTROL Select files]**, select your files, and choose [!UICONTROL Open].
+1. Choose **[!UICONTROL Select files]**, select your files, and choose **[!UICONTROL Open]**.
 
     ![Reduce Step 5](../assets/Reduce_5.png)
 
