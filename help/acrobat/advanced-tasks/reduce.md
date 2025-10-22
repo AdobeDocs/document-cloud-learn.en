@@ -18,7 +18,7 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
     ![Reduce Step 1](../assets/Reduce_1.png)
 
-1. Select **[!UICONTROL Single files]** or **[!UICONTROL Multiple files]** in the **[!UICONTROL Compress a PDF]** panel.
+1. Select **[!UICONTROL Single file]** or **[!UICONTROL Multiple files]** in the **[!UICONTROL Compress a PDF]** panel.
 
     ![Reduce Step 2](../assets/Reduce_2.png)
 
@@ -55,19 +55,17 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
     ![Reduce Step 1](../assets/Reduce_1.png)
 
-1. Select **[!UICONTROL Advance Optimization]** from the **[!UICONTROL Compress a PDF]** panel.
+1. Select **[!UICONTROL Advanced Optimization]** from the **[!UICONTROL Compress a PDF]** panel.
 
     ![Optimize Step 1](../assets/Optimize_1.png)
-
-    By default **Standard** is selected in the **Settings** menu. If you change any settings in the PDF Optimizer dialog box, the **Settings** menu automatically switches to **Custom**.
 
 1. From the **Make Compatible With** dropdown, choose **Retain Existing** to keep the current PDF version, or choose an Acrobat version. Select the check box next to a panel (for example, Images, Fonts, Transparency), and then select options in that panel, then choose **[!UICONTROL OK]** and then save the file.
 
     ![Optimize Step 2](../assets/Optimize_2.png)
 
-    To prevent all of the options in a panel from executing during optimization, deselect the check box for that panel.
+    By default **Standard** is selected in the **Settings** menu. If you change any settings in the PDF Optimizer dialog box, the **Settings** menu automatically switches to **Custom**. To prevent all of the options in a panel from executing during optimization, deselect the check box for that panel.
 
-1. (Optional) To save your customized settings, select **[!UICONTROL Save]** and name the settings. To delete a saved setting, choose it in the **Settings** menu and select **[!UICONTROL Delete]**.
+1. (Optional) To save your customized settings, select **[!UICONTROL Save]** and name the settings. To delete a saved setting, choose it in the **Settings** dropdown and select **[!UICONTROL Delete]**.
 
     ![Optimize Step 3](../assets/Optimize_3.png)
 
