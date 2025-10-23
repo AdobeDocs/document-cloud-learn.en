@@ -72,32 +72,3 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 >[!TIP]
 >
 >To optimize multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
-
-<table style="table-layout:fixed">
-  <td>
-    <a href="reduce.md">
-      <img alt="Compress & optimize a PDF" src="../assets/reduce.png" />
-    </a>
-    <div>
-    <a href="reduce.md"><strong>Compress & optimize a PDF</strong></a>
-    </div>
-    <em>Reduce large files and optimize your PDFs without compromising quality for sharing, posting, or archiving</em>
-    <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-      </td>
-    <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-</tr>
-</table>
