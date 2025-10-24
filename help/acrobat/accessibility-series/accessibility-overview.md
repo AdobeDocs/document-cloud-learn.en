@@ -68,14 +68,41 @@ Learn how to make [forms accessible](create-accessible-forms.md) in Acrobat.
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Scanned documents" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>Scanned documents</strong></a>
+    </div>
+    <em>Learn how to make scanned documents accessible in Acrobat Pro</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Create accessible forms" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>Create accessible forms</strong></a>
     </div>
-    <em>Learn how to make forms accessible in Acrobat</em>
+    <em>Learn how to make forms accessible in Acrobat Pro</em>
     <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
