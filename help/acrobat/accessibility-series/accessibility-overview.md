@@ -54,7 +54,7 @@ Learn how to make [forms accessible](create-accessible-forms.md) in Acrobat.
     <div>
     <a href="set-up-workspace.md"><strong>Set up your workspace</strong></a>
     </div>
-    <em>Learn how to put all the accessibility tools right at your fingertip to help streamline making accessible PDF files</em>
+    <em>Learn how to put all the accessibility tools right at your fingertips</em>
     <br>
   </td>
   <td>
