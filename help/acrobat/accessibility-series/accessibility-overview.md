@@ -15,9 +15,9 @@ Learn all about how to make accessible PDF files. Tutorials in the series range 
 
 >[!BEGINTABS]
 
->[!TAB The what and why of accessible PDF files]
+>[!TAB Scanned documents]
 
-Learn [what an accessible PDF file is and why it's important](what-why-accessible-pdf.md).
+Learn how to make a [scanned document](scanned-documents.md) accessible.
 
 >[!TAB Set up your workspace]
 
