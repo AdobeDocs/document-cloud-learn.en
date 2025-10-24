@@ -44,6 +44,7 @@ auto-video-transcripts: true
   + [The what and why of accessible PDF files](accessibility-series/what-why-accessible-pdf.md)
   + [Set up your workspace](accessibility-series/set-up-workspace.md)
   + [Create an accessible PDF from Word](accessibility-series/create-accessible-from-word.md)
+  + [Scanned documents](accessibility-series/scanned-documents.md)
   + [Create accessible forms](accessibility-series/create-accessible-forms.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)

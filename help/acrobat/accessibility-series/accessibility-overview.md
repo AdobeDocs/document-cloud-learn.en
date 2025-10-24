@@ -15,9 +15,9 @@ Learn all about how to make accessible PDF files. Tutorials in the series range 
 
 >[!BEGINTABS]
 
->[!TAB The what and why of accessible PDF files]
+>[!TAB Scanned documents]
 
-Learn [what an accessible PDF file is and why it's important](what-why-accessible-pdf.md).
+Learn how to make a [scanned document](scanned-documents.md) accessible.
 
 >[!TAB Set up your workspace]
 
@@ -68,14 +68,41 @@ Learn how to make [forms accessible](create-accessible-forms.md) in Acrobat.
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Scanned documents" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>Scanned documents</strong></a>
+    </div>
+    <em>Learn how to make scanned documents accessible in Acrobat Pro</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Create accessible forms" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>Create accessible forms</strong></a>
     </div>
-    <em>Learn how to make forms accessible in Acrobat</em>
+    <em>Learn how to make forms accessible in Acrobat Pro</em>
     <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
