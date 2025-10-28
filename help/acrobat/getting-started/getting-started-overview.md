@@ -16,6 +16,10 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 >[!BEGINTABS]
 
+>[!TAB Paper to PDF]
+
+Learn how to turn a [paper document](scan-and-ocr.md) into a smart, searchable, editable PDF file
+
 >[!TAB Boost team efficiency with PDF Spaces]
 
 Turn collections of files and websites into [sharable, conversational knowledge hubs](pdf-spaces-legal.md) with personalized AI Assistants. 
@@ -27,10 +31,6 @@ Learn how to create brand-safe content, extract insights, and streamline complex
 >[!TAB Discover PDF insights with AI Assistant]
 
 Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
-
->[!TAB Edit graphics in a PDF]
-
-Learn how to [create, edit, and enhance graphics](edit-graphics.md) in your PDF.
 
 >[!ENDTABS]
 

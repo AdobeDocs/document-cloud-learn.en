@@ -29,7 +29,7 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
     The file is reduced to the smallest size possible while retaining the document's quality.
 
 
-## How to compress a PDF in Acrobat on the web
+## How to compress a PDF in Acrobat web
 
 1. Sign in to [acrobat.adobe.com](https://acrobat.adobe.com/) in a browser.
 
@@ -71,4 +71,4 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
 >[!TIP]
 >
->To optimize multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
+>To optimize multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro on the desktop.

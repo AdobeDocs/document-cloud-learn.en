@@ -33,7 +33,7 @@ auto-video-transcripts: true
   + [Comment on a PDF](getting-started/comment-on-pdf-files.md)
   + [Create fillable forms](getting-started/create-fillable-forms.md)
   + [Fill & Sign PDF forms](getting-started/fill-and-sign.md)
-  + [Scan & OCR](getting-started/scan-and-ocr.md)
+  + [Paper to PDF](getting-started/scan-and-ocr.md)
   + [Protect a PDF file with a password](getting-started/password-protect.md)
   + [Get signatures](getting-started/signatures.md)
   + [Track your documents](getting-started/track.md)
