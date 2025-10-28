@@ -18,7 +18,7 @@ Learn how to start using Adobe Acrobat through these brief step-by-step tutorial
 
 >[!TAB Paper to PDF]
 
-Learn how to turn a [paper document](scan-and-ocr.md) into a smart, searchable, editable PDF file
+Learn how to turn [paper documents](scan-and-ocr.md) into searchable and editable PDF files
 
 >[!TAB Boost team efficiency with PDF Spaces]
 
