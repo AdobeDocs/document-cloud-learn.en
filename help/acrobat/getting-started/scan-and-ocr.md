@@ -70,33 +70,3 @@ The file is now a searchable, editable PDF file.
 >[!TIP]
 >
 >To OCR multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro on the desktop.
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-and-ocr.md">
-      <img alt="Paper to PDF" src="../assets/scan.png" />
-    </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Paper to PDF</strong></a>
-    </div>
-    <em>Learn how to turn a paper document into a smart, searchable, editable PDF file feature</em>
-    <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
