@@ -64,4 +64,4 @@ Once you confirm, the redactions and hidden information are permanently removed 
 
 >[!TIP]
 >
->To speed up the redaction process, check out the [Action Wizard](../advanced-tasks/action.md).
+>To speed up the redaction process, check out the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro on the desktop.
