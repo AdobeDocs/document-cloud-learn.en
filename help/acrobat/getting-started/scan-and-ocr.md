@@ -10,7 +10,8 @@ exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 ---
 # Paper to PDF
 
-Learn how to scan (or take a picture) of a paper document and turn it into a searchable and [editable PDF file](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}. Converting paper to PDF increases your ability to quickly find information and make it accessible to those with disabilities. 
+Learn how to scan (or take a picture) of a paper document and turn it into a searchable and [editable PDF file](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}. Converting paper to PDF increases your ability to quickly find information and make it accessible to those with disabilities. This tutorial shows the [new Acrobat experience](new-workspace.md).
+
 
 ## How to turn paper into a PDF in Acrobat on the desktop
 
