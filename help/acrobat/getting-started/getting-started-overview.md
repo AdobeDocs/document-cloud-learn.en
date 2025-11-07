@@ -298,7 +298,6 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             </div>
         </div>
     </div>
-</div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Scan & OCR">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
