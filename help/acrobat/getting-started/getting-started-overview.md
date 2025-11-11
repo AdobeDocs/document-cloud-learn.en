@@ -508,7 +508,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-fillable-forms" title="Create fillable forms" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_109411f58bacd579c020661fd7f6577ed63726aef.png?width=400&format=webply&optimize=medium" alt="Create fillable forms"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Create fillable forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
