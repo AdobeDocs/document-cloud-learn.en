@@ -16,6 +16,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB Electronically sign a document]
+
+Learn how easy it is to [sign](../sign-beginner-tutorials/electronically-sign-a-document.md) a document that is sent to you with Acrobat Sign.
+
 >[!TAB Create a reusable template]
 
 Learn how to create a [reusable document template](../sign-advanced-users/create-a-template.md).
@@ -27,14 +31,6 @@ Learn how to [configure various options](sending-options.md) when sending a docu
 >[!TAB Send to multiple signers]
 
 Learn how to send a document for e-signature to [more than one person](send-to-multiple-recipients.md) in exactly the order you want.
-
->[!TAB Send a document to a single signer]
-
-Jump in and learn how easy it is to [send a document out for signature](send-to-single-recipient.md).
-
->[!TAB Get started with Acrobat Sign]
-
- Are you new to using Acrobat Sign? This [tutorial](new-sender.md) is a great place to start.
 
 >[!ENDTABS]
 
@@ -165,7 +161,7 @@ Jump in and learn how easy it is to [send a document out for signature](send-to-
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Electronically signing a document" src="../assets/sign-electronically.png" />
+      <img alt="Electronically sign a document" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>

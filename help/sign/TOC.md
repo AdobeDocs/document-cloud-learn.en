@@ -31,7 +31,7 @@ auto-video-transcripts: true
     + [Set deadlines and reminders](sign-beginner-tutorials/set-deadlines-reminders.md)
     + [Create a reusable template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
   + Sign {#getting-started-signing}
-    + [Electronically signing a document](sign-beginner-tutorials/electronically-sign-a-document.md)
+    + [Electronically sign a document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and signing a document](sign-beginner-tutorials/fill-and-sign.md)
     + [Getting a signature in person](sign-beginner-tutorials/sign-in-person.md)
     + [Delegate signing to someone else](sign-beginner-tutorials/delegate-signing.md)
