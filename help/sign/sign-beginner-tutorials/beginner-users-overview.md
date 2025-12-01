@@ -164,7 +164,7 @@ Learn how to send a document for e-signature to [more than one person](send-to-m
       <img alt="Electronically sign a document" src="../assets/sign-electronically.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>Electronically signing a document</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>Electronically sign a document</strong></a>
     </div>
     Learn how easy it is to sign a document that is sent to you with Acrobat Sign
     <br>
