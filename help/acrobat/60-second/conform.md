@@ -11,7 +11,7 @@ exl-id: ea0645d9-d0c4-4256-8a17-87fc8839a087
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, and Studio.
 
 In this 60-second video tutorial, learn how to validate PDF content against PDF standard criteria such as PDF/X, PDF/A, or PDF/E.
 

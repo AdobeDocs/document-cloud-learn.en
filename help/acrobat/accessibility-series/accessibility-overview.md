@@ -74,7 +74,7 @@ Learn how to make [forms accessible](create-accessible-forms.md) in Acrobat.
     <div>
     <a href="scanned-documents.md"><strong>Scanned documents</strong></a>
     </div>
-    <em>Learn how to make scanned documents accessible in Acrobat Pro</em>
+    <em>Learn how to make scanned documents accessible in Acrobat</em>
     <br>
   </td>
 </tr>
@@ -86,7 +86,7 @@ Learn how to make [forms accessible](create-accessible-forms.md) in Acrobat.
     <div>
     <a href="create-accessible-forms.md"><strong>Create accessible forms</strong></a>
     </div>
-    <em>Learn how to make forms accessible in Acrobat Pro</em>
+    <em>Learn how to make forms accessible in Acrobat</em>
     <br>
   </td>
   <td>

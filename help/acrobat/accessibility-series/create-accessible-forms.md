@@ -14,6 +14,6 @@ Learn how to make forms accessible in Acrobat. Following these seven steps can h
 
 >[!NOTE]
 >
->Some features of this tutorial are only available in Acrobat Pro.
+>Some features of this tutorial are only available in Acrobat Pro, Premium, and Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)

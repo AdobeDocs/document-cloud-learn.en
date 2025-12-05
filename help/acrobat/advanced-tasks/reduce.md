@@ -49,7 +49,7 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
 >[!NOTE]
 >
->Optimizing a PDF is only available in Acrobat Pro on the desktop.
+>Optimizing a PDF is only available in Acrobat Pro, Premium, or Studio on the desktop.
 
 1. Open a file and select **[!UICONTROL All tools]** from the toolbar, then choose **[!UICONTROL Compress a PDF]**.
 
@@ -71,4 +71,4 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
 >[!TIP]
 >
->To optimize multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro on the desktop.
+>To optimize multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro, Premium, or Studio on the desktop.

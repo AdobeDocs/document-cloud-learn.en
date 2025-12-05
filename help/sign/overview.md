@@ -102,7 +102,7 @@ Acrobat Sign, an Adobe Document Cloud solution, scales to meet your organization
     <div>
     <a href="deploy-overview.md"><strong>Deploy</strong></a>
     </div>
-    Insight and best practicies for deploying Acrobat Sign within your organization
+    Insight and best practices for deploying Acrobat Sign within your organization
     <br>
   </td>
 </tr>

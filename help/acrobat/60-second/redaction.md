@@ -11,7 +11,7 @@ exl-id: dc81aa16-762c-4e3f-b89b-e4224bdfcc68
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, and Studio.
 
 In this 60-second video tutorial, learn the right way to remove sensitive information from a PDF.
 

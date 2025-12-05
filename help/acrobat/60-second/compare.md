@@ -11,7 +11,7 @@ exl-id: a8fb0348-a247-4643-9c50-3758c5ac1ad2
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, and Studio.
 
 In this 60-second video tutorial, learn how to spot the differences between two PDF files by using the Compare Files tool in Acrobat.
 
