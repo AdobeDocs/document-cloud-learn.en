@@ -76,7 +76,7 @@ Tag a PDF as follows:
 
 >[!NOTE] 
 >
->Available in Acrobat Pro only.
+>Available in only in Acrobat Pro, Premium, or Studio.
 
 <br>&nbsp;
 
@@ -98,7 +98,7 @@ This step reduces the file size and enables **Fast Web View** in the PDF. **Fast
 
 >[!TIP]
 >
->If you have Acrobat Pro, run Optimize for Web and Mobile in the Action Wizard tool. This Action converts colors to sRGB and embeds fonts for consistent display of PDFs across browsers and mobile devices.
+>If you have Acrobat Pro (Premium or Studio), run Optimize for Web and Mobile in the Action Wizard tool. This Action converts colors to sRGB and embeds fonts for consistent display of PDFs across browsers and mobile devices.
 
 +++
 

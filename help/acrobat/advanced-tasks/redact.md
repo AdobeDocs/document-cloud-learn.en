@@ -14,7 +14,7 @@ Learn how to use the Redact tool to permanently remove private or sensitive info
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, or Studio.
 
 [!BADGE Organizational Impact]
 Customer data protection, Risk management
@@ -64,4 +64,4 @@ Once you confirm, the redactions and hidden information are permanently removed 
 
 >[!TIP]
 >
->To speed up the redaction process, check out the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro on the desktop.
+>To speed up the redaction process, check out the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro, Premium, or Studio on the desktop.

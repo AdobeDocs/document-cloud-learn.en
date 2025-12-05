@@ -70,4 +70,4 @@ The file is now a searchable, editable PDF file.
 
 >[!TIP]
 >
->To OCR multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro on the desktop.
+>To OCR multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro, Premium, or Studio on the desktop.

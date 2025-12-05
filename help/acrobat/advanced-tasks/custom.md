@@ -14,6 +14,6 @@ Learn how to improve document workflow efficiency by using custom commands and t
 
 >[!NOTE]
 >
->Custom commands are available in Acrobat Pro only.
+>Custom commands are only available in Acrobat Pro, Premium, or Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)

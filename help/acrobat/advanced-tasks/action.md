@@ -14,7 +14,7 @@ Delivering the best customer experiences requires content to be created faster t
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, or Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 

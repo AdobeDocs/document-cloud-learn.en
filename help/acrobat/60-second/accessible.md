@@ -12,7 +12,7 @@ exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, and Studio.
 
 In this 60-second video tutorial, learn how to check to see if a PDF is Accessible. 
 

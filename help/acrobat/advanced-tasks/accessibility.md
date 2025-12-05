@@ -15,7 +15,7 @@ Learn how to check if your PDF is universally accessible to people with disabili
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, or Studio.
 
 ## Accessibility check
 

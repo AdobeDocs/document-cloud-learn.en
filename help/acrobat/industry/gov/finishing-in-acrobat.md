@@ -14,7 +14,7 @@ In the third video tutorial in the Making PDFs Accessible series, learn how to f
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, or Studio.
 
 ## Part 3 - Finishing in Acrobat (4:37)
 

@@ -245,7 +245,7 @@ Explore our Acrobat tutorials specifically designed for federal, state, and loca
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/pdfs/finishing-in-acrobat" target="_self" rel="referrer" title="Making PDFs Accessible: Finishing in Acrobat">Making PDFs Accessible: Finishing in Acrobat</a>
                     </p>
-                    <p class="is-size-6">Learn how to finish making your PDF file accessible using the tools in Acrobat Pro</p>
+                    <p class="is-size-6">Learn how to finish making your PDF file accessible using the tools in Acrobat</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/pdfs/finishing-in-acrobat" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>

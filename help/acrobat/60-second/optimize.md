@@ -12,7 +12,7 @@ exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
 
 >[!NOTE]
 >
->Available in Acrobat Pro only.
+>Available only in Acrobat Pro, Premium, and Studio.
 
 In this 60-second video tutorial, learn how to use the Optimize PDF tool to significantly reduce the size of your PDF files.
 
