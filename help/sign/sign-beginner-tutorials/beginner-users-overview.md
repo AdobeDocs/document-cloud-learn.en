@@ -16,6 +16,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB Manage and track agreements]
+
+Learn how to [manage and track agreements](../sign-beginner-tutorials/manage-and-track.md) sent for signature.
+
 >[!TAB Electronically sign a document]
 
 Learn how easy it is to [sign](../sign-beginner-tutorials/electronically-sign-a-document.md) a document that is sent to you with Acrobat Sign.
@@ -27,10 +31,6 @@ Learn how to create a [reusable document template](../sign-advanced-users/create
 >[!TAB Configure send options]
 
 Learn how to [configure various options](sending-options.md) when sending a document out for signature.
-
->[!TAB Send to multiple signers]
-
-Learn how to send a document for e-signature to [more than one person](send-to-multiple-recipients.md) in exactly the order you want.
 
 >[!ENDTABS]
 
