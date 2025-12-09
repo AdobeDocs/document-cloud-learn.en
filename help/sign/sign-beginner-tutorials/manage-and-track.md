@@ -1,5 +1,5 @@
 ---
-title: Manage & Track your Agreements
+title: Manage and Track your Agreements
 description: Learn how to manage and track agreements sent for signature in Acrobat Sign
 feature: Workspace
 role: User
@@ -8,11 +8,11 @@ jira: KT-5315
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
 ---
-# Manage & track your agreements
+# Manage and track your agreements
 
 Learn how to manage and track documents sent for signature in Acrobat Sign. Get real-time status updates and notifications for every document you sign or send for signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/338695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

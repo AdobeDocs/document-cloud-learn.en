@@ -38,7 +38,7 @@ auto-video-transcripts: true
     + [What's a digital signature?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
     + [Signing with a stamp](sign-beginner-tutorials/sign-with-a-stamp.md)
   + Manage {#getting-started-managing}
-    + [Manage & track your agreements](sign-beginner-tutorials/manage-and-track.md)
+    + [Manage and track your agreements](sign-beginner-tutorials/manage-and-track.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](sign-advanced-users/advanced-users-overview.md)
   + Send {#advanced-tasks-sending}
