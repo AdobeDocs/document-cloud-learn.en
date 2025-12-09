@@ -243,7 +243,7 @@ Learn how to send a document for e-signature to [more than one person](send-to-m
       <img alt="Manage & track your agreements" src="../assets/manage-track.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Manage & track your agreements</strong></a>
+    <a href="manage-and-track.md"><strong>Manage and track your agreements</strong></a>
     </div>
     Learn how to manage and track agreements sent for signature
     <br>
