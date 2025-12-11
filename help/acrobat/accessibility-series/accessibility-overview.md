@@ -15,6 +15,10 @@ Learn all about how to make accessible PDF files. Tutorials in the series range 
 
 >[!BEGINTABS]
 
+>[!TAB Complex lists]
+
+Learn how to tag [complex lists](complex-lists.md) for accessibility in Acrobat.
+
 >[!TAB Scanned documents]
 
 Learn how to make a [scanned document](scanned-documents.md) accessible.
@@ -26,10 +30,6 @@ Learn how to [set up your workspace](set-up-workspace.md) to help streamline mak
 >[!TAB Create an accessible PDF from Word]
 
 Learn how to [create an accessible PDF file from Microsoft Word](create-accessible-from-word.md).
-
->[!TAB Create accessible forms]
-
-Learn how to make [forms accessible](create-accessible-forms.md) in Acrobat.
 
 >[!ENDTABS]
 
@@ -90,9 +90,14 @@ Learn how to make [forms accessible](create-accessible-forms.md) in Acrobat.
     <br>
   </td>
   <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="Complex lists" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>Complex lists</strong></a>
+    </div>
+    <em>Learn how to tag complex lists for accessibility in Acrobat</em>
+    <br>
   </td>
   <td>
         <img alt="Spacer" src="../assets/Grayspacer.png" />
