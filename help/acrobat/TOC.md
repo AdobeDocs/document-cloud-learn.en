@@ -46,6 +46,7 @@ auto-video-transcripts: true
   + [Create an accessible PDF from Word](accessibility-series/create-accessible-from-word.md)
   + [Scanned documents](accessibility-series/scanned-documents.md)
   + [Create accessible forms](accessibility-series/create-accessible-forms.md)
+  + [Complex lists](accessibiliy-series/complex-lists.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
   + [Adding bookmarks and hyperlinks](advanced-tasks/bookmarks.md)
