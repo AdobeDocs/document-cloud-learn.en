@@ -15,6 +15,10 @@ Learn all about how to make accessible PDF files. Tutorials in the series range 
 
 >[!BEGINTABS]
 
+>[!TAB The basics of tagging]
+
+Learn the fundamentals of how to [tag a PDF](basics-tagging.md) file to make it accessible.
+
 >[!TAB Complex lists]
 
 Learn how to tag [complex lists](complex-lists.md) for accessibility in Acrobat.
@@ -26,10 +30,6 @@ Learn how to make a [scanned document](scanned-documents.md) accessible.
 >[!TAB Set up your workspace]
 
 Learn how to [set up your workspace](set-up-workspace.md) to help streamline making accessible PDF files.
-
->[!TAB Create an accessible PDF from Word]
-
-Learn how to [create an accessible PDF file from Microsoft Word](create-accessible-from-word.md).
 
 >[!ENDTABS]
 
@@ -68,6 +68,18 @@ Learn how to [create an accessible PDF file from Microsoft Word](create-accessib
     <br>
   </td>
   <td>
+    <a href="basics-tagging.md">
+      <img alt="The basics of tagging" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="basics-tagging.md"><strong>The basics of tagging"</strong></a>
+    </div>
+    <em>Learn the fundamentals of how to tag a PDF file to make it accessible</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="scanned-documents.md">
       <img alt="Scanned documents" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -77,8 +89,6 @@ Learn how to [create an accessible PDF file from Microsoft Word](create-accessib
     <em>Learn how to make scanned documents accessible in Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-accessible-forms.md">
       <img alt="Create accessible forms" src="../assets/accessibility-series-2025.png" />
@@ -89,7 +99,7 @@ Learn how to [create an accessible PDF file from Microsoft Word](create-accessib
     <em>Learn how to make forms accessible in Acrobat</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="complex-lists.md">
       <img alt="Complex lists" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -98,11 +108,6 @@ Learn how to [create an accessible PDF file from Microsoft Word](create-accessib
     </div>
     <em>Learn how to tag complex lists for accessibility in Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
   <td>
         <img alt="Spacer" src="../assets/Grayspacer.png" />
