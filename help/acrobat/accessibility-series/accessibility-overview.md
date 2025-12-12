@@ -72,7 +72,7 @@ Learn how to [set up your workspace](set-up-workspace.md) to help streamline mak
       <img alt="The basics of tagging" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="basics-tagging.md"><strong>The basics of tagging"</strong></a>
+    <a href="basics-tagging.md"><strong>The basics of tagging</strong></a>
     </div>
     <em>Learn the fundamentals of how to tag a PDF file to make it accessible</em>
     <br>
