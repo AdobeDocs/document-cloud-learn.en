@@ -1,6 +1,6 @@
 ---
 title: Scanned Documents
-description: Learn how to make scanned documents accessible in Acrobat Pro
+description: Learn how to make scanned documents accessible in Acrobat
 feature: Accessibility
 role: User
 level: Intermediate
