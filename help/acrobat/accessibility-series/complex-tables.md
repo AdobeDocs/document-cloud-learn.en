@@ -2,7 +2,7 @@
 title: Complex Tables
 description: Learn how to tag tables for accessibility in Acrobat
 role: User
-level: Intermediate, Advanced
+level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
 ---
