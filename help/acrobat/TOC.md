@@ -49,6 +49,8 @@ auto-video-transcripts: true
   + [Scanned documents](accessibility-series/scanned-documents.md)
   + [Create accessible forms](accessibility-series/create-accessible-forms.md)
   + [Complex lists](accessibility-series/complex-lists.md)
+  + [Complex tables](accessibility-series/complex-tables.md)
+  + [Make Accessible guided action](accessibility-series/make-accessible-action.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
   + [Adding bookmarks and hyperlinks](advanced-tasks/bookmarks.md)

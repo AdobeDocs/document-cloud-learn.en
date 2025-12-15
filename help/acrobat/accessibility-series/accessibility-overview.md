@@ -15,6 +15,14 @@ Learn all about how to make accessible PDF files. Tutorials in the series range 
 
 >[!BEGINTABS]
 
+>[!TAB Complex tables]
+
+Learn how to [tag tables](complex-tables.md) for accessibility in Acrobat.
+
+>[!TAB Make Accessible guided action]
+
+Learn how to use the [Make Accessible guided action](make-accessible-action.md).
+
 >[!TAB Create an accessible PDF in Acrobat]
 
 Learn how to create an [accessible PDF starting in Acrobat](accessible-acrobat.md).
@@ -22,14 +30,6 @@ Learn how to create an [accessible PDF starting in Acrobat](accessible-acrobat.m
 >[!TAB The basics of tagging]
 
 Learn the fundamentals of how to [tag a PDF](basics-tagging.md) file to make it accessible.
-
->[!TAB Complex lists]
-
-Learn how to tag [complex lists](complex-lists.md) for accessibility in Acrobat.
-
->[!TAB Scanned documents]
-
-Learn how to make a [scanned document](scanned-documents.md) accessible.
 
 >[!ENDTABS]
 
@@ -119,5 +119,37 @@ Learn how to make a [scanned document](scanned-documents.md) accessible.
     <em>Learn how to tag complex lists for accessibility in Acrobat</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="Complex tables" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>Complex tables</strong></a>
+    </div>
+    <em>Learn how to tag tables for accessibility in Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="Make Accessible guided action" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>Make Accessible guided action</strong></a>
+    </div>
+    <em>Learn how to use the Make Accessible guided action</em>
+    <br>
+  </td>
+   <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
