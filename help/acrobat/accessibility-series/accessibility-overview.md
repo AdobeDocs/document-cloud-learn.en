@@ -15,6 +15,10 @@ Learn all about how to make accessible PDF files. Tutorials in the series range 
 
 >[!BEGINTABS]
 
+>[!TAB Create an accessible PDF in Acrobat]
+
+Learn how to create an [accessible PDF starting in Acrobat](accessible-acrobat.md).
+
 >[!TAB The basics of tagging]
 
 Learn the fundamentals of how to [tag a PDF](basics-tagging.md) file to make it accessible.
@@ -26,10 +30,6 @@ Learn how to tag [complex lists](complex-lists.md) for accessibility in Acrobat.
 >[!TAB Scanned documents]
 
 Learn how to make a [scanned document](scanned-documents.md) accessible.
-
->[!TAB Set up your workspace]
-
-Learn how to [set up your workspace](set-up-workspace.md) to help streamline making accessible PDF files.
 
 >[!ENDTABS]
 
@@ -68,6 +68,18 @@ Learn how to [set up your workspace](set-up-workspace.md) to help streamline mak
     <br>
   </td>
   <td>
+    <a href="accessible-acrobat.md">
+      <img alt="Create an accessible PDF in Acrobat" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="accessible-acrobat.md"><strong>Create an accessible PDF in Acrobat</strong></a>
+    </div>
+    <em>Learn how to create an accessible PDF starting in Acrobat</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="basics-tagging.md">
       <img alt="The basics of tagging" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -77,9 +89,7 @@ Learn how to [set up your workspace](set-up-workspace.md) to help streamline mak
     <em>Learn the fundamentals of how to tag a PDF file to make it accessible</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="scanned-documents.md">
       <img alt="Scanned documents" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -99,7 +109,7 @@ Learn how to [set up your workspace](set-up-workspace.md) to help streamline mak
     <em>Learn how to make forms accessible in Acrobat</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="complex-lists.md">
       <img alt="Complex lists" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -108,11 +118,6 @@ Learn how to [set up your workspace](set-up-workspace.md) to help streamline mak
     </div>
     <em>Learn how to tag complex lists for accessibility in Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>

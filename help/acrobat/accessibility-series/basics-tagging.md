@@ -9,7 +9,7 @@ jira: KT-18726
 ---
 # The basics of tagging
 
-Learn the fundamentals of how to tag a PDF file to make it accessible. Topics that are covered include: fixing lists, artifacting, adding alternative text for images, and simple tables.
+Learn the fundamentals of how to tag a PDF file to make it accessible. Topics covered include: fixing lists, artifacting, adding alternative text for images, and simple tables.
 
 >[!NOTE]
 >

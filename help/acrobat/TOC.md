@@ -44,6 +44,7 @@ auto-video-transcripts: true
   + [The what and why of accessible PDF files](accessibility-series/what-why-accessible-pdf.md)
   + [Set up your workspace](accessibility-series/set-up-workspace.md)
   + [Create an accessible PDF from Word](accessibility-series/create-accessible-from-word.md)
+  + [Create an accessible PDF in Acrobat](accessibility-series/accessible-acrobat.md)
   + [The basics of tagging](accessibility-series/basics-tagging.md)
   + [Scanned documents](accessibility-series/scanned-documents.md)
   + [Create accessible forms](accessibility-series/create-accessible-forms.md)
