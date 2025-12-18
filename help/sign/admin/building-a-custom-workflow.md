@@ -1,6 +1,6 @@
 ---
-title: Building a Custom Workflow
-description: Learn how to tailor and automate document workflows to quickly get electronic signatures and collect form data
+title: Build a Custom Workflow
+description: Learn how to create and use custom workflows to speed up the process of creating and sending an agreement
 feature: Administration, Workflow
 role: User, Admin
 level: Experienced
@@ -8,9 +8,9 @@ jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
 ---
-# Building a custom workflow
+# Build a custom workflow
 
-Learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.
+Learn how to create and use custom workflows to speed up the process of creating and sending an agreement.
 
 [!BADGE Use Cases]
 

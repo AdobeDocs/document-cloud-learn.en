@@ -17,6 +17,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!BEGINTABS]
 
+>[!TAB Build a custom workflow]
+
+Learn how to create and use [custom workflows](building-a-custom-workflow.md) to speed up the process of creating and sending an agreement.
+
 >[!TAB Create a reusable template]
 
 Learn how to create a [reusable document template](../sign-advanced-users/create-a-template.md).
@@ -28,10 +32,6 @@ Learn how to set up [automatic assignment rules](automatic-assignment-rules.md) 
 >[!TAB Migrate Docusign templates]
 
 Learn how to seamlessly [migrate Docusign templates](docusign-templates.md) and workflows in three easy steps.
-
->[!TAB Add a new user]
-
-Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
 
 >[!ENDTABS]
 
@@ -197,12 +197,12 @@ Learn how to [add new users to Acrobat Sign](add-users-to-your-account.md).
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Setting up a Workflow" src="../assets/workflow.png" />
+      <img alt="Build a custom workflow" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Setting up a workflow</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Build a custom workflow</strong></a>
     </div>
-    <em>Automate document workflows to quickly get electronic signatures and data</em>
+    <em>Learn how to create and use custom workflows to speed up the process of creating and sending an agreement</em>
     <br>
   </td>
 </tr>
