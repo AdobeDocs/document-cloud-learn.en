@@ -45,11 +45,11 @@ auto-video-transcripts: true
     + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
     + [Using the delegator role](sign-advanced-users/delegate-signature.md)
     + [Using the approver role](sign-advanced-users/add-an-approver.md)
-    + [Authentication methods in Acrobat Sign](sign-advanced-users/authentication-methods.md)
-    + [Manage form data](sign-advanced-users/manage-form-data.md)
-    + [Set up online payments](sign-advanced-users/set-up-online-payments.md)
     + [Send in Bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)      
     + [Creating a web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+    + [Build a custom workflow](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+    + [Set up online payments](sign-advanced-users/set-up-online-payments.md)
+    + [Authentication methods in Acrobat Sign](sign-advanced-users/authentication-methods.md)
     + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
     + [Using Text Tagging in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
   + Manage {#advanced-tasks-managing}
@@ -57,6 +57,7 @@ auto-video-transcripts: true
     + [Manage document templates](sign-advanced-users/edit-a-template.md)
     + [Modify an existing web form](sign-advanced-users/modify-webform.md)
     + [Managing web form data](sign-advanced-users/manage-webform-data.md)
+    + [Manage form data](sign-advanced-users/manage-form-data.md)
 + Administer {#admin-set-up}
   + [Overview](admin/intro-admin-overview.md)
   + Getting started {#getting-started-admin}
@@ -75,7 +76,7 @@ auto-video-transcripts: true
     + [Creating a web form](sign-advanced-users/webform.md)
     + [Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
     + [Send in Bulk](sign-advanced-users/megasign.md)
-    + [Building a custom workflow](admin/building-a-custom-workflow.md)
+    + [Build a custom workflow](admin/building-a-custom-workflow.md)
     + [Audit reports](admin/audit-reports.md)
     + [Configure notifications for events and alerts](admin/set-up-shared-events-and-alert.md)
   + Advanced tasks {#advanced-tasks-admins}
