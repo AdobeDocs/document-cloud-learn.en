@@ -18,7 +18,7 @@ Learn how to send out a document for signature to 100s of recipients at once, se
 
 >[!TAB Build a custom workflow]
 
-
+Learn how to create and use [custom workflows](../admin/building-a-custom-workflow.md) to speed up the process of creating and sending an agreement.
 
 >[!TAB Send in Bulk]
 
