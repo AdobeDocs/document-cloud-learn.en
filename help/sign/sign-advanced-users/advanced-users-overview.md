@@ -87,11 +87,11 @@ Learn about the range of methods available in Acrobat Sign to [authenticate](aut
       <br>
   </td>
   <td>
-      <a href="building-a-custom-workflow.md">
+      <a href="../admin/building-a-custom-workflow.md">
         <img alt="Build a custom workflow" src="../assets/workflow.png" />
       </a>
       <div>
-      <a href="building-a-custom-workflow.md"><strong>Build a custom workflow</strong></a>
+      <a href="../admin/building-a-custom-workflow.md"><strong>Build a custom workflow</strong></a>
       </div>
       <em>Learn how to create and use custom workflows to speed up the process of creating and sending an agreement</em>
       <br>
