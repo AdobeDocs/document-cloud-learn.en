@@ -169,4 +169,5 @@ auto-video-transcripts: true
   + [Overview](mobile/mobile-overview.md)
   + Mobile tutorials {#mobile-tutorials}
     + [Sign documents on the go](mobile/sign-mobile.md)
+    + [Mobile-friendly view](mobile/mobile-friendly.md)
     + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
