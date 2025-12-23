@@ -1,6 +1,6 @@
 ---
 title: Create Mobile-Friendly View
-description: Learn how to create a mobile-friendly view of the document with "Mobile Focus" mode
+description: Learn how to generate a mobile-friendly document seamlessly, without any developer support
 feature: Mobile, Sign
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ jira: KT-18736
 ---
 # Create mobile-friendly view
 
-Learn how to create a mobile-friendly view of the document with "Mobile Focus" mode. Senders can now generate a mobile-friendly form seamlessly, without any developer support.
+Learn how to generate a mobile-friendly document seamlessly, without any developer support.
 
 With Mobile Focus, senders benefit from:
 
