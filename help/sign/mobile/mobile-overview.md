@@ -56,11 +56,11 @@ Learn how to use [mobile-friendly view](mobile-friendly.md) to complete forms on
     <br>
   </td>
    <td>
-    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197">
+    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank">
       <img alt="Download Acrobat Sign mobile app for iOS" src="../assets/mobile-ios.png" />
     </a>
     <div>
-    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197"><strong>Download Acrobat Sign mobile app for iOS</strong></a>
+    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank"><strong>Download Acrobat Sign mobile app for iOS</strong></a>
     </div>
     <em>Download Acrobat Sign mobile app from the App Store</em>
     <br>
@@ -68,11 +68,11 @@ Learn how to use [mobile-friendly view](mobile-friendly.md) to complete forms on
 </tr>
 <tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
       <img alt="Download Acrobat Sign mobile app for Android" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1"><strong>Download Acrobat Sign mobile app for Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Download Acrobat Sign mobile app for Android</strong></a>
     </div>
     <em>Download Acrobat Sign mobile app from Google Play</em>
     <br>
