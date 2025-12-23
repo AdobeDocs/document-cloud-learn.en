@@ -21,6 +21,10 @@ Send documents for signature, track e-signing progress, and get real-time update
 
 Learn how to use [mobile-friendly view](mobile-friendly.md) to complete forms on your mobile device.
 
+>[!TAB Create mobile-friendly view]
+
+Learn how to generate a [mobile-friendly](create-mobile-friendly.md) document seamlessly, without any developer support.
+
 >[!ENDTABS]
 
 <table style="table-layout:fixed">
@@ -52,7 +56,7 @@ Learn how to use [mobile-friendly view](mobile-friendly.md) to complete forms on
     <div>
     <a href="create-mobile-friendly.md"><strong>Create mobile-friendly view</strong></a>
     </div>
-    <em>Learn how to create a mobile-friendly view of the document</em>
+    <em>Learn how to generate a mobile-friendly document seamlessly, without any developer support</em>
     <br>
   </td>
    <td>
