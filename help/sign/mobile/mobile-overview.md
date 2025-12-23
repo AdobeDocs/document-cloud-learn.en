@@ -46,6 +46,16 @@ Learn how to use [mobile-friendly view](mobile-friendly.md) to complete forms on
     <br>
   </td>  
   <td>
+    <a href="create-mobile-friendly.md">
+      <img alt="Create mobile-friendly view" src="../assets/create-mobile-friendly.png" />
+    </a>
+    <div>
+    <a href="create-mobile-friendly.md"><strong>Create mobile-friendly view</strong></a>
+    </div>
+    <em>Learn how to create a mobile-friendly view of the document</em>
+    <br>
+  </td>
+   <td>
     <a href="liquidmode.md">
       <img alt="Liquid Mode in Acrobat Sign" src="../assets/liquid-mode.png" />
     </a>
@@ -55,7 +65,9 @@ Learn how to use [mobile-friendly view](mobile-friendly.md) to complete forms on
     <em>Learn how Liquid Mode improves the mobile signing experience</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank">
       <img alt="Download Acrobat Sign mobile app for iOS" src="../assets/mobile-ios.png" />
     </a>
@@ -65,8 +77,6 @@ Learn how to use [mobile-friendly view](mobile-friendly.md) to complete forms on
     <em>Download Acrobat Sign mobile app from the App Store</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
       <img alt="Download Acrobat Sign mobile app for Android" src="../assets/mobile-android.png" />
@@ -75,11 +85,6 @@ Learn how to use [mobile-friendly view](mobile-friendly.md) to complete forms on
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Download Acrobat Sign mobile app for Android</strong></a>
     </div>
     <em>Download Acrobat Sign mobile app from Google Play</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
