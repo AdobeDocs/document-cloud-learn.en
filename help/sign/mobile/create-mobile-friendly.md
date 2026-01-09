@@ -10,7 +10,7 @@ jira: KT-18736
 
 Learn how to generate a mobile-friendly document seamlessly, without any developer support.
 
-With Mobile Focus, senders benefit from:
+With Mobile View, senders benefit from:
 
 * Increased completion rate: Higher form completion rates leading to improved outcomes
 * Reduce time and cost: Avoid the effort required to convert documents into mobile-friendly forms
