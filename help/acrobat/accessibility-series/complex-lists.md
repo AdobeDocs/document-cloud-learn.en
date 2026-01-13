@@ -16,3 +16,7 @@ Learn how to tag complex lists for accessibility in Acrobat. Complex lists inclu
 >Some features of this tutorial are only available in Acrobat Pro, Premium, and Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the playlist [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) that is available for free on Experience League!

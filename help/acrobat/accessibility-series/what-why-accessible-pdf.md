@@ -13,3 +13,7 @@ exl-id: 0073aeb2-ae73-4a41-93a8-834706904f2c
 Learn what an accessible PDF file is and why it's important.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the playlist [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) that is available for free on Experience League!
