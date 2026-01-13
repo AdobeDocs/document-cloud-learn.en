@@ -9,7 +9,7 @@ exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
 ---
 # Accessibility series overview
 
-Learn all about how to make accessible PDF files. Tutorials in the series range from the basics of tagging to working with forms. New content is regularly added.
+Learn all about how to make accessible PDF files. Tutorials in the series range from the basics of tagging to working with forms. This series in now available in [course format](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials) on Experience League.
 
 ## What's new
 

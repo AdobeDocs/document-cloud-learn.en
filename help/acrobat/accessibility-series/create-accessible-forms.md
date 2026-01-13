@@ -17,3 +17,7 @@ Learn how to make forms accessible in Acrobat. Following these seven steps can h
 >Some features of this tutorial are only available in Acrobat Pro, Premium, and Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>This video is part of the playlist [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) that is available for free on Experience League!
