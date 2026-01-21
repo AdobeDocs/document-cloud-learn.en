@@ -17,22 +17,22 @@ Learn how to create brand-safe content, extract insights, and streamline complex
 
 ## How Acrobat Studio helps different teams
 
-* Legal & Compliance
+* **Legal & Compliance**
 
     Centralize policies, contracts, and regulatory guidance in one workspace, then use AI Assistant to surface changes, identify risk, and generate compliant updates with verifiable citations.
 
-* Human Resources
+* **Human Resources**
 
     Turn complex policy documents into clear summaries, FAQs, and employee‑ready materials while keeping messaging consistent and compliant.
 
-* Sales
+* **Sales**
 
     Quickly assemble proposals and RFP responses by pulling approved content from existing documents and turning it into polished, client‑ready files.
 
-* Marketing & Communications
+* **Marketing & Communications**
 
     Extract insights from source documents and transform them into on‑brand presentations, one‑pagers, and visual content using Adobe Express.
 
-* Executives & Leaders
+* **Executives & Leaders**
 
     Get concise, source‑linked summaries across multiple documents so decisions can be made faster without reviewing every file.
