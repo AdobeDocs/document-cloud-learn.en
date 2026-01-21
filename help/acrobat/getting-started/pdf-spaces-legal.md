@@ -19,30 +19,30 @@ PDF Spaces are available to users who purchase Acrobat Studio or the AI Assistan
 
 ## How PDF Spaces help different teams
 
-* Legal & Compliance
+* **Legal & Compliance**
 
     Legal teams use PDF Spaces to bring contracts, policies, and regulatory guidance into a single workspace, making it easier to review documents together, identify changes, and generate cited summaries that support accurate and auditable decision‑making.
 
-* Human Resources
+* **Human Resources**
 
     HR teams use PDF Spaces to organize policy documents, onboarding materials, and training resources and quickly generate clear summaries or reference notes that can be shared consistently across the organization.
 
-*  Sales
+* **Sales**
 
     Sales teams use PDF Spaces to collect proposals, RFP documents, and supporting materials in one place, allowing them to review content efficiently, extract key points, and prepare client‑ready responses faster.
 
-*  Marketing & Communications
+* **Marketing & Communications**
 
     Marketing teams use PDF Spaces to analyze research reports and source documents together, helping them extract insights and align messaging before creating presentations, briefs, or campaigns.
 
-*  Finance
+* **Finance**
 
     Finance teams use PDF Spaces to review reports, spreadsheets, and supporting documentation in context, making it easier to compare information, surface key insights, and support executive reporting.
 
-* Operations & Program Management
+* **Operations & Program Management**
 
     Operations teams use PDF Spaces to keep SOPs, project documents, and updates organized in a shared workspace, enabling faster alignment and clearer communication across teams.
 
-* Executives & Leaders
+* **Executives & Leaders**
 
     Executives use PDF Spaces to review AI‑generated summaries across multiple documents, helping them understand key information quickly while retaining access to the original source content when needed.

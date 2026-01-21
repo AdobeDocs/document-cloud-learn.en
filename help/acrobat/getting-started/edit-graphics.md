@@ -17,18 +17,18 @@ Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and
 
 ## How Edit mode helps different teams
 
-* Legal & Compliance
+* **Legal & Compliance**
 
     Legal teams use Edit mode to update graphics and visual elements in contracts, policies, and guidance without re‑creating files, helping keep documents accurate and up to date during reviews or regulatory changes.
 
-* Human Resources
+* **Human Resources**
 
     HR teams use Edit mode to revise images and layouts in policy documents, onboarding materials, and training PDFs so updates can be made quickly without returning to source design files.
 
-* Sales
+* **Sales**
 
     Sales teams use Edit mode to replace images, adjust layouts, and update visuals in proposals and sales materials to tailor documents for specific customers or opportunities.
 
-* Marketing & Communications
+* **Marketing & Communications**
 
     Marketing teams use Edit mode to refine images and visual content in PDFs, ensuring materials stay polished and aligned with brand updates or campaign changes.

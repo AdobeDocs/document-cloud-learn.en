@@ -19,31 +19,31 @@ AI Assistant is available to users who purchase Acrobat Studio or the AI Assista
 
 ## How AI Assistant helps different teams
 
-* Legal & Compliance
+* **Legal & Compliance**
 
     Legal teams use AI Assistant to summarize long contracts, policies, and regulatory documents, quickly identify relevant clauses or changes, and verify insights through direct citations to source text. This accelerates review while maintaining confidence and traceability.
 
-* Human Resources
+* **Human Resources**
 
     HR teams use AI Assistant to extract key points from policy documents, training materials, and employee handbooks, enabling them to create clear summaries and FAQs without manually reading or re‑writing lengthy content.
 
-*  Sales
+* **Sales**
 
     Sales teams use AI Assistant to scan proposals, RFPs, and customer documentation, quickly pull relevant answers or talking points, and generate concise summaries that support faster responses and deal preparation.
 
-*  Marketing & Communications
+* **Marketing & Communications**
 
     Marketing teams use AI Assistant to analyze reports and research documents, extract insights, and generate well‑structured summaries that can be reused in presentations, briefs, and content planning.
 
-*  Finance
+* **Finance**
 
     Finance teams use AI Assistant to review financial reports and supporting documents, summarize trends or variances, and surface insights needed for executive‑level reporting without manually reading entire files.
 
-* Operations & Program Management
+* **Operations & Program Management**
 
     Operations teams use AI Assistant to analyze SOPs, project documentation, and updates, quickly understanding what matters and generating summaries to keep stakeholders aligned.
 
-* Executives & Leaders
+* **Executives & Leaders**
 
     Executives use AI Assistant to get high‑level summaries and direct answers from complex documents, with citations that allow them to validate insights without reviewing full source materials.
 
