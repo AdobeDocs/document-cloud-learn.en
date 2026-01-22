@@ -11,7 +11,7 @@ auto-video-transcripts: true
 # Acrobat Tutorials {#acrobat-learning}
 
 + [Overview](overview.md)
-+ Getting started {#getting-started}
++ Get started {#getting-started}
   + [Overview](getting-started/getting-started-overview.md)
   + [New Acrobat experience](getting-started/new-workspace.md)
   + [Workspace basics](getting-started/get-to-know-the-acrobat-dc-interface.md)
