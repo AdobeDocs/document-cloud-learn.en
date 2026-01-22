@@ -107,7 +107,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             </div>
         </div>
     </div>
-     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work anywhere with Acrobat web">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work anywhere with Acrobat web">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
@@ -139,18 +139,20 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
-    </div>
-    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" title="Productivity on the go">Productivity on the go</a>
-                    </p>
-                    <p class="is-size-6">Learn how to do more right from your tablet or mobile phone</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
-                </a>
             </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                        <div class="top-card-content">
+                            <p class="headline is-size-6 has-text-weight-bold">
+                                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" title="Productivity on the go">Productivity on the go</a>
+                            </p>
+                            <p class="is-size-6">Learn how to do more right from your tablet or mobile phone</p>
+                        </div>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                            <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                        </a>
+            </div>
+        </div>
+    </div>         
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Where do PDFs come from?">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
