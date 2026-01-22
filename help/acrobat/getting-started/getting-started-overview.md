@@ -53,7 +53,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="New Acrobat experience">New Acrobat experience</a>
                     </p>
-                    <p class="is-size-6">Learn about the New Acrobat experience</p>
+                    <p class="is-size-6">Learn about the new Acrobat experience</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
