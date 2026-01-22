@@ -251,6 +251,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
         </div>
     </div>
 </div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Create & organize
 
