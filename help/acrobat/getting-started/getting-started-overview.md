@@ -34,7 +34,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
 
 >[!ENDTABS]
 
-## Get started
+## Learn the basics
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
