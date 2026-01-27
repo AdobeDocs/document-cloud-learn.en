@@ -135,12 +135,6 @@ auto-video-transcripts: true
       + [Tip #3 – Protect digital documents](industry/gov/protect-digital-documents.md)
       + [Tip #4 – Work with forms and signatures](industry/gov/work-with-forms-and-signatures.md)
       + [Tip #5 – Scan and edit on mobile](industry/gov/scan-and-edit-on-mobile.md)
-    + Accessibility {#pdfs}
-      + [Making PDFs Accessible](industry/gov/making-pdfs-accessible.md)
-      + [#1 – Understanding Accessibility](industry/gov/understanding-accessibility.md)
-      + [#2 – Authoring in Word](industry/gov/authoring-in-word.md)
-      + [#3 – Finishing in Acrobat](industry/gov/finishing-in-acrobat.md)
-      + [Making PDF ballots more Accessible](industry/gov/making-pdf-ballots-accessible.md)
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
 + Deploy {#deploy}
