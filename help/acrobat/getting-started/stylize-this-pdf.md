@@ -9,7 +9,7 @@ exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
 ---
 # Stylize this PDF
 
-Learn how to use Stylize This PDF to improve the visual appearance of a PDF by applying font recommendations, color themes, images, and design elements using in-app tools powered by Adobe Express [Adobe Express](https://express.adobe.com). The tutorial also shows how to refine layouts, add Adobe Stock or AI‑generated images, and customize text styling to create polished, professional‑looking documents. This video tutorial uses the [New Acrobat experience](new-workspace.md).
+Learn how to use Stylize This PDF to improve the visual appearance of a PDF by applying font recommendations, color themes, images, and design elements using in-app tools powered by Adobe Express [Adobe Express](https://express.adobe.com). The tutorial also shows how to refine layouts, add Adobe Stock or AI‑generated images, and customize text styling to create polished, professional‑looking documents. This video tutorial uses the [New Acrobat experience](new-experience.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 

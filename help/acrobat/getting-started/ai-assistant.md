@@ -9,7 +9,7 @@ exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
 ---
 # Discover PDF insights with AI Assistant
 
-Learn how to gain insights from your PDF files using AI Assistant. AI Assistant analyzes a PDF to generate summaries, answer questions, and extract insights with clear attributions to the source content - reducing the need to manually read long documents. AI‑generated responses are verified by linking directly back to the exact locations in the document, enabling faster and more trustworthy decision‑making. This video tutorial uses the [New Acrobat experience](new-workspace.md).
+Learn how to gain insights from your PDF files using AI Assistant. AI Assistant analyzes a PDF to generate summaries, answer questions, and extract insights with clear attributions to the source content - reducing the need to manually read long documents. AI‑generated responses are verified by linking directly back to the exact locations in the document, enabling faster and more trustworthy decision‑making. This video tutorial uses the [New Acrobat experience](new-experience.md).
 
 AI Assistant is available to users who purchase Acrobat Studio or the AI Assistant add-on.
 
