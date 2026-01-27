@@ -59,26 +59,22 @@ auto-video-transcripts: true
   + [Make Accessible guided action](accessibility-series/make-accessible-action.md)
 + Advanced tasks {#advanced-tasks}
   + [Overview](advanced-tasks/advanced-tasks-overview.md)
-  + [Adding bookmarks and hyperlinks](advanced-tasks/bookmarks.md)
-  + [Optimize scanned documents](advanced-tasks/optimizescan.md)
-  + [Custom Commands and Tools](advanced-tasks/custom.md)
-  + [Advanced form fields](advanced-tasks/advancedforms.md)
-  + [Optimize PDFs for SEO](advanced-tasks/optimizeseo.md)
-  + [Work with form fields](advanced-tasks/workforms.md)
-  + [Enhance your PDF](advanced-tasks/enhance.md)
-  + [Detect differences between two PDFs](advanced-tasks/compare.md)
-  + [Guided actions](advanced-tasks/action.md)
-  + [Remove sensitive information](advanced-tasks/redact.md)
-  + [Compress & optimize a PDF](advanced-tasks/reduce.md)
-  + [Work with form data](advanced-tasks/formdata.md)
-  + Acrobat Accessibility webinars {#accessibility-series}
-     + [Overview](advanced-tasks/accessibility-series.md)
-     + [Introduction to PDF Accessibility](advanced-tasks/accessibilitysession1.md)
-     + [Remediating an inaccessible PDF](advanced-tasks/accessibilitysession2.md)
-     + [Complex tables](advanced-tasks/accessibilitysession3.md)
-     + [Scanned documents & complex lists](advanced-tasks/accessibilitysession4.md)
-     + [Adding form fields to a tagged PDF](advanced-tasks/accessibilitysession5.md)
-     + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
+  + Prepare & enhance {#prepare}
+    + [Compress & optimize a PDF](advanced-tasks/reduce.md)
+    + [Optimize scanned documents](advanced-tasks/optimizescan.md)
+    + [Optimize PDFs for SEO](advanced-tasks/optimizeseo.md)
+    + [Adding bookmarks and hyperlinks](advanced-tasks/bookmarks.md)
+    + [Detect differences between two PDFs](advanced-tasks/compare.md)
+    + [Enhance your PDF](advanced-tasks/enhance.md)
+  + Create & manage forms {#forms}
+    + [Work with form fields](advanced-tasks/workforms.md)
+    + [Advanced form fields](advanced-tasks/advancedforms.md)
+    + [Work with form data](advanced-tasks/formdata.md)
+  + Protect {#protect}
+    + [Remove sensitive information](advanced-tasks/redact.md)
+  + Automate & scale workflows {#automate}
+    + [Guided actions](advanced-tasks/action.md)
+    + [Custom Commands and Tools](advanced-tasks/custom.md)
 + AI powered {#ai-powered}
   + [Overview](ai-powered/ai-overview.md)
   + [Discover PDF insights with AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
