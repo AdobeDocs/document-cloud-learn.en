@@ -1,5 +1,5 @@
 ---
-title: Workspace basics
+title: Workspace Basics
 description: Learn how Acrobat makes it easy to access files and tools across desktop, web, and mobile
 feature: Workspace
 role: User
