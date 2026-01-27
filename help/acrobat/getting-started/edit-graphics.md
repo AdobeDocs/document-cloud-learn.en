@@ -9,7 +9,7 @@ exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
 ---
 # Edit graphics in a PDF
 
-Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and arrange images directly within a PDF across desktop and web. The tutorial also shows how to generate and refine images from text prompts using in-app image generator powered by Adobe Express. This video tutorial uses the [New Acrobat experience](new-workspace.md).
+Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and arrange images directly within a PDF across desktop and web. The tutorial also shows how to generate and refine images from text prompts using in-app image generator powered by Adobe Express. This video tutorial uses the [New Acrobat experience](new-experience.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
