@@ -111,7 +111,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/acrobatweb" title="Work anywhere with Acrobat web" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Work anywhere with Acrobat web" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Work anywhere with Acrobat web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -120,11 +120,11 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/acrobatweb" target="_self" rel="referrer" title="Work anywhere with Acrobat web">Work anywhere with Acrobat web</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_self" rel="referrer" title="Work anywhere with Acrobat web">Work anywhere with Acrobat web</a>
                     </p>
                     <p class="is-size-6">Learn how to work from anywhere</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/acrobatweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
@@ -134,7 +134,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/productivity" title="Productivity on the go" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Productivity on the go" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="Productivity on the go"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -143,11 +143,11 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                         <div class="top-card-content">
                             <p class="headline is-size-6 has-text-weight-bold">
-                                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/productivity" target="_self" rel="referrer" title="Productivity on the go">Productivity on the go</a>
+                                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_self" rel="referrer" title="Productivity on the go">Productivity on the go</a>
                             </p>
                             <p class="is-size-6">Learn how to do more right from your tablet or mobile phone</p>
                         </div>
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                             <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                         </a>
             </div>
@@ -157,7 +157,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/where-do-pdfs-come-from" title="Productivity on the go" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" title="Productivity on the go" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_133ee13f07ef84d06eef5d6b1c81d024747f19f36.png?width=400&format=webply&optimize=medium" alt="Where do PDFs come from?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -166,11 +166,11 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/where-do-pdfs-come-from" target="_self" rel="referrer" title="Where do PDFs come from?">Where do PDFs come from?</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" target="_self" rel="referrer" title="Where do PDFs come from?">Where do PDFs come from?</a>
                     </p>
                     <p class="is-size-6">Learn where PDFs come from and how you can use them</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/where-do-pdfs-come-from" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
