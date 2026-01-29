@@ -25,7 +25,7 @@ Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/p
       <img alt="Protect a PDF with a password" src="../assets/protect.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>Protect a PDF with a password</strong></a>
+    <a href="password-protect.md"><strong>Protect a PDF with a password</strong></a>
     </div>
     <em>Learn how to add a password to your PDF</em>
     <br>
