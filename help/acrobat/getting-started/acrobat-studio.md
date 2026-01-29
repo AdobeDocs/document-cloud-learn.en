@@ -13,7 +13,7 @@ Learn how to create brand-safe content, extract insights, and streamline complex
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE By role]
+[!BADGE Team-specific]
 
 ## How Acrobat Studio helps different teams
 
