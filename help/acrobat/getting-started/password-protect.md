@@ -17,3 +17,34 @@ Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/p
 >[!TIP]
 >
 >To password protect multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="password-protect.md">
+      <img alt="Protect a PDF with a password" src="../assets/protect.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>Protect a PDF with a password</strong></a>
+    </div>
+    <em>Learn how to add a password to your PDF</em>
+    <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
+    <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
+    <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
+    <td>
+</tr>
+</table>
