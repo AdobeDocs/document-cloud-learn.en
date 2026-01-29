@@ -1,6 +1,6 @@
 ---
-title: Adobe Acrobat Skill Builder Webinars
-description: Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDF workflows to the next level
+title: Adobe Acrobat Webinars
+description: Explore these Adobe Acrobat Resources
 feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
 role: User
@@ -8,8 +8,6 @@ jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
 ---
-# Adobe Acrobat Skill Builder webinars
+# Adobe Acrobat Resources
 
-Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDF workflows to the next level. Each month a new topic is highlighted.
-
-Check out all the webinars [here](https://www.adobe.com/acrobat/business/webinars.html).
+Explore various [resources](https://business.adobe.com/resources/acrobat.html?ch_Content-Type=Webinars) like webinars, blogs, reports, infographics, and guides to learn more about Adobe Acrobat.

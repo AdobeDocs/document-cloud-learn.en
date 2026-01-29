@@ -13,22 +13,26 @@ Learn how to use Stylize This PDF to improve the visual appearance of a PDF by a
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE By role]
+[!BADGE Team-specific]
 
 ## How Stylize this PDF helps different teams
 
-* **Legal & Compliance**
+* **Legal**
 
     Legal teams use Stylize this PDF to apply consistent formatting, typography, and visuals to policies and guidance documents so they appear professional and easy to read while remaining compliant and unaltered in meaning.
-
-* **Human Resources**
-
-    HR teams use Stylize this PDF to transform policy documents, onboarding materials, and training resources into visually clear, approachable PDFs that improve comprehension and employee engagement.
 
 * **Sales**
 
     Sales teams use Stylize this PDF to quickly polish proposals and presentations by applying branded fonts, colors, and imagery, helping deliver client‑ready documents without returning to design tools.
 
-* **Marketing & Communications**
+* **HR**
 
-    Marketing teams use Stylize this PDF to align PDFs with brand standards by refining layouts, applying visual themes, and incorporating images, ensuring materials are visually consistent across campaigns.
+    HR teams use Stylize this PDF to transform policy documents, onboarding materials, and training resources into visually clear, approachable PDFs that improve comprehension and employee engagement.
+
+* **Finance**
+
+    Finance teams can use Stylize this PDF to instantly apply polished, consistent visual styles to reports and presentations, making financial documents more professional and easier to share with executives and stakeholders.
+
+* **Procurement**
+
+    Procurement teams can use Stylize this PDF to enhance vendor proposals, sourcing summaries, and contract packets with clean, consistent formatting—improving readability and creating more professional deliverables for internal decision‑makers.

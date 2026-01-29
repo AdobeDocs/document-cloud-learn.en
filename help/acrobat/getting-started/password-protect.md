@@ -18,33 +18,27 @@ Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/p
 >
 >To password protect multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="password-protect.md">
-      <img alt="Protect a PDF with a password" src="../assets/protect.png" />
-    </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect a PDF with a password</strong></a>
-    </div>
-    <em>Learn how to add a password to your PDF</em>
-    <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-</tr>
-</table>
+[!BADGE Team-specific]
+
+## How protecting PDFs help different teams
+
+* **Legal**
+
+  Protecting PDFs ensures confidential contracts, case files, and client communications can only be accessed by authorized parties, reducing compliance and privacy risks.
+
+* **Sales**
+
+  Protecting proposals, pricing sheets, and partner agreements ensures competitors or unauthorized stakeholders can't access strategic information.
+
+* **HR**
+
+  Securing PDFs protects employee records, performance reviews, and hiring documents, helping maintain privacy and meet regulatory requirements.
+
+* **Finance**
+
+  Password protection keeps sensitive financial reports, forecasts, and customer data secure, helping prevent unauthorized access and potential fraud.
+
+* **Procurement**
+
+  Password-protecting PDFs keeps supplier contracts, bids, and pricing documents secure, ensuring only authorized stakeholders can access sensitive negotiation and sourcing information.
+
