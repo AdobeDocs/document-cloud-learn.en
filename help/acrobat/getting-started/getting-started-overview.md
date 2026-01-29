@@ -10,7 +10,7 @@ exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 ---
 # Get started overview
 
-Learn how to start using Adobe Acrobat through these brief step-by-step tutorials. From creating a document to protecting or [editing your PDF files](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, this content is designed to ease you into PDF workflows. Check out this expertly curated [playlist](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) for getting started with Acrobat.
+Learn how to start using Adobe Acrobat with these brief step-by-step tutorials. From creating a document to protecting or [editing your PDF files](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}, this content is designed to ease you into PDF workflows. Check out this expertly curated [playlist](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) for getting started with Acrobat.
 
 ## What's new
 
@@ -343,7 +343,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" title="Design a new page">Design a new page</a>
                     </p>
-                    <p class="is-size-6">Learn how to create new professional-looking page in your PDF</p>
+                    <p class="is-size-6">Learn how to create a new professional-looking page in your PDF</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -594,7 +594,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" title="Fill & Sign a PDF form">Fill & Sign a PDF form</a>
                     </p>
-                    <p class="is-size-6">Learn how to quickly and easily fill and sign a PDF form</p>
+                    <p class="is-size-6">Learn how to fill and sign a PDF form quickly and easily</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>

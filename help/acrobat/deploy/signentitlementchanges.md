@@ -1,6 +1,6 @@
 ---
 title: Important Acrobat DC Product Updates for ETLA Customers
-description: Learn about important changes to Acrobat DC entitlements included in ETLA (Enterprise Term License Agreement) offers beginning August 2020 through November 20, 2020
+description: Learn about important changes to Acrobat DC entitlements included in ETLA (Enterprise Term License Agreement) offers that begin August 2020 through November 20, 2020
 feature: Deploy
 role: Admin
 level: Intermediate
@@ -16,13 +16,13 @@ Access to [!DNL Adobe Sign Individual] is available in Acrobat via the **Adobe S
 
 ![[!DNL Adobe Sign Individual] access in Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
-If you have not updated Acrobat DC to the latest version, the tool may be labelled "Send for Signature".
+If you have not updated Acrobat DC to the latest version, the tool may be labeled "Send for Signature".
 
 ## Why are we deprovisioning this?
 
-[In October 2018, we released an all-new Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). This latest release includes new tools and functionality to better work with PDFs across mobile devices, the web and desktop, plus all-new collaboration tools. As an Acrobat DC subscriber, you should already have these great features available. Another major update we released was to our electronic signature solution Adobe Sign.
+[In October 2018, we released an all-new Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). This latest release includes new tools and functionality to better work with PDFs across mobile devices, the web and desktop, plus all-new collaboration tools. As an Acrobat DC subscriber, you should already have these great features available. Another major update released was to our electronic signature solution Adobe Sign.
 
-Prior to the October 2018 release, Acrobat DC users have been able to send documents out for e-signature using tools in Acrobat labelled "Fill & Sign" (or "Adobe Sign" or "Send for Signature") which were provisioned with [!DNL Adobe Sign Individual] entitlement.
+Prior to the October 2018 release, Acrobat DC users have been able to send documents out for e-signature using tools in Acrobat labeled "Fill & Sign" (or "Adobe Sign" or "Send for Signature") which were provisioned with [!DNL Adobe Sign Individual] entitlement.
 
 While having this option has provided a great way to capture e-signatures, we are deprovisioning [!DNL Adobe Sign Individual] because it does not provide the Enterprise grade functionality that is available through Adobe Sign Enterprise, such as:
 
@@ -47,12 +47,12 @@ Please reach out to your Adobe contact to discuss how you can continue providing
 
 ## Access to existing agreements
 
-Users will still be able to access any agreements sent out prior to this action via Adobe Document Cloud by signing in with their Adobe ID at https://documentcloud.adobe.com. If this user is scheduled for migration to Sign Enterprise, they will need to follow these [instructions](https://helpx.adobe.com/sign/kb/how-to-download-signed-documents---adobe-sign.html).
+Users will still be able to access any agreements sent out prior to this action via Adobe Document Cloud by signing in with their Adobe ID at https://documentcloud.adobe.com. If this user is scheduled for migration to Sign Enterprise, they need to follow these [instructions](https://helpx.adobe.com/sign/kb/how-to-download-signed-documents---adobe-sign.html).
 
 ## Acrobat DC experience without [!DNL Sign Individual] entitlement
 
-Users who have Adobe Sign Enterprise entitlements will be able to send agreements within Acrobat using either the Adobe Sign or [!UICONTROL Fill & Sign] (Request signatures) tool.
-Users who do not have Adobe Sign Enterprise entitlements will not be able to send out new agreements and will receive an error message. The graphic below outlines possible outcomes.
+Users who have Adobe Sign Enterprise entitlements are able to send agreements within Acrobat using either the Adobe Sign or [!UICONTROL Fill & Sign] (Request signatures) tool.
+Users who do not have Adobe Sign Enterprise entitlements are not be able to send out new agreements and will receive an error message. The graphic below outlines possible outcomes.
 
 ![Error message for Acrobat DC experience](../assets/Deploy_SignEntitle2.png)
 

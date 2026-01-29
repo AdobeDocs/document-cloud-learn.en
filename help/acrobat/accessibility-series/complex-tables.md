@@ -8,7 +8,7 @@ jira: KT-18730
 ---
 # Complex tables
 
-Learn how to tag tables for accessibility in Acrobat. Topics covered include: setting table editor options, identifying the cell type (TD or TH), setting the header scope and span, creating a table summary, generating header cell IDs, associating data cells with header cell IDs, and artifacting a repeating header row.
+Learn how to tag tables for accessibility in Acrobat. Topics covered include setting table editor options, identifying the cell type (TD or TH), setting the header scope and span, and creating a table summary. The tutorial also addresses generating header cell IDs, associating data cells with header cell IDs, and artifacting a repeating header row.
 
 >[!NOTE]
 >

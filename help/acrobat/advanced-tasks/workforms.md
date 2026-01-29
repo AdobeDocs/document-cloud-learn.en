@@ -74,7 +74,7 @@ Date picker fields add interactivity and eliminate errors on a form.
 1. Select **Match width and height** in the right-hand pane.
 1. Use the arrow keys to align each field if necessary.
 
-Comb properties are used to evenly spread text across the width of a text field.
+Comb properties are used to spread text evenly across the width of a text field.
 
 1. Double click on the *Referral code* field and select the **Options** tab.
 1. Uncheck all boxes except **Comb of**.
@@ -112,7 +112,7 @@ Securing a form ensures that the fields or content of the document cannot be mod
 1. Type *Ctrl + D (Cmd + D on the Mac)* to bring up the **Document Properties** dialog.
 1. Select the **Security** tab.
 1. Select **Password Security** under the **Security Method:** dropdown.
-1. Check **Restrict editing and printing of the document. A password will be required to change these permission settings.**
+1. Check **Restrict editing and printing of the document. A password is required to change these permission settings.**
 1. Select **High Resolution** from the **Printing Allowed:** dropdown.
 1. Select **Filling in form fields and signing existing signature fields** from the **Changes Allowed:** dropdown.
 1. Type a strong password in the **Change Permissions Password:** field.

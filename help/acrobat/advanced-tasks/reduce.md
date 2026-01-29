@@ -63,7 +63,7 @@ Learn how to compress and optimize the size of a PDF file. Compressing a PDF mak
 
     ![Optimize Step 2](../assets/Optimize_2.png)
 
-    By default **Standard** is selected in the **Settings** menu. If you change any settings in the PDF Optimizer dialog box, the **Settings** menu automatically switches to **Custom**. To prevent all of the options in a panel from executing during optimization, deselect the check box for that panel.
+    By default, **Standard** is selected in the **Settings** menu. If you change any settings in the PDF Optimizer dialog box, the **Settings** menu automatically switches to **Custom**. To prevent all options in a panel from executing during optimization, deselect the check box for that panel.
 
 1. (Optional) To save your customized settings, select **[!UICONTROL Save]** and name the settings. To delete a saved setting, choose it in the **Settings** dropdown and select **[!UICONTROL Delete]**.
 

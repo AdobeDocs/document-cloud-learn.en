@@ -9,7 +9,7 @@ exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
 ---
 # Edit graphics in a PDF
 
-Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and arrange images directly within a PDF across desktop and web. The tutorial also shows how to generate and refine images from text prompts using in-app image generator powered by Adobe Express. This video tutorial uses the [New Acrobat experience](new-experience.md).
+Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and arrange images directly within a PDF across desktop and web. The tutorial also shows how to generate and refine images from text prompts with the in-app image generator powered by Adobe Express. This video tutorial uses the [new Acrobat experience](new-experience.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
@@ -31,8 +31,8 @@ Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and
 
 * **Finance**
 
-    Finance teams can use Edit mode to quickly update charts and visuals in financial PDFs, keeping reports accurate and clear without returning to the source file.
+    Finance teams can use Edit mode to update charts and visuals quickly in financial PDFs, keeping reports accurate and clear without returning to the source file.
 
 * **Procurement**
 
-    Procurement teams can use Edit mode to quickly update supplier charts, product images, and visual details in vendor proposals or contracts, keeping sourcing documents accurate and presentation‑ready without needing the original files.
+    Procurement teams can use Edit mode to update supplier charts, product images, and visual details in vendor proposals or contracts quickly-without needing the original files.

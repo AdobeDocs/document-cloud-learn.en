@@ -24,7 +24,7 @@ If you have a set of completed forms and need to compile the data, you can use A
 
     ![Form Data Step 3](../assets/FormData_3.png)
 
-1. Select the folder you created with the completed forms.
+1. Select the folder that you created with the completed forms.
 
     Acrobat extracts the data from each form and creates a spreadsheet of all the data.
 
