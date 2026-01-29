@@ -26,4 +26,4 @@ Cost Savings, Organizational Efficiency, Time Savings, Quality Assurance
 
 >[!NOTE]
 >
->Available only in in Acrobat Pro, Premium, or Studio.
+>Available only in Acrobat Pro, Premium, or Studio.

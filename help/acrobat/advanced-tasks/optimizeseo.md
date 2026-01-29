@@ -14,7 +14,7 @@ Learn how to optimize a PDF for improved discoverability and search engine ranki
 
 ## 1. Create unique content
 
-Create PDF content that is different from the information your web pages. 
+Create PDF content that is different from the information on your web pages. 
 
 +++View details on how to create unique content
 
@@ -23,9 +23,9 @@ PDF content should be unique and structured as follows:
 *   Use a single main heading/title beginning with a keyword
 *   Use keyword subheadings organized in a hierarchical structure
 *   Use short paragraphs containing keywords and lists
-*   Add internal and external (content on your website or other websites) hyperlinks
+*   Add internal and external content to your website or other websites with hyperlinks
 *   Add a hyperlinked table of contents for documents longer than 25 pages
-*   Run [text recognition](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) on all scanned documents
+*   Run [text recognition](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) on all scanned documents
 *   Build PDFs that are mobile friendly
     To check the mobile viewing experience of your PDF, open the file in the [Acrobat Reader mobile app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) and turn on Liquid Mode. Include additional subheadings if necessary to improve navigation.
 
@@ -58,7 +58,7 @@ Add key **[!UICONTROL Document Properties]** as follows:
 
 ## 3. Tag your PDF
 
-Tagging content in your PDF not only makes your file [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) to those with disabilities—it also improves SEO. 
+Tagging content in your PDF not only makes your file [Accessible](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) to those individuals with disabilities—it also improves SEO. 
 
 +++View details on how to tag a PDF
 
@@ -82,7 +82,7 @@ Tag a PDF as follows:
 
 ## 4. Prepare for web
 
-Optimize the experience of interacting with your PDF by preparing it for web viewing and [reducing the PDF file size](https://www.adobe.com/acrobat/online/compress-pdf.html){target="_blank"}. 
+Optimize your PDF by preparing it for web viewing and [reducing the PDF file size](https://www.adobe.com/acrobat/online/compress-pdf.html){target="_blank"}. 
 
 +++View details on how to prepare your PDF for the web
 
@@ -125,7 +125,7 @@ The last step is to [protect your PDF](https://www.adobe.com/acrobat/online/pass
 Secure a PDF as follows:
 
 1. Open **[!UICONTROL Document Properties]** (*Ctrl + D* on Windows or *Cmd + D* on Mac) and select the **[!UICONTROL Security]** tab.
-1. Check **[!UICONTROL Printing editing and printing of the document. A password will be required in order to change these settings.]**
+1. Check **[!UICONTROL Printing editing and printing of the document. A password is required to change these settings.]**
 1. Under **[!UICONTROL Changes Allowed:]** select **[!UICONTROL None]**.
 1. Check **[!UICONTROL Enable text access for screen reader devices for the visually impaired.]**
 1. Enter and confirm a strong password.
@@ -135,4 +135,4 @@ Secure a PDF as follows:
 
 +++
 
-Now your PDF is ready to be posted on the web—-with optimal keyword ranking potential and end-user interaction.
+Now, your PDF is ready to be posted on the web—-with optimal keyword ranking potential and end-user interaction.

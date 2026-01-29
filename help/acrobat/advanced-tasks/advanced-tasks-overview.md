@@ -10,7 +10,7 @@ exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
 ---
 # Advanced tasks overview
 
-Go beyond the basics with these advanced tools in Acrobat. Learn how to create an Action to repeat mundane tasks, remove sensitive information, reduce and optimize large files, quickly gather form data, and create universally Accessible PDF files. Check out this expertly curated [playlist](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) for performing advanced tasks in Acrobat.
+Go beyond the basics with these advanced tools in Acrobat. Learn how to create an Action to automate repetitive tasks, remove sensitive information, optimize large files, gather form data, and produce accessible PDFs. Check out this expertly curated [playlist](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) for performing advanced tasks in Acrobat.
 
 ## What's new
 
@@ -325,7 +325,7 @@ Learn how to improve efficiency using [guided actions](action.md).
                     </p>
                     <p class="is-size-6">Learn how to improve document workflow efficiency</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate.custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>

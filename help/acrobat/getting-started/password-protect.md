@@ -16,7 +16,7 @@ Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/p
 
 >[!TIP]
 >
->To password protect multiple PDF files, try using the [Action Wizard](../advanced-tasks/action.md).
+>Use the [Action Wizard](../advanced-tasks/action.md) to password protect multiple PDF files.
 
 [!BADGE Team-specific]
 
@@ -24,11 +24,11 @@ Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/p
 
 * **Legal**
 
-  Protecting PDFs ensures confidential contracts, case files, and client communications can only be accessed by authorized parties, reducing compliance and privacy risks.
+  Protecting PDFs ensures that confidential contracts, case files, and client communications are only accessed by authorized parties, reducing compliance and privacy risks.
 
 * **Sales**
 
-  Protecting proposals, pricing sheets, and partner agreements ensures competitors or unauthorized stakeholders can't access strategic information.
+  Protecting proposals, pricing sheets, and partner agreements ensures that competitors or unauthorized stakeholders can't access strategic information.
 
 * **HR**
 

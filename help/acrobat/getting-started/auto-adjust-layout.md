@@ -10,7 +10,7 @@ exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
 ---
 # Auto-adjust layout
 
-Learn about the new editing mode that reflows content and auto-adjusts the layout across pages in your PDF. This video tutorial uses the [New Acrobat experience](new-experience.md).
+Learn about the new editing mode that reflows content and auto-adjusts the layout across pages in your PDF. This video tutorial uses the [new Acrobat experience](new-experience.md).
 
 >[!NOTE]
 >

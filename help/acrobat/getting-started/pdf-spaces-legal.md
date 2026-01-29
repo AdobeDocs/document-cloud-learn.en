@@ -21,20 +21,20 @@ PDF Spaces are available to users who purchase Acrobat Studio or the AI Assistan
 
 * **Legal**
 
-    Legal teams use PDF Spaces to bring contracts, policies, and regulatory guidance into a single workspace, making it easier to review documents together, identify changes, and generate cited summaries that support accurate and auditable decision‑making.
+    Legal teams use PDF Spaces to centralize contracts, policies, and guidance, making it easier to review documents together, track changes, and generate accurate, auditable summaries.
 
 * **Sales**
 
-    Sales teams use PDF Spaces to collect proposals, RFP documents, and supporting materials in one place, allowing them to review content efficiently, extract key points, and prepare client‑ready responses faster.
+    Sales teams use PDF Spaces to gather proposals, RFPs, and supporting materials in one place, helping them review content efficiently, extract key points, and prepare client‑ready responses faster.
 
 * **HR**
 
-    HR teams use PDF Spaces to organize policy documents, onboarding materials, and training resources and quickly generate clear summaries or reference notes that can be shared consistently across the organization.
+    HR teams use PDF Spaces to organize policies, onboarding materials, and training resources, and generate clear summaries or reference notes quickly for consistent sharing across the organization.
 
 * **Finance**
 
-    Finance teams use PDF Spaces to review reports, spreadsheets, and supporting documentation in context, making it easier to compare information, surface key insights, and support executive reporting.
+    Finance teams use PDF Spaces to review reports, spreadsheets, and supporting documents in context, making it easier to compare information, surface insights, and support executive reporting.
 
 * **Procurement**
 
-    Procurement teams use PDF Spaces to centralize all vendor-related documents—such as contracts, RFPs, bids, statements of work, compliance forms, and negotiation notes—into shared, organized workspaces. This helps streamline collaboration with stakeholders, track versions and approvals, maintain consistency across sourcing processes, and ensure all documents remain secure, accessible, and easy to find throughout the procurement lifecycle.
+    Procurement teams use PDF Spaces to bring all vendor documents into one workspace, where AI automatically summarizes content, highlights key changes, and surfaces important insights.
