@@ -5,6 +5,7 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
+exl-id: 6a81bd19-6beb-4af2-a296-551d2e75de8a
 ---
 # Complex tables
 

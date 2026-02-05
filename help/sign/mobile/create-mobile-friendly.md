@@ -5,6 +5,7 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
+exl-id: 870ed92d-5418-4486-8ddd-fe82c1f83642
 ---
 # Create mobile-friendly view
 

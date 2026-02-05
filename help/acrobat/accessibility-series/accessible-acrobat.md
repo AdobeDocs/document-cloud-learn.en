@@ -6,6 +6,7 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18729
+exl-id: 651ccfd4-a137-4ef5-af25-4eaf55f5911e
 ---
 # Create an accessible PDF in Acrobat
 

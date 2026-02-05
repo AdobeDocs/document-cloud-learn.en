@@ -6,6 +6,7 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
+exl-id: 306717bb-df0e-4556-9627-6b0036fc7bc9
 ---
 # Scanned documents
 

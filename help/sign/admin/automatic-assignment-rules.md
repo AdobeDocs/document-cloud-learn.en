@@ -6,6 +6,7 @@ role: Admin
 level: Intermediate
 jira: KT-19302
 topic-revisit: Administration
+exl-id: 8979f619-4c79-4182-b829-636b19434381
 ---
 # Enable automatic user assignment rules
 

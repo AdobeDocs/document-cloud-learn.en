@@ -5,6 +5,7 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18735
+exl-id: ffa5c39a-c3cc-45b1-a8ae-85b2e813e364
 ---
 # Mobile-friendly view
 

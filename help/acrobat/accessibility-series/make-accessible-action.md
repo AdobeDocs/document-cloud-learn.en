@@ -5,6 +5,7 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18734
+exl-id: d13296e3-bb92-4d6f-9175-6cd86ab5b9c4
 ---
 # Make Accessible guided action
 

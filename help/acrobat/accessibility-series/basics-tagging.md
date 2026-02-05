@@ -6,6 +6,7 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
+exl-id: bb6203cc-4904-407a-b0e9-60df6de823d2
 ---
 # The basics of tagging
 

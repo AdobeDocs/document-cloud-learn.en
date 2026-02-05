@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
+exl-id: f2b2bf31-e9ec-4bda-8f89-d0f268f24c69
 ---
 # AI-Powered overview
 
