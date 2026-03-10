@@ -19,15 +19,15 @@ Learn how to create brand-safe content, extract insights, and streamline complex
 
 * **Legal & Compliance**
 
-    Centralize policies, contracts, and regulatory guidance in one workspace, then use AI Assistant to surface changes, identify risk, and generate compliant updates with verifiable citations. **[Try it now](https://w.adobedemo.com/s/ujZN1y).**
+    Centralize policies, contracts, and regulatory guidance in one workspace, then use AI Assistant to surface changes, identify risk, and generate compliant updates with verifiable citations. **[Try it now](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
 
 * **Human Resources**
 
-    Turn complex policy documents into clear summaries, FAQs, and employee‑ready materials while keeping messaging consistent and compliant. **[Try it now](https://w.adobedemo.com/s/NvvfVm).**
+    Turn complex policy documents into clear summaries, FAQs, and employee‑ready materials while keeping messaging consistent and compliant. **[Try it now](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
 
 * **Sales**
 
-    Quickly assemble proposals and RFP responses by pulling approved content from existing documents and turning it into polished, client‑ready files. **[Try it now](https://w.adobedemo.com/s/HEEljN).**
+    Quickly assemble proposals and RFP responses by pulling approved content from existing documents and turning it into polished, client‑ready files. **[Try it now](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
 
 * **Marketing & Communications**
 
@@ -35,4 +35,4 @@ Learn how to create brand-safe content, extract insights, and streamline complex
 
 * **Finance**
 
-    Learn how finance teams can move faster through financial reporting — without compromising accuracy, trust, or control. **[Try it now](https://w.adobedemo.com/s/31LpAI.)**
+    Learn how finance teams can move faster through financial reporting — without compromising accuracy, trust, or control. **[Try it now](https://w.adobedemo.com/s/31LpAI.){target="_blank"}**
