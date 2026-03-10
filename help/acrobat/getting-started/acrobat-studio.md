@@ -9,7 +9,7 @@ exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
 ---
 # What is Acrobat Studio?
 
-Learn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio — so your team can move faster. Acrobat Studio is an all-in-one solution that includes Acrobat Pro, AI Assistant, PDF Spaces, plus Adobe Express Premium. Explore the *Try it now* interactive options below to learn how Acrobat Studio streamlines your team's work.
+Learn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio — so your team can move faster. Acrobat Studio is an all-in-one solution that includes Acrobat Pro, AI Assistant, PDF Spaces, plus Adobe Express Premium. Explore the **Try it now** interactive options below to learn how Acrobat Studio streamlines your team's work.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
@@ -35,4 +35,4 @@ Learn how to create brand-safe content, extract insights, and streamline complex
 
 * **Finance**
 
-    Learn how finance teams can move faster through financial reporting — without compromising accuracy, trust, or control. [Try it now]https://w.adobedemo.com/s/31LpAI.
+    Learn how finance teams can move faster through financial reporting — without compromising accuracy, trust, or control. [Try it now](https://w.adobedemo.com/s/31LpAI.)
