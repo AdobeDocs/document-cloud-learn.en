@@ -35,4 +35,4 @@ Learn how to create brand-safe content, extract insights, and streamline complex
 
 * **Finance**
 
-    Learn how finance teams can move faster through financial reporting — without compromising accuracy, trust, or control. **[Try it now](https://w.adobedemo.com/s/31LpAI.){target="_blank"}**
+    Learn how finance teams can move faster through financial reporting — without compromising accuracy, trust, or control. **[Try it now](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**
