@@ -45,13 +45,13 @@ Learn how you can transform customer and employee experiences by exploring indus
 <table style="table-layout:fixed">
 <tr>
     <td>
-        <a href="gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
+        <a href="gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
         <img alt="Acrobat for government" src="../assets/use-case.png" />
         </a>
         <div>
-        <a href="gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>Acrobat for government</strong></a>
+        <a href="gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>Acrobat for government</strong></a>
         </div>
-        <em>Explore our Acrobat tutorials specifically designed for federal, state, and local government</em>
+        <em>Explore our Acrobat tutorials designed for federal, state, and local government</em>
         <br>
     </td>
     <td>
