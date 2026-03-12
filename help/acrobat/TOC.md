@@ -83,7 +83,7 @@ auto-video-transcripts: true
   + [Edit graphics in a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Stylize this PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Use cases {#use-cases}
-  + [Overview](use-cases/use-case-overview.md)
+  + [Overview](use-cases/use-cases-overview.md)
   + Government {#gov}
     + [Overview](use-cases/gov/gov-overview.md)
     + 5 tips for working anywhere with Acrobat {#tips}
