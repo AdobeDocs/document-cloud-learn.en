@@ -82,6 +82,17 @@ auto-video-transcripts: true
   + [What is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [Edit graphics in a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Stylize this PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Use cases {#use-cases}
+  + [Overview](use-cases/use-case-overview.md)
+  + Government {#gov}
+    + [Overview](use-cases/gov/gov-overview.md)
+    + 5 tips for working anywhere with Acrobat {#tips}
+      + [5 tips for working anywhere with Acrobat](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
+      + [Tip #1 – Get your tools](use-cases/gov/get-your-tools.md)
+      + [Tip #2 – Collaborate on documents](use-cases/gov/collaborate-on-documents.md)
+      + [Tip #3 – Protect digital documents](use-cases/gov/protect-digital-documents.md)
+      + [Tip #4 – Work with forms and signatures](use-cases/gov/work-with-forms-and-signatures.md)
+      + [Tip #5 – Scan and edit on mobile](use-cases/gov/scan-and-edit-on-mobile.md)
 + 60-second Acrobat {#60-second}
   + [Overview](60-second/60-second-overview.md)
   + [Edit PDF with Acrobat web](60-second/edit.md)
@@ -124,17 +135,6 @@ auto-video-transcripts: true
   + [Protect PDFs using [!DNL Microsoft Purview Information] sensitivity labels](integrate/microsoftsensitivitylabels.md)
   + [Adobe Acrobat for [!DNL Google Drive]](integrate/acrobatandgoogle.md)
   + [Work with files from [!DNL Dropbox]](integrate/acrobat-dropbox.md)
-+ Industries and departments {#by-industry}
-  + [Overview](industry/industry-overview.md)
-  + Government {#gov}
-    + [Overview](industry/gov/gov-overview.md)
-    + 5 tips for working anywhere with Acrobat {#tips}
-      + [5 tips for working anywhere with Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md) 
-      + [Tip #1 – Get your tools](industry/gov/get-your-tools.md)
-      + [Tip #2 – Collaborate on documents](industry/gov/collaborate-on-documents.md)
-      + [Tip #3 – Protect digital documents](industry/gov/protect-digital-documents.md)
-      + [Tip #4 – Work with forms and signatures](industry/gov/work-with-forms-and-signatures.md)
-      + [Tip #5 – Scan and edit on mobile](industry/gov/scan-and-edit-on-mobile.md)
 + Develop {#develop}
   + [Overview](develop/develop-overview.md)
 + Deploy {#deploy}

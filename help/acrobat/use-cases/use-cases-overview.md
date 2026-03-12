@@ -1,18 +1,18 @@
 ---
-title: Industry and Department Overview
-description: See how you can transform customer and employee experiences by exploring industry use cases and inspirational ideas
-feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign
+title: Use cases
+description: See how you can transform customer and employee experiences by exploring different use cases
+feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
 ---
-# Industries and departments overview
+# Use cases
 
-Learn how you can transform customer and employee experiences by exploring industry use cases and inspirational ideas.
+Learn how you can use Acrobat to increase productivity and turn information into actionable insights for your team.
 
-## Industries and departments
+## Industry
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -41,33 +41,3 @@ Learn how you can transform customer and employee experiences by exploring indus
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<table style="table-layout:fixed">
-<tr>
-    <td>
-        <a href="gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
-        <img alt="Acrobat for government" src="../assets/use-case.png" />
-        </a>
-        <div>
-        <a href="gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>Acrobat for government</strong></a>
-        </div>
-        <em>Explore our Acrobat tutorials designed for federal, state, and local government</em>
-        <br>
-    </td>
-    <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-    <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-    <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-</tr>
-</table>   
