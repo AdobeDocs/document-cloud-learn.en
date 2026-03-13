@@ -84,6 +84,10 @@ auto-video-transcripts: true
   + [Stylize this PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
+  + Line of business {#lob}
+    [Overview](use-cases/lob/finance/finance-overview.md)
+    + Finance {#finance}
+      [Turn financial reports into executive‑ready insights](use-cases/lob/finance/finance-insights.md)
   + Government {#gov}
     + [Overview](use-cases/gov/gov-overview.md)
     + 5 tips for working anywhere with Acrobat {#tips}

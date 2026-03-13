@@ -1,6 +1,6 @@
 ---
-title: Use cases
-description: See how you can transform customer and employee experiences by exploring different use cases
+title: Use Cases Overview
+description: Explore various use cases to learn how Acrobat can transform your work
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,9 +8,43 @@ thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
 ---
-# Use cases
+# Use cases overview
 
-Learn how you can use Acrobat to increase productivity and turn information into actionable insights for your team.
+Learn how you can use Acrobat to increase productivity and turn information into actionable insights for your team and industry.
+
+## Line of business
+
+Discover how teams across different lines of business use Acrobat to solve everyday document challenges, streamline workflows, and support business‑critical work.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="lob/finance/finance-overview.md">
+      <img alt="Finance use cases" src="../assets/use-case-finance.png" />
+    </a>
+    <div>
+    <a href="lob/finance/finance-overview.md"><strong>Finance use cases</strong></a>
+    </div>
+    <em>Learn how finance teams use Acrobat to create, manage, analyze, and secure financial documents</em>
+    <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
 
 ## Industry
 
