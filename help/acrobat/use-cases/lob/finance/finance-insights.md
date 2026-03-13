@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20532
+exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
 ---
 # Turn financial reports into executive‑ready insights
 
