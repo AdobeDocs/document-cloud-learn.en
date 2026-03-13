@@ -26,12 +26,12 @@ Learn how finance teams can consolidate financial information to quickly surface
 <tr>
   <td>
     <a href="finance-insights.md">
-      <img alt="Turn financial reports into executive‑ready insights" src="../../../assets/use-case-financial-insights.png" />
+      <img alt="Prepare executive‑ready financial documents from insight to delivery" src="../../../assets/use-case-financial-insights.png" />
     </a>
     <div>
-    <a href="finance-insights.md"><strong>Turn financial reports into executive‑ready insights</strong></a>
+    <a href="finance-insights.md"><strong>Prepare executive‑ready financial documents from insight to delivery</strong></a>
     </div>
-    <em>Learn how finance teams can consolidate financial information to quickly surface key performance insights</em>
+    <em>Learn how finance teams use Acrobat Studio to move from analysis to delivery</em>
     <br>
   </td>
   <td>
