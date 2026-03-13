@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20533
+exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
 ---
 # Acrobat finance use cases overview
 
