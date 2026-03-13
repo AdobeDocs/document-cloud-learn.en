@@ -1,5 +1,5 @@
 ---
-title: Prepare executive‑ready financial documents from insight to delivery
+title: Prepare Executive‑Ready Financial Documents from Insight to Delivery
 description: Learn how finance teams use Acrobat Studio to move from analysis to delivery
 feature: Gen AI
 role: User
