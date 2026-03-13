@@ -10,6 +10,8 @@ jira: KT-20532
 
 Learn how finance teams use Acrobat to manage financial documents from insight to delivery. This use case walks through an end‑to‑end workflow for analyzing information, collaborating with stakeholders, and creating executive‑ready financial materials. This use case is designed to be completed in sequence, with each video building on the previous step.
 
+Best for: Finance leaders, FP&A teams, analysts, and anyone preparing materials for executive or board review.
+
 ## Step 1. Comprehend financial performance
 
 Start by consolidating financial documents and surfacing key insights to prepare information for executive review.
