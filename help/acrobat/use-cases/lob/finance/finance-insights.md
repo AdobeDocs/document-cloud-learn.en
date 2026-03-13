@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20532
+exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
 ---
 # Prepare executive‑ready financial documents from insight to delivery
 
@@ -31,3 +32,4 @@ Feedback is complete and content is ready to deliver. Turn validated insights in
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
 
 You now have a repeatable process for analyzing, reviewing, and delivering executive‑ready financial documents using Acrobat.
+
