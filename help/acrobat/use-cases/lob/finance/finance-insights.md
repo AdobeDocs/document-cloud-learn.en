@@ -8,22 +8,24 @@ jira: KT-20532
 ---
 # Prepare executive‑ready financial documents from insight to delivery
 
-Learn how finance teams use Acrobat Studio to move from analysis to delivery by consolidating financial documents, collaborating securely with stakeholders, and creating executive‑ready reports and presentations. This end‑to‑end workflow shows how to surface insights, manage reviews, apply brand‑consistent design, and deliver secure, audit‑ready financial materials for leadership and board reporting. This use case is designed to be completed in sequence. Each video builds on the previous step in the workflow.
+Learn how finance teams use Acrobat to manage financial documents from insight to delivery. This use case walks through an end‑to‑end workflow for analyzing information, collaborating with stakeholders, and creating executive‑ready financial materials. This use case is designed to be completed in sequence, with each video building on the previous step.
 
-## 1. Comprehend financial performance
+## Step 1. Comprehend financial performance
 
 Start by consolidating financial documents and surfacing key insights to prepare information for executive review.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
-## 2. Collaborate on financial reports
+## Step 2. Collaborate on financial reports
 
-Bring stakeholders together to review financial materials, share feedback, and refine insights in a secure workspace.
+Insights are now ready for team review. Bring stakeholders together to review financial materials, share feedback, and refine insights in a secure workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
-## 3. Create executive‑ready presentations
+## Step 3. Create executive‑ready presentations
 
-Turn validated insights into polished, on‑brand presentations and secure financial deliverables for leadership.
+Feedback is complete and content is ready to deliver. Turn validated insights into polished, on‑brand presentations and secure financial deliverables for leadership.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+
+You now have a repeatable process for analyzing, reviewing, and delivering executive‑ready financial documents using Acrobat.
