@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20532
+exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
 ---
 # Prepare executive‑ready financial documents from insight to delivery
 
@@ -27,3 +28,4 @@ Bring stakeholders together to review financial materials, share feedback, and r
 Turn validated insights into polished, on‑brand presentations and secure financial deliverables for leadership.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+
