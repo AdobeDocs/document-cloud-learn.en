@@ -87,7 +87,7 @@ auto-video-transcripts: true
   + Line of business {#lob}
     [Overview](use-cases/lob/finance/finance-overview.md)
     + Finance {#finance}
-      [Turn financial reports into executive‑ready insights](use-cases/lob/finance/finance-insights.md)
+      + [Turn financial reports into executive‑ready insights](use-cases/lob/finance/finance-insights.md)
   + Government {#gov}
     + [Overview](use-cases/gov/gov-overview.md)
     + 5 tips for working anywhere with Acrobat {#tips}
