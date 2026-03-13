@@ -85,7 +85,7 @@ auto-video-transcripts: true
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
   + Line of business {#lob}
-    [Overview](use-cases/lob/finance/finance-overview.md)
+    + [Overview](use-cases/lob/finance/finance-overview.md)
     + Finance {#finance}
       + [Turn financial reports into executive‑ready insights](use-cases/lob/finance/finance-insights.md)
   + Government {#gov}
