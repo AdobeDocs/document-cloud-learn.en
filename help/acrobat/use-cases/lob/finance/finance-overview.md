@@ -17,7 +17,7 @@ Explore finance‑specific workflows that show how Acrobat supports document cre
 
 >[!TAB Turn financial reports into executive‑ready insights]
 
-Learn how finance teams can consolidate financial information to quickly surface key performance [insight](finance-insights.md).
+Learn how finance teams can consolidate financial information to quickly surface key performance [insight](finance-insights.md) and delivery executive-ready presentations.
 
 >[!ENDTABS]
 

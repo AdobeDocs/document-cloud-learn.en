@@ -88,6 +88,9 @@ auto-video-transcripts: true
     + [Overview](use-cases/lob/finance/finance-overview.md)
     + Finance {#finance}
       + [Prepare executive‑ready financial documents from insight to delivery](use-cases/lob/finance/finance-insights.md)
+    + [Overview](use-cases/lob/hr/hr-overview.md)
+    + HR {#hr}
+      + [From insight to impact: Streamline HR workflows](use-cases/lob/hr/hr-insights.md)
   + Government {#gov}
     + [Overview](use-cases/gov/gov-overview.md)
     + 5 tips for working anywhere with Acrobat {#tips}
