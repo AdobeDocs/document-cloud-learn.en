@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
 ---
-# From insight to impact: Streamline Onboarding workflows
+# From insight to impact: Streamline onboarding workflows
 
 Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish. Learn how to turn complex onboarding documents into clear insights, collaborate with stakeholders in shared PDF Spaces, and create polished, on‑brand content that's ready to share with new hires — faster, more consistently, and with confidence. This use case is designed to be completed in sequence, with each video building on the previous step.
 
@@ -25,7 +25,7 @@ Insights are now ready for team review. Learn how PDF Spaces keep feedback, comm
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
-## Step 3. Create executive‑ready presentations
+## Step 3. Create engaging on-boarding content for new hires
 
 Feedback is complete and content is ready to deliver. See how Acrobat Studio uses AI and branded templates to quickly create employee‑ready presentations and materials that are easy to share and update.
 

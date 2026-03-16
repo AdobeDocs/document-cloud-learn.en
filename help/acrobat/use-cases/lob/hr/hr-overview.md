@@ -15,7 +15,7 @@ Explore how HR teams use Acrobat to manage documents and workflows across the em
 
 >[!BEGINTABS]
 
->[!TAB From insight to impact: Streamline HR workflows]
+>[!TAB From insight to impact: Streamline onboarding workflows]
 
 Discover how HR teams use Acrobat Studio to streamline employee onboarding content from [insight, collaboration, to on-brand delivery](hr-insights.md).
 
