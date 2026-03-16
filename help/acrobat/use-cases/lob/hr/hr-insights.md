@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
+exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
 ---
 # From insight to impact: Streamline HR workflows
 
@@ -31,4 +32,3 @@ Feedback is complete and content is ready to deliver. See how Acrobat Studio use
 >[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 You now have a repeatable process for analyzing, reviewing, and delivering employee onboard-ready documents using Acrobat Studio.
-

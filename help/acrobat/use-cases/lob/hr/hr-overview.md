@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
+exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
 ---
 # Acrobat HR use cases overview
 
