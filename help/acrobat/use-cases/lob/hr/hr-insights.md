@@ -1,12 +1,12 @@
 ---
-title: From Insight to Impact — Streamline HR Workflows
+title: From Insight to Impact — Streamline Onboarding Workflows
 description: Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
 ---
-# From insight to impact: Streamline HR workflows
+# From insight to impact: Streamline Onboarding workflows
 
 Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish. Learn how to turn complex onboarding documents into clear insights, collaborate with stakeholders in shared PDF Spaces, and create polished, on‑brand content that's ready to share with new hires — faster, more consistently, and with confidence. This use case is designed to be completed in sequence, with each video building on the previous step.
 
