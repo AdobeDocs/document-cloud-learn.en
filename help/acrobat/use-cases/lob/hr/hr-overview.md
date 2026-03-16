@@ -27,10 +27,10 @@ Discover how HR teams use Acrobat Studio to streamline employee onboarding conte
 <tr>
   <td>
     <a href="hr-insights.md">
-      <img alt="From insight to impact: Streamline HR workflows" src="../../../assets/use-case-hr-insights.png" />
+      <img alt="From insight to impact: Streamline onboarding workflows" src="../../../assets/use-case-hr-insights.png" />
     </a>
     <div>
-    <a href="hr-insights.md"><strong>From insight to impact: Streamline HR workflows</strong></a>
+    <a href="hr-insights.md"><strong>From insight to impact: Streamline onboarding workflows</strong></a>
     </div>
     <em>Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish</em>
     <br>
