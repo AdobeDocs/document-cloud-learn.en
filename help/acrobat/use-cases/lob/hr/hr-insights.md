@@ -10,7 +10,7 @@ jira: KT-20543
 
 Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish. Learn how to turn complex onboarding documents into clear insights, collaborate with stakeholders in shared PDF Spaces, and create polished, on‑brand content that's ready to share with new hires — faster, more consistently, and with confidence. This use case is designed to be completed in sequence, with each video building on the previous step.
 
-**Best for:** HR leaders, HR operations and business partners, onboarding and employee experience teams, and anyone responsible for reviewing, collaborating on, or creating employee‑facing HR materials.
+**Best for:** HR leaders, HR operations and business partners, onboarding and employee experience teams, and anyone preparing HR materials for employees or leadership.
 
 ## Step 1. Turn onboarding documents into clear insights
 
