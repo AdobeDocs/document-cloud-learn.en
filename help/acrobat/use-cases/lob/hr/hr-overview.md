@@ -8,7 +8,7 @@ jira: KT-20534
 ---
 # Acrobat HR use cases overview
 
-Explore how HR teams use Acrobat to manage documents and workflows across the employee lifecycle. From understanding complex HR materials and collaborating with stakeholders to creating clear, on‑brand content, see how Acrobat Studio helps HR teams work more efficiently, stay aligned, and deliver better employee experiences.
+Explore how HR teams use Acrobat to manage documents and workflows across the employee lifecycle. From understanding complex HR materials and collaborating with stakeholders to creating clear, on‑brand content, see how Acrobat helps HR teams work more efficiently, stay aligned, and deliver better employee experiences.
 
 ## What's new
 

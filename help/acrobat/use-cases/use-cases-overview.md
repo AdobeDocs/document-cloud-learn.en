@@ -33,7 +33,7 @@ Discover how teams across different lines of business use Acrobat to solve every
       <img alt="HR use cases" src="../assets/use-case-hr.png" />
     </a>
     <div>
-    <a href="lob/hr/hr-overview.md"><strong>Finance use cases</strong></a>
+    <a href="lob/hr/hr-overview.md"><strong>HR use cases</strong></a>
     </div>
     <em>Explore how HR teams use Acrobat to manage documents and workflows across the employee lifecycle</em>
     <br>
