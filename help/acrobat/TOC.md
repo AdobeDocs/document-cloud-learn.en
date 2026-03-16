@@ -85,11 +85,11 @@ auto-video-transcripts: true
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
   + Line of business {#lob}
-    + [Overview](use-cases/lob/finance/finance-overview.md)
     + Finance {#finance}
+      + [Overview](use-cases/lob/finance/finance-overview.md)
       + [Prepare executive‑ready financial documents from insight to delivery](use-cases/lob/finance/finance-insights.md)
-    + [Overview](use-cases/lob/hr/hr-overview.md)
     + HR {#hr}
+      + [Overview](use-cases/lob/hr/hr-overview.md)
       + [From insight to impact: Streamline HR workflows](use-cases/lob/hr/hr-insights.md)
   + Government {#gov}
     + [Overview](use-cases/gov/gov-overview.md)
