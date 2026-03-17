@@ -39,19 +39,24 @@ Discover how teams across different lines of business use Acrobat to solve every
     <br>
   </td>
   <td>
+    <a href="lob/legal/legal-overview.md">
+      <img alt="Legal use cases" src="../assets/use-case-legal.png" />
+    </a>
+    <div>
+    <a href="lob/legal/legal-overview.md"><strong>Legal use cases</strong></a>
+    </div>
+    <em>Learn how legal teams quickly understand complex documents and surface critical risk and changes</em>
+    <br>
+  </td>
+  <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Sales use cases" src="../assets/use-case-sales.png" />
     </a>
     <div>
     <a href="lob/sales/sales-overview.md"><strong>Sales use cases</strong></a>
     </div>
-    <em>Learn how sales teams go from insight to impact with smarter collaboration and faster content creation.</em>
+    <em>Learn how sales teams go from insight to impact with smarter collaboration and faster content creation</em>
     <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>

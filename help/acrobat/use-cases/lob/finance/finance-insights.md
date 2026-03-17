@@ -31,5 +31,5 @@ Feedback is complete and content is ready to deliver. Turn validated insights in
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
 
-You now have a repeatable process for analyzing, reviewing, and delivering executive‑ready financial documents using Acrobat.
+You now have a repeatable process for analyzing, reviewing, and delivering executive‑ready financial documents using Acrobat Studio.
 
