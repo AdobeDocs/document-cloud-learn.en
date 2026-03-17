@@ -8,7 +8,7 @@ jira: KT-20546
 ---
 # Turn customer intelligence into winning sales assets
 
-Learn how sales teams can gather customer insights, collaborate in a shared workspace, and turn validated intelligence into on‑brand presentations and proposals—faster and with greater confidence. This use case is designed to be completed in sequence, with each video building on the previous step.
+Learn how sales teams can gather customer insights, collaborate in a shared workspace, and turn validated intelligence into on‑brand presentations and proposals — faster and with greater confidence. This use case is designed to be completed in sequence, with each video building on the previous step.
 
 **Best for:** Account executives, sales managers, deal teams, and anyone preparing customer‑facing sales materials for meetings, presentations, or proposals.
 
