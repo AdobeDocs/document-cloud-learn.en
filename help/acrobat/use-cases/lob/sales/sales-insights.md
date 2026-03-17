@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
+exl-id: 4fdb38c6-e742-41c9-8b14-1491532f1d4b
 ---
 # Turn customer intelligence into winning sales assets
 

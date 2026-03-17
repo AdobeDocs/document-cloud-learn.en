@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20544
+exl-id: f0839850-c6d1-4468-ad40-2da36a1cc78b
 ---
 # Acrobat Sales use cases overview
 
