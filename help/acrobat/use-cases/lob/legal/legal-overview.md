@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
+exl-id: 429e0e32-d15e-494b-9741-172d4f15dbb0
 ---
 # Acrobat legal use cases overview
 

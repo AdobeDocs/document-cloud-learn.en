@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20552
+exl-id: 86b7e471-0e26-45d9-b87a-c91886e10c33
 ---
 # Turn legal insights into actionable guidance
 
@@ -31,4 +32,3 @@ Feedback is complete and content is ready to deliver. Learn how legal teams quic
 >[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
 
 You now have a repeatable process to comprehend legal documents, collaborate securely, and create clear business-ready guidance.
-
