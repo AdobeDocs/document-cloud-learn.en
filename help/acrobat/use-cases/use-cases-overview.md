@@ -39,9 +39,14 @@ Discover how teams across different lines of business use Acrobat to solve every
     <br>
   </td>
   <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="lob/sales/sales-overview.md">
+      <img alt="Sales use cases" src="../assets/use-case-sales.png" />
+    </a>
+    <div>
+    <a href="lob/sales/sales-overview.md"><strong>Sales use cases</strong></a>
+    </div>
+    <em>Learn how sales teams go from insight to impact with smarter collaboration and faster content creation.</em>
+    <br>
   </td>
   <td>
         <img alt="Spacer" src="../assets/Whitespacer.png" />
