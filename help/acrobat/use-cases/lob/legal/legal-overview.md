@@ -8,7 +8,7 @@ jira: KT-20545
 ---
 # Acrobat legal use cases overview
 
-Learn how to streamline legal review by bringing document analysis, collaboration, and content creation into one secure, governed workflow.
+Enable legal teams to move faster, reduce risk, and maintain control across every stage of document review and delivery.
 
 ## What's new
 
