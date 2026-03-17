@@ -10,9 +10,9 @@ jira: KT-20546
 
 Learn how sales teams can gather customer insights, collaborate in a shared workspace, and turn validated intelligence into on‑brand presentations and proposals—faster and with greater confidence. This use case is designed to be completed in sequence, with each video building on the previous step.
 
-**Best for:** Best for: HR leaders, HR operations and business partners, onboarding and employee experience teams, and anyone preparing HR materials for employees or leadership.
+**Best for:** Account executives, sales managers, deal teams, and anyone preparing customer‑facing sales materials for meetings, presentations, or proposals.
 
-## Step 1. Turn onboarding documents into clear insights
+## Step 1. Understand your customer with AI‑powered insights
 
 Start by learning how to collect customer documents, analyze key information, and use AI‑powered summaries and insights to understand customer needs and prepare for more effective sales conversations.
 
@@ -30,4 +30,4 @@ Feedback is complete and content is ready to deliver. Learn how to turn validate
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
 
-ou now have a repeatable process for understanding customers, collaborating with stakeholders, and delivering sales‑ready presentations and proposals using Acrobat Studio.Y
+You now have a repeatable process for understanding customers, collaborating with stakeholders, and delivering sales‑ready presentations and proposals using Acrobat Studio.
