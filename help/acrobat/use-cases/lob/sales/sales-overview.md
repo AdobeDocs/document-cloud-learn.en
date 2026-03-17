@@ -1,6 +1,6 @@
 ---
 title: Acrobat Sales Use Cases Overview
-description: Learn how sales teams go from insight to impact with smarter collaboration and faster content creation.
+description: Learn how sales teams go from insight to impact with smarter collaboration and faster content creation
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
@@ -20,7 +20,7 @@ Learn how sales teams can gather customer [insights, collaborate, and generate o
 
 >[!ENDTABS]
 
-## HR use cases tutorials
+## Sales use cases tutorials
 
 <table style="table-layout:fixed">
 <tr>

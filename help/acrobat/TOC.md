@@ -91,6 +91,9 @@ auto-video-transcripts: true
     + HR {#hr}
       + [Overview](use-cases/lob/hr/hr-overview.md)
       + [From insight to impact: Streamline onboarding workflows](use-cases/lob/hr/hr-insights.md)
+    + Legal {#legal}
+      + [Overview](use-cases/lob/legal/legal-overview.md)
+      + [Turn legal insights into actionable guidance](use-cases/lob/legal/legal-insights.md)
     + Sales {#sales}
       + [Overview](use-cases/lob/sales/sales-overview.md)
       + [Turn customer intelligence into winning sales assets](use-cases/lob/sales/sales-insights.md)
