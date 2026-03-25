@@ -8,7 +8,7 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
-index: yes
+index: true
 type: Tutorial
 ---
 

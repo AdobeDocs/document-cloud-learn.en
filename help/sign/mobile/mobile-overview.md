@@ -41,7 +41,7 @@ Learn how to generate a [mobile-friendly](create-mobile-friendly.md) document se
   </td>
   <td>
     <a href="mobile-friendly.md">
-      <img alt="Mobile-friendly view" src="../assets/mobile-friendly.png" />
+      <img alt="Mobile-friendly view" src="../assets/mobile-friendly.png"/>
     </a>
     <div>
     <a href="mobile-friendly.md"><strong>Mobile-friendly view</strong></a>
