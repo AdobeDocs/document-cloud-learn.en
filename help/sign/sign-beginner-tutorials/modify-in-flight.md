@@ -1,5 +1,5 @@
 ---
-title: Modifying a Document after Sending
+title: Modify a Document after Sending
 description: Learn how to modify the workflow for a document that's already in progress
 feature: Workflow, Sign
 role: User
@@ -8,14 +8,13 @@ jira: KT-5316
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
 ---
-# Modifying a document after sending
+# Modify a document after sending
 
-Learn how to modify a document that's already been sent out for signature--like when the wrong document is sent out by mistake. Modifying agreements can only be used on documents that meet the following criteria:
+Learn how to modify a document that's already been sent out for signature — like when the wrong document is sent out by mistake. Use Modify Agreement when you need to:
 
-* The document has not been signed, approved, or delegated
-* The document does not include a digital signature or written signature
-* The document has not been initiated from a custom workflow
-
+* Replace or update a document
+* Correct form fields or prefill values
+* Remove a recipient who has not completed their action
 
 >[!NOTE]
 >
