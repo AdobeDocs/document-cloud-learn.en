@@ -16,6 +16,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB Modify a document after sending]
+
+Learn how to [modify a document](../sign-beginner-tutorials/manage-and-track.md) that's already been sent out for signature.
+
 >[!TAB Manage and track agreements]
 
 Learn how to [manage and track agreements](../sign-beginner-tutorials/manage-and-track.md) sent for signature.
@@ -27,10 +31,6 @@ Learn how easy it is to [sign](../sign-beginner-tutorials/electronically-sign-a-
 >[!TAB Create a reusable template]
 
 Learn how to create a [reusable document template](../sign-advanced-users/create-a-template.md).
-
->[!TAB Configure send options]
-
-Learn how to [configure various options](sending-options.md) when sending a document out for signature.
 
 >[!ENDTABS]
 
@@ -102,12 +102,12 @@ Learn how to [configure various options](sending-options.md) when sending a docu
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Modifying a document after sending" src="../assets/modify.png" />
+      <img alt="Modify a document after sending" src="../assets/modify.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Modifying a document after sending</strong></a>
+    <a href="modify-in-flight.md"><strong>Modify a document after sending</strong></a>
     </div>
-    Modify a document that's already in progress
+    Learn how to modify a document that's already in progress
     <br>
   </td>
   <td>

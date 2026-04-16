@@ -26,7 +26,7 @@ auto-video-transcripts: true
     + [Send to multiple signers](sign-beginner-tutorials/send-to-multiple-recipients.md)
     + [Adding fields to your documents](sign-beginner-tutorials/adding-fields.md)
     + [Configure send options](sign-beginner-tutorials/sending-options.md)
-    + [Modifying a document after sending](sign-beginner-tutorials/modify-in-flight.md)
+    + [Modify a document after sending](sign-beginner-tutorials/modify-in-flight.md)
     + [Replacing a signer](sign-beginner-tutorials/replace-signer.md)
     + [Set deadlines and reminders](sign-beginner-tutorials/set-deadlines-reminders.md)
     + [Create a reusable template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
