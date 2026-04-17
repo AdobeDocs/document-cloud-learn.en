@@ -79,6 +79,7 @@ auto-video-transcripts: true
     + [Build a custom workflow](admin/building-a-custom-workflow.md)
     + [Audit reports](admin/audit-reports.md)
     + [Configure notifications for events and alerts](admin/set-up-shared-events-and-alert.md)
+    + [Configure and govern Modify Agreement](admin/configure-modify-agreement.md)
   + Advanced tasks {#advanced-tasks-admins}
     + [Global settings](admin/learn-about-global-settings.md)
     + [Sharing account access](admin/share-account-access.md)

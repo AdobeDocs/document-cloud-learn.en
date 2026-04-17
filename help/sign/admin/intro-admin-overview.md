@@ -17,6 +17,10 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!BEGINTABS]
 
+>[!TAB Configure and govern Modify Agreement]
+
+Learn how to configure and govern [Modify Agreement](configure-modify-agreement.md) in Acrobat Sign.
+
 >[!TAB Build a custom workflow]
 
 Learn how to create and use [custom workflows](building-a-custom-workflow.md) to speed up the process of creating and sending an agreement.
@@ -28,10 +32,6 @@ Learn how to create a [reusable document template](../sign-advanced-users/create
 >[!TAB Enable automatic user assignment rules]
 
 Learn how to set up [automatic assignment rules](automatic-assignment-rules.md) granting users access to Acrobat Sign in the Admin Console.
-
->[!TAB Migrate Docusign templates]
-
-Learn how to seamlessly [migrate Docusign templates](docusign-templates.md) and workflows in three easy steps.
 
 >[!ENDTABS]
 
@@ -228,8 +228,13 @@ Learn how to seamlessly [migrate Docusign templates](docusign-templates.md) and 
       <br>
     </td>
     <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <a href="configure-modify-agreement.md">
+        <img alt="Configure and govern Modify Agreement" src="../assets/configure-modify.png" />
+      </a>
       <div>
+      <a href="configure-modify-agreement.md"><strong>Configure and govern Modify Agreement</strong></a>
+      </div>
+      <em>Learn how to configure and govern Modify Agreement</em>
       <br>
     </td>
     <td>
