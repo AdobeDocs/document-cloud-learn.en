@@ -7,6 +7,16 @@ level: Beginner
 jira: KT-8576
 thumbnail: KT-8576.jpg
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
+TQID: https://experienceleague.adobe.com/tU14WgedR9bHfl346uP8-8gDrYh3x9I8k4zX34-565U
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Convert a PPT file to PDF on your phone
 

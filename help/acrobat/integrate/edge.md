@@ -9,6 +9,16 @@ topic-revisit: Integrations
 jira: KT-8495
 thumbnail: KT-8495.jpg
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
+TQID: https://experienceleague.adobe.com/rpWbEkDCfVdpCcKzZA3w296i6OimYyqkw--Asv8f33A
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Create PDF content while browsing with [!DNL Microsoft Edge]
 

@@ -7,6 +7,19 @@ level: Beginner
 jira: KT-9752
 thumbnail: KT-9752.jpg
 exl-id: ae31afe3-e2e4-4e1c-8eb4-13dcc7cc9e05
+TQID: https://experienceleague.adobe.com/y3grtBgZKrADEhU-O2oalrzopjWpwb6xJvE7rc81cCE
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Protect your PDF files with a password
 
