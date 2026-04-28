@@ -30,6 +30,7 @@ auto-video-transcripts: true
     + [Replacing a signer](sign-beginner-tutorials/replace-signer.md)
     + [Set deadlines and reminders](sign-beginner-tutorials/set-deadlines-reminders.md)
     + [Create a reusable template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+    + [Guide required selections with checkbox groups](sign-beginner-tutorials/checkbox-groups.md)
   + Sign {#getting-started-signing}
     + [Electronically sign a document](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Filling and signing a document](sign-beginner-tutorials/fill-and-sign.md)

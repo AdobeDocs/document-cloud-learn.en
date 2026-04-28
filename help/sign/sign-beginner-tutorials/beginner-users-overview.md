@@ -143,9 +143,14 @@ Learn how to create a [reusable document template](../sign-advanced-users/create
     <br>
   </td>
     <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+     <a href="checkbox-groups.md">
+      <img alt="Guide required selections with checkbox groups" src="../assets/checkboxes.png" />
+    </a>
+    <div>
+    <a href="checkbox-groups.md"><strong>Guide required selections with checkbox groups</strong></a>
+    </div>
+    Learn how to use checkbox groups to control how many options a signer can select on a form
+    <br>
     </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
