@@ -13,6 +13,8 @@ Learn how finance teams use Acrobat to manage financial documents from insight t
 
 **Best for:** Finance leaders, FP&A teams, analysts, and anyone preparing materials for executive or board review.
 
+**Try it:** Explore this finance reporting workflow [hands‑on](https://w.adobedemo.com/s/31LpAI){target="_blank"} right now.
+
 ## Step 1. Comprehend financial performance
 
 Start by consolidating financial documents and surfacing key insights to prepare information for executive review.
