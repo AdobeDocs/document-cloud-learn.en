@@ -13,6 +13,8 @@ Learn how legal teams use Acrobat Studio to analyze complex documents, collabora
 
 **Best for:** Legal leaders, in‑house counsel, contract reviewers, and teams delivering legal guidance across the business.
 
+**Try it:** Explore this legal workflow [hands‑on](https://w.adobedemo.com/s/ujZN1y){target="_blank"} right now.
+
 ## Step 1. Analyze legal information and surface insights
 
 Start by analyzing complex legal documents, surfacing key changes, and identifying risk using AI‑powered insights.

@@ -13,6 +13,8 @@ Discover how HR teams use Acrobat Studio to streamline employee onboarding from 
 
 **Best for:** HR leaders, HR operations and business partners, onboarding and employee experience teams, and anyone preparing HR materials for employees or leadership.
 
+**Try it:** Explore this HR onboarding workflow [hands‑on](https://w.adobedemo.com/s/NvvfVm){target="_blank"} right now.
+
 ## Step 1. Turn onboarding documents into clear insights
 
 Start by learning how AI-powered onboarding insights can highlight key information, surface next steps, and help ensure new hires get the right information at the right time.

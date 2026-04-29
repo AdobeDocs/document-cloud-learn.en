@@ -13,6 +13,9 @@ Learn how sales teams can gather customer insights, collaborate in a shared work
 
 **Best for:** Account executives, sales managers, deal teams, and anyone preparing customer‑facing sales materials for meetings, presentations, or proposals.
 
+
+**Try it:** Explore this sales workflow [hands‑on](https://w.adobedemo.com/s/HEEljN){target="_blank"} right now.
+
 ## Step 1. Understand your customer with AI‑powered insights
 
 Start by learning how to collect customer documents, analyze key information, and use AI‑powered summaries and insights to understand customer needs and prepare for more effective sales conversations.
