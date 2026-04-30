@@ -13,6 +13,8 @@ Learn how an in‑house legal team uses PDF Spaces to bring together policy docu
 
 PDF Spaces are available to users who purchase Acrobat Studio or the AI Assistant add-on.
 
+**Try it:** Explore PDF Spaces [hands‑on](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"} right now.
+
 >[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Team-specific]

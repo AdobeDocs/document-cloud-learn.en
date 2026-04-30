@@ -12,6 +12,8 @@ exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
 
 Learn how to [add a password to your PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} to protect others from opening or [editing the PDF file](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}. Protecting your PDF files prevents unauthorized access, protects sensitive information, maintains document integrity, and helps comply with certain industry regulations.
 
+**Try it:** Explore securing a PDF [hands‑on](https://w.adobedemo.com/s/-gNaDL){target="_blank"} right now.
+
 >[!SLIDE](protect-pdfs)
 
 >[!TIP]

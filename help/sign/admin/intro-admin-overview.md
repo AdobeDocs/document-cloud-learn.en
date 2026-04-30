@@ -229,7 +229,7 @@ Learn how to set up [automatic assignment rules](automatic-assignment-rules.md) 
     </td>
     <td>
       <a href="configure-modify-agreement.md">
-        <img alt="Configure and govern Modify Agreement" src="../assets/configure-modify.png" />
+        <img alt="Configure and govern Modify Agreement" src="../assets/configure-modify-govern.png" />
       </a>
       <div>
       <a href="configure-modify-agreement.md"><strong>Configure and govern Modify Agreement</strong></a>
