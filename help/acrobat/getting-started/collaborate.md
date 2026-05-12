@@ -7,6 +7,16 @@ level: Beginner
 jira: KT-8255
 thumbnail: KT-8255.jpg
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
+TQID: https://experienceleague.adobe.com/ORFihc2KgsfMD-R-0ncyJLdWj0WaQpSaadRUcljQjvc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Collaborate in real time
 

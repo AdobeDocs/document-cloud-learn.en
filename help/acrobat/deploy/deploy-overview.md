@@ -7,6 +7,16 @@ level: Intermediate
 jira: KT-6862
 thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
+TQID: https://experienceleague.adobe.com/XuGkWQBlXJykTZzT3jiyq7vgWDrxaJVOPnSkPEM9JGc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Deploy overview
 

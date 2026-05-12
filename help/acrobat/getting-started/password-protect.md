@@ -7,6 +7,21 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
+TQID: https://experienceleague.adobe.com/6nRsNEZ0Wi1LNCXBj-ASZpA0RJdO-1nFuKjrzPPD8Es
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Protect a PDF file with a password
 

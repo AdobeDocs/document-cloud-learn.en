@@ -7,6 +7,21 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
+TQID: https://experienceleague.adobe.com/IRoB4mMiycAzr3EudJSmVI-GCRd4e240YGUxiEJgVKs
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Remove sensitive information
 

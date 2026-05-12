@@ -7,6 +7,16 @@ level: Beginner
 jira: KT-8573
 thumbnail: KT-8573.jpg
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
+TQID: https://experienceleague.adobe.com/8W4KUYP1IEtfzljVy2Ps0fW5yXn8sAzpm6aa5WwhWaE
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Edit PDF with Acrobat Web
 

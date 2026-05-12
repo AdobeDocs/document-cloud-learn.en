@@ -7,6 +7,13 @@ level: Experienced
 jira: KT-6828
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
+TQID: https://experienceleague.adobe.com/yYGwXdr3OvfgTZ7ETAMp-Fhfjuwhta9ld4H0qm5EzdY
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Work with form data
 

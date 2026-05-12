@@ -7,6 +7,16 @@ level: Beginner
 jira: KT-5527
 thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
+TQID: https://experienceleague.adobe.com/DppgtgPQCS8tsDRvY8JK-MPVEUHNNBut7vs-VSMHHhk
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Comment on a PDF
 
