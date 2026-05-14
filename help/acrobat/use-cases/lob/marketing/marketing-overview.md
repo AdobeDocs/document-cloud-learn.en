@@ -8,7 +8,7 @@ jira: KT-21216
 ---
 # Acrobat marketing use cases overview
 
-Learn how marketing teams use Acrobat Studio to streamline collaboration, accelerate approvals, and bring new ideas to market faster
+Learn how marketing teams use Acrobat Studio to streamline collaboration, accelerate approvals, and bring new ideas to market faster.
 
 ## What's new
 
