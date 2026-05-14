@@ -58,8 +58,8 @@ Discover how teams across different lines of business use Acrobat to solve every
     <em>Learn how marketing teams streamline collaboration, accelerate approvals, and bring new ideas to market faster</em>
     <br>
   </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Sales use cases" src="../assets/use-case-sales.png" />
@@ -69,6 +69,21 @@ Discover how teams across different lines of business use Acrobat to solve every
     </div>
     <em>Learn how sales teams go from insight to impact with smarter collaboration and faster content creation</em>
     <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
