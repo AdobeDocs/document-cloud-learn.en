@@ -49,6 +49,18 @@ Discover how teams across different lines of business use Acrobat to solve every
     <br>
   </td>
   <td>
+    <a href="lob/marketing/marketing-overview.md">
+      <img alt="Marketing use cases" src="../assets/use-case-marketing.png" />
+    </a>
+    <div>
+    <a href="lob/marketing/marketing-overview.md"><strong>Marketing use cases</strong></a>
+    </div>
+    <em>Learn how marketing teams streamline collaboration, accelerate approvals, and bring new ideas to market faster</em>
+    <br>
+  </td>
+  </tr>
+  <tr>
+  <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Sales use cases" src="../assets/use-case-sales.png" />
     </a>
@@ -61,7 +73,7 @@ Discover how teams across different lines of business use Acrobat to solve every
 </tr>
 </table>
 
-## Industry
+## Government
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
