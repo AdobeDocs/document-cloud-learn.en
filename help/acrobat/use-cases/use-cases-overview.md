@@ -17,75 +17,75 @@ Learn how you can use Acrobat to increase productivity and turn information into
 Discover how teams across different lines of business use Acrobat to solve everyday document challenges, streamline workflows, and support business‑critical work.
 
 <table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="lob/finance/finance-overview.md">
-      <img alt="Finance use cases" src="../assets/use-case-finance.png" />
-    </a>
-    <div>
-    <a href="lob/finance/finance-overview.md"><strong>Finance use cases</strong></a>
-    </div>
-    <em>Learn how finance teams use Acrobat to create, manage, analyze, and secure financial documents</em>
-    <br>
-  </td>
-  <td>
-    <a href="lob/hr/hr-overview.md">
-      <img alt="HR use cases" src="../assets/use-case-hr.png" />
-    </a>
-    <div>
-    <a href="lob/hr/hr-overview.md"><strong>HR use cases</strong></a>
-    </div>
-    <em>Explore how HR teams use Acrobat to manage documents and workflows across the employee lifecycle</em>
-    <br>
-  </td>
-  <td>
-    <a href="lob/legal/legal-overview.md">
-      <img alt="Legal use cases" src="../assets/use-case-legal.png" />
-    </a>
-    <div>
-    <a href="lob/legal/legal-overview.md"><strong>Legal use cases</strong></a>
-    </div>
-    <em>Learn how legal teams quickly understand complex documents and surface critical risk and changes</em>
-    <br>
-  </td>
-  <td>
-    <a href="lob/marketing/marketing-overview.md">
-      <img alt="Marketing use cases" src="../assets/use-case-marketing.png" />
-    </a>
-    <div>
-    <a href="lob/marketing/marketing-overview.md"><strong>Marketing use cases</strong></a>
-    </div>
-    <em>Learn how marketing teams streamline collaboration, accelerate approvals, and bring new ideas to market faster</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="lob/sales/sales-overview.md">
-      <img alt="Sales use cases" src="../assets/use-case-sales.png" />
-    </a>
-    <div>
-    <a href="lob/sales/sales-overview.md"><strong>Sales use cases</strong></a>
-    </div>
-    <em>Learn how sales teams go from insight to impact with smarter collaboration and faster content creation</em>
-    <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
+  <tr>
+    <td>
+      <a href="lob/finance/finance-overview.md">
+        <img alt="Finance use cases" src="../assets/use-case-finance.png" />
+      </a>
+      <div>
+      <a href="lob/finance/finance-overview.md"><strong>Finance use cases</strong></a>
+      </div>
+      <em>Learn how finance teams use Acrobat to create, manage, analyze, and secure financial documents</em>
+      <br>
+    </td>
+    <td>
+      <a href="lob/hr/hr-overview.md">
+        <img alt="HR use cases" src="../assets/use-case-hr.png" />
+      </a>
+      <div>
+      <a href="lob/hr/hr-overview.md"><strong>HR use cases</strong></a>
+      </div>
+      <em>Explore how HR teams use Acrobat to manage documents and workflows across the employee lifecycle</em>
+      <br>
+    </td>
+    <td>
+      <a href="lob/legal/legal-overview.md">
+        <img alt="Legal use cases" src="../assets/use-case-legal.png" />
+      </a>
+      <div>
+      <a href="lob/legal/legal-overview.md"><strong>Legal use cases</strong></a>
+      </div>
+      <em>Learn how legal teams quickly understand complex documents and surface critical risk and changes</em>
+      <br>
+    </td>
+    <td>
+      <a href="lob/marketing/marketing-overview.md">
+        <img alt="Marketing use cases" src="../assets/use-case-marketing.png" />
+      </a>
+      <div>
+      <a href="lob/marketing/marketing-overview.md"><strong>Marketing use cases</strong></a>
+      </div>
+      <em>Learn how marketing teams streamline collaboration, accelerate approvals, and bring new ideas to market faster</em>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="lob/sales/sales-overview.md">
+        <img alt="Sales use cases" src="../assets/use-case-sales.png" />
+      </a>
+      <div>
+      <a href="lob/sales/sales-overview.md"><strong>Sales use cases</strong></a>
+      </div>
+      <em>Learn how sales teams go from insight to impact with smarter collaboration and faster content creation</em>
+      <br>
+    </td>
+    <td>
+          <img alt="Spacer" src="../assets/Grayspacer.png" />
+          <div>
+          <br>
+    </td>
+    <td>
+          <img alt="Spacer" src="../assets/Grayspacer.png" />
+          <div>
+          <br>
+    </td>
+    <td>
+          <img alt="Spacer" src="../assets/Grayspacer.png" />
+          <div>
+          <br>
+    </td>
+  </tr>
 </table>
 
 ## Government
