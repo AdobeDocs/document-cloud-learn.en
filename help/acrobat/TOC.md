@@ -94,6 +94,8 @@ auto-video-transcripts: true
     + Legal {#legal}
       + [Overview](use-cases/lob/legal/legal-overview.md)
       + [Turn legal insights into actionable guidance](use-cases/lob/legal/legal-insights.md)
+    + Marketing {#marketing}
+      + [Accelerate product launches with Acrobat Studio](use-cases/lob/marketing/marketing-product-launch.md)
     + Sales {#sales}
       + [Overview](use-cases/lob/sales/sales-overview.md)
       + [Turn customer intelligence into winning sales assets](use-cases/lob/sales/sales-insights.md)
