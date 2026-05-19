@@ -31,8 +31,7 @@ Learn how marketing teams use Acrobat Studio to centralize [product launch](mark
     <div>
     <a href="marketing-product-launch.md"><strong>Accelerate product launches with Acrobat Studio</strong></a>
     </div>
-    <em>Learn how marketing teams use Acrobat Studio to centralize product launch assets, streamline stakeholder reviews, and scale organizational readiness
-feature: Gen AI</em>
+    <em>Learn how marketing teams use Acrobat Studio to centralize product launch assets, streamline stakeholder reviews, and scale organizational readiness</em>
     <br>
   </td>
   <td>
