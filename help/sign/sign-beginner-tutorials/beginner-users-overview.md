@@ -33,6 +33,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB When to use Create a copy]
+
+Learn how to use [Create a copy](../sign-beginner-tutorials/create-a-copy.md) to duplicate any existing agreement. You can adjust what needs changing, and resend it in seconds. No rebuilding from scratch.
+
 >[!TAB Modify a document after sending]
 
 Learn how to [modify a document](../sign-beginner-tutorials/manage-and-track.md) that's already been sent out for signature.
@@ -44,10 +48,6 @@ Learn how to [manage and track agreements](../sign-beginner-tutorials/manage-and
 >[!TAB Electronically sign a document]
 
 Learn how easy it is to [sign](../sign-beginner-tutorials/electronically-sign-a-document.md) a document that is sent to you with Acrobat Sign.
-
->[!TAB Create a reusable template]
-
-Learn how to create a [reusable document template](../sign-advanced-users/create-a-template.md).
 
 >[!ENDTABS]
 
@@ -159,7 +159,7 @@ Learn how to create a [reusable document template](../sign-advanced-users/create
     Create a reusable document template to provide speed and consistency for your organization
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="Guide required selections with checkbox groups" src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +169,15 @@ Learn how to create a [reusable document template](../sign-advanced-users/create
     Learn how to use checkbox groups to control how many options a signer can select on a form
     <br>
     </td>
-    <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="When to use Create a copy" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>When to use Create a copy</strong></a>
+    </div>
+    Learn how to use Create a copy to duplicate any existing agreement
+    <br>
     </td>
 </tr>
 </table>
