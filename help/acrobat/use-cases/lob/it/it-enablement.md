@@ -8,7 +8,7 @@ jira: KT-21582
 ---
 # IT enablement without the bottleneck
 
-In this tutorial, follow an IT team member at SecurFinancial, through three real-world workflows. Remove PII and generate an executive summary from an incident report. Analyze a vendor contract against your internal security standards and produce a follow-up questionnaire. Then take static policy documents and turn them into an interactive, org-wide governance resource employees can access and query on any device. Each tutorial uses Acrobat Studio's AI Assistant, PDF Spaces, and Adobe Express to reduce hours of manual work to minutes — while keeping IT in control of every step.This use case is designed to be completed in sequence, with each video building on the previous step.
+In this tutorial, follow an IT team member at SecurFinancial, through three real-world workflows. Remove PII and generate an executive summary from an incident report. Analyze a vendor contract against your internal security standards and produce a follow-up questionnaire. Then take static policy documents and turn them into an interactive, org-wide governance resource employees can access and query on any device. Each tutorial uses Acrobat Studio's AI Assistant, PDF Spaces, and Adobe Express to reduce hours of manual work to minutes — while keeping IT in control of every step This use case is designed to be completed in sequence, with each video building on the previous step.
 
 **Best for:** IT Directors, Security, and Operations teams
 
