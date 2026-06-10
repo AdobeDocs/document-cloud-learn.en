@@ -39,6 +39,16 @@ Discover how teams across different lines of business use Acrobat to solve every
       <br>
     </td>
     <td>
+      <a href="lob/it/it-overview.md">
+        <img alt="IT use cases" src="../assets/use-case-it.png" />
+      </a>
+      <div>
+      <a href="lob/it/it-overview.md"><strong>IT use cases</strong></a>
+      </div>
+      <em>Discover how IT teams use Acrobat Studio to streamline document workflows, strengthen security and compliance, and scale governance programs across the organization</em>
+      <br>
+    </td>
+    <td>
       <a href="lob/legal/legal-overview.md">
         <img alt="Legal use cases" src="../assets/use-case-legal.png" />
       </a>
@@ -48,6 +58,8 @@ Discover how teams across different lines of business use Acrobat to solve every
       <em>Learn how legal teams quickly understand complex documents and surface critical risk and changes</em>
       <br>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="lob/marketing/marketing-overview.md">
         <img alt="Marketing use cases" src="../assets/use-case-marketing.png" />
@@ -58,8 +70,6 @@ Discover how teams across different lines of business use Acrobat to solve every
       <em>Learn how marketing teams streamline collaboration, accelerate approvals, and bring new ideas to market faster</em>
       <br>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="lob/sales/sales-overview.md">
         <img alt="Sales use cases" src="../assets/use-case-sales.png" />
@@ -69,11 +79,6 @@ Discover how teams across different lines of business use Acrobat to solve every
       </div>
       <em>Learn how sales teams go from insight to impact with smarter collaboration and faster content creation</em>
       <br>
-    </td>
-    <td>
-          <img alt="Spacer" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
     </td>
     <td>
           <img alt="Spacer" src="../assets/Grayspacer.png" />
