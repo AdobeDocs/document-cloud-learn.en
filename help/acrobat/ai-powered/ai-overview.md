@@ -47,7 +47,6 @@ Learn how to [discover PDF insights](../getting-started/ai-assistant.md) in your
 ## AI-Powered tutorials
 
 <!-- COMMENT -->
-
 <!-- CARDS
 
 * https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant
@@ -65,7 +64,7 @@ Learn how to [discover PDF insights](../getting-started/ai-assistant.md) in your
 * https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio
   {target = _self}
   {title = What is Acrobat Studio?}
-  {description = earn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio}
+  {description = Learn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio}
   {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 * https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics
