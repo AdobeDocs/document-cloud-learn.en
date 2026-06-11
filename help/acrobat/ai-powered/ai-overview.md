@@ -46,43 +46,6 @@ Learn how to [discover PDF insights](../getting-started/ai-assistant.md) in your
 
 ## AI-Powered tutorials
 
-<!-- COMMENT -->
-<!-- CARDS
-
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant
-  {target = _self}
-  {title = Discover PDF insights with AI Assistant}
-  {description = Learn how to gain insights from your PDF files using AI Assistant}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium}
-  {cta = View tutorial}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal
-  {target = _self}
-  {title = Boost team efficiency with PDF Spaces}
-  {description = Learn how to turn collections of files and websites into sharable, conversational knowledge hubs}
-  {image =https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium}
-  {cta = View tutorial}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio
-  {target = _self}
-  {title = What is Acrobat Studio?}
-  {description = Learn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium}
-  {cta = View tutorial}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics
-  {target = _self}
-  {title = Edit graphics in a PDF}
-  {description = Learn how to create, edit, and enhance graphics in your PDF}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium}
-  {cta = View tutorial}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf
-  {target = _self}
-  {title = Stylize this PDF}
-  {description = Learn how to create professional-looking PDFs}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium}
-  {cta = View tutorial}
-  
--->
-<!-- END COMMENT -->
-
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with AI Assistant">
@@ -202,7 +165,6 @@ Learn how to [discover PDF insights](../getting-started/ai-assistant.md) in your
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<!-- END CARDS -->
 
 <!-- COMMENT -->
 <table style="table-layout:fixed">
