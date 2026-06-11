@@ -30,49 +30,6 @@ Learn how marketing teams use Acrobat Studio to centralize [product launch](lob/
 
 >[!ENDTABS]
 
-<!-- COMMENT -->
-<!-- CARDS
-
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-overview
-  {target = _self}
-  {title = Finance use cases}
-  {description = Learn how finance teams use Acrobat to create, manage, analyze, and secure financial documents}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1b52ae9631f556c39d8b081855b7ee1650b31eabc.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-overview
-  {target = _self}
-  {title = HR use cases}
-  {description = Explore how HR teams use Acrobat to manage documents and workflows across the employee lifecycle}
-  {image =https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_13ab7a6f08ac944565ae450e819b1523855775716.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview
-  {target = _self}
-  {title = IT use cases}
-  {description = Discover how IT teams use Acrobat Studio to streamline document workflows, strengthen security and compliance, and scale governance programs across the organization}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a7c003cf866650b1275539d36bf87a4aaa136dda.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-overview
-  {target = _self}
-  {title = Legal use cases}
-  {description = Learn how legal teams quickly understand complex documents and surface critical risk and changes}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1942bd902664e83f8650d9d51100382c128af30de.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview
-  {target = _self}
-  {title = Marketing use cases}
-  {description = Learn how marketing teams streamline collaboration, accelerate approvals, and bring new ideas to market faster}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1e37ca6c212ce654e1d849d9d49f96ccb9e827672.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-overview
-  {target = _self}
-  {title = Sales use cases}
-  {description = Learn how sales teams go from insight to impact with smarter collaboration and faster content creation}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a5dfdd3cb87efadbc9724bae411203a85aca3f71.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-  
--->
-<!-- END COMMENT -->
-
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Finance use cases">
@@ -298,3 +255,30 @@ Learn how marketing teams use Acrobat Studio to centralize [product launch](lob/
 
 ## Government
 
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat for government">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat for government" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_17395982c8fa084a51a246aeefa9bc159f77cb80a.webp?width=400&format=webply&optimize=medium" alt="Acrobat for government"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat for government">Acrobat for government</a>
+                    </p>
+                    <p class="is-size-6">Explore our Acrobat tutorials specifically designed for federal, state, and local government</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Browse tutorials</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
