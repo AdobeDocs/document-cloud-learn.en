@@ -10,6 +10,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
+nudge: true
 ---
 
 # Acrobat Tutorials {#acrobat-learning}
