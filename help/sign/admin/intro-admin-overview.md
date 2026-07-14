@@ -35,6 +35,7 @@ topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
 ---
+
 # Administrators overview
 
 Learn about adding users to your account, setting up groups, sharing access, and setting up a workflow, external archive, and shared events and alerts. These tutorials are designed for administrators who are past the installation phase, and are ready to start administering Acrobat Sign. The Advanced Tasks cover topics that expand past the admin setup and move into defining global settings, account access and sharing, and text tagging.
@@ -45,7 +46,7 @@ Learn about adding users to your account, setting up groups, sharing access, and
 
 >[!TAB Configure and govern Modify Agreement]
 
-Learn how to configure and govern [Modify Agreement](configure-modify-agreement.md) in Acrobat Sign.
+Learn how to configure and govern [Modify Agreement](configure-modify-agreement.md) in Acrobat Sign.
 
 >[!TAB Build a custom workflow]
 
