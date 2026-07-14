@@ -22,6 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
+
 # Modify a document after sending
 
 Learn how to modify a document that's already been sent out for signature — like when the wrong document is sent out by mistake. Use Modify Agreement when you need to:
@@ -39,3 +40,4 @@ Learn how to modify a document that's already been sent out for signature — li
 >[!TIP]
 >
 >This video is part of the playlist [Advanced Tasks for Users](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) that is available for free on Experience League!
+
