@@ -19,6 +19,7 @@ nudge: true
 + Get started {#get-started}
   + [Overview](getting-started/getting-started-overview.md)
   + Learn the basics {#basics}
+    + [What is Acrobat Studio?](getting-started/acrobat-studio.md)
     + [Workspace basics](getting-started/workspace-basics.md)
     + [New Acrobat experience](getting-started/new-experience.md)
     + [Work with [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
@@ -28,7 +29,6 @@ nudge: true
   + Work smarter with AI {#ai}
     + [Discover PDF insights with AI Assistant](getting-started/ai-assistant.md)
     + [Boost team efficiency with PDF Spaces](getting-started/pdf-spaces-legal.md)
-    + [What is Acrobat Studio?](getting-started/acrobat-studio.md)
   + Create & organize {#create}
     + [Create a PDF](getting-started/create-pdf.md)
     + [Combine files to into a single PDF](getting-started/combine-to-pdf.md)
