@@ -76,12 +76,12 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label=""Workspace basics"">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title=""Workspace basics"" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt=""Workspace basics""
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="Workspace basics" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt="Workspace basics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -89,11 +89,34 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title=""Workspace basics"">"Workspace basics"</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title="Workspace basics">Workspace basics</a>
                     </p>
                     <p class="is-size-6">Learn the basics of the Acrobat workspace</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Acrobat experience">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" title="New Acrobat experience" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_178831fd1a5ee792617ad1bc508c02ffee1efcdb8.webp?width=400&format=webply&optimize=medium" alt="New Acrobat experience"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" title="New Acrobat experience">New Acrobat experience</a>
+                    </p>
+                    <p class="is-size-6">Learn about the new Acrobat experience</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
@@ -127,7 +150,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Work anywhere with Acrobat web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="Work anywhere with Acrobat web"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784302288118" alt="Work anywhere with Acrobat web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,7 +173,7 @@ Learn how to [discover PDF insights](ai-assistant.md) in your PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Productivity on the go" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784301206074" alt="Productivity on the go"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784302288137" alt="Productivity on the go"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
