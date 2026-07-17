@@ -29,6 +29,10 @@ topic_v2:
 
 Adobe Acrobat, an Adobe Document Cloud solution, helps keep business moving by converting, editing, sharing, and signing PDFs. Here you can find a wide range of learning experiences designed to quickly bring both beginners and advanced users up-to-speed on Adobe Acrobat.
 
+>[!NOTE]
+>
+>Feature access depends on your Acrobat plan. Use the [Acrobat plan comparison](https://www.adobe.com/acrobat/pricing.html) to identify the features available to you. Some features are being rolled out in phases and may not be available to everyone yet.
+
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
