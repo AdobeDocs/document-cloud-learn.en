@@ -1,14 +1,5 @@
 ---
 user-guide-title: Acrobat Tutorials
-solution: Acrobat
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-    internal-label: "Acrobat"
-usetq: true
-breadcrumb-title: Acrobat Tutorials
-feature-set: Document Cloud
-role: User
-type: Tutorial
 auto-video-transcripts: true
 nudge: true
 ---

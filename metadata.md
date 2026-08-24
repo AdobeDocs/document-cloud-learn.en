@@ -1,15 +1,17 @@
 ---
 cloud: Document Cloud
+solution: Acrobat
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: "Acrobat"
+usetq: true
+feature-set: Document Cloud
+role: User
+type: Tutorial
 solution-title: Document Cloud
-solution-hub-url: https://helpx.adobe.com/support/document-cloud.html
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
 index: true
-type: Tutorial
 ---
 
 # Metadata for internal use
