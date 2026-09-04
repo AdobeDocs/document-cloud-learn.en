@@ -5,7 +5,6 @@ feature: Workflow, Gen AI
 role: User
 level: Beginner
 jira: KT-22299
-product_v2: Acrobat
 ---
 
 # Get started with Analyzer in Acrobat Studio
