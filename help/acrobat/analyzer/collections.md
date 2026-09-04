@@ -5,7 +5,6 @@ feature: Workflow, Gen AI
 role: User
 level: Beginner
 jira: KT-22300
-product_v2: Acrobat
 ---
 
 # Use Collections
