@@ -81,7 +81,7 @@ nudge: true
 + Analyzer in Acrobat Studio {#analyzer}
   + [Overview](analyzer/analyzer-overview.md)
   + [Get started](analyzer/get-started.md)
-  + [Collections](analyzer/collections.md)
+  + [Use Collections](analyzer/collections.md)
   + [M&A post integration contract audit](analyzer/m-and-a-post-audit.md)
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)

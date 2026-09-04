@@ -50,7 +50,7 @@ Learn how to create manual and linked [Collections](collections.md), apply attri
   </td>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="M&A post integration contract audit" src="../assets/analyzer.png" />
+      <img alt="M&A post integration contract audit" src="../assets/m-and-a.jpg" />
     </a>
     <div>
     <a href="m-and-a-post-audit.md"><strong>M&A post integration contract audit</strong></a>
