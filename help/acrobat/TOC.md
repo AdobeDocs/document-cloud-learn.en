@@ -82,7 +82,7 @@ nudge: true
   + [Overview](analyzer/analyzer-overview.md)
   + [Get started](analyzer/get-started.md)
   + [Collections](analyzer/collections.md)
-  + [M&A Post Integration Contract Audit](analyzer/m-and-a-post-audit.md)
+  + [M&A post integration contract audit](analyzer/m-and-a-post-audit.md)
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
   + Line of business {#lob}
