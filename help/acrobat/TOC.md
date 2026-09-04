@@ -78,6 +78,11 @@ nudge: true
   + [What is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [Edit graphics in a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Stylize this PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Analyzer in Acrobat Studio {#analyzer}
+  + [Overview](analyzer/analyzer-overview.md)
+  + [Get started](analyzer/get-started.md)
+  + [Collections](analyzer/collections.md)
+  + [M&A Post Integration Contract Audit](analyzer/m-and-a-post-audit.md)
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
   + Line of business {#lob}
