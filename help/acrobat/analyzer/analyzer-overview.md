@@ -4,9 +4,7 @@ description: Learn all about Analyzer in Acrobat Studio
 feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
-jira: KT-2255
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
+jira: KT-22555
 ---
 # Analyzer in Acrobat Studio overview
 
@@ -40,7 +38,7 @@ Learn how to create manual and linked [Collections](collections.md), apply attri
     Learn how Analyzer in Acrobat Studio helps you pull structured, cited data out of large volumes of documents
     <br>
   </td>
- <td>
+  <td>
     <a href="collections.md">
       <img alt="Use Collections" src="../assets/analyzer_collections.png" />
     </a>
@@ -64,6 +62,6 @@ Learn how to create manual and linked [Collections](collections.md), apply attri
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
       <br>
-    </td>
+  </td>
 </tr>
 </table>
