@@ -82,6 +82,7 @@ nudge: true
   + [Overview](analyzer/analyzer-overview.md)
   + [Get started](analyzer/get-started.md)
   + [Use Collections](analyzer/collections.md)
+  + [Work with Attributes](analyzer/attributes.md)
   + [M&A post integration contract audit](analyzer/m-and-a-post-audit.md)
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
