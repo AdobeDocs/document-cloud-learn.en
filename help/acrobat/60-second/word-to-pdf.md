@@ -1,6 +1,6 @@
 ---
-title: Create a PDF from [!DNL Microsoft Word]
-description: Learn how to create a PDF from [!DNL Microsoft Word]
+title: How Do I Create a PDF from [!DNL Microsoft Word]?
+description: Watch a video about creating a PDF from a [!DNL Microsoft Word] file.
 feature: Create PDF
 role: User
 level: Beginner
