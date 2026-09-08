@@ -49,6 +49,16 @@ Learn how to create manual and linked [Collections](collections.md), apply attri
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="Work with Attributes" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>Work with Attributes</strong></a>
+    </div>
+    Learn how to create, test, and refine attributes with Analyzer in Acrobat Studio
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="M&A post integration contract audit" src="../assets/m-and-a.jpg" />
     </a>
@@ -57,11 +67,6 @@ Learn how to create manual and linked [Collections](collections.md), apply attri
     </div>
     Learn how Analyzer can help businesses run a M&A post integration contract audit in minutes instead of weeks
     <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
