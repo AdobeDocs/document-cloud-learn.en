@@ -84,6 +84,7 @@ nudge: true
   + [Use Collections](analyzer/collections.md)
   + [Work with Attributes](analyzer/attributes.md)
   + [M&A post integration contract audit](analyzer/m-and-a-post-audit.md)
+  + [Webinars](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
   + Line of business {#lob}
