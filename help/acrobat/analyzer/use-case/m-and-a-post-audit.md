@@ -1,6 +1,6 @@
 ---
 title: M&A Post Integration Contract Audit 
-description: Learn how Analyzer can help businesses run a M&A post integration contract audit in minutes instead of weeks
+description: Learn how Analyzer in Acrobat Studio can help businesses run a M&A post integration contract audit in minutes instead of weeks
 feature: Workflow, Gen AI
 role: User
 level: Intermediate

@@ -83,7 +83,10 @@ nudge: true
   + [Get started](analyzer/get-started.md)
   + [Use Collections](analyzer/collections.md)
   + [Work with Attributes](analyzer/attributes.md)
-  + [M&A post integration contract audit](analyzer/m-and-a-post-audit.md)
+  + Use cases {#use-cases}
+    + [M&A post integration contract audit](analyzer/use-case/m-and-a-post-audit.md)
+    + [Accelerating revenue & audit review in finance](analyzer/use-case/accelerate-revenue.md)
+    + [Turning data privacy risk into full visibility and monitoring](analyzer/use-case/data-privacy-risk.md)
   + [Webinars](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
