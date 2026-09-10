@@ -84,6 +84,7 @@ nudge: true
   + [Use Collections](analyzer/collections.md)
   + [Work with Attributes](analyzer/attributes.md)
   + Use cases {#use-cases}
+    + [Overview](/help/acrobat/analyzer/use-cases/use-case-overview.md)
     + [M&A post integration contract audit](analyzer/use-cases/m-and-a-post-audit.md)
     + [Accelerating revenue & audit review in finance](analyzer/use-cases/accelerate-revenue.md)
     + [Turning data privacy risk into full visibility and monitoring](analyzer/use-cases/data-privacy-risk.md)
