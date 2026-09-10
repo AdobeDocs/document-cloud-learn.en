@@ -20,7 +20,11 @@ Analyzer in Acrobat Studio helps business users extract structured, auditable in
 
 >[!TAB Use Collections]
 
-Learn how to create manual and linked [Collections](collections.md), apply attributes, and keep documents organized as your content grows,
+Learn how to create manual and linked [Collections](collections.md), apply attributes, and keep documents organized as your content grows.
+
+>[!TAB Work with Attributes]
+
+Learn how to create, test, and refine [Attributes](attributes.md) with Analyzer in Acrobat Studio.
 
 >[!ENDTABS]
 
@@ -59,13 +63,13 @@ Learn how to create manual and linked [Collections](collections.md), apply attri
     <br>
   </td>
   <td>
-    <a href="m-and-a-post-audit.md">
-      <img alt="M&A post integration contract audit" src="../assets/m-and-a.jpg" />
+    <a href="/help/acrobat/analyzer/use-case/use-case-overview.md">
+      <img alt="Analyzer use cases" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>M&A post integration contract audit</strong></a>
+    <a href="/help/acrobat/analyzer/use-case/m-and-a-post-audit.md><strong>Analyzer use cases</strong></a>
     </div>
-    Learn how Analyzer can help businesses run a M&A post integration contract audit in minutes instead of weeks
+    Explore real-world use cases that show how organizations can streamline review processes, uncover insights, and turn document content into business-ready data
     <br>
   </td>
 </tr>
