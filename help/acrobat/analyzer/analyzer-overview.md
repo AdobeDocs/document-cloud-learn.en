@@ -63,11 +63,11 @@ Learn how to create, test, and refine [Attributes](attributes.md) with Analyzer 
     <br>
   </td>
   <td>
-    <a href="/help/acrobat/analyzer/use-case/use-case-overview.md">
-      <img alt="Analyzer use cases" src="../assets/analyzer_usecases.png" />
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+      <img alt="Analyzer in Acrobat Studio use cases" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="/help/acrobat/analyzer/use-case/m-and-a-post-audit.md><strong>Analyzer use cases</strong></a>
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Analyzer in Acrobat Studio use cases</strong></a>
     </div>
     Explore real-world use cases that show how organizations can streamline review processes, uncover insights, and turn document content into business-ready data
     <br>
