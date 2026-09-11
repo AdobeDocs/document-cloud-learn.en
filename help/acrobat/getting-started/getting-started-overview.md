@@ -31,6 +31,10 @@ Learn how to start using Adobe Acrobat with these brief step-by-step tutorials. 
 
 >[!BEGINTABS]
 
+>[!TAB What is Acrobat Studio?]
+
+Learn how to create brand-safe content, extract insights, and streamline complex work with [Acrobat Studio](acrobat-studio.md).
+
 >[!TAB Paper to PDF]
 
 Learn how to turn [paper documents](scan-and-ocr.md) into searchable and editable PDF files
@@ -38,10 +42,6 @@ Learn how to turn [paper documents](scan-and-ocr.md) into searchable and editabl
 >[!TAB Boost team efficiency with PDF Spaces]
 
 Turn collections of files and websites into [sharable, conversational knowledge hubs](pdf-spaces-legal.md) with personalized AI Assistants. 
-
->[!TAB What is Acrobat Studio?]
-
-Learn how to create brand-safe content, extract insights, and streamline complex work with [Acrobat Studio](acrobat-studio.md).
 
 >[!TAB Discover PDF insights with AI Assistant]
 
