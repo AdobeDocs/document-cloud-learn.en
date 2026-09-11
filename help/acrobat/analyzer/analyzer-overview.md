@@ -89,17 +89,17 @@ Learn how to [export extracted data, share a collection, compare two documents, 
     <br>
   </td>
     <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
    <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
