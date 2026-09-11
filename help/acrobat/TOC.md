@@ -83,6 +83,7 @@ nudge: true
   + [Get started](analyzer/get-started.md)
   + [Use Collections](analyzer/collections.md)
   + [Work with Attributes](analyzer/attributes.md)
+  + [Explore advanced capabilities](analyzer/advanced.md)
   + Use cases {#use-cases}
     + [Overview](/help/acrobat/analyzer/use-cases/use-case-overview.md)
     + [M&A post integration contract audit](analyzer/use-cases/m-and-a-post-audit.md)

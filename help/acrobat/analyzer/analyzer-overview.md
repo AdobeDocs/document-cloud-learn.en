@@ -26,6 +26,10 @@ Learn how to create manual and linked [Collections](collections.md), apply attri
 
 Learn how to create, test, and refine [Attributes](attributes.md) with Analyzer in Acrobat Studio.
 
+>[!TAB Explore advanced capabilities]
+
+Learn how to [export extracted data, share a collection, compare two documents, and use AI Assistant](advanced.md) for quick, ad-hoc questions
+
 >[!ENDTABS]
 
 ## Analyzer in Acrobat Studio tutorials
@@ -63,6 +67,18 @@ Learn how to create, test, and refine [Attributes](attributes.md) with Analyzer 
     <br>
   </td>
   <td>
+    <a href="advanced.md">
+      <img alt="Explore advanced capabilities" src="../assets/analyzer_advanced.png" />
+    </a>
+    <div>
+    <a href="advanced.md"><strong>Explore advanced capabilities</strong></a>
+    </div>
+    Learn how to export extracted data, share a collection, compare two documents, and use AI Assistant for quick, ad-hoc questions
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="use-cases/use-case-overview.md">
       <img alt="Analyzer in Acrobat Studio use cases" src="../assets/analyzer_usecases.png" />
     </a>
@@ -70,6 +86,21 @@ Learn how to create, test, and refine [Attributes](attributes.md) with Analyzer 
     <a href="use-cases/use-case-overview.md"><strong>Analyzer in Acrobat Studio use cases</strong></a>
     </div>
     Explore real-world use cases that show how organizations can streamline review processes, uncover insights, and turn document content into business-ready data
+    <br>
+  </td>
+    <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
