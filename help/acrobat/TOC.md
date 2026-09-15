@@ -89,6 +89,7 @@ nudge: true
     + [M&A post integration contract audit](analyzer/use-cases/m-and-a-post-audit.md)
     + [Accelerating revenue & audit review in finance](analyzer/use-cases/accelerate-revenue.md)
     + [Turning data privacy risk into full visibility and monitoring](analyzer/use-cases/data-privacy-risk.md)
+    + [Subcontract management for identification of eroding margin source detection](analyzer/use-cases/identify-margin-erosion.md)
   + [Webinars](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
