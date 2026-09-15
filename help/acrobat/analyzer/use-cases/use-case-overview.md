@@ -24,7 +24,7 @@ Learn how Analyzer in Acrobat Studio helps [finance](accelerate-revenue.md) team
 
 >[!TAB Data privacy risk analysis]
 
-Learn how Analyzer in Acrobat Studio helps [privacy](data-privacy-risk.md), legal, and procurement teams extract, monitor, and validate critical DPA terms at scale.
+Learn how Analyzer in Acrobat Studio helps [privacy, legal, and procurement teams](data-privacy-risk.md) extract, monitor, and validate critical DPA terms at scale.
 
 >[!ENDTABS]
 
