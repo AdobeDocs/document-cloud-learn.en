@@ -14,15 +14,15 @@ Learn how Analyzer in Acrobat Studio helps teams extract valuable information fr
 
 >[!BEGINTABS]
 
->[!TAB Subcontract management for identification of eroding margin source detection]
+>[!TAB Identify eroding margin]
 
 Learn how Analyzer in Acrobat Studio helps detect early warning signs of [margin loss across subcontractor agreements](identify-margin-erosion.md) and take action before costs escalate.
 
->[!TAB Accelerating revenue & audit review in finance]
+>[!TAB Accelerating revenue & audit review]
 
 Learn how Analyzer in Acrobat Studio helps [finance](accelerate-revenue.md) teams extract, review, and validate contract data at scale.
 
->[!TAB Turning data privacy risk into full visibility and monitoring]
+>[!TAB Data privacy risk analysis]
 
 Learn how Analyzer in Acrobat Studio helps [privacy](data-privacy-risk.md), legal, and procurement teams extract, monitor, and validate critical DPA terms at scale.
 
