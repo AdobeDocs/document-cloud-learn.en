@@ -14,6 +14,10 @@ Learn how Analyzer in Acrobat Studio helps teams extract valuable information fr
 
 >[!BEGINTABS]
 
+>[!TAB Subcontract management for identification of eroding margin source detection]
+
+Learn how Analyzer in Acrobat Studio helps detect early warning signs of [margin loss across subcontractor agreements](identify-margin-erosion.md) and take action before costs escalate.
+
 >[!TAB Accelerating revenue & audit review in finance]
 
 Learn how Analyzer in Acrobat Studio helps [finance](accelerate-revenue.md) teams extract, review, and validate contract data at scale.
@@ -30,7 +34,7 @@ Learn how Analyzer in Acrobat Studio helps [privacy](data-privacy-risk.md), lega
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="M&A post integration contract audit" src="../../assets/m-and-a.jpg" />
+      <img alt="M&A post integration contract audit" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
     <a href="m-and-a-post-audit.md"><strong>M&A post integration contract audit</strong></a>
@@ -59,8 +63,13 @@ Learn how Analyzer in Acrobat Studio helps [privacy](data-privacy-risk.md), lega
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/Whitespacer.png" />
+    <a href="identify-margin-erosion.md">
+      <img alt="Subcontract management for identification of eroding margin source detection" src="../../assets/analyzer_margin-identification.png" />
+    </a>
     <div>
+    <a href="identify-margin-erosion.md"><strong>Subcontract management for identification of eroding margin source detection</strong></a>
+    </div>
+    Learn how Analyzer in Acrobat Studio helps detect early warning signs of margin loss across subcontractor agreements and take action before costs escalate
     <br>
   </td>
 </tr>
