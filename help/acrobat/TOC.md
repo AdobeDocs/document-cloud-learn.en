@@ -20,6 +20,7 @@ nudge: true
   + Work smarter with AI {#ai}
     + [Discover PDF insights with AI Assistant](getting-started/ai-assistant.md)
     + [Boost team efficiency with PDF Spaces](getting-started/pdf-spaces-legal.md)
+    + [Create a podcast](getting-started/podcast.md)
   + Create & organize {#create}
     + [Create a PDF](getting-started/create-pdf.md)
     + [Combine files to into a single PDF](getting-started/combine-to-pdf.md)
