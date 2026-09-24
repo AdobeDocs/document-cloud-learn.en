@@ -32,7 +32,7 @@ Discover how AI can transform your PDF workflows. Learn about tools that simplif
 
 >[!TAB Create a podcast]
 
-Learn how to create AI-generated [podcasts](podcast.md) from your documents and research materials in your PDF.
+Learn how to create AI-generated [podcasts](../getting-started/podcast.md) from your documents and research materials in your PDF.
 
 >[!TAB What is Acrobat Studio?]
 
