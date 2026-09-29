@@ -98,11 +98,11 @@ To send your first agreement it's best to understand how to use the API.
 
 1. Create a Transient Doc and send it. 
 
-  >[!NOTE]
-  >
-  >JSON-based request calls have a "Model" and "Minimal Model Schema" option. This gives specs and a minimum payload set. 
+   >[!NOTE]
+   >
+   >JSON-based request calls have a "Model" and "Minimal Model Schema" option. This gives specs and a minimum payload set. 
 
-  ![Screenshot of creating a Transient Doc](assets/embeddedesignature/embed_7.png)
+   ![Screenshot of creating a Transient Doc](assets/embeddedesignature/embed_7.png)
 
 After sending an agreement for the first time, you're ready to add the logic. It's always a good idea to establish some helpers to minimize repetition. Here are some examples:
 
