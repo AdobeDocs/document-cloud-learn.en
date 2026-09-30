@@ -12,7 +12,7 @@ jira: KT-22555
 
 Learn how to use Analyzer in Acrobat Studio to turn complex documents into clear insights. These short tutorials help you get started, explore advanced capabilities, and see real-world use cases.
 
-[!BADGE Informative]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE Watch overview video]{type=Informative url="https://video.tv.adobe.com/v/3503972"}
 
 ## What's new
 
