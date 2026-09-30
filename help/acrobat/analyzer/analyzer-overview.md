@@ -8,7 +8,11 @@ jira: KT-22555
 ---
 # Analyzer in Acrobat Studio overview
 
-Analyzer in Acrobat Studio helps business users extract structured, auditable insights from tens of thousands of unstructured documents to automate document-centric business processes.
+![Analyzer in Acrobat Studio](../assets/analyzer-overview-banner.png)
+
+Learn how to use Analyzer in Acrobat Studio to turn complex documents into clear insights. These short tutorials help you get started, explore advanced capabilities, and see real-world use cases.
+
+[!BADGE Informative]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
 
 ## What's new
 
