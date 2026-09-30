@@ -1,14 +1,15 @@
 ---
-title: Turning Data Privacy Risk into Full Visibility and Monitoring
-description: Learn how Analyzer in Acrobat Studio helps privacy, legal, and procurement teams extract, monitor, and validate critical DPA terms at scale
+title: Privacy & Information Security - Review Data Privacy Agreements
+description: Learn how privacy and information security teams can identify compliance gaps and validate obligations with traceable results
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22589
 ---
 
-# Turning data privacy risk into full visibility and monitoring
+# Privacy & information security: Review data privacy agreements
 
-Data privacy obligations are often buried across hundreds of vendor agreements, making it difficult to identify compliance gaps before they become business risks. Learn how Analyzer in Acrobat Studio helps privacy, legal, and procurement teams extract, monitor, and validate critical DPA terms at scale with fully traceable results.
+Find and monitor critical privacy terms across vendor agreements and DPAs. Learn how privacy and information security teams can identify compliance gaps and validate obligations with traceable results with Analyzer in Acrobat Studio.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503312?quality=12&learn=on&hidetitle=true)

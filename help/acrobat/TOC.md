@@ -88,10 +88,11 @@ nudge: true
   + [Explore advanced capabilities](analyzer/advanced.md)
   + Use cases {#use-cases}
     + [Overview](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [M&A post integration contract audit](analyzer/use-cases/m-and-a-post-audit.md)
-    + [Accelerating revenue & audit review in finance](analyzer/use-cases/accelerate-revenue.md)
-    + [Turning data privacy risk into full visibility and monitoring](analyzer/use-cases/data-privacy-risk.md)
-    + [Subcontract management for identification of eroding margin source detection](analyzer/use-cases/identify-margin-erosion.md)
+    + [M&A: Audit contracts after an acquisition](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Finance: Review contracts for revenue recognition & audits](analyzer/use-cases/accelerate-revenue.md)
+    + [Privacy & information security: Review data privacy agreements](analyzer/use-cases/data-privacy-risk.md)
+    + [Construction: Find margin risks in subcontracts](analyzer/use-cases/identify-margin-erosion.md)
+    + [Information security audit: Identifying vendor risk](analyzer/use-cases/vendor-risk.md)
   + [Webinars](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Use cases {#use-cases}
   + [Overview](use-cases/use-cases-overview.md)
