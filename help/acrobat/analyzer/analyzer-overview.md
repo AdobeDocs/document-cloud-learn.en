@@ -28,11 +28,17 @@ Learn how to create, test, and refine [Attributes](attributes.md) with Analyzer 
 
 >[!TAB Explore advanced capabilities]
 
-Learn how to [export extracted data, share a collection, compare two documents, and use AI Assistant](advanced.md) for quick, ad-hoc questions
+Learn how to [export extracted data, share a collection, compare two documents, and use AI Assistant](advanced.md) for quick, ad-hoc questions.
+
+>[!TAB Use cases in action]
+
+Learn about real [use cases](use-cases/use-case-overview.md) and how different teams leverage Analyzer in Acrobat Studio to work smarter and faster.
 
 >[!ENDTABS]
 
-## Analyzer in Acrobat Studio tutorials
+## Essentials
+
+Get started with the basics. Learn how to use Analyzer in Acrobat Studio to quickly understand, summarize, and interact with your documents.
 
 <table style="table-layout:fixed">
 <tr>
@@ -77,18 +83,66 @@ Learn how to [export extracted data, share a collection, compare two documents, 
     <br>
   </td>
 </tr>
+</table>
+
+## Use cases in action
+
+See real-world scenarios. Learn how different teams leverage Analyzer in Acrobat Studio to work smarter and faster.
+
+<table style="table-layout:fixed">
 <tr>
-   <td>
-    <a href="use-cases/use-case-overview.md">
-      <img alt="Analyzer in Acrobat Studio use cases" src="../assets/analyzer_usecases.png" />
+  <td>
+    <a href="use-cases/m-and-a-post-audit.md">
+      <img alt="M&A: Audit contracts after an acquisition" src="../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="use-cases/use-case-overview.md"><strong>Analyzer in Acrobat Studio use cases</strong></a>
+    <a href="use-cases/m-and-a-post-audit.md"><strong>M&A: Audit contracts after an acquisition</strong></a>
     </div>
-    Explore real-world use cases that show how organizations can streamline review processes, uncover insights, and turn document content into business-ready data
+    Learn how M&A teams can analyze large contract sets to identify key obligations, terms, and potential risks in minutes instead of weeks
     <br>
   </td>
-    <td>
+  <td>
+    <a href="use-cases/accelerate-revenue.md">
+      <img alt="Finance: Review contracts for revenue recognition & audits" src="../assets/analyzer_accelerate-revenue.png" />
+    </a>
+    <div>
+    <a href="use-cases/accelerate-revenue.md"><strong>Finance: Review contracts for revenue recognition & audits</strong></a>
+    </div>
+    Learn how finance teams can prepare for audits, support revenue recognition, and identify accounting risks faster
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/data-privacy-risk.md">
+      <img alt="Privacy & information security: Review data privacy agreements" src="../assets/analyzer_data-privacy.png" />
+    </a>
+    <div>
+    <a href="use-cases/data-privacy-risk.md"><strong>Privacy & information security: Review data privacy agreements</strong></a>
+    </div>
+    Learn how privacy and information security teams can identify compliance gaps and validate obligations with traceable results
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/identify-margin-erosion.md">
+      <img alt="Construction: Find margin risks in subcontracts" src="../assets/analyzer_margin-identification.png" />
+    </a>
+    <div>
+    <a href="use-cases/identify-margin-erosion.md"><strong>Construction: Find margin risks in subcontracts</strong></a>
+    </div>
+    Learn how construction and project teams can find missed change orders, aging RFIs, and gaps in subcontract protections before they affect margins
+    <br>
+  </td>
+<tr>
+<td>
+    <a href="use-cases/vendor-risk.md">
+      <img alt="Information security audit: Identifying vendor risk" src="../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="use-cases/vendor-risk.md"><strong>Information security audit: Identifying vendor risk</strong></a>
+    </div>
+    Learn how to pro-actively identify information security risk from vendor contracts
+    <br>
+  </td>
+  <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
@@ -98,10 +152,11 @@ Learn how to [export extracted data, share a collection, compare two documents, 
     <div>
     <br>
   </td>
-   <td>
+  <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
+</tr>
 </tr>
 </table>

@@ -1,14 +1,14 @@
 ---
-title: M&A Post Integration Contract Audit 
-description: Learn how Analyzer in Acrobat Studio can help businesses run a M&A post integration contract audit in minutes instead of weeks
+title: M&A - Audit Contracts After an Acquisition
+description: Learn how M&A teams can analyze large contract sets to identify key obligations, terms, and potential risks in minutes instead of weeks
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
 ---
 
-# M&A post integration contract audit 
+# M&A: Audit contracts after an acquisition
 
-Learn how Analyzer in Acrobat Studio can help businesses run a M&A post integration contract audit in minutes instead of weeks, by using GenAI to extract critical information and help find which contracts hold the risk.
+Find contract risks after a merger or acquisition. Learn how M&A teams can analyze large contract sets to identify key obligations, terms, and potential risks in minutes instead of weeks with Analyzer in Acrobat Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)

@@ -1,14 +1,14 @@
 ---
-title: Accelerating Revenue & Audit Review in Finance 
-description: Learn how Analyzer in Acrobat Studio helps finance teams extract, review, and validate contract data at scale
+title: Finance - Review Contracts for Revenue Recognition & Audits
+description: Learn how finance teams can prepare for audits, support revenue recognition, and identify accounting risks faster
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22588
 ---
 
-# Accelerating revenue & audit review in finance
+# Finance: Review contracts for revenue recognition & audits
 
-Revenue-critical information is often buried across hundreds of contracts, making it difficult to identify accounting risks before audits or financial close. Learn how Analyzer in Acrobat Studio helps finance teams extract, review, and validate contract data at scale to improve audit readiness, revenue recognition, and lease compliance.
+Extract and validate revenue, lease, and accounting terms across large contract sets. Learn how finance teams can prepare for audits, support revenue recognition, and identify accounting risks faster with Analyzer in Acrobat Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503302?quality=12&learn=on&hidetitle=true)
