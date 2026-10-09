@@ -8,14 +8,14 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-TQID: https://experienceleague.adobe.com/g0gy1AVX5o3tFtePwX53fQ2n4hIMVy4Pcfs0lTy-eQI
+TQID: 'https://experienceleague.adobe.com/g0gy1AVX5o3tFtePwX53fQ2n4hIMVy4Pcfs0lTy-eQI'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
     internal-label: Target
 feature_v2:

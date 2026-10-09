@@ -6,14 +6,14 @@ role: User, Admin
 level: Intermediate
 jira: KT-13736
 exl-id: 33a701a4-2be9-4135-90ab-4e7c406a8d8e
-TQID: https://experienceleague.adobe.com/xBVHZUFM4UKyHdlw2LounHyRJFC6dHp-MG2ycrnjj58
+TQID: 'https://experienceleague.adobe.com/xBVHZUFM4UKyHdlw2LounHyRJFC6dHp-MG2ycrnjj58'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
     internal-label: Pass
 role_v2:

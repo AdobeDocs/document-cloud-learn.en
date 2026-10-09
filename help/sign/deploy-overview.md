@@ -7,14 +7,14 @@ level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-TQID: https://experienceleague.adobe.com/F-qdSpvTAn3VqnIxlB2DjjGM5nyE7YXgo7DPggkp-FE
+TQID: 'https://experienceleague.adobe.com/F-qdSpvTAn3VqnIxlB2DjjGM5nyE7YXgo7DPggkp-FE'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
     internal-label: Target
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102

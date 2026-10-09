@@ -8,14 +8,14 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-TQID: https://experienceleague.adobe.com/JZPkmy2CTnGKR38wF6x5VXbzExF9u-Sx83-IrP3TN3I
+TQID: 'https://experienceleague.adobe.com/JZPkmy2CTnGKR38wF6x5VXbzExF9u-Sx83-IrP3TN3I'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

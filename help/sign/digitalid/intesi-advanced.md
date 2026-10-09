@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-8702
 thumbnail: KT-8702.jpg
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-TQID: https://experienceleague.adobe.com/GqNGZMkD7--NCTsPIkoz3c09Iyxjk4M4ht0NVh3vE2I
+TQID: 'https://experienceleague.adobe.com/GqNGZMkD7--NCTsPIkoz3c09Iyxjk4M4ht0NVh3vE2I'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
     internal-label: Pass
 feature_v2:
