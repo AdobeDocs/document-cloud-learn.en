@@ -8,14 +8,14 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-TQID: https://experienceleague.adobe.com/nOxiruWG2sMXMgd2GLSsngPIQ3xR6Kx4rDRWJ3S1dsM
+TQID: 'https://experienceleague.adobe.com/nOxiruWG2sMXMgd2GLSsngPIQ3xR6Kx4rDRWJ3S1dsM'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
     internal-label: Admin Console
 feature_v2:

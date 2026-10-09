@@ -7,14 +7,14 @@ level: Intermediate
 jira: KT-1854
 topic-revisit: Administration
 exl-id: ad68d299-5d24-44cf-8ce2-085940dc3546
-TQID: https://experienceleague.adobe.com/xLPglZPBWXVm5QYd-7ZB1x2AUE9QtlCkRhaCP6SvN8Y
+TQID: 'https://experienceleague.adobe.com/xLPglZPBWXVm5QYd-7ZB1x2AUE9QtlCkRhaCP6SvN8Y'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
 feature_v2:
   - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
     internal-label: Administration

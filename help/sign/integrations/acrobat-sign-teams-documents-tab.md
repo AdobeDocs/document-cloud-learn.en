@@ -8,14 +8,14 @@ level: Beginner
 jira: KT-14243
 topic-revisit: Integrations
 exl-id: 7520ecdb-c561-400e-86cb-7e19ddf79be0
-TQID: https://experienceleague.adobe.com/O3pH9SzXociNyhOvzeQG8urBA-56XIM0GFHH4K-Vz4c
+TQID: 'https://experienceleague.adobe.com/O3pH9SzXociNyhOvzeQG8urBA-56XIM0GFHH4K-Vz4c'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
 feature_v2:

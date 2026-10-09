@@ -7,14 +7,14 @@ level: Intermediate
 jira: KT-5328
 thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
-TQID: https://experienceleague.adobe.com/jFb2SIfOMCbZN0DDMrFz5da2DYTJcdW81ZDl7DoD9ec
+TQID: 'https://experienceleague.adobe.com/jFb2SIfOMCbZN0DDMrFz5da2DYTJcdW81ZDl7DoD9ec'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
 feature_v2:
   - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
     internal-label: Administration

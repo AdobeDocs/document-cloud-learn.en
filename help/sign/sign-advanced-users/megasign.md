@@ -7,14 +7,14 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-TQID: https://experienceleague.adobe.com/xOxd0hRi1vTvkuP8Ecnxbggky9zH4lsqsr5HxUumnzM
+TQID: 'https://experienceleague.adobe.com/xOxd0hRi1vTvkuP8Ecnxbggky9zH4lsqsr5HxUumnzM'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
     internal-label: Pass
 feature_v2:

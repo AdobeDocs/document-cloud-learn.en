@@ -7,14 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-TQID: https://experienceleague.adobe.com/cNKFwI8-wXh6JwurbNr5iiM7IpRpkwmdz-1zeZsZ3HU
+TQID: 'https://experienceleague.adobe.com/cNKFwI8-wXh6JwurbNr5iiM7IpRpkwmdz-1zeZsZ3HU'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
 feature_v2:
   - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
     internal-label: Administration

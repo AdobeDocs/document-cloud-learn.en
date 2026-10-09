@@ -8,14 +8,14 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-TQID: https://experienceleague.adobe.com/cFe-pEI4rVpXw5g8-QhKneAq-9PiHho0lUPIqh44OVI
+TQID: 'https://experienceleague.adobe.com/cFe-pEI4rVpXw5g8-QhKneAq-9PiHho0lUPIqh44OVI'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

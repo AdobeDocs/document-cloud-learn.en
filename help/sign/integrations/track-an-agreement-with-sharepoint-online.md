@@ -9,14 +9,14 @@ jira: KT-6465
 topic-revisit: Integrations
 thumbnail: 29767t1.jpg
 exl-id: ad4f5d43-ab6a-4d2d-92d6-8b51198fa0e5
-TQID: https://experienceleague.adobe.com/R9nHbYnKgMlznY8eyPGBIYKm7gMk-dXXyIyZxlCSvdk
+TQID: 'https://experienceleague.adobe.com/R9nHbYnKgMlznY8eyPGBIYKm7gMk-dXXyIyZxlCSvdk'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
     internal-label: Integrations

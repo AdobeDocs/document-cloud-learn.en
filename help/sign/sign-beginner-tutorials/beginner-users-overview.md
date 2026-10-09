@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-TQID: https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE
+TQID: 'https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
     internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
     internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-    internal-label: Adobe Sign
+    internal-label: Acrobat Sign
 feature_v2:
   - id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
     internal-label: Workspace
