@@ -7,9 +7,7 @@ jira: KT-22861
 ---
 # Edit documents and templates before sending
 
-Last-minute changes are part of every workflow. In this tutorial, learn how to update document content, replace images, and make template corrections directly in Acrobat Sign. 
-
-Full feature details and limitations are avaiable [here](https://helpx.adobe.com/sign/web/authoring/edit-agreement/new.html).
+Last-minute changes are part of every workflow. In this tutorial, learn how to update document content, replace images, and make template corrections directly in Acrobat Sign. Full feature details and limitations are avaiable [here](https://helpx.adobe.com/sign/web/authoring/edit-agreement/new.html).
 
 >[!NOTE]
 >
