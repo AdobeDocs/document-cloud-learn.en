@@ -33,6 +33,10 @@ Get up-to-speed on how to send, sign, and track documents with these brief step-
 
 >[!BEGINTABS]
 
+>[!TAB Edit documents and templates before sending]
+
+Learn how to [edit text, images, and templates before sending](edit.md) directly in Acrobat Sign.
+
 >[!TAB When to use Create a copy]
 
 Learn how to use [Create a copy](../sign-beginner-tutorials/create-a-copy.md) to duplicate any existing agreement. You can adjust what needs changing, and resend it in seconds. No rebuilding from scratch.
@@ -44,10 +48,6 @@ Learn how to [modify a document](../sign-beginner-tutorials/manage-and-track.md)
 >[!TAB Manage and track agreements]
 
 Learn how to [manage and track agreements](../sign-beginner-tutorials/manage-and-track.md) sent for signature.
-
->[!TAB Electronically sign a document]
-
-Learn how easy it is to [sign](../sign-beginner-tutorials/electronically-sign-a-document.md) a document that is sent to you with Acrobat Sign.
 
 >[!ENDTABS]
 
@@ -179,6 +179,31 @@ Learn how easy it is to [sign](../sign-beginner-tutorials/electronically-sign-a-
     Learn how to use Create a copy to duplicate any existing agreement
     <br>
     </td>
+    <td>
+     <a href="edit.md">
+      <img alt="Edit documents and templates before sending" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>Edit documents and templates before sending</strong></a>
+    </div>
+    Learn how to edit text, images, and templates before sending
+    <br>
+    </td>
+     <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
