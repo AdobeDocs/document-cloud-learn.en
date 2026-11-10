@@ -45,10 +45,6 @@ Learn how to use [Create a copy](../sign-beginner-tutorials/create-a-copy.md) to
 
 Learn how to [modify a document](../sign-beginner-tutorials/manage-and-track.md) that's already been sent out for signature.
 
->[!TAB Manage and track agreements]
-
-Learn how to [manage and track agreements](../sign-beginner-tutorials/manage-and-track.md) sent for signature.
-
 >[!ENDTABS]
 
 ## Send
@@ -179,6 +175,8 @@ Learn how to [manage and track agreements](../sign-beginner-tutorials/manage-and
     Learn how to use Create a copy to duplicate any existing agreement
     <br>
     </td>
+  </tr>
+  <tr>
     <td>
      <a href="edit.md">
       <img alt="Edit documents and templates before sending" src="../assets/edit.png" />
